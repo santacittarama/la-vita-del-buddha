@@ -1,0 +1,64 @@
+ABBREVIAZIONI
+~~~~~~~~~~~~~
+
+[[sigil_toc_id_1]]
+
+ +
+
+Vin. __Vinaya Piṭaka__
+
+Sv. __Sutta-vibhanga__
+
+Pārā. __Pārājika__
+
+Saṅgh. __Saṅghādisesa__
+
+Pāc. __Pācittiya__
+
+Mv. __Mahāvagga__
+
+Cv. __Cullavagga__
+
+ +
+
+SUTTA PIṬAKA
+
+D. __Dīgha-nikāya__
+
+M. __Majjhima-nikāya__
+
+S. __Saṃyutta-nikāya__
+
+A. __Anguttara-nikāya__
+
+ +
+
+KHUDDAKA-NIKĀYA
+
+Khp. __Khuddaka-pāṭha__
+
+Ud. __Udāna__
+
+Iti. __Itivuttaka__
+
+Sn. __Sutta-nipāta__
+
+Dh. __Dhammapada__
+
+Thag. __Theragāthā__
+
+ +
+
+I rinvii sono al capitolo (_khandhaka_) e al numero della sezione per il
+
+_Mahāvagga_ e per il _Cullavagga_, al numero della regola per gli altri
+
+libri del _Vinaya Piṭaka,_ al discorso mediante il numero o mediante il
+
+gruppo e il numero per i libri principali del _Sutta Piṭaka_, e al
+
+numero del verso per il _Dhammapada_ e per le _Theragāthā_.
+
+ +
+
+NDT nota del traduttore italiano
