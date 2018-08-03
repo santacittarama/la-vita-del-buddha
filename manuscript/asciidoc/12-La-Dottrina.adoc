@@ -1,9 +1,4 @@
-12
---
-
-[[sigil_toc_id_13]]
-LA DOTTRINA
------------
+= La Dottrina
 
 \1. Questioni varie. – 2. Non c’è un Primo Inizio. – 3. Le Quattro
 Nobili Verità. – 4.1. La Verità della Sofferenza. – 4.2. La Verità
@@ -2381,12 +2376,6 @@ Rifugio, l’Oltre.
 
 S. 43:1-44
 
- 
-
-'''''
-
- 
-
 [[nota1]]1. I “cinque aggregati affetti dall’attaccamento”
 (_upādāna-kkhanda_) possono essere considerati come le cinque apposite
 “classi” o categorie sotto le quali ogni componente dell’esperienza (nel
@@ -2399,32 +2388,41 @@ affettività (attraente, non attraente o indifferente), caratteristiche
 individuali (forma, colore, ecc.), determinatezza (essere formato)
 quanto all’utilità (tutte cose che sono costitutive di “nome-e-forma”),
 e la coscienza di tutto ciò che non è.
-link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
 
 [[nota2]]2. La “terra” rappresenta la solidità, l’“acqua” la coesione,
 il “fuoco” sia la temperatura sia la maturazione, l’“aria” sia
 l’estensione (distensione) sia il moto.
-link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
 
 [[nota3]]3. «Qualsiasi cosa abbia la caratteristica di dare forma
 dovrebbe essere compresa, tutt’insieme, come aggregato delle formazioni
 … ha la caratteristica di agglomerare … (ed) ha la funzione di
 accumulare»; cf. _The Path of Purification (Visuddhimagga)_, tr. da
 Ñāṇamoli, XIV, 131 (Nyp.).
-link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
 
 [[nota4]]4. _Cetanā_, di solito tradotto con “volizione”, volontà
-(Nyp.). link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
+(Nyp.).
+
+// link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
 
 [[nota5]]5. Nel senso di condizione necessaria.
-link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
 
 [[nota6]]6. Sulla genesi interdipendente, o originazione interdipendente
 e coproduzione condizionata, si veda _The Path of Purification_, cap.
-XVII. link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
+XVII.
+
+// link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
 
 [[nota7]]7. _Sīlabbatupādāna_, l’attaccamento a riti e rituali (Nyp.).
-link:#OrigineNota7[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota7[image:../Images/BackArrow.jpg[<--]]
 
 [[nota8]]8. Il “contatto” è contatto tra l’“in-sé” e l’“esterno” (ad
 esempio, la vista insieme a ciò che è visto), il quale è reso possibile
@@ -2432,7 +2430,8 @@ solo dalla presenza della coscienza (ad esempio, coscienza visiva). È
 perciò un fattore basilare nell’essenziale complessità di qualsiasi cosa
 sorga, sia percepita e formata, tanto dai cinque sensi quanto dalla
 mente, sia dai sensi e dalla mente insieme.
-link:#OrigineNota8[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota8[image:../Images/BackArrow.jpg[<--]]
 
 [[nota9]]9. “Nome-e-forma” è contemporaneamente il percepire e quel che
 è percepito, esperito e riconosciuto (“nominato”). È l’immaginato
@@ -2442,52 +2441,68 @@ però, essa non include la coscienza, grazie alla quale ciò è reso
 possibile. La successiva letteratura include la coscienza all’interno
 del “nome”, creando così le basi per un’opposizione tra mente e materia
 priva di riscontri nel Canone.
-link:#OrigineNota9[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota9[image:../Images/BackArrow.jpg[<--]]
 
 [[nota10]]10. Altre traduzioni di _cetanā_ (qui reso con “scelta”) sono
 “volizione” e
-“intenzione”. link:#OrigineNota10[image:../Images/BackArrow.jpg[<--]]
+“intenzione”.
+
+// link:#OrigineNota10[image:../Images/BackArrow.jpg[<--]]
 
 [[nota11]]11. È necessario evitare di confondere il “privo di forma”
 (_arūpa_), che è un tipo di esistenza (_bhava_), con “non-formato” (o
 “incondizionato”, _asankhata_), che è ciò che non ha formazioni (o
 condizioni, _sankhāra_). Quest’ultimo è un termine per il Nibbāna. Il
 “privo di forma” è sempre condizionato.
-link:#OrigineNota11[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota11[image:../Images/BackArrow.jpg[<--]]
 
 [[nota12]]12. Fino ad ora sono stati offerti solo dettagli analitici
 delle prime tre Nobili Verità. Qui incontreremo mere descrizioni che ci
 aiutano a comprenderle.
-link:#OrigineNota12[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota12[image:../Images/BackArrow.jpg[<--]]
 
 [[nota13]]13. Ciò significa che in queste azioni non c’è significato
-morale (Nyp.). link:#OrigineNota13[image:../Images/BackArrow.jpg[<--]]
+morale (Nyp.).
+
+// link:#OrigineNota13[image:../Images/BackArrow.jpg[<--]]
 
 [[nota14]]14. Il tronco di un banano è fatto solo d’un involucro, è
-privo di nucleo. link:#OrigineNota14[image:../Images/BackArrow.jpg[<--]]
+privo di nucleo.
+
+// link:#OrigineNota14[image:../Images/BackArrow.jpg[<--]]
 
 [[NDT]]NDT. L’espressione rinvia ai figli del Dio Sole (Āditi), dodici
 come i mesi dell’anno nel _Bhāgavata Purāṇa_, che si manifestano appunto
 in modo via via differente.
-link:#OrigineNDT[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNDT[image:../Images/BackArrow.jpg[<--]]
 
 [[nota15]]15. “Formato” è _saṅkhata_, tradotto anche con “composto” o
 “condizionato”; “non-formato” è _asaṅkhata_, tradotto anche con
 “non-composto” o “incondizionato”. Quest’ultimo è identificato come
-Nibbāna (Nyp.) link:#OrigineNota15[image:../Images/BackArrow.jpg[<--]]
+Nibbāna (Nyp.)
+
+// link:#OrigineNota15[image:../Images/BackArrow.jpg[<--]]
 
 [[nota16]]16. _citta_: mente, mentalità, cognizione
-link:#OrigineNota16[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota16[image:../Images/BackArrow.jpg[<--]]
 
 [[nota17]]17. “Personificazione”: _sakkāya_ = _sa_ (“esistente” o “
 proprio”) più _kāya_ (corpo). L’identificazione del sé (_attā_) con uno
 o più dei cinque aggregati costituisce perciò una “personificazione” di
 quel sé, e ciò fonda un’errata visione. Si noti che _sakkāyadiṭṭhi è_ di
 solito più tradotto con “opinione dell’io” (Nyp.).
-link:#OrigineNota17[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota17[image:../Images/BackArrow.jpg[<--]]
 
 [[nota18]]18. O “attaccamento a riti e rituali” (_sīlabbata-parāmāsa_)
-(Nyp.). link:#OrigineNota18[image:../Images/BackArrow.jpg[<--]]
+(Nyp.).
+
+// link:#OrigineNota18[image:../Images/BackArrow.jpg[<--]]
 
 [[nota19]]19. L’esercizio qui descritto è l’osservazione mentale, non lo
 sviluppo corporeo mediante controllo del respiro come nell’_hathayoga_.
@@ -2495,13 +2510,15 @@ Questo sutta, il _Satipaṭṭhāna Sutta,_ è attualmente molto noto quale
 fondamento della pratica meditativa. L’argomento di cui tratta, la
 costituzione della consapevolezza, è la pietra angolare
 dell’insegnamento del Buddha.
-link:#OrigineNota19[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota19[image:../Images/BackArrow.jpg[<--]]
 
 [[nota20]]20. Secondo il Commentario, “sperimentare l’intero corpo (del
 respiro)” significa essere del tutto consapevole dell’intera
 inspirazione e dell’intera espirazione. “Tranquillizzare la formazione
 corporea” significa rendere il respiro sempre più sottile e calmo (BB).
-link:#OrigineNota20[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota20[image:../Images/BackArrow.jpg[<--]]
 
 [[nota21]]21. Secondo il Commentario, “esternamente” significa il corpo
 di qualcun altro, ecc. (ma potrebbe riferirsi anche alla pura
@@ -2509,25 +2526,34 @@ oggettività vista nel proprio corpo); questo primo paragrafo enfatizza
 la concentrazione. Il secondo, sul sorgere e sul cessare (decadimento)
 si riferisce alla visione profonda (retta visione). Il terzo descrive la
 piena consapevolezza in chi ha raggiunto il traguardo
-finale. link:#OrigineNota21[image:../Images/BackArrow.jpg[<--]]
+finale.
+
+// link:#OrigineNota21[image:../Images/BackArrow.jpg[<--]]
 
 [[nota22]]22. “Materiale” (_āmisa_) si riferisce a cose fisiche come il
 cibo, il vestirsi, ecc., e con le sensazioni a ciò connesse.
-link:#OrigineNota22[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota22[image:../Images/BackArrow.jpg[<--]]
 
 [[nota23]]23. “Contratta” dal torpore; “esaltata” dallo stato sensoriale
 a quello meditativo; “superata” nella meditazione o nella realizzazione.
-link:#OrigineNota23[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota23[image:../Images/BackArrow.jpg[<--]]
 
 [[nota24]]24. “Impedimento” dovrebbe essere inteso nel senso, per così
 dire, di barriera che fa restare nella corrente della brama, dell’odio e
 dell’illusione, piuttosto che come un ostacolo che blocca la strada.
-link:#OrigineNota24[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota24[image:../Images/BackArrow.jpg[<--]]
 
 [[nota25]]25. Si veda sopra, la “retta parola” (p. 265) per il testo
-completo. link:#OrigineNota25[image:../Images/BackArrow.jpg[<--]]
+completo.
+
+// link:#OrigineNota25[image:../Images/BackArrow.jpg[<--]]
 
 [[nota26]]26. Si veda sopra, la “retta presenza mentale” (p. 267) per il
-testo. link:#OrigineNota26[image:../Images/BackArrow.jpg[<--]]
+testo.
 
-completo
+// link:#OrigineNota26[image:../Images/BackArrow.jpg[<--]]
+
+// FIXME extra word? 'completo'

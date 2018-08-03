@@ -1,11 +1,6 @@
-11
---
+= La Persona
 
-[[sigil_toc_id_12]]
-LA PERSONA
-----------
-
- PRIMO NARRATORE. Per un periodo non è più possibile tracciare il corso
+PRIMO NARRATORE. Per un periodo non è più possibile tracciare il corso
 degli eventi, e ora bisogna fare una pausa per vedere che cosa dice il
 Canone sulle qualità personali del Buddha: per vedere sia che cosa il
 Buddha avesse da dire su se stesso sia che cosa disse di lui la gente
@@ -1013,16 +1008,12 @@ un Perfetto comunica senza fraintenderli».
 
 D. 9 (condensato)
 
- 
-
-'''''
-
- 
-
 [[nota1]]1. La prima riga di questo enigma si riferisce alle
 contaminazioni della brama, dell’odio e dell’illusione, la seconda alla
 virtù, la terza e la quarta al momento dell’Illuminazione. Così il
-Commentario. link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
+Commentario.
+
+// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
 
 [[nota2]]2. _Papañca_. Per una differente interpretazione di questo
 difficile termine [NDT: reso da Bhikkhu Ñanamoli con “diversification”,
@@ -1030,7 +1021,8 @@ difficile termine [NDT: reso da Bhikkhu Ñanamoli con “diversification”,
 by BHIKKHU ÑĀṆANANDA (Kandy, BPS, 1971), dove, alla p. 21, è offerta una
 traduzione alternativa del verso seguente e della sua spiegazione nei
 Commentari (Nyp.).
-link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
 
 [[nota3]]3. Al verbo _maññati_ (“concepire la presunzione”) nei sutta
 corrispondono i sostantivi _maññanā_ (concezione) e _māna_ (presunzione,
@@ -1041,13 +1033,18 @@ che è percepito. Per il suo significato di “concepisco io sono”
 (_asmi-māna_), si veda il cap. 12, pp. 259-261. Concependo che “io sono
 meglio di un altro”, ecc., si concepisce con orgoglio (_atimāna_). È
 importante preservare questo filo di significati nei sutta.
-link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
 
 [[nota4]]4. Oppure perfetta sicurezza di sé, fiducia (_vesārajja_)
-(Nyp.). link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
+(Nyp.).
+
+// link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
 
 [[nota5]]5. O Liberazione mediante saggezza (_paññā-vimutti_)
-(Nyp.). link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
+(Nyp.).
+
+// link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
 
 [[nota6]]6. Si tratta di quattro delle “dieci cose non dichiarate” (cf.
 cap. 12, pp. 230-231), le quali tutte implicano un’affermazione,
@@ -1056,7 +1053,9 @@ soliti chiedere: «Usi un bastone per picchiare tua moglie?», e sia che
 la risposta fosse “sì” sia “no”, la conclusione era: «Allora tu picchi
 tua moglie». Per le ragioni per cui il Buddha rifiutò di rispondere si
 veda la fine di questo
-capitolo. link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
+capitolo.
+
+// link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
 
 [[nota7]]7. La parola _tathāgata_ (qui tradotta non letteralmente con
 “il Perfetto”) fu inizialmente usata dal Buddha per se stesso subito
@@ -1067,4 +1066,6 @@ dell’aspirazione all’Illuminazione, come fecero i precedenti Buddha;
 perché Egli è _tathāgato_, così-andato, per mezzo della pratica e della
 realizzazione, come pure i precedenti Buddha; perché Egli è
 _tatha-lakkhaṇaṃ āgato_, venuto a conoscenza della caratteristica della
-realtà», ecc. link:#OrigineNota7[image:../Images/BackArrow.jpg[<--]]
+realtà», ecc.
+
+// link:#OrigineNota7[image:../Images/BackArrow.jpg[<--]]

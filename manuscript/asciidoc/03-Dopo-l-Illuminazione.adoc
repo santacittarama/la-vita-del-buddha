@@ -1,9 +1,4 @@
-3
--
-
-[[sigil_toc_id_4]]
-DOPO L’ILLUMINAZIONE
---------------------
+= Dopo L’illuminazione
 
 PRIMA VOCE. Così ho udito. Una volta, quando il Beato aveva appena
 ottenuto l’Illuminazione, si trovava a Uruvelā presso le sponde del
@@ -773,10 +768,6 @@ Vin. Mv. 1:6; cfr. S. 22:59
 
  
 
-'''''
-
- 
-
 [[nota1]]1. Vi è un costante gioco di parole, ammesso che
 quest’espressione sia adatta, tra i termini “brāhmaṇa” (casta divina, un
 eremita, un divino sacerdote), _brahma_ (divino, celeste, perfetto) e
@@ -790,7 +781,9 @@ questi significati sono le Divine Dimore (_brahmāvihara_: cap. 10, p.
 (_brahmacariya_) o “pura condotta”, che è tale in virtù della “divina”
 caratteristica della castità, il “divino veicolo” (_brahmayāna_: cap.
 XII, p. 281), e così
-via.link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
+via.
+
+//link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
 
 [[nota2]]2. La collocazione di questo e del successivo episodio in tale
 punto è indicata dagli stessi testi. Anche il _Mālālankāravatthu_
@@ -799,14 +792,16 @@ però, ne parla in relazione al primo anno dopo l’Illuminazione (si veda
 il cap. 4, p. 70). Un altro episodio, qui non incluso, di alcuni
 brāhmaṇa che rimproverano il Buddha per non aver prestato loro omaggio
 (cf. cap. 9, p. 137), è correlato ad A. 4:22.
-link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
+
+//link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
 
 [[nota3]]3. Questi sono due versi difficili. È davvero necessario
 tradurre la parola _bhava_ più o meno coerentemente con “esistenza”
 piuttosto che con “divenire”. Gli “essenziali dell’esistenza” sono
 altrove spiegati come riferiti a tutte le componenti dell’esistenza, dai
 possessi personali oggettivi alle bramosie e attitudini soggettive.
-link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
+
+//link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
 
 [[nota4]]4. “Estinzione” e “Nibbāna” sono ovunque utilizzati in modo
 intercambiabile. “Estinzione” deve essere intesa come estinzione del
@@ -827,12 +822,14 @@ processualità legata ai cinque aggregati si dissolverà senza essere
 rinnovata. Nibbāna è un termine erroneamente identificato come
 “estinzione di un sé esistente” e, allo stesso modo, della perpetuazione
 del sé (si veda il cap. 12, pp. 254-262).
-link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
+
+//link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
 
 [[nota5]]5. Invece di «che va verso una sola direzione», il termine
 composto _ekāyana_ è di solito tradotto con «l’unica via»; si veda però
 l’uso di tale termine in M. 12.
-link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
+
+//link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
 
 [[nota6]]6. «Che abbiano fede coloro che ascoltano» (_ye sotavanto
 pamuñcantu saddhaṃ_) è un passo molto controverso. Di solito viene reso
@@ -848,7 +845,9 @@ confermato da quanto si legge alla fine del relativo paragrafo:
 _upanetu_ parafrasa _pamuñcantu_. L’espressione idiomatica ricorre in
 Sn. 1146, dove sfortunatamente è stata talvolta confusa con un’altra
 espressione idiomatica, _saddhā-vimutto_: “liberazione mediante la
-fede”. link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
+fede”.
+
+//link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
 
 [[nota7]]7. “Chi Tutto Trascende” (_sabbābhibhū_): un derivato della
 radice _bhū_ (essere), nel senso di “al di là dell’esistenza” o “chi ha
@@ -857,13 +856,14 @@ avanti, è parafrasato da alcuni traduttori con “maestria” (come in
 _abhibhāyatana_) o Conquistatore come epiteto di Mahā-brahmā. Può essere
 ritenuto come uno degli esempi dell’uso di un termine corrente da parte
 del Buddha, ma in un contesto che ne trasforma il significato.
-link:#OrigineNota7[image:../Images/BackArrow.jpg[<--]]
+
+//link:#OrigineNota7[image:../Images/BackArrow.jpg[<--]]
 
 [[nota8]]8. Degli “aggregati affetti dall’attaccamento”
 (_upādānakkhandha_) si tratta nel cap. 12.
-link:#OrigineNota8[image:../Images/BackArrow.jpg[<--]]
 
-**
+//link:#OrigineNota8[image:../Images/BackArrow.jpg[<--]]
 
 [[nota9]]9. _bhāvetabbaṃ_: “deve essere coltivata, sviluppata” (Nyp.).
-link:#OrigineNota9[image:../Images/BackArrow.jpg[<--]]
+
+//link:#OrigineNota9[image:../Images/BackArrow.jpg[<--]]

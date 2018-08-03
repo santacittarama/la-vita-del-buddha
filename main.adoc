@@ -23,6 +23,9 @@
 :toc-title: Indice
 :toclevels: 0
 
+// TODO IV-di-copertina.adoc
+// TODO Mappa-dell-India-centro-orientale.adoc
+
 include::{includes}/dedication.adoc[]
 
 include::{includes}/foreword.adoc[]
@@ -59,77 +62,38 @@ include::{includes}/Introduzione.adoc[]
 
 include::{includes}/Voci.adoc[]
 
-include::{includes}/1-La-nascita-e-i-primi-anni.adoc[]
+include::{includes}/01-La-nascita-e-i-primi-anni.adoc[]
 
-include::{includes}/2-Lo-sforzo-per-l-illuminazione.adoc[]
+include::{includes}/02-Lo-sforzo-per-l-illuminazione.adoc[]
 
-//include::{includes}/3-Dopo-l-Illuminazione.adoc[]
-//
-//include::{includes}/4-La-diffusione-del-Dhamma.adoc[]
-//
-//include::{includes}/5-I-due-discepoli-eminenti.adoc[]
-//
-//include::{includes}/6-Anathapindika.adoc[]
-//
-//include::{includes}/7-L-ordine-delle-monache.adoc[]
-//
-//include::{includes}/8-La-disputa-di-Kosambi.adoc[]
-//
-//include::{includes}/9-La-fine-dei-primi-vent-anni.adoc[]
-//
-//include::{includes}/10-Il-periodo-di-mezzo.adoc[]
-//
-//include::{includes}/11-La-persona.adoc[]
-//
-//include::{includes}/12-La-Dottrina.adoc[]
-//
-//include::{includes}/13-Devadatta.adoc[]
-//
-//include::{includes}/14-La-vecchiaia.adoc[]
-//
-//include::{includes}/15-L-ultimo-anno.adoc[]
-//
-//include::{includes}/16-Il-primo-concilio.adoc[]
-//
-//include::{includes}/L-autore.adoc[]
-//
-//include::{includes}/Bibliografia-di-bhikkhu-Nanamoli.adoc[]
+include::{includes}/03-Dopo-l-Illuminazione.adoc[]
 
-// IV-di-copertina.adoc
-// Mappa-dell-India-centro-orientale.adoc
+include::{includes}/04-La-diffusione-del-Dhamma.adoc[]
 
-// Copertina.xhtml
-// Copyright.xhtml
-// INDICE GENERALE.xhtml
-// Abbreviazioni.xhtml
-// Prefazione dell'editore.xhtml
-// Nota alla terza edizione.xhtml
-// Nota alla traduzione italiana.xhtml
-// La pronuncia nella lingua pali.xhtml
-// Introduzione.xhtml
-// Voci.xhtml
-// 1. La_nascita_e_i_primi_anni.xhtml#sigil_toc_id_2
-// 2. Lo sforzo per l'illuminazione.xhtml#sigil_toc_id_3
-// 3. Dopo l'Illuminazione.xhtml#sigil_toc_id_4
-// 4. La diffusione del Dhamma.xhtml#sigil_toc_id_5
-// 5. I due discepoli eminenti.xhtml#sigil_toc_id_6
-// 6. Anathapindika.xhtml#sigil_toc_id_7
-// 7. L'ordine delle monache.xhtml#sigil_toc_id_8
-// 8. La disputa di Kosambi.xhtml#sigil_toc_id_9
-// 9. La fine dei primi vent'anni.xhtml#sigil_toc_id_10
-// 10. Il periodo di mezzo.xhtml#sigil_toc_id_11
-// 11. La persona.xhtml#sigil_toc_id_12
-// 12. La Dottrina.xhtml#sigil_toc_id_13
-// 12. La Dottrina.xhtml#QuestioniVarie
-// 12. La Dottrina.xhtml#NonceunprimoInizio
-// 12. La Dottrina.xhtml#Le4NV
-// 12. La Dottrina.xhtml#8s
-// 12. La Dottrina.xhtml#mezzi
-// 12. La Dottrina.xhtml#meta
-// 13. Devadatta.xhtml
-// 14. La vecchiaia.xhtml
-// 15. L'ultimo anno.xhtml
-// 16. Il primo concilio.xhtml
-// L'autore.xhtml
-// Bibliografia di bhikkhu Nanamoli.xhtml
+include::{includes}/05-I-due-discepoli-eminenti.adoc[]
 
+include::{includes}/06-Anathapindika.adoc[]
+
+include::{includes}/07-L-ordine-delle-monache.adoc[]
+
+include::{includes}/08-La-disputa-di-Kosambi.adoc[]
+
+include::{includes}/09-La-fine-dei-primi-vent-anni.adoc[]
+
+include::{includes}/10-Il-periodo-di-mezzo.adoc[]
+
+include::{includes}/11-La-persona.adoc[]
+
+include::{includes}/12-La-Dottrina.adoc[]
+
+include::{includes}/13-Devadatta.adoc[]
+
+include::{includes}/14-La-vecchiaia.adoc[]
+
+include::{includes}/15-L-ultimo-anno.adoc[]
+
+include::{includes}/16-Il-primo-concilio.adoc[]
+
+include::{includes}/L-autore.adoc[]
+
+include::{includes}/Bibliografia-di-bhikkhu-Nanamoli.adoc[]

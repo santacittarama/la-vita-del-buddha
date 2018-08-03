@@ -1,11 +1,6 @@
-9
--
+= La Fine Dei Primi Vent’anni
 
-[[sigil_toc_id_10]]
-LA FINE DEI PRIMI VENT’ANNI
----------------------------
-
- SECONDO NARRATORE. La decima stagione delle piogge successiva
+SECONDO NARRATORE. La decima stagione delle piogge successiva
 all’Illuminazione fu trascorsa a Pārileyyaka, mentre la disputa di
 Kosambī era al culmine. La stessa tradizione riporta che l’undicesima
 stagione delle piogge fu trascorsa nelle colline del sud – le colline a
@@ -1380,15 +1375,10 @@ cessano senza residuo.
 
 D. 11
 
- 
-
-'''''
-
- 
-
 [[nota1]]1. Il termine _kevalī_ (“ha raggiunto l’Assoluto”) pare fosse
 usato dal Buddha quando si rivolgeva ai brāhmaṇa.
-link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
 
 [[nota2]]2. Alcuni dei giochi di parole presenti in questo passo mettono
 a dura prova le qualità di un traduttore. «Insegna che non ci sono cose
@@ -1405,38 +1395,46 @@ discepoli lontano dalla sofferenza e, dai suoi oppositori, per
 insultarlo come uno che porta la gente fino alla distruzione, procurata
 dal nichilismo, l’“abisso del nulla”, e, di conseguenza, per loro egli è
 uno “da portare via”, ossia di cui sbarazzarsi.
-link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
 
 [[nota3]]3. C’è un gioco di parole sul termine sutta, letteralmente
 “filo” e metaforicamente “filo di discorsi” o insieme di idee connesse.
 È in quest’ultimo senso che i discorsi del Buddha sono chiamati “sutta”,
 perché in essi l’insegnamento è tenuto assieme nella forma di un filo di
 argomenti legati l’uno con l’altro.
-link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
 
 [[nota4]]4. “Ripugnanza” è un termine che indica l’oggetto di
 contemplazione consistente sia nelle “trentuno parti del corpo”
 (trentadue nei Commentari) sia la decomposizione dei cadaveri (cap. 12,
 pp. 270-271). Lo scopo è ridurre l’attaccamento al corpo fisico
 dimostrando che è non attraente ma transitorio.
-link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
 
 [[nota5]]5. La parola _padhāvino_ (viaggiatori) compare nella stessa
 frase in M. 50, ma è pronunciata _pathāvino_ (P.T.S. ed.). È stato
 seguito il Commentario a M. 50. Il Dizionario della P.T.S. offre
 entrambi i termini, ma con significati differenti, benché l’inclusione
 di _padhāvin_ sia un errore.
-link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
 
 [[notaNDT]]NDT. Il nome attribuito ad Aṅgulimāla dal padre, un brāhmaṇa,
 fu Ahiṃsaka, che significa appunto “innocente”, “non violento”,
-“innocuo”. link:#OrigineNotaNDT[image:../Images/BackArrow.jpg[<--]]
+“innocuo”.
+
+// link:#OrigineNotaNDT[image:../Images/BackArrow.jpg[<--]]
 
 [[nota6]]6. “Se crederai nella”: letteralmente _sace ... ajjhosissasi_
 significa “se accetterai” oppure, come dice il Commentario: “Se, per
 mezzo della fiducia (ossia dell’accettazione), della deglutizione,
 dell’assimilazione, presupporai mediante bramosia, presunzione e
-opinioni”. link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
+opinioni”.
+
+// link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
 
 [[nota7]]7. L’enfasi è sulla nozione dell’essere (“essere o non
 essere”). L’attribuzione di espressioni e letture è tratta dall’edizione
@@ -1461,4 +1459,6 @@ tutto”). Le lettere _h_ e _bh_ vengono facilmente confuse in Singalese.
 In D. 11, nel quale ricorre la stessa frase, il Buddha cita
 probabilmente da questo discorso. Abbiamo qui materiale per un
 interessante punto per uno studio
-ontologico.link:#OrigineNota7[image:../Images/BackArrow.jpg[<--]]
+ontologico.
+
+// link:#OrigineNota7[image:../Images/BackArrow.jpg[<--]]

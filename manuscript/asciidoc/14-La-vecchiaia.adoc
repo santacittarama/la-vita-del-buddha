@@ -1,9 +1,4 @@
-14
---
-
-[[sigil_toc_id_14]]
-LA VECCHIAIA
-------------
+= La Vecchiaia
 
 PRIMA VOCE. Così ho udito. Una volta, quando il Beato risiedeva a
 Sāvatthī, il re Pasenadi di Kosala andò a trovarlo a mezzogiorno. Il
@@ -574,18 +569,16 @@ l’anziano sovrano era morto, un tentativo del genere sarebbe stato
 inutile ed egli puntualmente riconobbe la successione di suo cugino.
 
  
-
-'''''
-
- 
-
 [[nota1]]1. Le austerità qui descritte sono principalmente quelle
 raccomandate dalla religione jainista.
-link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
 
 [[nota2]]2. Le “Pure Dimore” sono parte dell’alto mondo di Brahmā
 (_brahmaloka_), abitate solo da chi ha raggiunto la condizione di Chi è
 Senza Ritorno (si veda il cap. 12, p. 263), che sono là rinati alla
 morte e là vivono senza tornare in nessun altro mondo finché non
 raggiungono il Nibbāna
-definitivo. link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
+definitivo.
+
+// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]

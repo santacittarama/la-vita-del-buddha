@@ -1,9 +1,4 @@
-5
--
-
-[[sigil_toc_id_6]]
-I DUE DISCEPOLI EMINENTI
-------------------------
+= I Due Discepoli Eminenti
 
 SECONDA VOCE. Avvenne questo. L’asceta itinerante Sañjaya si trovava a
 Rājagaha con un gran seguito di asceti itineranti, con duecentocinquanta
@@ -743,11 +738,6 @@ proprio o degli altri e di entrambi, oppure giudicandola salutare se non
 lo è, modellando di conseguenza le azioni future.
 
  
-
-'''''
-
- 
-
 [[nota1]]1. «Abitudine di trattarlo (il corpo fisico) come base di tutte
 le sue inferenze» (_kāyanvayatā_) rinvia al modo di pensare secondo il
 quale il corpo fisico è una realtà basilare, una verità empirica, per
@@ -756,7 +746,8 @@ visione fisiologica della mente, o la visione della coscienza come un
 “epifenomeno” della materia). Sia questo punto di vista sia il suo
 opposto, che considera la materia come subordinata alla mente, sono
 discusse all’inizio di M. 36.
-link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
 
 [[nota2]]2. Secondo il Commentario alle _Theragāthā_, il fiume Rohiṇī
 scorre verso sud e separa, a ovest, il territorio dei Sakya da quello
@@ -764,10 +755,12 @@ dei Koliya, che è a est. Rājagaha si trova molto più a sud, oltre il
 Gange, così che chi avesse viaggiato da questa città attraversando il
 Vajji e poi il territorio dei Koliya, avrebbe attraversato il fiume
 guardando verso occidente.
-link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
 
 [[nota3]]3. _Pabbajjā_: l’ordinazione di un novizio (Nyp.).
-link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
 
 [[nota4]]4. Le “quattro basi per il successo” (o vie per il potere) sono
 descritte come «la base per il successo che ha concentrazione fondata
@@ -777,15 +770,19 @@ rispettivamente, “energia”, “(naturale purezza della) mente”, e
 “investigazione” al “desiderio-di-agire”. Esse rappresentano i quattro
 tipi di approccio dello sviluppo, da regolare sulla base delle
 avversioni individuali.
-link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
 
 [[nota5]]5. Non è chiaro se la parola _rājā_ (qui resa con “che
 governa”) applicata a Bhaddiya il Sakya significhi “re” (nel qual caso
 implicita è la morte del re Suddhodana) o solo “reggente”. Qui è stata
 seguita la collocazione dell’evento offerta dal Commentario.
-link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
 
 [[nota6]]6. La data in cui l’Anziano Ānanda abbracciò la vita religiosa
 non è del tutto certa. I versi da lui pronunciati nel _Theragātā_
 indicano un momento
-successivo. link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
+successivo.
+
+// link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]

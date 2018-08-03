@@ -1,11 +1,6 @@
-8
--
+= La Disputa di Kosambī
 
-[[sigil_toc_id_9]]
-LA DISPUTA DI KOSAMBĪ
----------------------
-
- SECONDO NARRATORE.  La tradizione afferma che la sesta stagione delle
+SECONDO NARRATORE.  La tradizione afferma che la sesta stagione delle
 piogge fu trascorsa sul monte Makula e che durante l’anno successivo
 avvenne nuovamente il miracolo doppio a Sāvatthī, dopo di che il Buddha
 ascese nel paradiso delle Trentatré Divinità. Lì egli trascorse la
@@ -463,13 +458,8 @@ e la procedura seguita.
 
 Vin. Mv. 10:5
 
- 
-
-'''''
-
- 
-
 [[nota1]]1. Non vi è accordo sul significato della parola _yamāmase_, se
 debba essere resa con «dovremmo contenere noi stessi» oppure con
 «potremmo essere distrutti».
-link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]

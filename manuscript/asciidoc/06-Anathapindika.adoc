@@ -1,11 +1,6 @@
-6
--
+= Anāthapiṇḍika
 
-[[sigil_toc_id_7]]
-ANĀTHAPIṆḌIKA
--------------
-
- SECONDO NARRATORE. Il Buddha trascorse la prima stagione delle piogge
+SECONDO NARRATORE. Il Buddha trascorse la prima stagione delle piogge
 dopo la sua Illuminazione a Benares. La seconda e la terza stagione le
 trascorse a Rājagaha nel Boschetto di Bambù. È dopo questa terza
 stagione delle piogge che comparve Anāthapiṇḍika, il Nutritore del
@@ -646,18 +641,14 @@ M. 143
 racconta che egli sia rinato in paradiso come Chi è Entrato nella
 Corrente, perciò con non più di sette rinascite davanti a lui.
 
- 
-
-'''''
-
- 
-
 [[nota1]]1. Un’espressione che indica un Arahant (BB.).
-link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
 
 [[nota2]]2. Non ci sono argomenti per indicare quando avvenne questo
 incontro con Māra.
-link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
 
 [[nota3]]3. «Chi sarà bruciato dal fuoco di un bhikkhu virtuoso». Ecco
 il commento di Ācariya Buddhaghosa: «Un bhikkhu che aggredisce chi l’ha
@@ -675,4 +666,5 @@ del Buddha tratta dal canone in lingua pāli – possono sembrare duri e
 arroganti, e forse perfino incomprensibili, soprattutto se si dimentica
 che il concetto di _kamma_ implica l’assunzione di una diretta
 responsabilità delle proprie intenzioni e azioni.
-link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]

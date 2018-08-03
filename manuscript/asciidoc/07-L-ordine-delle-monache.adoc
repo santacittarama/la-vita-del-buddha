@@ -1,11 +1,6 @@
-7
--
+= L'ordine Delle Monache
 
-[[sigil_toc_id_8]]
-L'ORDINE DELLE MONACHE
-----------------------
-
- PRIMO NARRATORE. Il racconto appena offerto ha mostrato come il Buddha
+PRIMO NARRATORE. Il racconto appena offerto ha mostrato come il Buddha
 acconsentì a trascorrere la stagione delle piogge a
 Sāvatthī link:#nota1[^1^]. Perciò, se il computo tradizionale delle
 prime tre piogge successive all’Illuminazione è esatto, la quarta
@@ -287,15 +282,10 @@ questo è la Disciplina, questo è l’insegnamento del Maestro”».
 
 Vin. Cv. 10:5; A. 8:53
 
- 
-
-'''''
-
- 
-
 [[nota1]]1. Il _Mālālankāravatthu_ dice che questa stagione delle piogge
 fu trascorsa a Rājagaha, nel Boschetto di Bambù, ma ciò è errato.
-link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
 
 [[nota2]]2. Almeno due dei discorsi più esoterici del _Sutta Piṭaka_ (M.
 44 and S. 44:1) furono pronunciati da bhikkhunī. Un certo numero di
@@ -305,4 +295,5 @@ Arahant. - NDT. _Therīgāthā_, una parziale traduzione ital. di Pio
 Filippani-Ronconi in _Canone buddhista. Discorsi brevi,_ Torino 2004,
 pp. 695-724; si veda ora _Therīgāthā. Canti spirituali della monache
 buddhiste_, a cura di A.S. COMBA, Tapkina editrice 2016.
-link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]

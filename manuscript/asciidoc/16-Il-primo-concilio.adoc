@@ -1,11 +1,6 @@
-16
---
+= Il Primo Concilio
 
-[[sigil_toc_id_15]]
-IL PRIMO CONCILIO
------------------
-
- PRIMO NARRATORE. Dopo l’ottenimento del Nibbāna definitivo da parte del
+PRIMO NARRATORE. Dopo l’ottenimento del Nibbāna definitivo da parte del
 Buddha, i bhikkhu si allontanarono da Kusinārā e si dispersero.
 L’Anziano Mahā-Kassapa emerge quale figura più eminente nel Saṅgha dei
 bhikkhu.
@@ -629,14 +624,12 @@ India, però, il buddhismo in tutte le sue forme si ritiene sia del tutto
 scomparso nel XV secolo.
 
  
-
-'''''
-
- 
-
 [[nota1]]1. La bhikkhunī Thullānandā compare spesso nel Vinaya come una
 donna orgogliosa, intelligente e faziosa, che causò la stesura di
-numerose regole. link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
+numerose regole.
+
+// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
 
 [[nota2]]2. L’attuale Sri Lanka (BB).
-link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]

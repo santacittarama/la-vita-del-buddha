@@ -1,9 +1,4 @@
-13
---
-
-[[sigil_toc_id_13]]
-DEVADATTA
----------
+= Devadatta
 
 SECONDO NARRATORE. Devadatta era il primo cugino del Buddha. Il suo
 tentativo di usurpare il posto del Buddha è collocato trentasette anni
@@ -716,11 +711,6 @@ e fa diventare saccheggiati i saccheggiatori.
 
 S. 3:14-15
 
- 
-
-'''''
-
- 
-
 [[NDT]]NDT. Dopo aver prodotto fiori e frutti, il banano muore.
-link:#OrigineNDT[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNDT[image:../Images/BackArrow.jpg[<--]]

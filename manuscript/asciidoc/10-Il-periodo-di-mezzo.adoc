@@ -1,11 +1,6 @@
-10
---
+= Il Periodo di Mezzo
 
-[[sigil_toc_id_11]]
-IL PERIODO DI MEZZO
--------------------
-
- PRIMO NARRATORE. Dopo il ventesimo anno successivo all’Illuminazione –
+PRIMO NARRATORE. Dopo il ventesimo anno successivo all’Illuminazione –
 da quando il Buddha aveva cinquantacinque anni – tutte le tradizioni
 rinunciano fino all’ultimo anno al tentativo di offrire un ordine
 cronologico per gli eventi. L’evidenza intrinseca al _Tipiṭaka_ stesso
@@ -1374,12 +1369,6 @@ di nuovo non nascerà più in un utero.
 
 Sn. 1:8
 
- 
-
-'''''
-
- 
-
 [[NDT]]NDT. Nel testo inglese si ha “going forth” con il senso di
 “lasciare la propria dimora per diventare senza dimora” per tradurre il
 termine _pabbajjā_, con il quale nei testi buddhisti in lingua pāli si
@@ -1396,14 +1385,18 @@ però, questa espressione risulterebbe poco comprensibile per chi non ha
 molta familiarità con le consuetudini monastiche _theravādin_. Così, per
 facilitare il lettore, altrove si è scelto di rendere “go forth” in modo
 vario, in base al contesto.
-link:#OrigineNDT[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNDT[image:../Images/BackArrow.jpg[<--]]
 
 [[nota1]]1. “Gli Ottetti” sono gli _Aṭṭhaka-vagga_ del _Sutta-nipāta_.
-link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
 
 [[nota2]]2. Un _Paccekabuddha_ è una persona che diviene illuminata
 senza la guida di un Buddha e che non cerca di far diventare illuminati
-gli altri (BB). link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
+gli altri (BB).
+
+// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
 
 [[nota3]]3. Se questo passo viene letto come un’ingiunzione generale a
 trascurare qualsiasi istruzione, allora sarebbe impossibile attuarla,
@@ -1411,13 +1404,15 @@ perché allora la si potrebbe attuare solo non attuandola: si tratta di
 un ben conosciuto dilemma logico. Il resto del discorso dovrebbe però
 consentire di comprendere quel che si vuole dire. Per quanto concerne la
 fiducia (_saddhā_), si veda il cap. 11, p. 222.
-link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
 
 [[nota4]]4. La cura del malato qui ingiunta riguarda un bhikkhu che si
 prende cura di un bhikkhu malato. La generale pratica della medicina da
 parte di bhikkhu nei riguardi dei laici è considerata alla stregua di un
 errato mezzo di sussistenza per un bhikkhu e, perciò, non è consentita.
-link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
 
 [[nota5]]5. Questo canto, conosciuto come «Canto della Gentilezza
 Amorevole» (Mettā Sutta), è quello al giorno d’oggi più noto. Se viene
@@ -1438,4 +1433,6 @@ dell’invecchiamento e della morte – a meno che non sia associato con la
 visione profonda nella natura impermanente di tutto quel che sorge e che
 è condizionato, sia esso dotato di forma o privo di forma, inclusi tutti
 i modi di esistenza paradisiaca (cf. ad esempio A.
-4:125-26). link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
+4:125-26).
+
+// link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]

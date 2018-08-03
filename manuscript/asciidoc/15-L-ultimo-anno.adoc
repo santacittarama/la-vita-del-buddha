@@ -1,9 +1,4 @@
-15
---
-
-[[sigil_toc_id_15]]
-L'ULTIMO ANNO
--------------
+= L'ultimo Anno
 
 PRIMO NARRATORE. Gli eventi che seguono avvennero in un solo anno, alla
 fine del quale il Buddha ottenne il Nibbāna definitivo. Tutti questi
@@ -2092,21 +2087,17 @@ quel che avvenne.
 
 D. 16
 
- 
-
-'''''
-
- 
-
 [[nota1]]1. Il villaggio di Pāṭaligāma cambia qui il suo nome in
 Pāṭaliputta per l’edificazione della nuova città (oggi chiamata Patna).
 In seguito diventerà famosa in quanto capitale dell’impero di Asoka, che
 si sviluppò dal regno di Magadha.
- link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
 
 [[nota2]]2. Il Commentario afferma che il _Janavasabha Sutta_ (D. 18) fu
 pronunciato a questo punto.
-link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
 
 [[nota3]]3. Le “quattro paia di uomini, gli otto tipi di persone” sono
 spiegate come chi raggiunge il Sentiero e ne ottiene le fruizioni nel
@@ -2116,22 +2107,28 @@ ognuno di tali stadi (si veda Sn. 2:1, vv. 5 e 6). Questo è uno dei
 significati dell’espressione “senza tempo (non differito)” usata per il
 Dhamma poco sopra, nel senso che il fruttuoso conseguimento del Sentiero
 non richiede attese, ad esempio fin dopo la morte, per la fruizione di
-esso. link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
+esso.
+
+// link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
 
 [[nota4]]4. La parola _dīpa_ può significare sia “isola” sia “lampada”.
 Il Commentario la spiega con “isola”.
-link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
 
 [[nota5]]5. È opportuno notare che il Buddha decise di insegnare la sua
 dottrina dietro invito di una Divinità (cap. 3, p. 45), e che egli
 abbandonò la sua determinazione di vivere in assenza di un invito a
 prolungarla a causa dell’intervento di Māra (la
-“Morte”). link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
+“Morte”).
+
+// link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
 
 [[nota6]]6. Nel testo ora segue un resoconto degli otto generi di
 assemblee, delle otto basi della trascendenza e delle otto liberazioni,
 qui omesse per ragioni di spazio.
-link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
 
 [[nota7]]7. “Carne macinata di maiale” (_sūkara-maddava_): su tale
 espressione si discute da moltissimo tempo. Il Commentario a questo
@@ -2163,28 +2160,34 @@ mangiato (M. 55, Vin. Mv. 6:31, cf. A. 4:44; anche Vin. Cv. 7:4 cit. nel
 cap. 13, p. 298). Probabilmente non riusciremo mai a sapere l’esatto
 significato. È stato scelto “carne macinata di maiale” perché elusivo e
 vicino all’espressione originale: _sūkara_ = maiale; _maddava_ = dolce.
-link:#OrigineNota7[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota7[image:../Images/BackArrow.jpg[<--]]
 
 [[nota8]]8. Il mito indiano del Monarca Universale che gira la Ruota
 della Giustizia (in pāli: _cakkavattī_; sanscrito: _cakravartin_) è
 offerto in D. 26 e M. 129
-link:#OrigineNota8[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota8[image:../Images/BackArrow.jpg[<--]]
 
 [[nota9]]9. Secondo il Commentario, a questo punto fu pronunciato il
-_Mahā Sudassana Sutta_ (D.
-17). link:#OrigineNota9[image:../Images/BackArrow.jpg[<--]]
+_Mahā Sudassana Sutta_ (D. 17).
+
+// link:#OrigineNota9[image:../Images/BackArrow.jpg[<--]]
 
 [[nota10]]10. I quattro “monaci” sono coloro che hanno realizzato la
 condizione di Chi è Entrato nella Corrente, di Chi Torna una Sola Volta,
 di Chi è Senza Ritorno, di Arahant
-link:#OrigineNota10[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota10[image:../Images/BackArrow.jpg[<--]]
 
 [[nota11]]11. Il Commentario afferma che Subhadda fece questa
 osservazione in ragione dell’errata impressione che il Buddha, come
 alcuni maestri di altre sette, in questi ultimi suoi momenti stesse
 conferendo al suo discepolo il diritto di succedergli alla guida del
 Saṅgha. Egli non è la stessa persona del Subhadda menzionato poche
-pagine dopo. link:#OrigineNota11[image:../Images/BackArrow.jpg[<--]]
+pagine dopo.
+
+// link:#OrigineNota11[image:../Images/BackArrow.jpg[<--]]
 
 [[nota12]]12. La storia di come il principe Siddhattha Gotama, il
 Bodhisatta, lasciò la sua casa durante la notte con il suo stalliere,
@@ -2197,7 +2200,8 @@ ecc.) come orgoglioso, ostinato e intollerante alle correzioni. Nei
 sutta si racconta come egli si pentì dopo il _Parinibbāna_ e chiese
 aiuto all’Anziano Ānanda. Il risultato del discorso di quell’Anziano, fu
 che egli divenne un Arahant (S. 22:90).
-link:#OrigineNota12[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota12[image:../Images/BackArrow.jpg[<--]]
 
 [[nota13]]13. Forse la traduzione del prof. T.W. Rhys David
 «addestratevi per la vostra salvezza con diligenza», che T.S. Eliot ha
@@ -2205,4 +2209,5 @@ fatto entrare nei classici della letteratura citandola nella sua _Waste
 Land_ meriterebbe di essere conservata; sembra però un po’ troppo
 libera. Le ultime parole in lingua pāḷi sono: «Handa ‘dāni bhikkhave
 āmantayāmi vo: Vaya-dhammā sankhārā; appamādena sampādetha».
-link:#OrigineNota13[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota13[image:../Images/BackArrow.jpg[<--]]

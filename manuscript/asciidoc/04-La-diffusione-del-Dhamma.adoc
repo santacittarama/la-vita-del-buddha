@@ -1,9 +1,4 @@
-4
--
-
-[[sigil_toc_id_5]]
-LA DIFFUSIONE DEL DHAMMA
-------------------------
+= La Diffusione del Dhamma
 
 SECONDA VOCE. Avvenne questo. C’era un uomo di nobile stirpe, chiamato
 Yasa. Era il figlio di un ricco mercante, allevato tra gli agi.
@@ -958,38 +953,42 @@ re di Magadha, si alzò dal posto in cui sedeva e se ne andò. Vin. Mv.
 
  
 
-'''''
-
- 
-
 [[nota1]]1. Nel _Tipiṭaka_ il racconto dei menestrelli che dormono è
 narrato solo in relazione a Yasa, ma versioni successive lo legano anche
 al Bodhisatta quale ragione diretta per la sua rinuncia.
-link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
 
 [[nota2]]2. Questa traduzione di _sāmukkaṃsika_ è basata sul Commentario
 a A.7:12. Non c’è dubbio che il P.T.S. Dictionary sia qui in errore.
-link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
 
 [[nota3]]3. Questo termine si riferisce a “Chi è Entrato nella Corrente”
 (_sotāpanna_) (Nyp.).
-link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
 
 [[nota4]]4. Non pare si debba leggere nelle parole _attānaṃ
 gaveseyyātha_ (“dovreste cercare voi stessi”) più di quel che è
 contenuto nell’oracolo delfico “conosci te stesso”. Nella lingua pāli la
 parola _attā_ (sé) non è usata al plurale, e non c’è nulla di strano se
 tale forma singolare è applicata a un gruppo (gli alfabeti indiani non
-hanno maiuscole). link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
+hanno maiuscole).
+
+// link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
 
 [[nota5]]5. I Commentari affermano che le «cinque maree» sono «quelle
 della brama, ecc., connesse con le cinque porte sensoriali», mentre la
 «sesta» è «la marea delle contaminazioni connesse con la porta della
-mente». link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
+mente».
+
+// link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
 
 [[nota6]]6. I «dieci modi di vita» sono i dieci modi di vita degli
 Esseri Nobili (D. 33). Per i dieci poteri, si veda il cap. 11, p. 206.
 Le «dieci cose» sono i dieci tipi di azioni, salutari e non salutari (si
 veda ad esempio M. 9). I «dieci fattori» sono i dieci stati dell’adepto.
 Si veda anche il Commentario.
-link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
+
+// link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
