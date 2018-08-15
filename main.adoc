@@ -7,12 +7,12 @@
 :revdate: 2018-08-03
 :doctype: book
 :lang: it
-:pubs-logo: profound-pubs.jpg
-:publisher-name: Associazione Santacittarama
-:publisher-link-name: profound-labs.github.io
-:publisher-link-url: https://profound-labs.github.io/
-:source: https://profound-labs.github.io/
-//:keywords: subject, topic
+:pubs-logo: edizioni-santacittarama-w150.jpg
+:publisher-name: Edizioni Santacittarama
+:publisher-link-name: www.santacittarama.org
+:publisher-link-url: http://www.santacittarama.org
+:source: http://forestsangha.org/
+:keywords: Buddha, Gotama, biography, Bhikkhu Nyanamoli, Dhamma, Buddhism, RELIGION / Buddhism / Theravada
 :copyright: CC-BY-NC-ND 4.0
 :isbn: 000-0-00000-000-0
 :identifier: isbn:{isbn}
