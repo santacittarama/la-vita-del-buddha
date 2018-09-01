@@ -1,6 +1,7 @@
 = La Diffusione del Dhamma
 
-SECONDA VOCE. Avvenne questo. C’era un uomo di nobile stirpe, chiamato
+[.voice]
+`SECONDA VOCE.` Avvenne questo. C’era un uomo di nobile stirpe, chiamato
 Yasa. Era il figlio di un ricco mercante, allevato tra gli agi.
 Possedeva tre palazzi, uno per la stagione fredda, uno per la stagione
 calda e un altro per quella delle piogge. Nel palazzo per la stagione
@@ -18,7 +19,9 @@ I capelli di una s’erano slegati, dalla bocca di un’altra usciva bava,
 un’altra ancora stava bofonchiando. Sembrava un carnaio. Allorché vide
 tutto questo, quando fu direttamente colpito da un tale squallore, il
 suo cuore si sentì male ed egli esclamò: «È spaventoso, è
-orribile!» link:#nota1[^1^].
+orribile!».footnote:[Nel _Tipiṭaka_ il racconto dei menestrelli che dormono è
+narrato solo in relazione a Yasa, ma versioni successive lo legano anche
+al Bodhisatta quale ragione diretta per la sua rinuncia.]
 
 Allora calzò le sue pantofole d’oro e andò alla porta della casa, e
 degli esseri non-umani aprirono la porta, così che nessuno potesse
@@ -45,7 +48,9 @@ ossia gli parlò della genorosità, della virtù e dei paradisi. Gli spiegò
 i pericoli, la vanità e la contaminazione dei piaceri sensoriali e le
 benedizioni della rinuncia. Quando vide che la mente di Yasa era pronta,
 recettiva, libera da impedimenti, ardente e fiduciosa, gli espose
-l’insegnamento peculiare dei Buddha link:#nota2[^2^]: la sofferenza, la
+l’insegnamento peculiare dei Buddha:footnote:[Questa traduzione di
+_sāmukkaṃsika_ è basata sul Commentario a A.7:12. Non c’è dubbio che
+il P.T.S. Dictionary sia qui in errore.] la sofferenza, la
 sua origine, la sua cessazione e il sentiero per la sua cessazione.
 Proprio come una stoffa pulita, dalla quale sono state rimosse tutte le
 macchie, può essere tinta in modo uniforme, così, mentre Yasa stava lì
@@ -95,7 +100,8 @@ tua madre».
 
 Yasa guardò il Beato. Il Beato disse al mercante: «Che cosa ne pensi? Se
 Yasa avesse visto il Dhamma con la conoscenza del
-discente link:#nota3[^3^] e con gli occhi del discente, come anche tu
+discentefootnote:[Questo termine si riferisce a “Chi è Entrato nella
+Corrente” (_sotāpanna_) (Nyp.).] e con gli occhi del discente, come anche tu
 hai fatto, e se egli avesse poi passato in rassegna il livello di
 conoscenza che ha visto e sperimentato, e se per mezzo del
 non-attaccamento il suo cuore si fosse liberato dalle contaminazioni,
@@ -199,6 +205,8 @@ Senānigāma, per insegnare il Dhamma».
 Allora Māra il Malvagio si recò dal Beato e si parlarono con queste
 strofe:
 
+[verse]
+____
 Tu sei legato da tutte le catene +
 sia umane sia divine, +
 i legami che ti vincolano sono forti, +
@@ -218,6 +226,7 @@ Sono privo di desiderio per immagini, +
 suoni, sapori, e odori, e cose da toccare, +
 per quanto essi buoni paiano, +
 e tu sei ora sconfitto, Sterminatore.
+____
 
 Allora Māra il Malvagio seppe: «Il Beato mi conosce, il Sublime mi
 conosce». Triste e deluso, subito sparì.
@@ -259,6 +268,8 @@ realizzato la Liberazione suprema».
 
 Allora Māra il Malvagio si recò dal Beato e gli parlò con queste strofe:
 
+[verse]
+____
 Tu sei legato dalle catene di Māra +
 sia umane sia divine. +
 Tu sei legato dai vincoli di Māra, +
@@ -268,6 +279,7 @@ Io sono libero dalle catene di Māra +
 sia umane sia divine. +
 Libero dai vincoli di Māra, +
 e tu sei ora sconfitto, Sterminatore.
+____
 
 Allora Māra il Malvagio seppe: «Il Beato mi conosce, il Sublime mi
 conosce». Triste e deluso, subito sparì.
@@ -287,7 +299,13 @@ una donna?». «Ragazzi, perché cercate quella donna?». Loro gli
 raccontarono l’accaduto.
 
 «Che cosa ne pensate? Che cosa è meglio per voi? Dovreste cercare una
-donna oppure dovreste cercare voi stessi?» link:#nota4[^4^].
+donna oppure dovreste cercare voi stessi?».footnote:[Non pare si debba
+leggere nelle parole _attānaṃ
+gaveseyyātha_ (“dovreste cercare voi stessi”) più di quel che è
+contenuto nell’oracolo delfico “conosci te stesso”. Nella lingua pāli la
+parola _attā_ (sé) non è usata al plurale, e non c’è nulla di strano se
+tale forma singolare è applicata a un gruppo (gli alfabeti indiani non
+hanno maiuscole).]
 
 «Signore, per noi è meglio cercare noi stessi».
 
@@ -543,14 +561,18 @@ abbracciare la vita religiosa, e di ricevere l’ammissione. E l’asceta
 dai capelli intrecciati Kassapa di Gayā con i suoi duecento asceti dai
 capelli intrecciati fece quel che aveva fatto Kassapa del fiume.
 
-Vin. Mv. 1:7-20
+[.suttaref]
+_Vin. Mv. 1:7-20_
 
-PRIMA VOCE. Così ho udito. Una volta il Beato soggiornava a Uruvelā nei
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta il Beato soggiornava a Uruvelā nei
 pressi dell’albero _ajapāla nigrodha_ sulla riva del fiume Nerañjarā.
 Māra il Malvagio stava seguendo il Beato da sette anni alla ricerca di
 un’opportunità, ma senza riuscire a trovarne nessuna. Allora si recò dal
 Beato e si rivolse a lui con queste strofe:
 
+[verse]
+____
 Sogni di boschi, immerso nel dolore? +
 Hai perso la ricchezza, o ti stai struggendo per essa? +
 Hai commesso qualche crimine in città? +
@@ -581,6 +603,7 @@ Le persone che cercano di andare al di là +
 mi chiedono dov’è che la morte non prevale. +
 Interrogato in questo modo, racconto la Fine di Tutto, +
 laddove non c’è sostanza per rinascite.
+____
 
 «Supponi, Signore, che non lontano da una città o da un villaggio ci sia
 uno stagno nel quale vive un granchio, e che un gruppo di ragazzi o di
@@ -597,15 +620,19 @@ ricerca di un’opportunità».
 Allora Māra pronunciò queste strofe di delusione alla presenza del
 beato:
 
-S. 4:24
+[.suttaref]
+_S. 4:24_
 
+[verse, Sn. 3:2]
+____
 Passo passo per sette anni +
 seguii il Beato. +
 L’Essere Completamente Illuminato, in possesso della +
 Consapevolezza, non mi diede occasione alcuna.
+____
 
-Sn. 3:2
-
+[verse]
+____
 C’era un corvo che camminava intorno a +
 una pietra che sembrava un grumo di grasso: +
 “Ci sarà qualcosa di morbido qui dentro? +
@@ -614,11 +641,13 @@ Egli, non trovando nulla di saporito, +
 fuggì via. Anche noi da Gotama +
 andiamo via, delusi, +
 come il corvo che provò con la pietra.
+____
 
 Pieno di tristezza l’infelice demone si lasciò scivolare il suo liuto da
 sotto il braccio, e poi svanì.
 
-Sn. 3:2; S. 4:24
+[.suttaref]
+_Sn. 3:2; S. 4:24_
 
 Ora, Māra il Malvagio, dopo aver pronunciato queste strofe di delusione
 alla presenza del Beato, abbandonò quel posto e si mise a sedere in
@@ -629,6 +658,8 @@ bassa, abbattuto e senza aver nulla da dire.
 Allora le tre figlie di Māra, Taṇhā, Aratī e Ragā – Brama, Noia e
 Lussuria – andarono dal padre e gli parlarono in strofe:
 
+[verse]
+____
 O Padre, perché sei sconsolato? +
 Su chi stai rimuginando? +
 Lo possiamo catturare, +
@@ -640,6 +671,7 @@ C’è al mondo un sublime Arahant, +
 e quando un uomo sfugge dalla sfera di Māra +
 non ci sono astuzie per adescarlo di nuovo +
 con la lussuria, ed è per questo che sono così addolorato.
+____
 
 Allora le tre figlie di Māra, Taṇhā, Aratī e Ragā andarono dal Beato e
 gli dissero: «O Monaco, ci prostriamo ai tuoi piedi». Il Beato, però,
@@ -668,6 +700,8 @@ oppure sarebbe diventato folle o matto, oppure si sarebbe avvizzito,
 disseccato e appassito come un filo d’erba tagliato». Andarono dal Beato
 e si misero in piedi da un lato. Taṇhā gli parlò in strofe:
 
+[verse]
+____
 Sogni di boschi, immerso nel dolore? +
 Hai perso la ricchezza, o ti stai struggendo per essa? +
 Hai commesso qualche crimine in città? +
@@ -680,11 +714,18 @@ meditando da solo e ho ottenuto la beatitudine del traguardo, +
 quella beatitudine che si trova nella quiete del cuore. +
 Per questo non cerco amici tra la gente, +
 perché non c’è nessuno con cui ho bisogno di fare amicizia.
+____
 
 Allora Aratī gli parlò in strofe:
 
+[verse]
+____
 Quale dimorare pratica qui un bhikkhu +
-che dopo aver attraversato le cinque maree link:#nota5[^5^] +
+che dopo aver attraversato le cinque mareefootnote:[I Commentari
+affermano che le «cinque maree» sono «quelle
+della brama, ecc., connesse con le cinque porte sensoriali», mentre la
+«sesta» è «la marea delle contaminazioni connesse con la porta della
+mente».] +
 può attraversare anche la sesta? Quale pratica +
 meditativa impedisce ai piaceri sensoriali di raggiungerlo?
 
@@ -696,9 +737,12 @@ Questo è il dimorare che qui pratica un bhikkhu, +
 che dopo aver attraversato le cinque maree +
 può attraversare anche la sesta. Questa è la pratica +
 meditativa che impedisce ai piaceri sensoriali di raggiungerlo.
+____
 
 Allora Ragā pronunciò queste strofe alla presenza del Beato:
 
+[verse]
+____
 Va accompagnato della recisa bramosia, +
 numerosi esseri lo seguiranno, ahimè! +
 E ci sono moltitudini che il Distaccato +
@@ -707,10 +751,13 @@ I Grandi Eroi, gli Esseri Perfetti, +
 porteranno gli uomini lontano per mezzo del Buon Dhamma. +
 Quale geloso nostro livore può essere utile +
 contro il potere di guida del Buon Dhamma?
+____
 
 Allora Taṇhā, Aratī e Ragā, le figlie di Māra, andarono da Māra il
 Malvagio. Vedendole arrivare, egli pronunciò queste strofe:
 
+[verse]
+____
 Stolte! Avete cercato di spaccare una roccia +
 colpendola con steli di giglio, +
 di cavare una collina con le vostre unghie, +
@@ -719,10 +766,13 @@ di trovare un appoggio su una scogliera +
 con una grande pietra sulla vostra testa, +
 di abbattere un albero con il vostro petto. +
 E così siete state disilluse da Gotama.
+____
 
-S. 4:24-25
+[.suttaref]
+_S. 4:24-25_
 
-SECONDA VOCE. Ora, dopo essere rimasto a Uruvelā per tutto il tempo che
+[.voice]
+`SECONDA VOCE.` Ora, dopo essere rimasto a Uruvelā per tutto il tempo che
 volle, il Beato si avviò verso Gayāsīsa con un gran seguito di bhikkhu,
 con un migliaio di bhikkhu, con tutti quelli che prima erano stati
 asceti dai capelli intrecciati. Il Beato si fermò a Gayāsīsa, nei pressi
@@ -791,7 +841,8 @@ non ci sarà altra rinascita”».
 E mentre questo discorso era tenuto, i cuori dei mille bhikkhu furono
 liberati dalle contaminazioni mediante il non-attaccamento.
 
-Vin. Mv. 1:21; S. 35:28
+[.suttaref]
+_Vin. Mv. 1:21; S. 35:28_
 
 Allorché il Beato aveva vissuto a Gayāsīsa per tutto il tempo che volle,
 si mise in viaggio per tappe verso Rājagaha con un gran seguito di
@@ -834,6 +885,8 @@ Grande Monaco?». Però, il Beato nella sua mente fu consapevole del
 pensiero sorto nella loro mente, e si rivolse al venerabile Uruvelā
 Kassapa in strofe:
 
+[verse]
+____
 Che cosa vide, lo scarno insegnante che dimora +
 a Uruvelā, da fargli lasciare i fuochi? +
 Ti faccio questa domanda, Kassapa: +
@@ -854,6 +907,7 @@ Ho visto la condizione di pace, non di questo mondo, +
 dove non ci sono possessi, e neanche esseri sensoriali, +
 né alterità, né esseri guidati da altri. +
 Allora non ho più gioito della venerazione e del sacrificio.
+____
 
 Poi il venerabile Uruvelā Kassapa si alzò dal posto in cui sedeva,
 sistemò la veste [superiore] su una spalla, e prostrò il capo ai piedi
@@ -905,6 +959,7 @@ la forma di un giovane brāhmaṇa e si mise in piedi dinanzi al Beato, e
 levò le palme giunte delle sue mani di fronte al Saṅgha guidato dal
 Beato, cantando queste strofe:
 
+____
 Venne a Rājagaha, controllato e libero, +
 e con lui quelli che prima erano stati asceti dai capelli intrecciati. +
 Controllato e libero, luminoso come un aureo gioiello +
@@ -915,18 +970,27 @@ Venne a Rājagaha, affrancato e libero ... +
 Venne a Rājagaha, realizzato e libero ...
 
 Egli con dieci modi di vita e con dieci poteri, +
-vedendo dieci cose, possessore di dieci fattori, link:#nota6[^6^] +
+vedendo dieci cose, possessore di dieci fattori,footnote[I «dieci modi
+di vita» sono i dieci modi di vita degli
+Esseri Nobili (D. 33). Per i dieci poteri, si veda il cap. 11, p. 206.
+Le «dieci cose» sono i dieci tipi di azioni, salutari e non salutari (si
+veda ad esempio M. 9). I «dieci fattori» sono i dieci stati dell’adepto.
+Si veda anche il Commentario.] +
 e forte di un seguito di mille, +
 il Beato entrò a Rājagaha.
+____
 
 Quando la folla vide Sakka, Sovrano degli Déi, disse: «Il giovane
 brāhmaṇa è attraente, bello e pieno di grazia. Chi è?». Quando ciò fu
 detto, egli si rivolse a essa in strofe:
 
+[verse]
+____
 Egli è un santo, sempre controllato +
 e purificato, senza pari +
 in tutto il mondo, sublime, realizzato, +
 e io sono un suo seguace.
+____
 
 Allora il Beato andò nella dimora del re Bimbisāra, si mise a sedere nel
 posto preparatogli, circondato dal Saṅgha dei bhikkhu. Con le sue stesse
@@ -948,47 +1012,7 @@ Boschetto di Bambù al Saṅgha dei bhikkhu guidato dal Buddha».
 
 Il Beato accettò il parco. Poi, quando ebbe istruito, esortato,
 risvegliato e incoraggiato con un discorso di Dhamma Seniya Bimbisāra,
-re di Magadha, si alzò dal posto in cui sedeva e se ne andò. Vin. Mv.
-1:22
+re di Magadha, si alzò dal posto in cui sedeva e se ne andò.
 
- 
-
-[[nota1]]1. Nel _Tipiṭaka_ il racconto dei menestrelli che dormono è
-narrato solo in relazione a Yasa, ma versioni successive lo legano anche
-al Bodhisatta quale ragione diretta per la sua rinuncia.
-
-// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
-
-[[nota2]]2. Questa traduzione di _sāmukkaṃsika_ è basata sul Commentario
-a A.7:12. Non c’è dubbio che il P.T.S. Dictionary sia qui in errore.
-
-// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
-
-[[nota3]]3. Questo termine si riferisce a “Chi è Entrato nella Corrente”
-(_sotāpanna_) (Nyp.).
-
-// link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
-
-[[nota4]]4. Non pare si debba leggere nelle parole _attānaṃ
-gaveseyyātha_ (“dovreste cercare voi stessi”) più di quel che è
-contenuto nell’oracolo delfico “conosci te stesso”. Nella lingua pāli la
-parola _attā_ (sé) non è usata al plurale, e non c’è nulla di strano se
-tale forma singolare è applicata a un gruppo (gli alfabeti indiani non
-hanno maiuscole).
-
-// link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
-
-[[nota5]]5. I Commentari affermano che le «cinque maree» sono «quelle
-della brama, ecc., connesse con le cinque porte sensoriali», mentre la
-«sesta» è «la marea delle contaminazioni connesse con la porta della
-mente».
-
-// link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
-
-[[nota6]]6. I «dieci modi di vita» sono i dieci modi di vita degli
-Esseri Nobili (D. 33). Per i dieci poteri, si veda il cap. 11, p. 206.
-Le «dieci cose» sono i dieci tipi di azioni, salutari e non salutari (si
-veda ad esempio M. 9). I «dieci fattori» sono i dieci stati dell’adepto.
-Si veda anche il Commentario.
-
-// link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
+[.suttaref]
+_Vin. Mv. 1:22_

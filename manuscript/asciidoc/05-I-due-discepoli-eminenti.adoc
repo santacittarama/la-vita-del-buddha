@@ -1,6 +1,7 @@
 = I Due Discepoli Eminenti
 
-SECONDA VOCE. Avvenne questo. L’asceta itinerante Sañjaya si trovava a
+[.voice]
+`SECONDA VOCE.` Avvenne questo. L’asceta itinerante Sañjaya si trovava a
 Rājagaha con un gran seguito di asceti itineranti, con duecentocinquanta
 asceti itineranti. E Sāriputta e Moggallāna stavano vivendo la vita
 religiosa sotto l’asceta itinerante Sañjaya. Avevano fatto questo patto:
@@ -39,26 +40,35 @@ Dhamma nei dettagli. Ti dirò, però, il suo significato in breve».
 
 Allora Sāriputta disse: «E sia, amico».
 
+[verse]
+____
 Dì pure molto o poco, come ti sembra giusto, +
 ma dimmi ora il significato. +
 Perché ho bisogno solo del significato, +
 non mi faccio alcun pensiero dei dettagli, ora.
+____
 
 Il venerabile Assaji offrì all’asceta itinerante Sāriputta tale schema:
 
+[verse]
+____
 Il Perfetto ha detto la causa +
 del sorgere condizionato delle cose, +
 e anche quel che conduce alla loro cessazione: +
 questa è la dottrina predicata dal Grande Monaco.
+____
 
 Quando l’asceta itinerante Sāriputta ascoltò quest’esposizione di
 Dhamma, la pura, immacolata visione del Dhamma sorse in lui: tutto quel
 che sorge deve cessare.
 
+[verse]
+____
 Questa è la verità: anche se questo fosse tutto, +
 tu hai raggiunto la condizione in cui non c’è dolore +
 che noi per molte volte diecimila ere +
 abbiamo lasciato passare inosservata.
+____
 
 L’asceta itinerante Sāriputta andò dall’asceta itinerante Moggallāna.
 L’asceta itinerante Moggallāna lo vide arrivare. Gli disse: «Le tue
@@ -69,18 +79,24 @@ Non Muore». «Come hai fatto a trovarlo, amico?».
 L’asceta itinerante Sāriputta raccontò quello che era avvenuto. Quando
 l’asceta itinerante Moggallāna ascoltò quell’esposizione di Dhamma:
 
+[verse]
+____
 Il Perfetto ha detto la causa +
 del sorgere condizionato delle cose, +
 e anche quel che conduce alla loro cessazione: +
 questa è la dottrina predicata dal Grande Monaco.
+____
 
 La pura, immacolata visione del Dhamma sorse in lui: tutto quel che
 sorge deve cessare.
 
+[verse]
+____
 Questa è la verità: anche se questo fosse tutto, +
 tu hai raggiunto la condizione in cui non c’è dolore +
 che noi abbiamo lasciato passare inosservata +
 per molte volte diecimila ere.
+____
 
 Allora Moggallāna disse: «Amico, andiamo dal Beato. Il Beato è il nostro
 maestro».
@@ -114,6 +130,8 @@ li vide, disse ai bhikkhu: «Stanno arrivando questi due amici, Kolita e
 Upatissa. Questi due saranno i miei discepoli eminenti, una coppia di
 buon auspicio».
 
+[verse]
+____
 Fu allora che il Maestro li annunciò – +
 loro, che erano già liberati +
 nel campo della profonda conoscenza, +
@@ -123,6 +141,7 @@ dicendo: «Stanno arrivando questi due amici, +
 Kolita e Upatissa. +
 Questi due saranno i miei discepoli eminenti, +
 una coppia di buon auspicio».
+____
 
 Sāriputta e Moggallāna si avvicinarono al Beato e si prostrarono ai suoi
 piedi. Gli dissero: «Signore, desideriamo abbracciare la vita religiosa
@@ -142,10 +161,13 @@ anche questi ben noti uomini delle stirpi di Magadha sono andati a
 condurre la santa vita sotto il monaco Gotama!». Quando la gente vedeva
 i bhikkhu, li sbeffeggiava con queste strofe:
 
+[verse]
+____
 Gotama il monaco è arrivato +
 alla Fortezza di Magadha, +
 ha portato via tutto il gruppo di Sañjaya. +
 Chi porterà via oggi?
+____
 
 I bhikkhu udirono queste parole, andarono dal Beato e gliele riferirono.
 Egli disse: «È una cosa che non durerà a lungo. Durerà solo sette
@@ -153,25 +175,31 @@ giorni. Al termine di sette giorni cesserà. Così, quando la gente vi
 sbeffeggia con quelle strofe, potete rispondere rimproverandola con
 queste strofe:
 
+[verse]
+____
 Sono portati dal Dhamma, loro che sono anche +
 Grandi Eroi ed Esseri Perfetti. +
 E perciò, giacché sono portati dal Dhamma, +
 per quale ragione essere gelosi?
+____
 
 Così, quando la gente li sbeffeggiava, loro rispondevano
 rimproverandoli. Allora la gente cominciò a pensare: «I monaci figli del
 Sakya sono portati dal Dhamma, sembra, non vanno contro il Dhamma». E la
 cosa durò sette giorni, e al termine di sette giorni cessò.
 
-Vin. Mv. 1:23-24
+[.suttaref]
+_Vin. Mv. 1:23-24_
 
- SECONDO NARRATORE. L’Anziano Moggallāna ottenne la condizione di
+[.narrator]
+`SECONDO NARRATORE.` L’Anziano Moggallāna ottenne la condizione di
 Arahant sette giorni dopo essersi recato dal Buddha. L’Anziano Sāriputta
 trascorse invece due settimane a passare in rassegna e ad analizzare con
 la visione profonda tutti i livelli della coscienza. Come divenne un
 Arahant è narrato nel modo seguente.
 
-PRIMA VOCE. Così ho udito. Mentre il Beato soggiornava a Rājagaha, nella
+[.voice]
+`PRIMA VOCE.` Così ho udito. Mentre il Beato soggiornava a Rājagaha, nella
 Caverna Sūkarakhatā, l’asceta itinerante Dīghanakha andò da lui e
 scambiò i saluti. Poi disse: «La mia teoria e il mio punto di vista è
 questo, Maestro Gotama: “Niente mi piace”».
@@ -222,11 +250,13 @@ sono discussioni, c’è danno».
 attaccarsi a qualche altro punto di vista. È in questo modo che tali
 punti di vista vengono abbandonati, lasciati».
 
- SECONDO NARRATORE. Lo stesso è ripetuto per l’“uomo saggio” il cui
+[.narrator]
+`SECONDO NARRATORE.` Lo stesso è ripetuto per l’“uomo saggio” il cui
 punto di vista è “Niente mi piace”, “Qualcosa mi piace” e “Qualcosa non
 mi piace”.
 
-PRIMA VOCE. Ora, Aggivessana, questo corpo che ha una forma materiale
+[.voice]
+`PRIMA VOCE.` Ora, Aggivessana, questo corpo che ha una forma materiale
 consiste di quattro grandi entità: terra, acqua, fuoco e aria. È
 procreato da madre e padre, e cresciuto con riso e pane. Esso è soggetto
 all’impermanenza, a essere unto e sfregato, alla dissoluzione e alla
@@ -235,7 +265,15 @@ sofferenza, come una piaga, come una freccia, come una calamità, come
 un’afflizione, come un estraneo, come in via di disintegrazione, come
 vuoto, come non-sé. Quando è considerato in questo modo, si abbandona
 ogni desiderio e amore per esso e l’abitudine di trattarlo come base
-necessaria di tutte le sue inferenze» link:#nota1[^1^].
+necessaria di tutte le sue inferenze».footnote:[«Abitudine di trattarlo
+(il corpo fisico) come base di tutte
+le sue inferenze» (_kāyanvayatā_) rinvia al modo di pensare secondo il
+quale il corpo fisico è una realtà basilare, una verità empirica, per
+poi costruire su tale assunto un sistema (il materialismo, nei fatti, la
+visione fisiologica della mente, o la visione della coscienza come un
+“epifenomeno” della materia). Sia questo punto di vista sia il suo
+opposto, che considera la materia come subordinata alla mente, sono
+discusse all’inizio di M. 36.]
 
 «Ci sono tre generi di sensazioni: sensazione piacevole, sensazione
 dolorosa e sensazione-né-dolorosa-né-piacevole. Quando un uomo prova una
@@ -265,9 +303,11 @@ Nel frattempo la pura, immacolata visione del Dhamma sorse nell’asceta
 itinerante Dīghanakha ... Egli disse: «... Prendo rifugio nel Maestro
 Gotama, e nel Dhamma e nel Saṅgha».
 
-M. 74
+[.suttaref]
+_M. 74_
 
- SECONDO NARRATORE. In questo tempo il re Suddhodana mandò Kāludāyī, il
+[.narrator]
+`SECONDO NARRATORE.` In questo tempo il re Suddhodana mandò Kāludāyī, il
 figlio di uno dei suoi ministri, a Rājagaha al fine di persuadere suo
 figlio, il Buddha, a visitare Kapilavatthu. Prima di comunicare la sua
 missione, Kāludāyī divenne un bhikkhu. Alla fine della stagione fredda –
@@ -275,6 +315,8 @@ era la prima dopo l’Illuminazione – egli comunicò tuttavia la sua
 missione con questi versi, miranti a persuadere il Buddha a mettersi in
 viaggio.
 
+[verse, Thag. 527-33, role=cantor]
+____
 CANTORE
 
 Signore, ci sono alberi che ora ardono come brace, +
@@ -289,7 +331,13 @@ Per i viaggi ora, Signore, la stagione è piacevole +
 perché non è troppo freddo né troppo caldo. +
 Consentite ai Sakya e ai Koliya di vedervi +
 rivolto a occidente, mentre attraversate il fiume
-Rohiṇī link:#nota2[^2^].
+Rohiṇī.footnote:[Secondo il Commentario
+alle _Theragāthā_, il fiume Rohiṇī
+scorre verso sud e separa, a ovest, il territorio dei Sakya da quello
+dei Koliya, che è a est. Rājagaha si trova molto più a sud, oltre il
+Gange, così che chi avesse viaggiato da questa città attraversando il
+Vajji e poi il territorio dei Koliya, avrebbe attraversato il fiume
+guardando verso occidente.]
 
 I campi sono arati con speranza, +
 i semi sono piantati con speranza, +
@@ -312,24 +360,27 @@ un Eroe, detentore della vera comprensione, +
 nobilita le sette precedenti generazioni – +
 Tu, più grande degli déi, lo sento, puoi fare ben di più, +
 perché la parola “Perfetto” si è fatta vera in te.
+____
 
-Thag. 527-33
-
-SECONDA VOCE. Allorché il Beato era rimasto a Rājagaha per tutto il
+[.voice]
+`SECONDA VOCE.` Allorché il Beato era rimasto a Rājagaha per tutto il
 tempo che volle, si mise in viaggio per Kapilavatthu. Viaggiando per
 tappe, alla fine vi arrivò, e rimase nel Parco di Nigrodha. Ora, quando
 fu mattino, il Beato si vestì, prese la ciotola e la veste superiore, si
 recò alla residenza di Suddhodana il Sakya, e si mise a sedere nel posto
 preparatogli.
 
-Vin. Mv. 1:54
+[.suttaref]
+_Vin. Mv. 1:54_
 
- PRIMO NARRATORE. Il racconto di questa visita offerto dal Canone è
+[.narrator]
+`PRIMO NARRATORE.` Il racconto di questa visita offerto dal Canone è
 breve, perfino lapidario. Perciò, prima di continuare con tale racconto,
 alcuni dettagli tratti dal Commentario renderanno più chiara la
 situazione.
 
- SECONDO NARRATORE. Quando il Buddha arrivò a Kapilavatthu, gli uomini
+[.narrator]
+`SECONDO NARRATORE.` Quando il Buddha arrivò a Kapilavatthu, gli uomini
 del lignaggio Sakya, ben noti per il loro orgoglio, non erano inclini a
 prestargli omaggio. A quel punto egli compì il miracolo doppio, causando
 il simultaneo comparire di getti di fuoco e di acqua da tutte le sue
@@ -350,9 +401,11 @@ lasciare la casa famigliare. Più per venerazione che per propensione,
 egli accettò. Al settimo giorno il Buddha consumò di nuovo il suo pasto
 nel palazzo del padre.
 
- PRIMO NARRATORE. Ora continua il racconto canonico.
+[.narrator]
+`PRIMO NARRATORE.` Ora continua il racconto canonico.
 
-SECONDA VOCE. La madre del principe Rāhula disse al principe Rāhula:
+[.voice]
+`SECONDA VOCE.` La madre del principe Rāhula disse al principe Rāhula:
 «Questo è tuo padre, Rāhula. Vai a chiedergli la tua eredità». Allora il
 principe Rāhula andò dal Beato e si mise in piedi di fronte a lui: «Il
 tuo aspetto è gradevole, monaco».
@@ -362,7 +415,7 @@ principe Rāhula andò dietro al Beato, dicendo: «Dammi la mia eredità,
 monaco, dammi la mia eredità, monaco».
 
 Allora il Beato disse al venerabile Sāriputta: «Sāriputta, ammettilo
-alla vita religiosa» link:#nota3[^3^].
+alla vita religiosa».footnote:[_Pabbajjā_: l’ordinazione di un novizio (Nyp.).]
 
 «Come faccio ad ammetterlo alla vita religiosa, Signore?». Il Beato,
 allora, per questo motivo e per questa occasione offrì un discorso di
@@ -407,16 +460,19 @@ discorso di Dhamma, e si rivolse ai bhikkhu in questo modo: «Bhikkhu,
 non dovete ammettere dei bambini alla vita religiosa senza il consenso
 dei genitori. Se qualcuno lo fa, commette un’infrazione per atto errato.
 
-Vin. Mv. Kh. 1:54
+[.suttaref]
+_Vin. Mv. Kh. 1:54_
 
- PRIMO NARRATORE. Secondo la tradizione, la decisione del cugino del
+[.narrator]
+`PRIMO NARRATORE.` Secondo la tradizione, la decisione del cugino del
 Buddha, Ānanda, e di altri di lasciare la casa famigliare per la vita
 religiosa avvenne al tempo di questa visita. Il Buddha era già andato
 via da Kapilavatthu, ma si trovava ancora nei territori a nord di
 Kosala. Essa dovette verificarsi in corrispondenza dei due seguenti
 episodi, benché non vi siano precise indicazioni per collocarla.
 
-PRIMA VOCE. Così ho udito. Una volta il Beato stava viaggiando
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta il Beato stava viaggiando
 attraverso la regione di Kosala con il venerabile Nāgasamāla, il suo
 monaco attendente. Il venerabile Nāgasamāla vide che la strada si
 biforcava. Egli disse al Beato: «Signore, questa è la direzione, andiamo
@@ -434,12 +490,16 @@ tornò dal Beato con la ciotola rotta e la veste superiore fatta di toppe
 strappata, e gli raccontò quello che era avvenuto. Conoscendo il
 significato di quest’avvenimento, il Beato esclamò queste parole:
 
+[verse]
+____
 Un saggio e un folle +
 camminavano e vivevano in compagnia. +
 Per bere il latte le gru lasciano le acque paludose: +
 i saggi abbandonano quel che sanno essere male.
+____
 
-Ud. 8:7
+[.suttaref]
+_Ud. 8:7_
 
 Ora, quando il Beato risiedeva nella regione di Kosala, ad Araññakuṭika,
 alle pendici dell’Himalaya, mentre era in ritiro da solo sorse in lui
@@ -453,12 +513,22 @@ e sequestrare, senza addolorarsi e causare dolori, in altre parole,
 governi rettamente».
 
 «Malvagio, qual è il fine per cui ti rivolgi a me in questo modo?».
-«Signore le quattro basi del successo [spirituale] link:#nota4[^4^] sono
+«Signore le quattro basi del successo [spirituale]footnote:[Le “quattro
+basi per il successo” (o vie per il potere) sono
+descritte come «la base per il successo che ha concentrazione fondata
+sul desiderio-di-agire e risolutezza motivata dallo sforzo-controllato»
+(M. 16). Questa è la prima. Per le altre tre, sostituire,
+rispettivamente, “energia”, “(naturale purezza della) mente”, e
+“investigazione” al “desiderio-di-agire”. Esse rappresentano i quattro
+tipi di approccio dello sviluppo, da regolare sulla base delle
+avversioni individuali.] sono
 state costantemente mantenute in essere e praticate dal Beato, rese
 veicolo e base, sono state fondate, consolidate e propriamente
 intraprese. E così, Signore, se il Beato decidesse: “Che l’Himalaya, re
 delle montagne, diventi d’oro” esso diventerebbe una montagna d’oro».
 
+[verse]
+____
 E se tutta quella montagna fosse di oro giallo, +
 il doppio non basterebbe a soddisfare i desideri di un uomo. +
 Sapere questo è agire di conseguenza. +
@@ -467,13 +537,16 @@ come potrebbe volgersi verso i desideri sensoriali? +
 Sapendo che è questa sostanza della rinascita +
 a legarlo al mondo, un uomo +
 non può far altro che addestrarsi per liberarsene.
+____
 
 Allora Māra il Malvagio seppe: «Il Beato mi conosce, il Sublime mi
 conosce». Triste e deluso, subito sparì.
 
-S. 4:20
+[.suttaref]
+_S. 4:20_
 
-SECONDA VOCE. Avvenne questo. Mentre il Beato soggiornava a Anupiyā –
+[.voice]
+`SECONDA VOCE.` Avvenne questo. Mentre il Beato soggiornava a Anupiyā –
 una città dei Malla è chiamata Anupiyā – molti ben noti principi Sakya
 abbracciarono la vita religiosa sotto il Beato. C’erano due fratelli,
 Mahānāma il Sakya e Anuruddha il Sakya. Anuruddha era stato allevato tra
@@ -523,7 +596,10 @@ darvi il permesso di lasciare la vita famigliare per abbracciare la vita
 religiosa?». Lui lo chiese una seconda e una terza volta. Allora la
 madre disse: «Mio caro Anuruddha, se Bhaddiya il regio Sakya che governa
 i Sakya abbraccerà la vita religiosa, potrai farlo anche
-tu» link:#nota5[^5^].
+tu».footnote:[Non è chiaro se la parola _rājā_ (qui resa con “che
+governa”) applicata a Bhaddiya il Sakya significhi “re” (nel qual caso
+implicita è la morte del re Suddhodana) o solo “reggente”. Qui è stata
+seguita la collocazione dell’evento offerta dal Commentario.]
 
 In quel tempo Bhaddiya il regio Sakya che stava governando i Sakya era
 un amico di Anuruddha e sua madre aveva pensato: «Bhaddiya è un amico di
@@ -577,7 +653,10 @@ fratelli».
 Allora Bhaddiya il regio Sakya, Anuruddha, Ānanda, Bhagu, Kimbila e
 Devadatta, insieme a Upāli il barbiere, che era il settimo, partirono
 alla testa di un quadruplice esercito come se si recassero – così erano
-soliti fare – per una parata nel parco link:#nota6[^6^]. Allorché ebbero
+soliti fare – per una parata nel parco.footnote:[La data in cui l’Anziano
+Ānanda abbracciò la vita religiosa
+non è del tutto certa. I versi da lui pronunciati nel _Theragātā_
+indicano un momento successivo.] Allorché ebbero
 percorso una certa distanza, abbandonarono l’esercito. Poi
 attraversarono il confine di un altro regno e lì lasciarono le loro
 insegne. Le avvolsero in una veste e dissero a Upāli il barbiere:
@@ -646,9 +725,11 @@ ha superato ogni genere di esistenza, +
 perché egli è senza paura, beato, libero dal dolore. +
 Nessuna divinità può gareggiare con la sua gloria.
 
-Vin. Cv. 7:1; cfr. Ud. 2:10
+[.suttaref]
+_Vin. Cv. 7:1; cfr. Ud. 2:10_
 
-PRIMA VOCE. Il venerabile Nanda, il fratellastro del Beato, indossò
+[.voice]
+`PRIMA VOCE.` Il venerabile Nanda, il fratellastro del Beato, indossò
 degli abiti variopinti e ben stirati, si truccò gli occhi e prese una
 ciotola lucente. Poi andò dal Beato e, dopo avergli prestato omaggio, si
 mise a sedere da un lato. Quando lo ebbe fatto, il Beato gli disse:
@@ -661,13 +742,15 @@ dimorare nella foresta, mangiare solo cibo ottenuto in elemosina,
 indossare vesti cucite con panni scartati, e dimorare senza alcun
 interesse per i desideri sensoriali».
 
-S. 21:8
+[.suttaref]
+_S. 21:8_
 
- SECONDO NARRATORE. Nel frattempo il novizio Rāhula, che ora aveva dieci
+`SECONDO NARRATORE.` Nel frattempo il novizio Rāhula, che ora aveva dieci
 anni, viveva sotto le cure dell’Anziano Sāriputta ad Ambalaṭṭhikā, nei
 pressi di Rājagaha, dove il Buddha tornò a tempo debito.
 
-PRIMA VOCE. Così ho udito. Una volta il Beato soggiornava a Rājagaha,
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta il Beato soggiornava a Rājagaha,
 nel Boschetto di Bambù, nel Sacrario degli Scoiattoli e il venerabile
 Rāhula viveva ad Ambalaṭṭhikā. Il venerabile Rāhula lo vide arrivare,
 preparò per lui un posto a sedere e dell’acqua per lavarsi i piedi. Il
@@ -729,60 +812,12 @@ scherzo. A che cosa pensi che serva uno specchio, Rāhula?».
 «Proprio nello stesso modo devi continuare a osservare le tue azioni, le
 tue parole e i tuoi pensieri».
 
-M. 61
+[.suttaref]
+_M. 61_
 
-SECONDO NARRATORE. Il Buddha continuò impartendogli istruzioni
+[.narrator]
+`SECONDO NARRATORE.` Il Buddha continuò impartendogli istruzioni
 dettagliate su come esaminare ogni azione prima, durante e dopo che sia
 stata compiuta, giudicandola non salutare qualora essa sia a danno
 proprio o degli altri e di entrambi, oppure giudicandola salutare se non
 lo è, modellando di conseguenza le azioni future.
-
- 
-[[nota1]]1. «Abitudine di trattarlo (il corpo fisico) come base di tutte
-le sue inferenze» (_kāyanvayatā_) rinvia al modo di pensare secondo il
-quale il corpo fisico è una realtà basilare, una verità empirica, per
-poi costruire su tale assunto un sistema (il materialismo, nei fatti, la
-visione fisiologica della mente, o la visione della coscienza come un
-“epifenomeno” della materia). Sia questo punto di vista sia il suo
-opposto, che considera la materia come subordinata alla mente, sono
-discusse all’inizio di M. 36.
-
-// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
-
-[[nota2]]2. Secondo il Commentario alle _Theragāthā_, il fiume Rohiṇī
-scorre verso sud e separa, a ovest, il territorio dei Sakya da quello
-dei Koliya, che è a est. Rājagaha si trova molto più a sud, oltre il
-Gange, così che chi avesse viaggiato da questa città attraversando il
-Vajji e poi il territorio dei Koliya, avrebbe attraversato il fiume
-guardando verso occidente.
-
-// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
-
-[[nota3]]3. _Pabbajjā_: l’ordinazione di un novizio (Nyp.).
-
-// link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
-
-[[nota4]]4. Le “quattro basi per il successo” (o vie per il potere) sono
-descritte come «la base per il successo che ha concentrazione fondata
-sul desiderio-di-agire e risolutezza motivata dallo sforzo-controllato»
-(M. 16). Questa è la prima. Per le altre tre, sostituire,
-rispettivamente, “energia”, “(naturale purezza della) mente”, e
-“investigazione” al “desiderio-di-agire”. Esse rappresentano i quattro
-tipi di approccio dello sviluppo, da regolare sulla base delle
-avversioni individuali.
-
-// link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
-
-[[nota5]]5. Non è chiaro se la parola _rājā_ (qui resa con “che
-governa”) applicata a Bhaddiya il Sakya significhi “re” (nel qual caso
-implicita è la morte del re Suddhodana) o solo “reggente”. Qui è stata
-seguita la collocazione dell’evento offerta dal Commentario.
-
-// link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
-
-[[nota6]]6. La data in cui l’Anziano Ānanda abbracciò la vita religiosa
-non è del tutto certa. I versi da lui pronunciati nel _Theragātā_
-indicano un momento
-successivo.
-
-// link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]

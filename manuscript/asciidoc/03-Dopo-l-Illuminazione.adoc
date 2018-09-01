@@ -1,6 +1,7 @@
 = Dopo L’illuminazione
 
-PRIMA VOCE. Così ho udito. Una volta, quando il Beato aveva appena
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta, quando il Beato aveva appena
 ottenuto l’Illuminazione, si trovava a Uruvelā presso le sponde del
 fiume Nerañjarā ai piedi dell’albero della bodhi, l’albero
 dell’Illuminazione. Allora il Beato si mise a sedere ai piedi
@@ -25,10 +26,25 @@ disperazione. Così ha origine tutto questo aggregato di sofferenza».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
+[verse]
+____
 Quando le cose sono del tutto manifeste +
-all’ardente brāhmaṇa link:#nota1[^1^] che pratica la meditazione +
+all’ardente brāhmaṇafootnote:[Vi è un costante gioco di parole, ammesso che
+quest’espressione sia adatta, tra i termini “brāhmaṇa” (casta divina, un
+eremita, un divino sacerdote), _brahma_ (divino, celeste, perfetto) e
+_Brahmā_ (divinità, Alta Divinità, o divinità al di là degli déi dei sei
+paradisi sensoriali). Il sacerdozio dei brāhmaṇa proviene da questa
+stessa casta, per la quale si rivendica un legame particolare con
+_Brahmā_, ed è questo che può giustificare la traduzione “divino”. Di
+solito la parola non viene tradotta. Altri termini che riecheggiano
+questi significati sono le Divine Dimore (_brahmāvihara_: cap. 10, p.
+200) della compassione amorevole, ecc., la “santa” o “divina vita”
+(_brahmacariya_) o “pura condotta”, che è tale in virtù della “divina”
+caratteristica della castità, il “divino veicolo” (_brahmayāna_: cap.
+XII, p. 281), e così via.] che pratica la meditazione +
 tutti i suoi dubbi svaniscono, perché egli sa +
 che ogni cosa deve avere la sua causa.
+____
 
 Nella seconda veglia della notte la sua mente fu occupata dalla genesi
 interdipendente in ordine inverso, in questo modo: «Quello non giunge
@@ -50,10 +66,13 @@ di tutto questo aggregato di sofferenza».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
+[verse]
+____
 Quando le cose sono del tutto manifeste +
 all’ardente brāhmaṇa che pratica la meditazione +
 tutti i suoi dubbi svaniscono, perché egli sa +
 come giungono alla fine i fenomeni condizionati.
+____
 
 Nella terza veglia della notte la sua mente fu occupata dalla genesi
 interdipendente in ordine diretto e inverso, in questo modo: «Quello
@@ -73,14 +92,24 @@ sofferenza».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
+[verse]
+____
 Quando le cose sono del tutto manifeste +
 all’ardente brāhmaṇa che pratica la meditazione +
 ecco, come il sole che illumina il cielo +
 egli respinge le orde di Māra.
+____
 
-Ud. 1:1-3; cf. Vin. Mv. 1:1
+[.suttaref]
+_Ud. 1:1-3; cf. Vin. Mv. 1:1_
 
-Al termine dei sette giorni link:#nota2[^2^], dopo essere emerso da
+Al termine dei sette giorni,footnote:[La collocazione di questo e del successivo episodio in tale
+punto è indicata dagli stessi testi. Anche il _Mālālankāravatthu_
+inserisce qui la tentazione delle figlie di Māra. Ācariya Buddhaghosa,
+però, ne parla in relazione al primo anno dopo l’Illuminazione (si veda
+il cap. 4, p. 70). Un altro episodio, qui non incluso, di alcuni
+brāhmaṇa che rimproverano il Buddha per non aver prestato loro omaggio
+(cf. cap. 9, p. 137), è correlato ad A. 4:22.] dopo essere emerso da
 quella concentrazione, il Beato esaminò il mondo con l’occhio di un
 Illuminato. Quando lo fece, vide gli esseri che bruciavano per molti
 generi di fiamme ed erano consumati da molte febbri generate dalla
@@ -88,6 +117,8 @@ brama, dall’odio e dall’illusione.
 
 Conoscendo il significato di ciò, egli esclamò queste parole:
 
+[verse]
+____
 Il mondo è angosciato in quanto esposto al contatto, +
 perfino quel che il mondo chiama “io” è nei fatti nocivo, +
 e non importa che cosa concepisca (i concetti dell’io) +
@@ -98,7 +129,12 @@ apprezza solo l’esistenza, +
 tuttavia ciò che apprezza reca solo paura, +
 e quel che si teme è dolore. +
 Questa santa vita è vissuta per abbandonare la
-sofferenza link:#nota3[^3^].
+sofferenza.footnote:[Questi sono due versi difficili. È davvero necessario
+tradurre la parola _bhava_ più o meno coerentemente con “esistenza”
+piuttosto che con “divenire”. Gli “essenziali dell’esistenza” sono
+altrove spiegati come riferiti a tutte le componenti dell’esistenza, dai
+possessi personali oggettivi alle bramosie e attitudini soggettive.]
+____
 
 «Qualsiasi monaco o brāhmaṇa che abbia descritto la liberazione
 dall’esistenza come avvenuta per mezzo dell’amore dell’esistenza,
@@ -109,6 +145,8 @@ questo dico, si è liberato dall’esistenza. Per mezzo di quel che è
 essenziale all’esistenza, sorge la sofferenza. Quando tutti gli
 attaccamenti sono esauriti, la sofferenza non c’è più».
 
+[verse]
+____
 Guarda questo grande mondo: +
 gli esseri esposti all’ignoranza lo assaporano, +
 non si liberano mai dell’esistenza. +
@@ -119,17 +157,38 @@ Perciò, un uomo che lo vede così com’è +
 abbandona la brama per l’esistenza, +
 non è attratto dalla non-esistenza. +
 Il dissolversi senza residuo, il cessare,
-l’Estinzione link:#nota4[^4^] +
+l’Estinzionefootnote:[“Estinzione” e “Nibbāna” sono ovunque utilizzati in modo
+intercambiabile. “Estinzione” deve essere intesa come estinzione del
+fuoco (S. 35:28, cit. nel cap. 4, p. 73) della bramosia, dell’odio e
+dell’illusione, e delle loro conseguenze. Non deve essere intesa per
+significare l’“estinzione di una persona vivente” (si veda il cap. 11,
+p. 226). La moderna etimologia fa derivare la parola _nibbāna_
+(sanscrito: _nirvāṇa_) dal prefisso negativo _ni_(r) cui si aggiunge la
+radice vā (soffiare), con il senso di “cessazione del soffio vitale”. Il
+significato originario fu probabilmente estinzione di un fuoco per la
+cessazione del soffio di un mantice, ad esempio il fuoco di un fabbro.
+Pare che tale significato sia poi stato applicato all’estinzione del
+fuoco mediante qualsiasi mezzo, ad esempio l’esaurimento della fiamma di
+una lampada (_nibbāyati_: M. 140; _nibbanti_: Sn. 2:1, v. 14). Per via
+analogica ciò fu esteso all’estinzione della brama e al riposo, del
+tutto raggiunti da un Arahant durante la vita. Alla sua morte fisica la
+processualità legata ai cinque aggregati si dissolverà senza essere
+rinnovata. Nibbāna è un termine erroneamente identificato come
+“estinzione di un sé esistente” e, allo stesso modo, della perpetuazione
+del sé (si veda il cap. 12, pp. 254-262).] +
 con la fine assoluta di ogni brama. +
 Quando un bhikkhu raggiunge il Nibbāna +
 mediante il non-attaccamento, +
 per lui non ci sarà altra esistenza. +
 Māra è sconfitto, vinta è la battaglia, +
 quando uno come lui ha oltrepassato ogni esistenza.
+____
 
-Ud. 3:10
+[.suttaref]
+_Ud. 3:10_
 
-SECONDA VOCE. Avvenne anche questo allorché al termine dei sette giorni
+[.voice]
+`SECONDA VOCE.` Avvenne anche questo allorché al termine dei sette giorni
 il Beato emerse da quella concentrazione e dai piedi dell’albero della
 bodhi si recò ai piedi dell’albero _ajapāla nigrodha_, il baniano del
 guardiano delle greggi di capre. Si mise a sedere ai piedi dell’_ajapāla
@@ -144,13 +203,17 @@ fanno un brāhmaṇa?».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
+[verse]
+____
 Il brāhmaṇa che ha vinto le cose malvagie, +
 non altezzoso, privo di contaminazioni e dotato di auto-cotrollo, +
 con perfetta conoscenza e che vive la vita brāhmaṇica, +
 può a ragione utilizzare la parola “brāhmaṇa”, +
 se non è fiero di nulla che sta nel mondo.
+____
 
-Vin. Mv. 1:2; cf. Ud. 1:4
+[.suttaref]
+_Vin. Mv. 1:2; cf. Ud. 1:4_
 
 Inoltre, avvenne pure questo allorché al termine dei sette giorni il
 Beato emerse da quella concentrazione e dai piedi dell’_ajapāla
@@ -173,6 +236,8 @@ reverenza.
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
+[verse]
+____
 L’isolamento è felicità per chi è appagato, +
 per chi ha imparato il Dhamma, e ha visto. +
 La cordialità nei riguardi del mondo è felicità +
@@ -181,8 +246,10 @@ Disinteresse per il mondo è felicità +
 per lui che ha superato il desiderio sensoriale. +
 Vincere però l’orgoglio dell’“io sono” +
 questa è la felicità più grande di tutte.
+____
 
-Vin. Mv. 1:3; cf. Ud. 2:1
+[.suttaref]
+_Vin. Mv. 1:3; cf. Ud. 2:1_
 
 Una volta, quando il Beato emerse da quella concentrazione dai piedi
 dell’albero di Mucalinda si recò ai piedi dell’albero _rājāyatana_ per
@@ -217,13 +284,16 @@ lui per tutto il tempo che durerà il loro respiro».
 Poiché costoro furono i primi seguaci al mondo, essi presero solo due
 rifugi.
 
-Vin. Mv. 1:4
+[.suttaref]
+_Vin. Mv. 1:4_
 
-[SECONDA VOCE.] Una volta, inoltre, alla fine dei sette giorni il Beato
+[.voice]
+`SECONDA VOCE.` Una volta, inoltre, alla fine dei sette giorni il Beato
 emerse da quella concentrazione e dai piedi dell’albero _rājāyatana_ si
 recò all’_ajapāla nigrodha_, l’albero di baniano del guardiano di capre.
 
-PRIMA VOCE. Mentre il Beato era in ritiro da solo sorse in lui questo
+[.voice]
+`PRIMA VOCE.` Mentre il Beato era in ritiro da solo sorse in lui questo
 pensiero: «Ci sono cinque facoltà spirituali che, se mantenute in essere
 e sviluppate, sfociano in Ciò Che Non Muore, raggiungono Ciò Che Non
 Muore e terminano in Ciò Che Non Muore. Quali cinque? Sono le facoltà
@@ -248,11 +318,15 @@ cinque facoltà, quando sono mantenute in essere e sviluppate, sfociano
 in Ciò Che Non Muore, raggiungono Ciò Che Non Muore e terminano in Ciò
 Che Non Muore».
 
-S. 48:57
+[.suttaref]
+_S. 48:57_
 
 Ora, mentre il Beato era in ritiro da solo sorse in lui questo pensiero:
 «Questo sentiero, ossia i quattro fondamenti della consapevolezza, è un
-sentiero che va verso una sola direzione link:#nota5[^5^]: verso la
+sentiero che va verso una sola direzione:footnote:[Invece di «che va verso
+una sola direzione», il termine
+composto _ekāyana_ è di solito tradotto con «l’unica via»; si veda però
+l’uso di tale termine in M. 12.] verso la
 purificazione degli esseri, verso il superamento dell’afflizione e del
 lamento, verso la scomparsa del dolore e del dispiacere, verso
 l’ottenimento del vero scopo, verso la realizzazione del Nibbāna. Quali
@@ -271,7 +345,8 @@ afflizione per il mondo».
 Giunse allora Brahmā Sahampati, che espresse la sua approvazione come
 prima.
 
-S. 47:18, 43
+[.suttaref]
+_S. 47:18, 43_
 
 Ora, mentre il Beato era in ritiro da solo sorse in lui questo pensiero:
 «Sono libero da quella penitenza, sono del tutto libero da quell’inutile
@@ -281,13 +356,18 @@ l’Illuminazione».
 Allora Māra il Malvagio nella sua mente fu consapevole del pensiero
 sorto nella mente del Beato, andò da lui e pronunciò queste strofe:
 
+[verse]
+____
 «Tu hai abbandonato il sentiero dell’ascetismo +
 mediante il quale gli uomini purificano se stessi, +
 tu non sei puro, tu immagini di essere puro. +
 Il sentiero della purezza è lontano da te».
+____
 
 Il Beato riconobbe Māra il Malvagio, e gli rispose con queste strofe:
 
+[verse]
+____
 «Conosco queste penitenze per ottenere Ciò Che Non Muore, +
 quale che sia il loro genere, sono vane +
 come i remi e il timone di una barca sulla terra ferma. +
@@ -295,11 +375,13 @@ Ma è a causa dello sviluppo +
 di virtù, concentrazione, comprensione, +
 che ho raggiunto l’Illuminazione; e tu, +
 Sterminatore, ora sei stato sconfitto».
+____
 
 Allora Māra il Malvagio seppe: «Il Beato mi conosce, il Sublime mi
 conosce». Triste e deluso, subito sparì.
 
-S. 4:1
+[.suttaref]
+_S. 4:1_
 
 Ora, mentre il Beato era in ritiro da solo sorse in lui questo pensiero:
 «Chi non ha nulla da venerare e nessuno al quale obbedire vive infelice.
@@ -323,9 +405,11 @@ bene, Signore. I Beati dei tempi passati, realizzati e completamente
 illuminati, vivevano sotto il Dhamma, onorandolo e rispettandolo. E
 anche in futuro faranno nello stesso modo».
 
-S. 6:2; A. 4:21
+[.suttaref]
+_S. 6:2; A. 4:21_
 
-SECONDA VOCE. Ora, mentre il Beato era in ritiro da solo sorse in lui
+[.voice]
+`SECONDA VOCE.` Ora, mentre il Beato era in ritiro da solo sorse in lui
 questo pensiero: «Questo Dhamma che io ho conseguito è profondo e
 difficile da vedere, difficile da scoprire. È la meta più serena,
 superiore a tutte le altre, non raggiungibile con il solo raziocinio,
@@ -342,6 +426,8 @@ capirebbero, e questo sarebbe per me pesante e fastidioso».
 A quel punto gli vennero in modo spontaneo in mente queste strofe, mai
 udite prima:
 
+[verse]
+____
 Basta con l’insegnamento del Dhamma +
 che anche per me è stato difficile da raggiungere, +
 perché non sarà mai compreso +
@@ -350,6 +436,7 @@ Gli uomini sono intrisi di bramosia, e chi è avvolto +
 da una nube di oscurità non vedrà mai +
 ciò che va contro la corrente, che è sottile, +
 profondo e difficile da vedere, astruso.
+____
 
 Pensando questo, la sua mente inclinò verso l’inattività, il non
 insegnamento del Dhamma.
@@ -371,6 +458,8 @@ Alcuni di loro otterranno la conoscenza finale del Dhamma».
 
 Dopo aver detto questo, Brahmā Sahampati aggiunse:
 
+[verse]
+____
 A Magadha fino ad ora è apparso +
 dhamma impuro insegnato da uomini impuri: +
 apri i Cancelli di Ciò Che Non Muore: consenti loro di ascoltare +
@@ -386,6 +475,7 @@ Libero da Ogni Debito, e vai per il mondo.
 
 Proclama il Dhamma, perché alcuni, +
 o Beato, capiranno.
+____
 
 Il Beato ascoltò la supplica di Brahmā Sahampati. Per compassione verso
 gli esseri egli sondò il mondo con l’occhio di un Buddha. Come in uno
@@ -400,16 +490,35 @@ con buone qualità e cattive qualità, ai quali è facile insegnare e
 difficile insegnare, e altri che dimoravano vedendo paura e biasimo
 nell’altro mondo. Quando ebbe visto questo, rispose:
 
+[verse]
+____
 Spalancati sono i portali di Ciò Che Non Muore. +
-Che abbiano fede coloro che ascoltano link:#nota6[^6^]. Se pensavo di +
+Che abbiano fede coloro che ascoltano.footnote:[«Che abbiano fede coloro
+che ascoltano» (_ye sotavanto
+pamuñcantu saddhaṃ_) è un passo molto controverso. Di solito viene reso
+con «Che coloro che ascoltano rinuncino alla loro fede». Questo
+significato, però, stride con lo spirito dell’insegnamento. Esso dipende
+anche dall’interpretazione della parola _vissajjentu_ (che il
+Commentario glossa con _pamuñcantu_) come «fate che rinuncino», ma
+questa parola può anche significare «che loro diano» o «che loro
+impieghino». Così _pamuñcantu_: «che loro mostrino, che loro mettano in
+evidenza». Che il Commentario intenda il passo in questo modo è
+confermato da quanto si legge alla fine del relativo paragrafo:
+«Lasciate che ognuno proponga la sua fede»: Comm. a M. 26), nel quale
+_upanetu_ parafrasa _pamuñcantu_. L’espressione idiomatica ricorre in
+Sn. 1146, dove sfortunatamente è stata talvolta confusa con un’altra
+espressione idiomatica, _saddhā-vimutto_: “liberazione mediante la
+fede”.] Se pensavo di +
 non insegnare il sublime Dhamma che conosco, +
 era perché m’importunava pensare all’insegnamento.
+____
 
 Allora Brahmā Sahampati pensò: «Ho reso possibile che il Dhamma sia
 insegnato dal Beato». E dopo avergli prestato omaggio, girandogli a
 destra, subito scomparve.
 
-Vin. Mv. 1:5; cf. M. 26 e 85; S. 6:1
+[.suttaref]
+_Vin. Mv. 1:5; cf. M. 26 e 85; S. 6:1_
 
 Il Beato pensò: «A chi per primo insegnerò il Dhamma? Chi comprenderà
 subito questo Dhamma?» Poi pensò: «Āḷāra Kālāma è saggio, sapiente e
@@ -450,7 +559,15 @@ religiosa? Chi è il tuo maestro? Quale Dhamma professi?».
 
 Quando ciò fu detto, il Beato si rivolse al monaco Upaka in strofe:
 
-Io sono Chi Tutto Trascende link:#nota7[^7^], un Onnisciente, +
+[verse]
+____
+Io sono Chi Tutto Trascende,footnote:[“Chi Tutto Trascende” (_sabbābhibhū_): un derivato della
+radice _bhū_ (essere), nel senso di “al di là dell’esistenza” o “chi ha
+superato ogni esistenza”. _Abhibhū_, che incontreremo di nuovo più
+avanti, è parafrasato da alcuni traduttori con “maestria” (come in
+_abhibhāyatana_) o Conquistatore come epiteto di Mahā-brahmā. Può essere
+ritenuto come uno degli esempi dell’uso di un termine corrente da parte
+del Buddha, ma in un contesto che ne trasforma il significato.] un Onnisciente, +
 incontaminato dalle cose, rinunciando a tutto, +
 mediante la libertà della cessazione della brama. Ciò lo devo +
 alla mia stessa saggezza. A chi altri dovrei attribuire tutto questo? +
@@ -466,13 +583,17 @@ Io ora vado nella città di Kāsi +
 per mettere la Ruota del Dhamma +
 in moto: in un mondo bendato +
 io vado a rullare il Tamburo di Ciò Che Non Muore.
+____
 
 Secondo quel che dici, amico, tu sei un Vittorioso Universale.
 
+[verse]
+____
 I vittoriosi come me, Upaka, +
 sono coloro le cui contaminazioni sono del tutto esaurite. +
 Ho riportato la vittoria su ogni stato del male: +
 è per questo che io sono un Vittorioso.
+____
 
 Quando ciò fu detto, il monaco Upaka commentò: «Così sia, amico».
 Scrollando il capo, prese un sentiero secondario e se ne andò.
@@ -533,7 +654,8 @@ dimorerete in quella suprema meta della santa vita per la quale gli
 uomini di famiglia giustamente lasciano la loro casa per una vita priva
 di fissa dimora».
 
-Vin. Mv.1:6; cf. M. 26 e 85
+[.suttaref]
+_Vin. Mv.1:6; cf. M. 26 e 85_
 
 Il Beato riuscì a convincerli. Loro intesero il Beato, ascoltarono e
 aprirono i loro cuori alla conoscenza. Allora il Beato si rivolse ai
@@ -561,7 +683,8 @@ sofferenza, afflizione e lamento, dolore, dispiacere e disperazione sono
 sofferenza, associarsi con quel che si detesta è sofferenza, separarsi
 da quel che si ama è sofferenza, non ottenere quel che si vuole è
 sofferenza. In breve, i cinque aggregati affetti
-dall’attaccamento link:#nota8[^8^] sono sofferenza».
+dall’attaccamentofootnote:[Degli “aggregati affetti dall’attaccamento”
+(_upādānakkhandha_) si tratta nel cap. 12.] sono sofferenza».
 
 «C’è questa nobile verità dell’origine della sofferenza: è la brama, che
 produce rinnovate esistenze, è accompagnata da diletto e lussuria,
@@ -609,7 +732,8 @@ sorse in me su cose mai udite prima».
 «“C’è questa nobile verità della via che conduce alla cessazione della
 sofferenza”: questa fu l’intuizione, la conoscenza, la comprensione, la
 visione, la luce che sorse in me su cose mai udite prima. “Questa nobile
-verità deve essere penetrata mantenendo in essere link:#nota9[^9^] la
+verità deve essere penetrata mantenendo in esserefootnote:[_bhāvetabbaṃ_:
+“deve essere coltivata, sviluppata” (Nyp.).] la
 via che conduce alla cessazione della sofferenza”: questa fu
 l’intuizione, la conoscenza, la comprensione, la visione, la luce che
 sorse in me su cose mai udite prima. “Questa nobile verità è stata
@@ -633,7 +757,8 @@ monaci e brāhmaṇa, con i suoi principi e uomini».
 certa, questa è l’ultima nascita, non ci saranno più rinnovate
 esistenze”».
 
-Vin. Mv. 1:6; S. 56:11
+[.suttaref]
+_Vin. Mv. 1:6; S. 56:11_
 
 Ora, mentre questo discorso veniva pronunciato, la pura, immacolata
 visione del Dhamma sorse nel venerabile Kondañña in questo modo: tutto
@@ -686,7 +811,8 @@ ammissione.
 
 Allora il Beato si rivolse ai bhikkhu in questo modo:
 
-Vin. Mv. 1:6
+[.suttaref]
+_Vin. Mv. 1:6_
 
 (_Il Discorso della Caratteristica del Non-Sé_)
 
@@ -764,106 +890,5 @@ tenuto, i cuori dei bhikkhu del gruppo dei cinque furono liberati dalle
 contaminazioni mediante il non-attaccamento. E allora ci furono sei
 Arahant, sei esseri realizzati, nel mondo.
 
-Vin. Mv. 1:6; cfr. S. 22:59
-
- 
-
-[[nota1]]1. Vi è un costante gioco di parole, ammesso che
-quest’espressione sia adatta, tra i termini “brāhmaṇa” (casta divina, un
-eremita, un divino sacerdote), _brahma_ (divino, celeste, perfetto) e
-_Brahmā_ (divinità, Alta Divinità, o divinità al di là degli déi dei sei
-paradisi sensoriali). Il sacerdozio dei brāhmaṇa proviene da questa
-stessa casta, per la quale si rivendica un legame particolare con
-_Brahmā_, ed è questo che può giustificare la traduzione “divino”. Di
-solito la parola non viene tradotta. Altri termini che riecheggiano
-questi significati sono le Divine Dimore (_brahmāvihara_: cap. 10, p.
-200) della compassione amorevole, ecc., la “santa” o “divina vita”
-(_brahmacariya_) o “pura condotta”, che è tale in virtù della “divina”
-caratteristica della castità, il “divino veicolo” (_brahmayāna_: cap.
-XII, p. 281), e così
-via.
-
-//link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
-
-[[nota2]]2. La collocazione di questo e del successivo episodio in tale
-punto è indicata dagli stessi testi. Anche il _Mālālankāravatthu_
-inserisce qui la tentazione delle figlie di Māra. Ācariya Buddhaghosa,
-però, ne parla in relazione al primo anno dopo l’Illuminazione (si veda
-il cap. 4, p. 70). Un altro episodio, qui non incluso, di alcuni
-brāhmaṇa che rimproverano il Buddha per non aver prestato loro omaggio
-(cf. cap. 9, p. 137), è correlato ad A. 4:22.
-
-//link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
-
-[[nota3]]3. Questi sono due versi difficili. È davvero necessario
-tradurre la parola _bhava_ più o meno coerentemente con “esistenza”
-piuttosto che con “divenire”. Gli “essenziali dell’esistenza” sono
-altrove spiegati come riferiti a tutte le componenti dell’esistenza, dai
-possessi personali oggettivi alle bramosie e attitudini soggettive.
-
-//link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
-
-[[nota4]]4. “Estinzione” e “Nibbāna” sono ovunque utilizzati in modo
-intercambiabile. “Estinzione” deve essere intesa come estinzione del
-fuoco (S. 35:28, cit. nel cap. 4, p. 73) della bramosia, dell’odio e
-dell’illusione, e delle loro conseguenze. Non deve essere intesa per
-significare l’“estinzione di una persona vivente” (si veda il cap. 11,
-p. 226). La moderna etimologia fa derivare la parola _nibbāna_
-(sanscrito: _nirvāṇa_) dal prefisso negativo _ni_(r) cui si aggiunge la
-radice vā (soffiare), con il senso di “cessazione del soffio vitale”. Il
-significato originario fu probabilmente estinzione di un fuoco per la
-cessazione del soffio di un mantice, ad esempio il fuoco di un fabbro.
-Pare che tale significato sia poi stato applicato all’estinzione del
-fuoco mediante qualsiasi mezzo, ad esempio l’esaurimento della fiamma di
-una lampada (_nibbāyati_: M. 140; _nibbanti_: Sn. 2:1, v. 14). Per via
-analogica ciò fu esteso all’estinzione della brama e al riposo, del
-tutto raggiunti da un Arahant durante la vita. Alla sua morte fisica la
-processualità legata ai cinque aggregati si dissolverà senza essere
-rinnovata. Nibbāna è un termine erroneamente identificato come
-“estinzione di un sé esistente” e, allo stesso modo, della perpetuazione
-del sé (si veda il cap. 12, pp. 254-262).
-
-//link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
-
-[[nota5]]5. Invece di «che va verso una sola direzione», il termine
-composto _ekāyana_ è di solito tradotto con «l’unica via»; si veda però
-l’uso di tale termine in M. 12.
-
-//link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
-
-[[nota6]]6. «Che abbiano fede coloro che ascoltano» (_ye sotavanto
-pamuñcantu saddhaṃ_) è un passo molto controverso. Di solito viene reso
-con «Che coloro che ascoltano rinuncino alla loro fede». Questo
-significato, però, stride con lo spirito dell’insegnamento. Esso dipende
-anche dall’interpretazione della parola _vissajjentu_ (che il
-Commentario glossa con _pamuñcantu_) come «fate che rinuncino», ma
-questa parola può anche significare «che loro diano» o «che loro
-impieghino». Così _pamuñcantu_: «che loro mostrino, che loro mettano in
-evidenza». Che il Commentario intenda il passo in questo modo è
-confermato da quanto si legge alla fine del relativo paragrafo:
-«Lasciate che ognuno proponga la sua fede»: Comm. a M. 26), nel quale
-_upanetu_ parafrasa _pamuñcantu_. L’espressione idiomatica ricorre in
-Sn. 1146, dove sfortunatamente è stata talvolta confusa con un’altra
-espressione idiomatica, _saddhā-vimutto_: “liberazione mediante la
-fede”.
-
-//link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
-
-[[nota7]]7. “Chi Tutto Trascende” (_sabbābhibhū_): un derivato della
-radice _bhū_ (essere), nel senso di “al di là dell’esistenza” o “chi ha
-superato ogni esistenza”. _Abhibhū_, che incontreremo di nuovo più
-avanti, è parafrasato da alcuni traduttori con “maestria” (come in
-_abhibhāyatana_) o Conquistatore come epiteto di Mahā-brahmā. Può essere
-ritenuto come uno degli esempi dell’uso di un termine corrente da parte
-del Buddha, ma in un contesto che ne trasforma il significato.
-
-//link:#OrigineNota7[image:../Images/BackArrow.jpg[<--]]
-
-[[nota8]]8. Degli “aggregati affetti dall’attaccamento”
-(_upādānakkhandha_) si tratta nel cap. 12.
-
-//link:#OrigineNota8[image:../Images/BackArrow.jpg[<--]]
-
-[[nota9]]9. _bhāvetabbaṃ_: “deve essere coltivata, sviluppata” (Nyp.).
-
-//link:#OrigineNota9[image:../Images/BackArrow.jpg[<--]]
+[.suttaref]
+_Vin. Mv. 1:6; cfr. S. 22:59_

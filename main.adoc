@@ -76,13 +76,16 @@ include::{includes}/01-La-nascita-e-i-primi-anni.adoc[]
 // DONE
 include::{includes}/02-Lo-sforzo-per-l-illuminazione.adoc[]
 
-// TODO
+// DONE
 include::{includes}/03-Dopo-l-Illuminazione.adoc[]
 
+// DONE
 include::{includes}/04-La-diffusione-del-Dhamma.adoc[]
 
+// DONE
 include::{includes}/05-I-due-discepoli-eminenti.adoc[]
 
+// TODO
 include::{includes}/06-Anathapindika.adoc[]
 
 include::{includes}/07-L-ordine-delle-monache.adoc[]
