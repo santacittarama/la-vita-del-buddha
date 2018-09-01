@@ -1,6 +1,7 @@
 = La Nascita e i Primi Anni
 
-PRIMO NARRATORE. La storia dell’India inizia con la vita del Buddha
+[.narrator]
+`PRIMO NARRATORE.` La storia dell’India inizia con la vita del Buddha
 Gotama. Più esattamente, è a questo punto che la memoria storica
 rimpiazza l’archeologia e la leggenda. Le notizie fornite dalla vita e
 dagli insegnamenti del Buddha – sono i primi testi a essere ritenuti
@@ -19,7 +20,8 @@ del mese di maggio. Il periodo nel quale egli visse sembra essere stato
 eccezionalmente calmo, la società era stabile e i governi ben
 organizzati, in forte contrasto rispetto a quanto avvenne prima e dopo.
 
-SECONDO NARRATORE. Tre mesi dopo il _Parinibbāna_ del Buddha, i suoi
+[.narrator]
+`SECONDO NARRATORE.` Tre mesi dopo il _Parinibbāna_ del Buddha, i suoi
 discepoli più longevi sopravvissutigli convocarono un concilio di
 cinquecento monaci anziani per mettersi d’accordo sulla forma in cui
 l’insegnamento del Maestro doveva essere tramandato alla posterità. Tra
@@ -39,17 +41,29 @@ samayena_ – «Avvenne questo» – mentre Ānanda cominciò ogni discorso
 riferendo il luogo in cui il Buddha parlò e la persona alla quale egli
 si rivolse, iniziando con le parole _evaṃ me sutaṃ_ – «Così ho udito».
 
-PRIMO NARRATORE. Questa narrazione della vita del Buddha è tratta da
+[.narrator]
+`PRIMO NARRATORE.` Questa narrazione della vita del Buddha è tratta da
 tali due “Canestri”. Come siano riusciti a giungere fino a noi, lo
 diremo in seguito. Qui, per cominciare, offriamo il racconto dell’ultima
 nascita del Buddha, descritta da lui stesso e in seguito riferita da
 Ānanda durante il concilio. Le parole furono pronunciate nella lingua
 del Buddha, nota come lingua pāli.
 
-PRIMA VOCE. Così ho udito. Una volta il
-Beato link:#nota1[^1^] soggiornava a Sāvatthī, nel Boschetto di Jeta,
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta il
+Beatofootnote:[Una traduzione letterale dell’aggettivo _bhagavant_ è
+impossibile. Viene perciò reso con “Beato”. Buddhaghosa nel suo
+_Visuddhimagga_ (VII, pp. 53 ss.) offre numerose spiegazioni in
+merito.] soggiornava a Sāvatthī, nel Boschetto di Jeta,
 nel parco di Anāthapiṇḍika. Un certo numero di
-bhikkhu link:#nota2[^2^] era in attesa nella sala delle riunioni, dove
+bhikkhufootnote:[La parola “bhikkhu” (in sanscrito: _bhikṣhu_) è stata
+lasciata in lingua pāli. Etimologicamente deriva da _bhikkhā_
+(elemosina). Vi sono però altre derivazioni “semantiche” più antiche:
+_saṃsāre bhayaṃ ikkhatī ti bhikkhu_ («colui che vede la paura nel ciclo
+delle rinascite, e perciò è un “veggente della paura”»). Un bhikkhu è un
+membro a pieno titolo della comunità monastica (Saṅgha), ma il fatto che
+vi sia pienamente accolto non comporta alcun voto
+irrevocabile.] era in attesa nella sala delle riunioni, dove
 si erano raccolti al ritorno dalla questua, dopo il termine del pasto.
 Frattanto, dicevano tra loro: «È meraviglioso, amici, è stupefacente
 come il potere e l’energia del Perfetto gli consentano di avere
@@ -80,9 +94,25 @@ meravigliose e stupefacenti qualità degli Esseri Perfetti».
 
 «Ho sentito e imparato questo, Signore, dalle labbra stesse del Beato.
 Consapevole e con piena presenza mentale il Bodhisatta, l’Essere Dedito
-all’Illuminazione, apparve nel paradiso dei Gioiosi link:#nota3[^3^]. Ed
-è questo che io ricordo come meravigliosa e stupefacente qualità del
-Beato».
+all’Illuminazione, apparve nel paradiso dei Gioiosi.footnote:[Il paradiso
+dei Gioiosi (_Tusita_). La cosmologia di quei
+tempi descrive molti paradisi: in particolare sei paradisi nei quali
+sono goduti tutti i piaceri sensoriali; al di sopra di questi, dodici
+paradisi di Brahmā – il “Mondo della Suprema Divinità” – nei quali la
+consapevolezza è del tutto purificata dalla brama, benché non lo sia da
+una sua futura potenzialità. Secondo il Commentario, in questi ultimi
+paradisi la forma materiale è rarefatta dall’assenza dei tre sensi
+dell’odorato, del gusto e del tatto, nonché del sesso; tali paradisi
+corrispondono agli stati raggiungibili dagli esseri umani nei primi
+quattro jhāna (stati di assorbimento meditativo). Oltre a questi, per
+meglio dire, affinamenti dei quattro jhāna, vi sono quattro stati
+infiniti “privi di forma”, nei quali ogni percezione della forma
+materiale e delle differenze è trascesa: corrispondono all’infinità
+dello spazio e della coscienza, al nulla-è, alla
+né-percezione-né-non-percezione. La rinascita in ognuno di essi è
+impermanente e seguìta da nuove rinascite fino a quando non si ottiene
+il Nibbāna, il non-creato.] Ed è questo che io ricordo come meravigliosa
+e stupefacente qualità del Beato».
 
 «Ho sentito e imparato questo, Signore, dalle labbra stesse del Beato.
 Consapevole e con piena presenza mentale il Bodhisatta restò nel
@@ -98,7 +128,10 @@ Gioiosi e discese nel grembo di sua madre».
 grembo di sua madre, una luce grande e incommensurabile che superava per
 splendore quella degli déi apparve nel mondo con i suoi deva, con i suoi
 Māra e con le sue divinità, in questa generazione con i suoi monaci e
-brāhmaṇa, con i suoi principi e uomini link:#nota4[^4^]. E anche nelle
+brāhmaṇa, con i suoi principi e uomini.footnote:[Seguendo il Commentario,
+_sadevamanussānaṃ_ è stato tradotto con «con i suoi principi e uomini».
+È il senso complessivo a richiederlo, mentre “deva” era anche la forma
+normale per rivolgersi a un re.] E anche nelle
 intercapedini di quell’abissale mondo fatto di vuoto, tenebre e assoluta
 oscurità, dove la luna e il sole, potenti e possenti come sono, non
 riescono a far prevalere la loro luce – pure là comparve una luce grande
@@ -207,14 +240,16 @@ Questo è ciò che il venerabile Ānanda disse. Il Maestro approvò. I
 bhikkhu furono soddisfatti, e si deliziarono delle parole del venerabile
 Ānanda.
 
-M. 123; cf. D. 14
+[.suttaref]
+_M. 123; cf. D. 14_
 
- +
-
-PRIMO NARRATORE. Come un veggente brāhmaṇa – un veggente del “divino” o
+[.narrator]
+`PRIMO NARRATORE.` Come un veggente brāhmaṇa – un veggente del “divino” o
 della casta dei sacerdoti – predisse la futura Illuminazione è
 raccontato in un canto.
 
+[verse, Sn. 3:11, role=cantor]
+____
 CANTORE
 
 Il Saggio Asita, nella sua meditazione diurna, +
@@ -265,7 +300,8 @@ senza che nessuno vedesse +
 chi reggeva il parasole e i piumini.
 
 Il saggio dai capelli intrecciati, chiamato
-Kaṇhasiri link:#nota5[^5^], +
+Kaṇhasiri,footnote:[_Kaṇhasiri_ significa “Buio Splendore”
+(l’equivalente in sanscrito di _Kaṇha_ è _Kṛṣṇa_).] +
 vedendo il bimbo come un gioiello d’oro su broccato, +
 con il bianco parasole tenuto sul suo capo, +
 lo accolse colmo di gioia e di felicità. +
@@ -312,10 +348,10 @@ e credette in lui quando lo vide. +
 Adempiendo il volere di Asita, +
 egli chiese al Perfetto Saggio +
 del Silenzio Supremo.
+____
 
-Sn. 3:11
-
-PRIMO NARRATORE. Benché la letteratura successiva offra molti dettagli
+[.narrator]
+`PRIMO NARRATORE.` Benché la letteratura successiva offra molti dettagli
 sui primi anni, il _Tipiṭaka_ dice pochissimo in proposito. Fa
 riferimento a due soli episodi. Innanzitutto, il ricordo della
 meditazione sotto l’albero di melarosa mentre il padre del Bodhisatta
@@ -325,12 +361,17 @@ ci soffermeremo in seguito. Poi il racconto delle “tre riflessioni”, che
 corrispondono a tre dei “messaggeri” – l’anziano, il malato e il defunto
 – visti dal precedente Buddha Vipassī.
 
-D. 14
+[.suttaref]
+_D. 14_
 
- +
-
-PRIMA VOCE. «Ero delicato, molto delicato, massimamente
-delicato link:#nota6[^6^]. Laghetti adorni di fiori erano allestiti
+[.voice]
+`PRIMA VOCE.` «Ero delicato, molto delicato, massimamente
+delicato.footnote:[Queste circostanze sono altrove considerate essere costanti
+per tutti i Bodhisatta nella loro ultima esistenza (D. 14). Nel
+_Tipiṭaka_ la narrazione dei “quattro messaggeri” – l’anziano, il
+malato, il cadavere e il monaco – è riferita solo al precedente Buddha
+Vipassī, non al Buddha Gotama. Racconti successivi la collegano anche al
+Buddha Gotama.] Laghetti adorni di fiori erano allestiti
 nella casa di mio padre per mio solo beneficio. In uno fiorivano gigli
 blu, in un altro gigli bianchi, in un altro ancora gigli rossi. Non
 usavo legno di sandalo a meno che non provenisse da Benares. Il mio
@@ -373,70 +414,5 @@ morte, e perciò non mi si addice essere scosso, umiliato e disgustato
 vedendo un altro che è morto”. Quando facevo questa riflessione, la
 vanità della vita mi abbandonava del tutto».
 
-A. 3:38
-
- 
-
-'''''
-
- 
-
-[[nota1]]1.Una traduzione letterale dell’aggettivo _bhagavant_ è
-impossibile. Viene perciò reso con “Beato”. Buddhaghosa nel suo
-_Visuddhimagga_ (VII, pp. 53 ss.) offre numerose spiegazioni in
-merito.
-
-//link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
-
-[[nota2]]2. La parola “bhikkhu” (in sanscrito: _bhikṣhu_) è stata
-lasciata in lingua pāli. Etimologicamente deriva da _bhikkhā_
-(elemosina). Vi sono però altre derivazioni “semantiche” più antiche:
-_saṃsāre bhayaṃ ikkhatī ti bhikkhu_ («colui che vede la paura nel ciclo
-delle rinascite, e perciò è un “veggente della paura”»). Un bhikkhu è un
-membro a pieno titolo della comunità monastica (Saṅgha), ma il fatto che
-vi sia pienamente accolto non comporta alcun voto
-irrevocabile.
-
-//link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
-
-[[nota3]]3. Il paradiso dei Gioiosi (_Tusita_). La cosmologia di quei
-tempi descrive molti paradisi: in particolare sei paradisi nei quali
-sono goduti tutti i piaceri sensoriali; al di sopra di questi, dodici
-paradisi di Brahmā – il “Mondo della Suprema Divinità” – nei quali la
-consapevolezza è del tutto purificata dalla brama, benché non lo sia da
-una sua futura potenzialità. Secondo il Commentario, in questi ultimi
-paradisi la forma materiale è rarefatta dall’assenza dei tre sensi
-dell’odorato, del gusto e del tatto, nonché del sesso; tali paradisi
-corrispondono agli stati raggiungibili dagli esseri umani nei primi
-quattro jhāna (stati di assorbimento meditativo). Oltre a questi, per
-meglio dire, affinamenti dei quattro jhāna, vi sono quattro stati
-infiniti “privi di forma”, nei quali ogni percezione della forma
-materiale e delle differenze è trascesa: corrispondono all’infinità
-dello spazio e della coscienza, al nulla-è, alla
-né-percezione-né-non-percezione. La rinascita in ognuno di essi è
-impermanente e seguìta da nuove rinascite fino a quando non si ottiene
-il Nibbāna, il
-non-creato.
-
-//link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
-
-[[nota4]]4. Seguendo il Commentario, _sadevamanussānaṃ_ è stato tradotto
-con «con i suoi principi e uomini». È il senso complessivo a
-richiederlo, mentre “deva” era anche la forma normale per rivolgersi a
-un re.
-
-//link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
-
-[[nota5]]5. _Kaṇhasiri_ significa “Buio Splendore” (l’equivalente in
-sanscrito di _Kaṇha_ è _Kṛṣṇa_).
-
-//link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
-
-[[nota6]]6. Queste circostanze sono altrove considerate essere costanti
-per tutti i Bodhisatta nella loro ultima esistenza (D. 14). Nel
-_Tipiṭaka_ la narrazione dei “quattro messaggeri” – l’anziano, il
-malato, il cadavere e il monaco – è riferita solo al precedente Buddha
-Vipassī, non al Buddha Gotama. Racconti successivi la collegano anche al
-Buddha Gotama.
-
-//link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
+[.suttaref]
+_A. 3:38_

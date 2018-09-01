@@ -11,7 +11,7 @@ fi
 # 3. zip back to EPUB
 
 MAIN_ADOC="$1.adoc"
-NAME="$1"
+NAME="la-vita-del-buddha"
 
 # no trailing slash
 OUT_DIR=output

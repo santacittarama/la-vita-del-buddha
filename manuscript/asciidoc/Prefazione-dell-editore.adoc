@@ -1,3 +1,4 @@
+[[editors-preface]]
 = Prefazione Dell’editore
 
 Questo volume è stato pubblicato dalle carte postume del defunto
@@ -26,10 +27,7 @@ ritenne che alcune di queste sue interpretazioni non potessero essere
 coerentemente applicate a tutti i contesti, un fatto che ha contribuito
 a far sì che l’editore abbia proceduto nel modo suddetto.
 
-Nyanaponika Thera
-
-Forest Hermitage
-
-Kandy, Ceylon
-
+Nyanaponika Thera +
+Forest Hermitage +
+Kandy, Ceylon +
 Settembre 1971

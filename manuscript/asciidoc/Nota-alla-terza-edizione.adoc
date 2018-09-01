@@ -1,5 +1,4 @@
-NOTA ALLA TERZA EDIZIONE
-~~~~~~~~~~~~~~~~~~~~~~~~
+= Nota Alla Terza Edizione
 
 In questa terza edizione dell’ormai classica _Vita del Buddha_ del
 venerabile Ñāṇamoli sono state corrette alcune minime incongruenze
@@ -16,12 +15,10 @@ da lui reso con “Legge”; “Saṅgha”, da lui indicato con “Comunità”
 Le note seguite da “Nyp.” tra parentesi tonde sono di Nyanaponika Thera,
 quelle seguite da “BB” sono mie. Tutte le altre sono dell’autore.
 
-In questa nuova edizione è presente l__’Elenco delle fonti__, che
+In questa nuova edizione è presente __l'Elenco delle fonti__, che
 consente agli studiosi dei sutta in lingua pāli di rintracciare
 facilmente i testi. Il nucleo originario di questa sezione è stato
 compilato da bhikkhu Ñāṇajivako, ma è stato implementato per renderlo il
 più completo possibile.
-
- +
 
 Bhikkhu Bodhi

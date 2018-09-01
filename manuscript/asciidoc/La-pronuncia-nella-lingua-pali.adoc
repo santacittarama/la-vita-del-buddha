@@ -1,3 +1,4 @@
+[[pali-pronounciation]]
 = La Pronuncia Nella Lingua Pāli
 
 (Quanto segue è stato ripreso, con lievi modifiche, dalla tabella posta
@@ -16,33 +17,33 @@ l’accento si ritrae sulla quartultima. Nei composti, ogni parola
 conserva il suo accento (per esempio _Bùddha-ghòsa, Visùddhi-màgga_).
 Inoltre:
 
-_c_      rappresenta sempre una palatale sorda, anche davanti alle
+_c_:: rappresenta sempre una palatale sorda, anche davanti alle
 vocali _a, o, u_ (p. es., _citta_; ma anche _cakkhu_, pronunciato
 “ciakkhu”);
 
-_g_            rappresenta sempre una gutturale sonora, anche davanti
+_g_:: rappresenta sempre una gutturale sonora, anche davanti
 alle vocali _e, i_ (per esempio, _garu_; ma anche _gilāna_, pron.
 “ghìlana”);
 
-_h_            è una consonante che indica un’aspirazione che deve
+_h_:: è una consonante che indica un’aspirazione che deve
 essere pronunciata (lo _hadaya_); l’aspirazione si deve far sentire
 anche quando segue una consonante occlusiva (p. es. in Dhamma);
 
-_j_             rappresenta sempre una palatale sonora, anche davanti
+_j_:: rappresenta sempre una palatale sonora, anche davanti
 alle vocali _a, o, u_ (p. es., _jana_, pron. “giana”);
 
-_ṃ_           indica una nasalizzazione (p. es., _saṃsāra_);
+_ṃ_:: indica una nasalizzazione (p. es., _saṃsāra_);
 
-_ñ_            è il suono _gn_ dell’italiano _gnosi_ (p. es. in
+_ñ_:: è il suono _gn_ dell’italiano _gnosi_ (p. es. in
 _kañcuka_);
 
-_ṇ_            è la nasale retroﬂessa (un suono intermedio fra la
+_ṇ_:: è la nasale retroﬂessa (un suono intermedio fra la
 palatale di gnosi e la dentale di _anta_) (p. es. in _paṇḍu_);
 
-_ṭ, h, ḍ, ḍh_ sono consonanti occlusive retroflesse, pronunciate alla
+_ṭ, h, ḍ, ḍh_:: sono consonanti occlusive retroflesse, pronunciate alla
 maniera inglese (_t_ di _tree_) o siciliana (_d_ di _bedda_);
 
-_s_            è la sibilante sorda dell’italiano sarto (p. es.
+_s_:: è la sibilante sorda dell’italiano sarto (p. es.
 _sutta_); si noti che nella lingua pāli non esiste il suono
 dell’italiano _caso_, cioè la _s_ sonora o “dolce” intervocalica.
 

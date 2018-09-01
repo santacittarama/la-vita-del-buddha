@@ -3,7 +3,8 @@
 Quanto poco alla fine del Settecento gli europei conoscessero il Buddha
 e il suo insegnamento lo sottolineò il Gibbon in una nota al XIV
 capitolo del suo _Decline and Fall_. Egli disse che «l’idolo
-Fó» link:#NDT[^NDT^] è «il Fó dell’India, la cui venerazione è dominante
+Fó»footnote:[Fó è il nome attribuito al Buddha in Cina]
+è «il Fó dell’India, la cui venerazione è dominante
 tra le sette dell’Hindustan, del Siam, del Tibet, della Cina e del
 Giappone. Questo personaggio misterioso è, però, ancora avvolto in una
 nebbia che i ricercatori della nostra Asiatic Society possono
@@ -156,7 +157,9 @@ traduzione è una distorsione. Una gran cura è stata tuttavia riposta
 nella coerente restituzione di termini tecnici – evitando “variazioni
 eleganti” – e tali termini in lingua pāli potranno essere rinvenuti
 nell’Indice, a fianco degli equivalenti in lingua
-inglese. link:#NDT1[^NDT1^] La scelta dei termini equivalenti in inglese
+inglese.footnote:[Nell’Indice di questo volume, tali termini in lingua
+pāli è possibile rinvenirli tra (), a fianco delle parole italiane.]
+La scelta dei termini equivalenti in inglese
 è stata effettuata con grande attenzione e assistita dall’intento di
 consentire una coerente analisi delle forme inglesi per uno studio di
 genere ontologico e della teoria percettiva e cognitiva insita – non a
@@ -166,7 +169,9 @@ Vi sono casi in cui la spiegazione dei Commentari in relazione al
 significato delle parole è in conflitto con quella offerta dal
 _Dictionary_ della Pāli Text Society. In tali casi la preferenza è stata
 data ai Commentari. Dei casi più importanti si rende conto nelle
-note.link:#NDT2[^NDT2^]
+note.footnote:[Segue un paragrafo, qui omesso, relativo alla pronuncia
+delle parole in lingua pāli per gli anglofoni. In relazione alla pronuncia
+di tali parole per gli italiani, si veda la _Nota del traduttore_.]
 
 Infine, qualche parola sulla forma di questa compilazione. La forma in
 cui si presenta, non pensata per una divulgazione di massa, è stata
@@ -179,15 +184,3 @@ dire, le parti spettanti ai “Narratori” sono per scelta caratterizzate
 sia da uno stile piatto sia dalla massima brevità.
 
 Bhikkhu Ñāṇamoli
-
-[[NDT]]NDT Fó è il nome attribuito al Buddha in Cina
-
-//link:#OrigineNDT[image:../Images/BackArrow.jpg[<--]]
-
-[[NDT1]]NDT1 Nell’Indice di questo volume, tali termini in lingua pāli è
-possibile rinvenirli tra (), a fianco delle parole italiane.
-
-[[NDT2]]NDT2 Segue un paragrafo, qui omesso, relativo alla pronuncia
-delle parole in lingua pāli per gli anglofoni. In relazione alla
-pronuncia di tali parole per gli italiani, si veda la _Nota del
-traduttore_.

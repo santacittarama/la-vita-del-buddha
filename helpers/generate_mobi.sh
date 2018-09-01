@@ -13,7 +13,7 @@ fi
 # (opt) 5. convert to MOBI 6 with ebook-convert (calibre)
 
 MAIN_ADOC="$1.adoc"
-NAME="$1"
+NAME="la-vita-del-buddha"
 
 # no trailing slash
 OUT_DIR=output
