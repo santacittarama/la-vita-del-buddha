@@ -1,6 +1,7 @@
 = Il Periodo di Mezzo
 
-PRIMO NARRATORE. Dopo il ventesimo anno successivo all’Illuminazione –
+[.narrator]
+`PRIMO NARRATORE.` Dopo il ventesimo anno successivo all’Illuminazione –
 da quando il Buddha aveva cinquantacinque anni – tutte le tradizioni
 rinunciano fino all’ultimo anno al tentativo di offrire un ordine
 cronologico per gli eventi. L’evidenza intrinseca al _Tipiṭaka_ stesso
@@ -24,7 +25,8 @@ elaborare una certa successione degli eventi. Segue ora un certo numero
 di episodi e di discorsi, molti dei quali possono essere fatti risalire
 a qualsiasi tempo.
 
-SECONDO NARRATORE. Deve essere innanzittuto menzionato un evento, che la
+[.narrator]
+`SECONDO NARRATORE.` Deve essere innanzittuto menzionato un evento, che la
 tradizione successiva colloca trentuno anni dopo l’Illuminazione. Si
 tratta della donazione del Monastero Orientale a Sāvatthī effettuata da
 Visākhā, devota laica. Ella fu scelta dal Buddha stesso come la più
@@ -32,9 +34,11 @@ eminente fra le sue seguaci. Poiché lei fu determinante per la
 conversione all’insegnamento del suocero, Migāra, nella Dispensazione
 [del Maestro] divenne nota con il nome di “Madre di Migāra”.
 
-PRIMO NARRATORE. Questo è un episodio che le è tipico.
+[.narrator]
+`PRIMO NARRATORE.` Questo è un episodio che le è tipico.
 
-SECONDA VOCE. Avvenne questo. Il Beato, dopo essere rimasto a Benares
+[.voice]
+`SECONDA VOCE.` Avvenne questo. Il Beato, dopo essere rimasto a Benares
 per tutto il tempo che volle, si mise in viaggio per tappe verso
 Sāvatthī. Quando infine vi giunse, andò a stare nel Boschetto di Jeta,
 nel Parco di Anāthapiṇḍika. Allora Visākhā, Madre di Migāra, andò dal
@@ -214,6 +218,8 @@ stessa quando chiedo gli otto favori al Perfetto».
 favori prevedendo questi benefici. Otterrai questi otto favori». Allora
 il Beato diede la sua benedizione con queste strofe:
 
+[verse]
+____
 Quando una donna, discepola di un Sublime, +
 contenta della virtù, offre sia cibo sia bevande, +
 e, dopo aver sconfitto l’avarizia, elargisce un dono +
@@ -222,10 +228,13 @@ ella ottiene la santa vita con un cammino +
 ugualmente senza macchia e immacolato. +
 Così, amando il merito, con felicità e benessere, +
 a lungo ella gioisce nel mondo paradisiaco.
+____
 
-Vin. Mv. 8:15
+[.suttaref]
+_Vin. Mv. 8:15_
 
-PRIMA VOCE. Così ho udito. Una volta il Beato soggiornava a Sāvatthī nel
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta il Beato soggiornava a Sāvatthī nel
 Palazzo della Madre di Migāra, nel Parco Orientale. Allora morì una cara
 e amata nipotina di Visākhā. In pieno giorno Visākhā andò dal Beato con
 gli abiti e i cappelli bagnati. Dopo avergli prestato omaggio, ella si
@@ -258,6 +267,8 @@ dolori. Chi ha una persona cara ha un dolore. Chi non ha persone care
 non ha dolori. Sono privi di dolore, distaccati, non afflitti, questo
 dico».
 
+[verse]
+____
 Dolore e lutto nel mondo, +
 sofferenza di ogni genere, +
 succedono a causa delle persone care, +
@@ -266,12 +277,16 @@ ma non succedono quando non ce ne sono. +
 chi non ha persone care al mondo. +
 Chi cerca il distacco senza dolore +
 non deve avere persone care al mondo.
+____
 
-Ud. 8:8
+[.suttaref]
+_Ud. 8:8_
 
-PRIMO NARRATORE. Lasciamo ora Visākhā.
+[.narrator]
+`PRIMO NARRATORE.` Lasciamo ora Visākhā.
 
-SECONDA VOCE. Avvenne questo. Il Beato stava soggiornando a Rājagaha sul
+[.voice]
+`SECONDA VOCE.` Avvenne questo. Il Beato stava soggiornando a Rājagaha sul
 Picco dell’Avvoltoio, e a quel tempo gli asceti itineranti di altre
 sette avevano l’abitudine di riunirsi nelle mezze lune del
 quattordicesimo e del quindicesimo [giorno] e nel quarto di luna
@@ -307,13 +322,16 @@ queste parole: «Bhikkhu, consento che si predichi il Dhamma quando c’è
 una riunione nelle mezze lune del quattordicesimo e del quindicesimo
 [giorno] e nel quarto di luna dell’ottavo [giorno]».
 
-Vin. Mv. 2:1.2
+[.suttaref]
+_Vin. Mv. 2:1.2_
 
-PRIMO NARRATORE. Nel Vinaya Piṭaka vi è un racconto degli eventi che
+[.narrator]
+`PRIMO NARRATORE.` Nel Vinaya Piṭaka vi è un racconto degli eventi che
 condussero all’istituzione del _Pātimokkha_ (o Codice delle Regole). Il
 racconto è molto lungo e perciò qui lo riassumiamo.
 
-SECONDO NARRATORE. Sudinna era il figlio di un ricco mercante di
+[.narrator]
+`SECONDO NARRATORE.` Sudinna era il figlio di un ricco mercante di
 Kalanda, un villaggio nei pressi di Vesālī. Era sposato ma non aveva
 figli. Ascoltò il Buddha predicare a Vesālī e il risultato fu che chiese
 l’ammissione alla vita religiosa, ma gli venne detto che doveva ottenere
@@ -410,7 +428,8 @@ comunione».
 
 È così che questa regola d’addestramento fu resa nota dal Beato.
 
-Vin. Sv. Pārā. 1
+[.suttaref]
+_Vin. Sv. Pārā. 1_
 
 Una volta, mentre il Beato era solo in ritiro, questo pensiero sorse
 nella sua mente: «E se io consentissi che le regole già da me rese note
@@ -422,7 +441,8 @@ Quando fu sera, si alzò dal ritiro e per questa occasione tenne un
 discorso di Dhamma, si rivolse ai bhikkhu e riferì loro la sua
 decisione.
 
-Vin. Mv. 2:3
+[.suttaref]
+_Vin. Mv. 2:3_
 
 Avvenne questo. Il Beato soggiornava a Sāvatthī nel Palazzo della Madre
 di Migāra, nel Parco Orientale. Era allora il giorno di _Uposatha_, e il
@@ -544,14 +564,19 @@ il frutto della condizione di Arahant».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
+[verse]
+____
 La pioggia infradicia quel che è tenuto ravvolto, +
 ma non quel che è aperto. +
 Si scopra, allora, quel che è celato, +
 affinché essa non l’infradici.
+____
 
-Vin. Cv. 9:1; Ud. 5:5; A. 8:20
+[.suttaref]
+_Vin. Cv. 9:1; Ud. 5:5; A. 8:20_
 
-PRIMA VOCE. Così ho udito. Una volta, quando il Beato soggiornava a
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta, quando il Beato soggiornava a
 Sāvatthī, il venerabile Mahā-Kassapa andò da lui. Gli chiese: «Signore,
 qual è la causa, qual è la ragione, perché prima c’erano meno regole per
 l’addestramento e più bhikkhu che raggiungevano e dimoravano nella
@@ -585,7 +610,8 @@ laici e le seguaci laiche sono rispettosi e devoti nei riguardi del
 Maestro, nei riguardi del Dhamma, nei riguardi del Saṅgha, nei riguardi
 dell’addestramento e nei riguardi della concentrazione.
 
-S. 16:13; cf. A. 7:56
+[.suttaref]
+_S. 16:13; cf. A. 7:56_
 
 Una volta il Beato soggiornava a Vesālī, nel Salone con il Tetto Aguzzo
 nella Grande Foresta. Allora un certo bhikkhu Vajjiputtaka andò dal
@@ -611,9 +637,11 @@ tutto addestrato, furono in lui completamente abbandonati brama,
 avversione e illusione. Con ciò, egli non compì atti non salutari né
 coltivò il male.
 
-A. 3:83
+[.suttaref]
+_A. 3:83_
 
-SECONDA VOCE. Avvenne questo. Dopo che il Beato aveva soggiornato a
+[.voice]
+`SECONDA VOCE.` Avvenne questo. Dopo che il Beato aveva soggiornato a
 Rājagaha per tutto il tempo che volle, si avviò per tappe verso Vesālī.
 Ora, mentre era in viaggio tra le due città vide molti bhikkhu carichi
 di vesti, con fardelli di vesti sul loro capo, sulle loro spalle e ai
@@ -642,7 +670,8 @@ tre vesti monastiche: «Bhikkhu, consento che siano indossate tre vesti:
 una veste esterna rappezzata di doppio spessore, una sola veste interna
 e un solo panno da portare alla vita».
 
-Vin. Mv. 8:13
+[.suttaref]
+_Vin. Mv. 8:13_
 
 Un’altra volta il Beato, quando era in viaggio da Rajagaha verso le
 Colline Meridionali, disse al venerabile Ānanda: «Ānanda, vedi il
@@ -653,9 +682,11 @@ trasversali?».
 
 «Cerca di fare in modo che la veste dei bhikkhu sia così, Ānanda».
 
-Vin. Mv. 8:12
+[.suttaref]
+_Vin. Mv. 8:12_
 
-PRIMA VOCE. Così ho udito. Una volta, quando il Beato soggiornava a
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta, quando il Beato soggiornava a
 Sāvatthī, il venerabile Mahā-Kaccāna soggiornava nel territorio di
 Avantī, sulla Rupe di Pavatta a Kururaghara, e riceveva supporto da un
 seguace laico chiamato Soṇa Kuṭikaṇṇa. Soṇa Kuṭikaṇṇa andò dal
@@ -681,7 +712,22 @@ meno.
 Poi egli fece di nuovo la stessa richiesta e ricevette la stessa
 risposta. In seguito fece questa stessa richiesta una terza volta.
 Allora il venerabile Mahā-Kaccāna gli concesse di “andare
-oltre” link:#NDT[^NDT^]. Allora c’erano però solo pochi bhikkhu nel
+oltre”.footnote:[Nel testo inglese si ha “going forth” con il senso di
+“lasciare la propria dimora per diventare senza dimora” per tradurre il
+termine _pabbajjā_, con il quale nei testi buddhisti in lingua pāli si
+indica il passaggio dalla vita laica a quella di monaco privo di dimora;
+tale termine è utilizzato nella prima ordinazione d’ingresso nel Saṅgha,
+tramite la quale si diventa novizi o _sāmanera_. Già il Vinaya menziona
+in alcuni casi l’«attesa di tre anni» necessaria per la piena
+ordinazione monastica, la completa accettazione nel Saṅgha, indicata in
+lingua pāli con il termine _upasampadā_. “Go forth” ricorre di frequente
+nel testo e solo quando strettamente necessario è letteralmente tradotto
+con “andare oltre”, come in questo caso, per rispettare la successione
+tra prima e completa ordinazione monastica. In altri punti del testo,
+però, questa espressione risulterebbe poco comprensibile per chi non ha
+molta familiarità con le consuetudini monastiche _theravādin_. Così, per
+facilitare il lettore, altrove si è scelto di rendere “go forth” in modo
+vario, in base al contesto.] Allora c’erano però solo pochi bhikkhu nel
 territorio di Avanti e fu solo dopo tre anni che il venerabile
 Mahā-Kaccāna fu in grado, con problemi e difficoltà, di radunare un
 collegio di dieci bhikkhu. Dopo averlo fatto, impartì l’ammissione alla
@@ -729,7 +775,8 @@ venerabile Soṇa. Quando si avvicinò l’alba, il Beato si alzò e disse al
 venerabile Soṇa: «Puoi recitare qualcosa del Dhamma, bhikkhu».
 
 «E sia, Signore», egli rispose, e recitò, intonandoli, tutti i sedici
-Ottetti link:#nota1[^1^]. Quando ebbe finito, il Beato approvò, dicendo:
+Ottetti.footnote:[“Gli Ottetti” sono gli _Aṭṭhaka-vagga_ del
+_Sutta-nipāta_.] Quando ebbe finito, il Beato approvò, dicendo:
 «Bene, bhikkhu, bene. Hai imparato bene tutti i sedici Ottetti. Li sai e
 li ricordi bene. Hai una bella voce, incisiva e priva di difetti, che
 rende chiaro il significato. Quante sono le tue stagioni delle piogge,
@@ -745,12 +792,16 @@ così piena di doveri».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
+[verse]
+____
 Vedendo che il mondo è insoddisfacente, +
 conoscendo la condizione priva degli essenziali per la rinascita, +
 l’Essere Nobile non si delizia del male, +
 il male non delizia il puro di cuore.
+____
 
-Ud. 5:6; cf. Vin. Mv. 5:13
+[.suttaref]
+_Ud. 5:6; cf. Vin. Mv. 5:13_
 
 Una volta il Beato soggiornava a Vesālī, nel Salone con il Tetto Aguzzo
 nella Grande Foresta, assieme a molti discepoli anziani veramente ben
@@ -792,7 +843,8 @@ dimorate senza spine e privi di spine. Gli Arahant sono senza spine,
 bhikkhu, gli Arahant sono privi di spine, gli Arahant sono senza spine e
 privi di spine».
 
-A. 10:72
+[.suttaref]
+_A. 10:72_
 
 Una volta il Beato soggiornava a Vesālī, nel Salone con il Tetto Aguzzo
 nella Grande Foresta. Avvenne che parlò con i bhikkhu in molti modi
@@ -835,7 +887,8 @@ non salutari oggetti mentali appena sorgono, proprio come la sporcizia e
 la polvere sono portati via nell’ultimo mese della stagione calda,
 quando una grande pioggia fuori stagione li fa svanire appena sorgono».
 
-S. 54:9
+[.suttaref]
+_S. 54:9_
 
 Una volta, quando il Beato viveva a Rājagaha, un bhikkhu chiamato Thera
 viveva da solo e raccomandava di vivere da soli. Andava in un villaggio
@@ -862,9 +915,11 @@ incontaminato da tutte le cose, rinunciando a tutto, +
 s’è liberato grazie alla cessazione della brama: lo chiamo +
 un uomo che vive da solo e in perfezione.
 
-S. 21:10
+[.suttaref]
+_S. 21:10_
 
-SECONDA VOCE. Avvenne questo. Il Beato stava soggiornando a Rājagaha sul
+[.voice]
+`SECONDA VOCE.` Avvenne questo. Il Beato stava soggiornando a Rājagaha sul
 Picco dell’Avvoltoio quando Seniya Bimbisāra, re di Magadha, stava
 governando e dominando ottantamila villaggi. In quel tempo c’era pure
 uno della stirpe dei Kolivisa chiamato Soṇa, che viveva a Campā. Era il
@@ -937,9 +992,11 @@ spirituali, e assumi questo quale tua indicazione».
 
 «E sia, Signore», egli rispose.
 
-Vin. Mv. 5:1; cf. A. 6:55
+[.suttaref]
+_Vin. Mv. 5:1; cf. A. 6:55_
 
-PRIMA VOCE. Così ho udito. Una volta il Beato soggiornava a Rājagaha,
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta il Beato soggiornava a Rājagaha,
 nel Boschetto di Bambù, nel Sacrario degli Scoiattoli. In quel tempo a
 Rājagaha c’era un lebbroso chiamato Suppabuddha. Era un povero e
 miserabile sciagurato.
@@ -995,7 +1052,9 @@ miserabile sciagurato?».
 «Precedentemente, bhikkhu, Suppabuddha il lebbroso era il figlio di un
 uomo ricco in questa stessa Rājagaha. Mentre andava in un parco di
 divertimenti, egli vide il
-__Paccekabuddha__^ link:#nota2[2] ^Tagarasikhī che si recava in città
+__Paccekabuddha__footnote:[Un _Paccekabuddha_ è una persona che diviene
+illuminata senza la guida di un Buddha e che non cerca di far diventare illuminati
+gli altri (BB).] Tagarasikhī che si recava in città
 per la questua. Allora egli pensò: “Chi è quel lebbroso che vaga?”. Gli
 sputò addosso, lo insultò e se ne andò. Sperimentò la maturazione di
 quell’azione in inferno per molti anni, molti secoli, molti millenni.
@@ -1007,9 +1066,11 @@ questo, alla dissoluzione del corpo, dopo la morte, egli è riapparso nel
 paradiso in compagnia delle Trentatré Divinità. Là egli offusca le altre
 divinità per aspetto e rinomanza.
 
-Ud. 5:3
+[.suttaref]
+_Ud. 5:3_
 
-SECONDA VOCE. Avvenne questo. C’erano due bhikkhu chiamati Yamelu e
+[.voice]
+`SECONDA VOCE.` Avvenne questo. C’erano due bhikkhu chiamati Yamelu e
 Tekula che vivevano a Sāvatthī ed erano fratelli. Erano di casta
 brāhmaṇa e avevano una bella voce e una chiara dizione. Chiesero al
 Beato: «Signore, ora i bhikkhu hanno vari nomi, sono di varie razze, di
@@ -1027,7 +1088,8 @@ un discorso di Dhamma, si rivolse ai bhikkhu con queste parole:
 Chiunque faccia questo commette un’infrazione di atto errato. Consento
 che le parole del Buddha siano imparate nella lingua propria di ognuno».
 
-Vin. Cv. 5:33
+[.suttaref]
+_Vin. Cv. 5:33_
 
 Una volta il Beato starnutì mentre stava esponendo il Dhamma circondato
 da un gran numero di bhikkhu. I bhikkhu fecero un gran baccano nel dire:
@@ -1052,9 +1114,11 @@ I bhikkhu lo riferirono al Beato. Egli disse: «Bhikkhu, i capifamiglia
 sono abituati a queste superstizioni. Quando loro dicono “Lunga vita a
 te” vi consento di rispondere “Che tu possa vivere a lungo”».
 
-Vin. Cv. 5:33
+[.suttaref]
+_Vin. Cv. 5:33_
 
-PRIMA VOCE. Così ho udito. Una volta il Beato soggiornava a Sāvatthī nel
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta il Beato soggiornava a Sāvatthī nel
 Palazzo della Madre di Migāra, nel Parco Orientale. In quell’occasione
 si era alzato dal ritiro verso sera e stava seduto fuori dal cancello,
 nel porticato. Allora il re Pasenadi di Kosala lo raggiunse e, dopo
@@ -1097,6 +1161,8 @@ cinque i tipi di piaceri sensoriali».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
+[verse]
+____
 È difficile conoscere un uomo dalla sua apparenza, +
 né si può giudicarlo con un colpo d’occhio. +
 L’incontinente può andare per il mondo +
@@ -1105,8 +1171,10 @@ perché ci sono alcuni che, nascosti da una maschera, +
 risplendono fuori e sono corrotti dentro, +
 come gioielli contraffatti di argilla +
 o monete dorate di rame.
+____
 
-S. 3:11; Ud. 6:2
+[.suttaref]
+_S. 3:11; Ud. 6:2_
 
 (_Il sutta per i Kālāma_)
 
@@ -1125,7 +1193,12 @@ hanno detto il vero e quali hanno detto il falso?».
 «Siete perplessi a ragione, Kālāma. Siete dubbiosi a ragione. Perché il
 vostro dubbio è sorto esattamente a riguardo di ciò che deve essere
 messo in dubbio. Venite, Kālāma, non accontentatevi delle dicerie o
-della tradizione link:#nota3[^3^] o delle leggende, di quel che è
+della tradizionefootnote:[Se questo passo viene letto come un’ingiunzione generale a
+trascurare qualsiasi istruzione, allora sarebbe impossibile attuarla,
+perché allora la si potrebbe attuare solo non attuandola: si tratta di
+un ben conosciuto dilemma logico. Il resto del discorso dovrebbe però
+consentire di comprendere quel che si vuole dire. Per quanto concerne la
+fiducia (_saddhā_), si veda il cap. 11, p. 222.] o delle leggende, di quel che è
 esposto nelle vostre scritture o delle congetture, delle inferenze
 logiche o delle ponderate evidenze, della predilezione per un punto di
 vista dopo averlo esaminato voi stessi o con l’abilità di qualcun altro
@@ -1208,7 +1281,8 @@ me, che non faccio del male?”. Questo è il terzo benessere acquisito.
 in questa vita da entrambi questi punti di vista”. Questo è il quarto
 benessere acquisito».
 
-A. 3:65
+[.suttaref]
+_A. 3:65_
 
 Una volta avvenne che un bhikkhu fosse malato di dissenteria e giacesse
 sporco della propria urina e dei propri escrementi. Quando il Beato
@@ -1262,7 +1336,11 @@ prendersi cura di lui fino a quando non guarisce. Il suo maestro, se ne
 ha uno, deve fare altrettanto. Chi vive con lui, oppure il suo allievo,
 o chi ha lo stesso precettore, o chi ha lo stesso maestro. Se non ne ha,
 il Saṅgha deve prendersi cura di lui. Se ciò non avviene, è
-un’infrazione di atto errato» link:#nota4[^4^].
+un’infrazione di atto errato».footnote:[La cura del malato qui ingiunta
+riguarda un bhikkhu che si
+prende cura di un bhikkhu malato. La generale pratica della medicina da
+parte di bhikkhu nei riguardi dei laici è considerata alla stregua di un
+errato mezzo di sussistenza per un bhikkhu e, perciò, non è consentita.]
 
 «Quando un malato ha queste cinque qualità, di lui è difficile prendersi
 cura. Fa quel che non è appropriato. Non conosce la misura di quel che è
@@ -1273,7 +1351,8 @@ grado di sopportare le sensazioni dolorose, aspre, tormentose, pungenti,
 sgradevoli e minacciose per la vita che sono sorte. Quando una persona
 ha le opposte cinque qualità, di lui è facile prendersi cura».
 
-Vin. Mv. 8:26
+[.suttaref]
+_Vin. Mv. 8:26_
 
 «Quando un infermiere ha cinque qualità, è inadatto a prendersi cura del
 malato. Non è abile nel preparare la medicina. Non conosce quel che è
@@ -1286,20 +1365,26 @@ risvegliare e nell’incoraggiare il malato con opportuni discorsi di
 Dhamma. Quando un infermiere ha le opposte cinque qualità, è adatto a
 prendersi cura del malato».
 
-Vin. Mv. 8:26; A. 5:123-24
+[.suttaref]
+_Vin. Mv. 8:26; A. 5:123-24_
 
-PRIMA VOCE. Il Beato una volta era seduto all’aperto, nell’oscurità
+[.voice]
+`PRIMA VOCE.` Il Beato una volta era seduto all’aperto, nell’oscurità
 della notte, e delle lampade a olio erano accese. In quell’occasione un
 gran numero di falene incontravano rovina, calamità e disastro cadendo
 nelle lampade a olio. Conoscendo il significato di ciò, il Beato esclamò
 queste parole:
 
+[verse]
+____
 Benché alcuni corteggino gli estremi, non trovano +
 alcuna essenza ma rinnovano i loro legami, +
 perché dimorano in quel che vedono e nelle loro sensazioni +
 come le falene che cadono in una fiamma.
+____
 
-Ud. 6:9
+[.suttaref]
+_Ud. 6:9_
 
 Un giorno il Beato si vestì, prese la ciotola e la veste superiore, e si
 recò a Sāvatthī per la questua. Tra il Boschetto di Jeta e Sāvatthī vide
@@ -1310,16 +1395,40 @@ un gruppo di ragazzi che maltrattavano dei pesci. Andò da loro e disse:
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
+[verse]
+____
 Chi non vuole soffrire +
 non dovrebbe compiere cattive azioni +
 né in pubblico né in segreto. +
 Se ora fai del male +
 la sofferenza tuttavia certo ti trova +
 per quanto in seguito si possa tentare di sfuggirle.
+____
 
-Ud. 5:4
+[.suttaref]
+_Ud. 5:4_
 
-CANTORE link:#nota5[^5^]
+[verse, Sn. 1:8, role=cantor]
+____
+CANTOREfootnote:[Questo canto, conosciuto come «Canto della Gentilezza
+Amorevole» (Mettā Sutta), è quello al giorno d’oggi più noto. Se viene
+trascurato il passo del discorso diretto (indicato tra «…» nella
+traduzione), va persa l’architettura del sutta. Non si tratta di
+un’ingiunzione, ma di una descrizione dei pensieri di chi pratica la
+Dimora Divina della gentilezza amorevole (l’_iti_ che normalmente
+conclude i discorsi diretti in lingua pāli è spesso escluso nei versi).
+«Questa è una Dimora Divina» significa che loro – ossia gli Esseri
+Nobili, coloro che hanno realizzato l’estinzione della brama, dell’odio
+e dell’illusione – affermano che il dimorare in tal modo proprio in
+questa vita equivale alla pura consapevolezza che si sperimenta nei
+paradisi più elevati. Le ultime quattro righe sottolineano che se le
+quattro Divine Dimore conducono al paradiso, esse tuttavia non
+assicurano il conseguimento di ciò che è privo di forma,
+dell’incondizionato Nibbāna – la cessazione della nascita,
+dell’invecchiamento e della morte – a meno che non sia associato con la
+visione profonda nella natura impermanente di tutto quel che sorge e che
+è condizionato, sia esso dotato di forma o privo di forma, inclusi tutti
+i modi di esistenza paradisiaca (cf. ad esempio A. 4:125-26).]
 
 Questo dovrebbe essere fatto da chi è abile nel bene +
 per raggiungere la condizione di pace.
@@ -1366,73 +1475,4 @@ Lui che però non ha a che fare con le opinioni, +
 è virtuoso, dotato di perfetta visione, +
 e non brama più desideri sensoriali: +
 di nuovo non nascerà più in un utero.
-
-Sn. 1:8
-
-[[NDT]]NDT. Nel testo inglese si ha “going forth” con il senso di
-“lasciare la propria dimora per diventare senza dimora” per tradurre il
-termine _pabbajjā_, con il quale nei testi buddhisti in lingua pāli si
-indica il passaggio dalla vita laica a quella di monaco privo di dimora;
-tale termine è utilizzato nella prima ordinazione d’ingresso nel Saṅgha,
-tramite la quale si diventa novizi o _sāmanera_. Già il Vinaya menziona
-in alcuni casi l’«attesa di tre anni» necessaria per la piena
-ordinazione monastica, la completa accettazione nel Saṅgha, indicata in
-lingua pāli con il termine _upasampadā_. “Go forth” ricorre di frequente
-nel testo e solo quando strettamente necessario è letteralmente tradotto
-con “andare oltre”, come in questo caso, per rispettare la successione
-tra prima e completa ordinazione monastica. In altri punti del testo,
-però, questa espressione risulterebbe poco comprensibile per chi non ha
-molta familiarità con le consuetudini monastiche _theravādin_. Così, per
-facilitare il lettore, altrove si è scelto di rendere “go forth” in modo
-vario, in base al contesto.
-
-// link:#OrigineNDT[image:../Images/BackArrow.jpg[<--]]
-
-[[nota1]]1. “Gli Ottetti” sono gli _Aṭṭhaka-vagga_ del _Sutta-nipāta_.
-
-// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
-
-[[nota2]]2. Un _Paccekabuddha_ è una persona che diviene illuminata
-senza la guida di un Buddha e che non cerca di far diventare illuminati
-gli altri (BB).
-
-// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
-
-[[nota3]]3. Se questo passo viene letto come un’ingiunzione generale a
-trascurare qualsiasi istruzione, allora sarebbe impossibile attuarla,
-perché allora la si potrebbe attuare solo non attuandola: si tratta di
-un ben conosciuto dilemma logico. Il resto del discorso dovrebbe però
-consentire di comprendere quel che si vuole dire. Per quanto concerne la
-fiducia (_saddhā_), si veda il cap. 11, p. 222.
-
-// link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
-
-[[nota4]]4. La cura del malato qui ingiunta riguarda un bhikkhu che si
-prende cura di un bhikkhu malato. La generale pratica della medicina da
-parte di bhikkhu nei riguardi dei laici è considerata alla stregua di un
-errato mezzo di sussistenza per un bhikkhu e, perciò, non è consentita.
-
-// link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
-
-[[nota5]]5. Questo canto, conosciuto come «Canto della Gentilezza
-Amorevole» (Mettā Sutta), è quello al giorno d’oggi più noto. Se viene
-trascurato il passo del discorso diretto (indicato tra «…» nella
-traduzione), va persa l’architettura del sutta. Non si tratta di
-un’ingiunzione, ma di una descrizione dei pensieri di chi pratica la
-Dimora Divina della gentilezza amorevole (l’_iti_ che normalmente
-conclude i discorsi diretti in lingua pāli è spesso escluso nei versi).
-«Questa è una Dimora Divina» significa che loro – ossia gli Esseri
-Nobili, coloro che hanno realizzato l’estinzione della brama, dell’odio
-e dell’illusione – affermano che il dimorare in tal modo proprio in
-questa vita equivale alla pura consapevolezza che si sperimenta nei
-paradisi più elevati. Le ultime quattro righe sottolineano che se le
-quattro Divine Dimore conducono al paradiso, esse tuttavia non
-assicurano il conseguimento di ciò che è privo di forma,
-dell’incondizionato Nibbāna – la cessazione della nascita,
-dell’invecchiamento e della morte – a meno che non sia associato con la
-visione profonda nella natura impermanente di tutto quel che sorge e che
-è condizionato, sia esso dotato di forma o privo di forma, inclusi tutti
-i modi di esistenza paradisiaca (cf. ad esempio A.
-4:125-26).
-
-// link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
+____

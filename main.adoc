@@ -97,11 +97,13 @@ include::{includes}/08-La-disputa-di-Kosambi.adoc[]
 // DONE
 include::{includes}/09-La-fine-dei-primi-vent-anni.adoc[]
 
-// TODO
+// DONE
 include::{includes}/10-Il-periodo-di-mezzo.adoc[]
 
+// DONE
 include::{includes}/11-La-persona.adoc[]
 
+// TODO
 include::{includes}/12-La-Dottrina.adoc[]
 
 include::{includes}/13-Devadatta.adoc[]

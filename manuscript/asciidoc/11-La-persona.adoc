@@ -1,35 +1,55 @@
 = La Persona
 
-PRIMO NARRATORE. Per un periodo non è più possibile tracciare il corso
+[.narrator]
+`PRIMO NARRATORE.` Per un periodo non è più possibile tracciare il corso
 degli eventi, e ora bisogna fare una pausa per vedere che cosa dice il
 Canone sulle qualità personali del Buddha: per vedere sia che cosa il
 Buddha avesse da dire su se stesso sia che cosa disse di lui la gente
 che allora lo incontrò, nelle più antiche relazioni che sono giunte fino
 a noi.
 
-PRIMA VOCE. Così ho udito. Una volta, quando il Beato soggiornava a
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta, quando il Beato soggiornava a
 Sāvatthī nel Boschetto di Jeta, nel parco di Anāthapiṇḍika, si mise a
 sedere passando in rassegna le molte cose non salutari che aveva
 abbandonato e le molte cose salutari perfezionate sviluppandole dentro
 se stesso. Conoscendo il significato di ciò, egli esclamò queste parole:
 
+[verse]
+____
 Quel che prima era, poi non fu. +
 Quel che prima non era, poi fu. +
 Quel che né non è stato né non sarà +
-ora non è link:#nota1[^1^].
+ora non è.footnote:[La prima riga di questo
+enigma si riferisce alle
+contaminazioni della brama, dell’odio e dell’illusione, la seconda alla
+virtù, la terza e la quarta al momento dell’Illuminazione. Così il
+Commentario.]
+____
 
-Ud. 6:3
+[.suttaref]
+_Ud. 6:3_
 
 Il Beato si mise di nuovo a sedere passando in rassegna l’abbandono
-della varietà della proliferazione [mentale] link:#nota2[^2^] in se
+della varietà della proliferazione [mentale]footnote:[_Papañca_. Per una
+differente interpretazione di questo
+difficile termine [NDT: reso da Bhikkhu Ñanamoli con “diversification”,
+“diversifying”], si veda _Concept and Reality in Early Buddhist Thought_
+by BHIKKHU ÑĀṆANANDA (Kandy, BPS, 1971), dove, alla p. 21, è offerta una
+traduzione alternativa del verso seguente e della sua spiegazione nei
+Commentari (Nyp.).] in se
 stesso. Conoscendo il significato di ciò, esclamò queste parole:
 
+[verse]
+____
 Chi, senza alcuna base per la proliferazione [mentale], +
 ha messo da parte il vincolo e anche l’ostruzione, +
 e vive come un veggente libero dalla brama, +
 dal mondo con le sue divinità non è sdegnato.
+____
 
-Ud. 7:7
+[.suttaref]
+_Ud. 7:7_
 
 «Bhikkhu, ci sono queste Quattro Nobili Verità: la Nobile Verità della
 Sofferenza, la Nobile Verità dell’Origine della Sofferenza, la Nobile
@@ -39,11 +59,14 @@ Perfetto, realizzato e completamente illuminato, è chiamato in questo
 modo perché ha scoperto queste Quattro Nobili Verità così come veramente
 sono».
 
-S. 56:23
+[.suttaref]
+_S. 56:23_
 
-SECONDO NARRATORE. Il Buddha nomina i sei Buddha che lo hanno preceduto.
+[.narrator]
+`SECONDO NARRATORE.` Il Buddha nomina i sei Buddha che lo hanno preceduto.
 
-PRIMA VOCE. «Novantuno ere fa, bhikkhu, il beato Vipassī, realizzato e
+[.voice]
+`PRIMA VOCE.` «Novantuno ere fa, bhikkhu, il beato Vipassī, realizzato e
 completamente illuminato, apparve nel mondo. Trentuno ere fa il beato
 Sikhī, realizzato e completamente illuminato, apparve nel mondo. Nella
 stessa trentunesima era il beato Vessabhū, realizzato e completamente
@@ -55,12 +78,15 @@ Kassapa, realizzato e completamente illuminato, apparve nel mondo. In
 questa stessa era fausta, ora, io, realizzato e completamente
 illuminato, sono apparso nel mondo».
 
-D. 14 (condensato)
+[.suttaref]
+_D. 14 (condensato)_
 
-PRIMO NARRATORE. Dopo aver descritto gli altri, ecco che cosa dice di se
+[.narrator]
+`PRIMO NARRATORE.` Dopo aver descritto gli altri, ecco che cosa dice di se
 stesso.
 
-PRIMA VOCE. «Io appartengo ai Khattiya, nobile stirpe guerriera. Sono
+[.voice]
+`PRIMA VOCE.` «Io appartengo ai Khattiya, nobile stirpe guerriera. Sono
 rinato in una famiglia khattiya. Quanto al mio clan sono un Gotama. La
 mia vita è corta, di breve durata e termina presto; chi vive a lungo ora
 compie un secolo o poco più. Ottenni l’Illuminazione ai piedi di un
@@ -71,7 +97,8 @@ attendente, il mio principale attendente, è il bhikkhu Ānanda. Un re, di
 nome Suddhodana, fu mio padre. Una regina, di nome Māyā, fu la madre che
 mi generò. La città capitale del regno era Kapilavatthu».
 
-D. 14 (condensato)
+[.suttaref]
+_D. 14 (condensato)_
 
 Questo fu detto dal Beato, fu detto dal Realizzato, così ho udito:
 «Bhikkhu, il mondo è stato scoperto dal Perfetto, il Tathāgata: il
@@ -98,7 +125,8 @@ Perfetto è colui che è l’Essere Trascendente Intrasceso, Veggente del
 Tutto e Detentore dei Poteri. Per questa ragione egli è chiamato
 Perfetto (Tathāgata).
 
-Iti. 112; A. 4:23
+[.suttaref]
+_Iti. 112; A. 4:23_
 
 «Qualsiasi cosa in questo mondo con le sue divinità … sia vista, udita,
 percepita, e conosciuta, o raggiunta, ricercata e abbracciata con la
@@ -109,7 +137,16 @@ parlerei falsamente. E se dovessi dire di esso che “io lo conosco e non
 lo conosco”, parlerei falsamente pure in questo caso. E se dovessi dire
 di esso che “io né lo conosco né non lo conosco”, ciò sarebbe scorretto
 da parte mia. Così, avendo visto quel che può essere visto, un Essere
-Perfetto non concepisce la presunzione link:#nota3[^3^] per ciò che è
+Perfetto non concepisce la presunzionefootnote:[Al verbo _maññati_
+(“concepire la presunzione”) nei sutta
+corrispondono i sostantivi _maññanā_ (concezione) e _māna_ (presunzione,
+orgoglio). Utilizzato nel senso di concepire che “questo è quello” o
+semplicemente che “esso è”, esso ha un significato ontologico
+fondamentale (cf. M. 1 e M. 49) nell’attribuzione dell’“esistenza” a ciò
+che è percepito. Per il suo significato di “concepisco io sono”
+(_asmi-māna_), si veda il cap. 12, pp. 259-261. Concependo che “io sono
+meglio di un altro”, ecc., si concepisce con orgoglio (_atimāna_). È
+importante preservare questo filo di significati nei sutta.]  per ciò che è
 visto, non concepisce la presunzione per ciò che non è visto, non
 concepisce la presunzione per ciò che potrebbe essere visto, non
 concepisce la presunzione di alcun veggente. Avendo sentito quel che può
@@ -120,7 +157,8 @@ talmente equanime verso le cose viste, sentite, percepite con i sensi o
 conosciute, rimane così equanime, e non c’è alcun altra equanimità che
 sia al di là o superiore a quella equanimità, così dico».
 
-A. 4:24
+[.suttaref]
+_A. 4:24_
 
 Il re Pasenadi di Kosala chiese al Beato: «Signore, questo ho udito: “Il
 monaco Gotama dice: ‘Non c’è monaco o brāhmaṇa che possa pretendere di
@@ -145,7 +183,8 @@ momento”».
 
 «Quel che il Beato dice è ragionevole».
 
-M. 90
+[.suttaref]
+_M. 90_
 
 «Un Perfetto ha questi dieci poteri di un Perfetto, possedendo i quali
 egli rivendica il ruolo di guida del gregge, con il ruggito del leone
@@ -185,9 +224,11 @@ qui e ora entra e dimora nella liberazione della mente e nella
 liberazione mediante comprensione immacolata per l’esaurimento delle
 contaminazioni».
 
-M. 12; cf. A. 10:21
+[.suttaref]
+_M. 12; cf. A. 10:21_
 
-«Un Perfetto ha questi quattro generi di audacia link:#nota4[^4^],
+«Un Perfetto ha questi quattro generi di audacia,footnote:[Oppure perfetta
+sicurezza di sé, fiducia (_vesārajja_) (Nyp.).]
 possedendo i quali egli rivendica il ruolo di guida del gregge … : ...».
 
 «Non scorgo alcun indizio per cui nel mondo un monaco o un brāhmaṇa o
@@ -201,7 +242,8 @@ insegnato a beneficio di qualcuno, esso non conduce alla completa
 estinzione della sofferenza in chi lo pratica”. Non scorgendo indizi in
 tal senso, dimoro sicuro, privo di preoccupazioni e timori».
 
-M. 12
+[.suttaref]
+_M. 12_
 
 Questo fu detto dal Beato, dal Realizzato, così ho udito:
 
@@ -212,7 +254,8 @@ spesso pensa: “Con questo comportamento non affliggo nessuno, timido o
 spavaldo”. Un Perfetto prova piacere e si delizia nella solitudine, e
 con ciò spesso pensa: “Quel che è non salutare è stato abbandonato”».
 
-Iti. 38
+[.suttaref]
+_Iti. 38_
 
 «Bhikkhu, non abbiate timore dei meriti. Meriti significa piacere, ciò
 che si cerca e si desidera, che è piacevole e si ama. Ho avuto
@@ -236,7 +279,8 @@ pensare: “È il frutto, la maturazione di tre tipi di mie azioni il fatto
 che sono così possente e poderoso, ossia del donare,
 dell’[auto-]controllo e del contenimento”».
 
-Iti. 22
+[.suttaref]
+_Iti. 22_
 
 Una volta il Beato stava viaggiando sulla strada tra Ukkaṭṭhā e Setavyā,
 e anche il brāhmaṇa Doṇa stava viaggiando su quella strada. Egli vide
@@ -280,7 +324,8 @@ anch’io, che sono nato nel mondo e cresciuto nel mondo, ho trasceso il
 mondo e vivo senza essere toccato dal mondo. Ricordami come un
 Illuminato».
 
-A. 4:36
+[.suttaref]
+_A. 4:36_
 
 Una volta il Beato stava di nuovo viaggiando nel territorio dei Videha
 con un largo seguito di bhikkhu, con cinquecento bhikkhu. Ora, in quel
@@ -499,7 +544,8 @@ al Beato, realizzato e completamente illuminato! Auguriamoci di
 incontrare qualche volta il Maestro Gotama. Auguriamoci di conversare
 insieme».
 
-M. 91
+[.suttaref]
+_M. 91_
 
 Una volta il Beato viveva a Campā, sulla riva del lago Gaggarā. Allora,
 a mezzogiorno il capofamiglia Vajjiyamāhita uscì da Campā per incontrare
@@ -543,14 +589,17 @@ non lo fa».
 
 Quando ciò fu detto, gli asceti itineranti rimasero in silenzio.
 
-A. 10:94
+[.suttaref]
+_A. 10:94_
 
-SECONDO NARRATORE. Saccaka, un figlio di Nigaṇṭha, venne a disputare con
+[.narrator]
+`SECONDO NARRATORE.` Saccaka, un figlio di Nigaṇṭha, venne a disputare con
 il Buddha a Vesālī. Il Buddha descrive come il suo sforzo precedente
 l’Illuminazione gli fece scoprire che la mortificazione non conduce da
 nessuna parte. Egli disse:
 
-PRIMA VOCE. «Ho fatto esperienza dell’insegnamento del Dhamma a
+[.voice]
+`PRIMA VOCE.` «Ho fatto esperienza dell’insegnamento del Dhamma a
 un’uditorio di molte centinaia di persone. Forse qualcuno ha
 fantasticato: “Il monaco Gotama sta predicando il Dhamma per me
 personalmente”. Ma la cosa non dovrebbe essere considerata in questo
@@ -595,15 +644,19 @@ perfino rabbia, odio e scontrosità. Lo stesso avvenne con Makkhali
 Gosāla e con altri. E ora, Maestro Gotama, noi andiamo. Siamo impegnati
 e abbiamo molto da fare».
 
-M. 36
+[.suttaref]
+_M. 36_
 
-SECONDO NARRATORE. Tuttavia Saccaka non si convinse e conservò i propri
+[.narrator]
+`SECONDO NARRATORE.` Tuttavia Saccaka non si convinse e conservò i propri
 punti di vista.
 
-PRIMO NARRATORE. C’è un episodio che mostra come il Buddha non fosse
+[.narrator]
+`PRIMO NARRATORE.` C’è un episodio che mostra come il Buddha non fosse
 immune dalle malattie.
 
-PRIMA VOCE. Una volta il Beato soggiornava nel Parco di Nigrodha a
+[.voice]
+`PRIMA VOCE.` Una volta il Beato soggiornava nel Parco di Nigrodha a
 Kapilavatthu, nel territorio dei Sakya. Era appena guarito da una
 malattia. Allora Mahānāma il Sakya andò da lui e disse: «Signore, da
 lungo tempo conosco il Dhamma insegnato dal Beato in questo modo: “La
@@ -630,16 +683,20 @@ Sentiero che conduce alla cessazione della sofferenza”. Ora, nel caso
 dell’adepto, il nobile discepolo che già possiede questa virtù,
 concentrazione e comprensione, mediante realizzazione di se stesso qui e
 ora, entra e dimora nella liberazione della mente e nella liberazione
-della mente mediante comprensione link:#nota5[^5^] immacolata per
+della mente mediante comprensionefootnote:[O Liberazione mediante
+saggezza (_paññā-vimutti_) (Nyp.).] immacolata per
 l’esaurimento delle contaminazioni».
 
-A. 3:73
+[.suttaref]
+_A. 3:73_
 
-PRIMO NARRATORE. Il Buddha era di statura normale. Lo si può supporre
+[.narrator]
+`PRIMO NARRATORE.` Il Buddha era di statura normale. Lo si può supporre
 dalla storia del suo cambio di veste con l’Anziano Mahā-Kassapa, che
 sarà offerta in seguito, e dal seguente episodio.
 
-SECONDA VOCE. Avvenne questo. Il Beato stava soggiornando a Sāvatthī nel
+[.voice]
+`SECONDA VOCE.` Avvenne questo. Il Beato stava soggiornando a Sāvatthī nel
 Boschetto di Jeta, nel parco di Anāthapiṇḍika, e a quel tempo il
 venerabile Nanda, il figlio della zia del Beato, si trovava là. Egli era
 di bell’aspetto, e ispirava fiducia e sicurezza. Era quattro dita più
@@ -657,12 +714,15 @@ della stessa misura della veste del Sublime commette un’infrazione che
 comporta espiazione. Le misure della veste del Sublime sono: nove spanne
 di lunghezza e sei spanne di larghezza, della spanna del Sublime».
 
-Vin. Sv. Pāc. 92
+[.suttaref]
+_Vin. Sv. Pāc. 92_
 
-PRIMO NARRATORE. La storia dell’Anziano Vakkali è qui opportuna in
+[.narrator]
+`PRIMO NARRATORE.` La storia dell’Anziano Vakkali è qui opportuna in
 quanto illustra l’attitudine del Buddha a essere presente personalmente.
 
-PRIMA VOCE. Così ho udito. Una volta, quando il Beato soggiornava a
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta, quando il Beato soggiornava a
 Rājagaha, nel Boschetto di Bambù, nel Sacrario degli Scoiattoli, il
 venerabile Vakkali viveva nella casa di un vasaio. Era afflitto,
 sofferente e gravemente malato. Egli disse ai suoi monaci attendenti:
@@ -777,9 +837,11 @@ Vakkali?”. L’uomo di rango Vakkali, però, bhikkhu, ha ottenuto il
 Nibbāna definitivo, senza che la sua coscienza si sia stabilita da una
 qualche parte».
 
-S. 22:87
+[.suttaref]
+_S. 22:87_
 
-PRIMO NARRATORE. Nei Piṭaka sono riportati vari esempi di bhikkhu che si
+[.narrator]
+`PRIMO NARRATORE.` Nei Piṭaka sono riportati vari esempi di bhikkhu che si
 tolgono la vita. Il Buddha disse che ciò non era riprovevole a una sola
 condizione: che il bhikkhu fosse già un Arahant, privo di brama, odio o
 illusione, o che lo fosse diventato prima di morire, e che il togliersi
@@ -791,13 +853,15 @@ infrazioni capitali, che comportano la permanente espulsione dal Saṅgha
 in relazione a conquiste spirituali – benché il tentato suicidio sia
 un’infrazione minore di atto errato.
 
-SECONDO NARRATORE. Si è in precedenza riferito come il Buddha menzionò i
+[.narrator]
+`SECONDO NARRATORE.` Si è in precedenza riferito come il Buddha menzionò i
 sei Buddha che lo avevano preceduto. Egli menzionò pure il Buddha che
 gli sarebbe succeduto in futuro, quel che sarebbe avvenuto dopo al suo
 stesso insegnamento e dopo che il suo ricordo sarebbe del tutto svanito
 dal mondo.
 
-PRIMA VOCE. «Quando la vita degli esseri umani aumenterà a ottantamila
+[.voice]
+`PRIMA VOCE.` «Quando la vita degli esseri umani aumenterà a ottantamila
 anni, il beato Metteyya, realizzato e completamente illuminato, sorgerà
 nel mondo, perfetto nella conoscenza e nella condotta, sublime,
 conoscitore dei mondi, incomparabile guida degli uomini che devono
@@ -811,7 +875,8 @@ mezzo e salutare alla fine, con il significato e il senso letterale, e
 spiegherà la santa vita che è assolutamente perfetta e pura, proprio
 come ora ho fatto io».
 
-D. 26
+[.suttaref]
+_D. 26_
 
 Questo fu detto dal Beato, dal Realizzato, così ho udito: «Bhikkhu, io
 sono un brāhmaṇa, abituato alla liberalità e munifico. Questo è il mio
@@ -820,7 +885,8 @@ petto, nati dalle mie labbra, nati dal Dhamma, eredi del Dhamma, non di
 cose materiali. Ci sono due tipi di doni: il dono delle cose materiali e
 il dono del Dhamma. Il più grande di questi è il dono del Dhamma».
 
-Iti. 100
+[.suttaref]
+_Iti. 100_
 
 «Ora, bhikkhu, se gli altri dovessero chiedere a un bhikkhu: “Quali sono
 le prove e le certezze in ragione delle quali, tu, venerabile signore,
@@ -841,7 +907,8 @@ dall’evidenza, radicata nella visione, nel suono e invincibile [se
 avversata] da un monaco, da un brāhmaṇa, da Māra, da Brahmā o da
 chiunque altro nel mondo».
 
-M. 47
+[.suttaref]
+_M. 47_
 
 «Quando i discepoli del Maestro Gotama sono consigliati e istruiti da
 Lui, conseguono il supremo scopo del Nibbāna, o qualcuno non lo
@@ -882,7 +949,8 @@ miei discepoli sono consigliati e istruiti da me, alcuni ottengono il
 Nibbāna e altri no. Che cosa ho io a che fare con tutto questo,
 brāhmaṇa? Un Perfetto è solo colui che indica la via».
 
-M. 107 (condensato)
+[.suttaref]
+_M. 107 (condensato)_
 
 Una volta alcuni asceti itineranti di altre sette andarono dal
 venerabile Anurādha e gli chiesero: «Amico Anurādha, chi è Perfetto, il
@@ -891,7 +959,14 @@ la realizzazione suprema, quando viene descritto da un altro Perfetto,
 in quale dei quattro seguenti modi viene descritto? Dopo la morte un
 Perfetto esiste. Oppure, dopo la morte un Perfetto non esiste. Oppure,
 dopo la morte un Perfetto sia esiste sia non esiste. Oppure, dopo la
-morte un Perfetto né esiste né non esiste» link:#nota6[^6^].
+morte un Perfetto né esiste né non esiste».footnote:[Si tratta di quattro
+delle “dieci cose non dichiarate” (cf.
+cap. 12, pp. 230-231), le quali tutte implicano un’affermazione,
+indipendentemente dal fatto che la risposta sia sì o no. I Greci erano
+soliti chiedere: «Usi un bastone per picchiare tua moglie?», e sia che
+la risposta fosse “sì” sia “no”, la conclusione era: «Allora tu picchi
+tua moglie». Per le ragioni per cui il Buddha rifiutò di rispondere si
+veda la fine di questo capitolo.]
 
 «Amici, un Perfetto, descrivendolo, non lo descrive in uno di questi
 quattro modi».
@@ -949,7 +1024,8 @@ Perfetto né esiste né non esiste”?».
 «Bene, Anurādha, bene. Quel che io descrivo, ora come prima, è la
 sofferenza e la cessazione della sofferenza».
 
-S. 44:2
+[.suttaref]
+_S. 44:2_
 
 «Perché il Beato non ha risposto a queste domande? Perché esse
 descrivono tutte un Perfetto dopo la morte nei termini di forma (e così
@@ -964,9 +1040,20 @@ all’angoscia, alla disperazione e alla febbre, e non conducono al
 distacco, al disincanto, alla cessazione, all’acquietamento, alla
 conoscenza diretta, all’Illuminazione, al Nibbāna».
 
-(M. 72)
+[.suttaref]
+_M. 72_
 
-«Colui che è Così-Andato (Tathāgata, un Perfetto) link:#nota7[^7^] è qui
+«Colui che è Così-Andato (Tathāgata, un Perfetto)footnote:[La parola _tathāgata_
+(qui tradotta non letteralmente con
+“il Perfetto”) fu inizialmente usata dal Buddha per se stesso subito
+dopo l’Illuminazione (cap. 3, p. 41). In seguito la utilizzò per gli
+Arahant. Il Commentario la fa derivare in vari modi (ne tratta in sette
+pagine): «perché Egli è _tathāgato_, così-venuto, per mezzo
+dell’aspirazione all’Illuminazione, come fecero i precedenti Buddha;
+perché Egli è _tathāgato_, così-andato, per mezzo della pratica e della
+realizzazione, come pure i precedenti Buddha; perché Egli è
+_tatha-lakkhaṇaṃ āgato_, venuto a conoscenza della caratteristica della
+realtà», ecc.] è qui
 e ora inconoscibile, dico. Nel dire questo, nel proclamare questo, sono
 stato senza alcun fondamento, vanamente, falsamente, erratamente
 frainteso da alcuni monaci e brāhmaṇa in questo modo: “Il monaco Gotama
@@ -974,7 +1061,8 @@ frainteso da alcuni monaci e brāhmaṇa in questo modo: “Il monaco Gotama
 l’annullamento, la perdita, la non-esistenza di una creatura
 esistente”».
 
-M. 22
+[.suttaref]
+_M. 22_
 
 «Il sé può essere acquisito in questi tre modi. Il sé grossolano, il sé
 costituito dalla mente e il sé privo di forma … Il primo ha una forma
@@ -991,7 +1079,8 @@ doloroso, non è così. Al contrario, così facendo c’è contentezza,
 felicità, tranquillità, consapevolezza, piena presenza mentale e un
 piacevole dimorare».
 
-SECONDO NARRATORE. Il Buddha continuò a dire che, da una rinascita
+[.narrator]
+`SECONDO NARRATORE.` Il Buddha continuò a dire che, da una rinascita
 all’altra, a ognuno di questi tre modi di acquisizione del sé può
 seguirne un altro. Stando così le cose, non è possibile sostenere a
 ragione che solo uno di essi è vero e che gli altri sono errati. Si può
@@ -1002,70 +1091,10 @@ burro chiarificato dal burro chiarificato, ogni termine è adatto a ciò
 che descrive e a nessuno degli altri, benché, tuttavia, ognuno non sia
 slegato dall’altro. Il Buddha concluse:
 
-PRIMA VOCE. «Questi sono usi del mondo, linguaggio del mondo, termini
+[.voice]
+`PRIMA VOCE.` «Questi sono usi del mondo, linguaggio del mondo, termini
 per la comunicazione del mondo, descrizioni del mondo, tramite i quali
 un Perfetto comunica senza fraintenderli».
 
-D. 9 (condensato)
-
-[[nota1]]1. La prima riga di questo enigma si riferisce alle
-contaminazioni della brama, dell’odio e dell’illusione, la seconda alla
-virtù, la terza e la quarta al momento dell’Illuminazione. Così il
-Commentario.
-
-// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
-
-[[nota2]]2. _Papañca_. Per una differente interpretazione di questo
-difficile termine [NDT: reso da Bhikkhu Ñanamoli con “diversification”,
-“diversifying”], si veda _Concept and Reality in Early Buddhist Thought_
-by BHIKKHU ÑĀṆANANDA (Kandy, BPS, 1971), dove, alla p. 21, è offerta una
-traduzione alternativa del verso seguente e della sua spiegazione nei
-Commentari (Nyp.).
-
-// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
-
-[[nota3]]3. Al verbo _maññati_ (“concepire la presunzione”) nei sutta
-corrispondono i sostantivi _maññanā_ (concezione) e _māna_ (presunzione,
-orgoglio). Utilizzato nel senso di concepire che “questo è quello” o
-semplicemente che “esso è”, esso ha un significato ontologico
-fondamentale (cf. M. 1 e M. 49) nell’attribuzione dell’“esistenza” a ciò
-che è percepito. Per il suo significato di “concepisco io sono”
-(_asmi-māna_), si veda il cap. 12, pp. 259-261. Concependo che “io sono
-meglio di un altro”, ecc., si concepisce con orgoglio (_atimāna_). È
-importante preservare questo filo di significati nei sutta.
-
-// link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
-
-[[nota4]]4. Oppure perfetta sicurezza di sé, fiducia (_vesārajja_)
-(Nyp.).
-
-// link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
-
-[[nota5]]5. O Liberazione mediante saggezza (_paññā-vimutti_)
-(Nyp.).
-
-// link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
-
-[[nota6]]6. Si tratta di quattro delle “dieci cose non dichiarate” (cf.
-cap. 12, pp. 230-231), le quali tutte implicano un’affermazione,
-indipendentemente dal fatto che la risposta sia sì o no. I Greci erano
-soliti chiedere: «Usi un bastone per picchiare tua moglie?», e sia che
-la risposta fosse “sì” sia “no”, la conclusione era: «Allora tu picchi
-tua moglie». Per le ragioni per cui il Buddha rifiutò di rispondere si
-veda la fine di questo
-capitolo.
-
-// link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
-
-[[nota7]]7. La parola _tathāgata_ (qui tradotta non letteralmente con
-“il Perfetto”) fu inizialmente usata dal Buddha per se stesso subito
-dopo l’Illuminazione (cap. 3, p. 41). In seguito la utilizzò per gli
-Arahant. Il Commentario la fa derivare in vari modi (ne tratta in sette
-pagine): «perché Egli è _tathāgato_, così-venuto, per mezzo
-dell’aspirazione all’Illuminazione, come fecero i precedenti Buddha;
-perché Egli è _tathāgato_, così-andato, per mezzo della pratica e della
-realizzazione, come pure i precedenti Buddha; perché Egli è
-_tatha-lakkhaṇaṃ āgato_, venuto a conoscenza della caratteristica della
-realtà», ecc.
-
-// link:#OrigineNota7[image:../Images/BackArrow.jpg[<--]]
+[.suttaref]
+_D. 9 (condensato)_
