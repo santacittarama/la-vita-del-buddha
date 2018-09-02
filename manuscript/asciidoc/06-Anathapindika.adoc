@@ -1,12 +1,14 @@
 = Anāthapiṇḍika
 
-SECONDO NARRATORE. Il Buddha trascorse la prima stagione delle piogge
+[.narrator]
+`SECONDO NARRATORE.` Il Buddha trascorse la prima stagione delle piogge
 dopo la sua Illuminazione a Benares. La seconda e la terza stagione le
 trascorse a Rājagaha nel Boschetto di Bambù. È dopo questa terza
 stagione delle piogge che comparve Anāthapiṇḍika, il Nutritore del
 Povero.
 
-SECONDA VOCE. Avvenne questo. Il Buddha, il Beato, in quel tempo
+[.voice]
+`SECONDA VOCE.` Avvenne questo. Il Buddha, il Beato, in quel tempo
 soggiornava a Rājagaha nel Boschetto di Bambù, e fino a quel momento non
 si era pronunciato a proposito delle dimore dei bhikkhu. Loro vivevano
 qui e là, nelle foreste, ai piedi di un albero, sotto rocce sporgenti,
@@ -102,7 +104,10 @@ Anāthapiṇḍika pensò: «Si è rivolto a me chiamandomi per nome!» e fu
 felice e pieno di speranza. Andò dal Beato e si prostrò ai suoi piedi, e
 disse: «Mi auguro che il Beato abbia dormito bene».
 
-Un vero brāhmaṇa link:#nota1[^1^] dorme sempre bene. +
+[verse]
+____
+Un vero brāhmaṇafootnote:[Un’espressione che
+indica un Arahant (BB.).] dorme sempre bene. +
 Chi ha raggiunto il pieno Nibbāna, +
 i desideri sensoriali lo lasciano intatto, +
 sereno, privo di sostanza per l’esistenza. +
@@ -110,6 +115,7 @@ Ha respinto ogni attaccamento, +
 Non ci sono conflitti nel suo cuore. +
 Dorme beato chi è in pace +
 con la pace fondata nella mente.
+____
 
 Allora il Beato impartì ad Anāthapiṇḍika un insegnamento progressivo.
 Mentre Anāthapiṇḍika stava lì seduto, sorse in lui la pura, immacolata
@@ -205,9 +211,12 @@ Jeta e delle ampie terrazze, cancelli, padiglioni per l’attesa, saune,
 magazzini e ripostigli, sentieri per la meditazione camminata, pozzi,
 gabinetti, stanze per il bagno, laghetti e padiglioni.
 
-Vin. Cv. 6:4; S. 10:8
+[.suttaref]
+_Vin. Cv. 6:4; S. 10:8_
 
-PRIMA VOCE. Così ho udito link:#nota2[^2^]. Quando il Beato viveva a
+[.voice]
+`PRIMA VOCE.` Così ho udito.footnote:[Non ci sono argomenti per indicare
+quando avvenne questo incontro con Māra.] Quando il Beato viveva a
 Rājagaha, nel Boschetto di Bambù, una volta stava seduto all’aperto
 nell’oscurità della notte mentre piovigginava lievemente. Allora Māra il
 Malvagio, che voleva spaventarlo e fargli rizzare i capelli, assunse la
@@ -222,6 +231,8 @@ fabbro.
 Allora il Beato riconobbe Māra il Malvagio e si rivolse a lui con queste
 strofe:
 
+[verse]
+____
 Un eremita perfetto nel contenimento +
 trascorre la sua vita in posti solitari, +
 egli che ha rinunciato è lì che deve vivere, +
@@ -235,13 +246,16 @@ anche se gli esseri tutti provano spavento, anche se gli uomini +
 affondano un pugnale nel suo petto, +
 nessun Risvegliato si rivolgerà a chiedere aiuto +
 alle cose del mondo, agli essenziali dell’esistenza.
+____
 
 Allora Māra il Malvagio seppe: «Il Beato mi conosce, il Sublime mi
 conosce». Triste e deluso, subito sparì.
 
-S. 4:6
+[.suttaref]
+_S. 4:6_
 
-SECONDA VOCE. Ora, dopo essere rimasto a Rājagaha per tutto il tempo che
+[.voice]
+`SECONDA VOCE.` Ora, dopo essere rimasto a Rājagaha per tutto il tempo che
 volle, il Beato si avviò per tappe verso Vesālī. Quando infine vi
 arrivò, andò a vivere nel Salone con il Tetto Aguzzo nella Grande
 Foresta. Allora la gente si dedicava con entusiasmo ai lavori di
@@ -347,10 +361,13 @@ reciproca considerazione. Alla dissoluzione del corpo, dopo la morte,
 ricomparvero in una destinazione felice, in un mondo paradisiaco. E così
 questa fu chiamata “la santa vita della pernice”».
 
+[verse]
+____
 Coloro che riveriscono un anziano +
 sono considerati abili nel Dhamma, +
 perché ottengono lodi qui e ora +
 e un felice destino nell’aldilà.
+____
 
 «Ora, bhikkhu, questi animali poterono essere cortesi e rispettosi gli
 uni nei riguardi degli altri e vissero tenendosi in reciproca
@@ -375,6 +392,8 @@ del mondo, a quello passato, futuro e presente».
 «Così sia, Signore» egli rispose, e così fece. Allora il Beato si
 rivolse a lui con queste strofe:
 
+[verse]
+____
 Tiene lontani freddo e caldo, +
 come pure animali selvatici, +
 esseri striscianti e mosche, +
@@ -397,13 +416,16 @@ e loro gli insegneranno il Dhamma +
 per la libertà da ogni sofferenza. +
 Conoscendo il Dhamma, egli ottiene qui +
 il Nibbāna ed è libero dalle contaminazioni.
+____
 
 Quando gli ebbe dato la sua benedizione, si alzò dal posto in cui sedeva
 e se ne andò.
 
-Vin. Cv. 6:5-9
+[.suttaref]
+_Vin. Cv. 6:5-9_
 
- PRIMO NARRATORE. Il Buddha, che ora si trovava a Sāvatthī, capitale del
+[.narrator]
+`PRIMO NARRATORE.` Il Buddha, che ora si trovava a Sāvatthī, capitale del
 Kosala, proveniva dal regno di Magadha, la cui capitale era Rājagaha. In
 quel tempo Magadha era uno dei più potenti regni dell’India centrale.
 Era a sud del Gange e il suo confine settentrionale era il fiume stesso.
@@ -413,7 +435,8 @@ detto di Kosala, che si estendeva a nord, dalla riva settentrionale del
 Gange ai piedi dell’Himalaya. Sembra che il re Pasenadi non avesse fino
 a quel momento incontrato il Buddha.
 
-PRIMA VOCE. Così ho udito. Quando il Beato viveva a Sāvatthī, morì un
+[.voice]
+`PRIMA VOCE.` Così ho udito. Quando il Beato viveva a Sāvatthī, morì un
 amatissimo figlio unico di un cittadino di Sāvatthī. Il padre andò dal
 Beato, che gli disse: «Capofamiglia, le tue facoltà sembrano quelle di
 uno fuori di senno, le tue facoltà non sembrano in uno stato normale».
@@ -464,10 +487,12 @@ la cui madre era morta e per questo lei uscì di senno e, in preda alla
 follia, vagò per strade e crocevia chiedendo: “Avete visto mia madre?
 Avete visto mia madre?”».
 
- SECONDO NARRATORE. Il Buddha proseguì raccontando un gran numero di
+[.narrator]
+`SECONDO NARRATORE.` Il Buddha proseguì raccontando un gran numero di
 episodi con lo stesso significato e concluse in questo modo:
 
-PRIMA VOCE. «Una volta, in questa stessa Sāvatthī, c’era una donna
+[.voice]
+`PRIMA VOCE.` «Una volta, in questa stessa Sāvatthī, c’era una donna
 sposata che viveva con la famiglia del marito. I suoi parenti, però,
 volevano che divorziasse dal marito per darla in moglie a un altro, che
 a lei non piaceva. Lei lo raccontò al marito. Lui la bastonò a morte e
@@ -494,11 +519,13 @@ sorgere in me?».
 realizzato e completamente illuminato, ha detto: “Le persone che ci sono
 care portano afflizione e lamento, dolore, dispiacere e disperazione”».
 
- SECONDO NARRATORE. La regina insistette con gli esempi della regina
+[.narrator]
+`SECONDO NARRATORE.` La regina insistette con gli esempi della regina
 Vāsabhā, del figlio del re Viḍūḍabha, di se stessa, e dei regni di Kāsa
 e Kosala, nello stesso modo. Allora il re disse:
 
-PRIMA VOCE. «Mallikā, è meraviglioso, è stupefacente, fino a che punto
+[.voice]
+`PRIMA VOCE.` «Mallikā, è meraviglioso, è stupefacente, fino a che punto
 il Beato capisca e veda con comprensione. Vieni, portami l’acqua per
 l’abluzione».
 
@@ -507,12 +534,15 @@ sua veste superiore su una spalla, levò le palme delle mani giunte verso
 il luogo in cui il Beato si trovava ed esclamò per tre volte: «Onore al
 Beato, realizzato e completamente illuminato!».
 
-M. 87
+[.suttaref]
+_M. 87_
 
- PRIMO NARRATORE. Il prossimo episodio forse registra come il re
+[.narrator]
+`PRIMO NARRATORE.` Il prossimo episodio forse registra come il re
 incontrò per la prima volta il Buddha.
 
-PRIMA VOCE. Così ho udito. Una volta, quando il Beato viveva a Sāvatthī,
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta, quando il Beato viveva a Sāvatthī,
 il re Pasenadi di Kosala andò da lui. Scambiò dei saluti con lui e,
 quando questi formali doveri di cortesia ebbero termine, si mise a
 sedere da un lato. Dopo averlo fatto, disse: «Il Maestro Gotama sostiene
@@ -539,6 +569,8 @@ guerriero, un serpente, un fuoco e un bhikkhu».
 Così disse il Beato. Il Sublime, il Maestro, dopo aver detto queste
 cose, proseguì:
 
+[verse]
+____
 Che un uomo non disprezzi né condanni +
 un giovane guerriero nato in un famoso lignaggio +
 per la sua giovinezza. Forse quel giovane guerriero +
@@ -562,21 +594,40 @@ Che lo eviti, allora, e salvi la propria vita.
 
 Benché gli incendi possano bruciare le foreste, +
 tuttavia pochi giorni dopo che sono passati compaiono germogli, ma chi
-sarà bruciato dal fuoco di un bhikkhu virtuoso link:#nota3[3], +
+sarà bruciato dal fuoco di un bhikkhu virtuoso,footnote:[«Chi sarà bruciato
+dal fuoco di un bhikkhu virtuoso». Ecco
+il commento di Ācariya Buddhaghosa: «Un bhikkhu che aggredisce chi l’ha
+aggredito ... non è in grado di bruciare con il fuoco di un bhikkhu.
+Quando egli (il bhikkhu) però non aggredisce in risposta a chi lo ha
+aggredito, costui (chi lo ha aggredito) gli manca di rispetto ed è
+bruciato dal fuoco della sua (del bhikkhu) virtù, ossia, non ha né figli
+né figlie, e nemmeno bestiame, ecc.. Il significato è che tali individui
+sono ridotti a nulla, “come ceppi di palma”. Essendo bruciati dal fuoco
+dei bhikkhu, diventano come una palma alla quale sia stata tagliata la
+corona delle foglie e alla quale resta solo il tronco. Il significato è
+che per loro non ci saranno incrementi a riguardo di figli, figlie e
+così via». – NDT. Questi versi – come pure altri passi di questa vita
+del Buddha tratta dal canone in lingua pāli – possono sembrare duri e
+arroganti, e forse perfino incomprensibili, soprattutto se si dimentica
+che il concetto di _kamma_ implica l’assunzione di una diretta
+responsabilità delle proprie intenzioni e azioni.] +
 non avrà prole, non ci sarà chi ne erediterà il patrimonio. +
 Come un ceppo di palma, non avrà né bambini né eredi.
 
 Perciò l’uomo saggio, pensando al proprio bene, +
 tratterà rettamente il serpente e il fuoco, +
 il nobile guerriero e il bhikkhu virtuoso.
+____
 
 Quando ciò fu detto, il re Pasenadi disse al Beato: «Magnifico, Signore!
 ... Che il Beato mi accolga come suo seguace che si è recato da lui per
 prendere rifugio finché durerà il mio respiro».
 
-S. 3:1
+[.suttaref]
+_S. 3:1_
 
-SECONDA VOCE. Avvenne questo. Il Beato viveva a Rājagaha, nel Boschetto
+[.voice]
+`SECONDA VOCE.` Avvenne questo. Il Beato viveva a Rājagaha, nel Boschetto
 di Bambù, nel Sacrario degli Scoiattoli, in un momento nel quale la
 residenza presso un solo posto durante la stagione delle piogge non era
 ancora stata resa obbligatoria dal Beato. I bhikkhu vagavano durante la
@@ -598,22 +649,27 @@ questa occasione offrì un discorso di Dhamma e si rivolse ai bhikkhu in
 questo modo: «Bhikkhu, autorizzo ad avere una residenza fissa per la
 stagione delle piogge».
 
-Vin. Mv. 3:1
+[.suttaref]
+_Vin. Mv. 3:1_
 
- PRIMO NARRATORE. Benché la morte di Anāthapiṇḍika avvenne molto tempo
-dopo – non è certo quando – è tuttavia opportuno raccontarla qui.
+[.narrator]
+`PRIMO NARRATORE.` Benché la morte di Anāthapiṇḍika avvenne molto tempo
+ dopo – non è certo quando – è tuttavia opportuno raccontarla qui.
 
- SECONDO NARRATORE. Durante la sua ultima malattia, Anāthapiṇḍika inviò
+[.narrator]
+`SECONDO NARRATORE.` Durante la sua ultima malattia, Anāthapiṇḍika inviò
 un messaggio all’Anziano Sāriputta, chiedendogli di andarlo a trovare.
 Di conseguenza i due Anziani, Sāriputta e Ānanda, si recarono da lui.
 Egli disse loro che la sua malattia stava peggiorando e così l’Anziano
 Sāriputta lo istruì nel modo seguente.
 
-PRIMA VOCE. «Allora, capofamiglia, dovresti addestrarti così: “Non mi
+[.voice]
+`PRIMA VOCE.` «Allora, capofamiglia, dovresti addestrarti così: “Non mi
 attaccherò all’occhio; non ci sarà nessuna coscienza che abbia per base
 l’occhio”. Così dovresti addestrarti».
 
- SECONDO NARRATORE. Poi proseguì a istruirlo nello stesso modo sui
+[.narrator]
+`SECONDO NARRATORE.` Poi proseguì a istruirlo nello stesso modo sui
 quattro altri sensi e sulla mente, su questi cinque generi di coscienza
 e di contatto e di sensazione, sugli elementi terra, acqua, fuoco, aria,
 sullo spazio e sulla coscienza, sui cinque aggregati, sui quattro stati
@@ -622,7 +678,8 @@ infine su tutto ciò che è visto, udito, sentito – mediante il naso, la
 lingua e il corpo – e percepito e cercato dalla mente e a essa
 accessibile.
 
-PRIMA VOCE. Quando ciò fu detto, Anāthapiṇḍika pianse e le lacrime
+[.voice]
+`PRIMA VOCE.` Quando ciò fu detto, Anāthapiṇḍika pianse e le lacrime
 scorsero sul suo viso. Allora il venerabile Ānanda gli chiese: «Ti stai
 attaccando? Stai fallendo?». «Non mi sto attaccando, venerabile Ānanda,
 non sto fallendo. Benché io abbia a lungo servito il Maestro e i bhikkhu
@@ -635,36 +692,10 @@ hanno solo poca polvere negli occhi e saranno perduti se non ascoltano
 questi discorsi di Dhamma. Alcuni otterranno la conoscenza ultima del
 Dhamma».
 
-M. 143
+[.suttaref]
+_M. 143_
 
- SECONDO NARRATORE. Anāthapiṇḍika spirò quello stesso giorno, e si
+[.narrator]
+`SECONDO NARRATORE.` Anāthapiṇḍika spirò quello stesso giorno, e si
 racconta che egli sia rinato in paradiso come Chi è Entrato nella
 Corrente, perciò con non più di sette rinascite davanti a lui.
-
-[[nota1]]1. Un’espressione che indica un Arahant (BB.).
-
-// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
-
-[[nota2]]2. Non ci sono argomenti per indicare quando avvenne questo
-incontro con Māra.
-
-// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
-
-[[nota3]]3. «Chi sarà bruciato dal fuoco di un bhikkhu virtuoso». Ecco
-il commento di Ācariya Buddhaghosa: «Un bhikkhu che aggredisce chi l’ha
-aggredito ... non è in grado di bruciare con il fuoco di un bhikkhu.
-Quando egli (il bhikkhu) però non aggredisce in risposta a chi lo ha
-aggredito, costui (chi lo ha aggredito) gli manca di rispetto ed è
-bruciato dal fuoco della sua (del bhikkhu) virtù, ossia, non ha né figli
-né figlie, e nemmeno bestiame, ecc.. Il significato è che tali individui
-sono ridotti a nulla, “come ceppi di palma”. Essendo bruciati dal fuoco
-dei bhikkhu, diventano come una palma alla quale sia stata tagliata la
-corona delle foglie e alla quale resta solo il tronco. Il significato è
-che per loro non ci saranno incrementi a riguardo di figli, figlie e
-così via». – NDT. Questi versi – come pure altri passi di questa vita
-del Buddha tratta dal canone in lingua pāli – possono sembrare duri e
-arroganti, e forse perfino incomprensibili, soprattutto se si dimentica
-che il concetto di _kamma_ implica l’assunzione di una diretta
-responsabilità delle proprie intenzioni e azioni.
-
-// link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]

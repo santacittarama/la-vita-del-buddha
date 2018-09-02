@@ -85,15 +85,19 @@ include::{includes}/04-La-diffusione-del-Dhamma.adoc[]
 // DONE
 include::{includes}/05-I-due-discepoli-eminenti.adoc[]
 
-// TODO
+// DONE
 include::{includes}/06-Anathapindika.adoc[]
 
+// DONE
 include::{includes}/07-L-ordine-delle-monache.adoc[]
 
+// DONE
 include::{includes}/08-La-disputa-di-Kosambi.adoc[]
 
+// DONE
 include::{includes}/09-La-fine-dei-primi-vent-anni.adoc[]
 
+// TODO
 include::{includes}/10-Il-periodo-di-mezzo.adoc[]
 
 include::{includes}/11-La-persona.adoc[]

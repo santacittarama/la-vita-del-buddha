@@ -1,13 +1,17 @@
 = L'ordine Delle Monache
 
-PRIMO NARRATORE. Il racconto appena offerto ha mostrato come il Buddha
+[.narrator]
+`PRIMO NARRATORE.` Il racconto appena offerto ha mostrato come il Buddha
 acconsentì a trascorrere la stagione delle piogge a
-Sāvatthī link:#nota1[^1^]. Perciò, se il computo tradizionale delle
+Sāvatthī.footnote:[Il _Mālālankāravatthu_ dice che questa stagione delle piogge
+fu trascorsa a Rājagaha, nel Boschetto di Bambù, ma ciò è errato.] Perciò,
+se il computo tradizionale delle
 prime tre piogge successive all’Illuminazione è esatto, la quarta
 stagione delle piogge fu trascorsa nel Boschetto di Jeta. Questo è un
 episodio che potrebbe appartenere a quel periodo.
 
-PRIMA VOCE. Così ho udito. Una volta, quando il Beato soggiornava a
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta, quando il Beato soggiornava a
 Sāvatthī, nel Boschetto di Jeta, nel Parco di Anāthapiṇḍika, il
 venerabile Nanda, il figlio della zia materna del Beato, disse a un
 certo numero di bhikkhu: «Amici, sto conducendo la santa vita
@@ -106,22 +110,28 @@ divinità me l’hanno detto. Così, quando il tuo cuore fu liberato dalle
 contaminazioni, io ero già libero dalla mia promessa». E conoscendo il
 significato di ciò, il Beato esclamò queste parole:
 
+[verse]
+____
 Quando un bhikkhu ha superato la palude +
 e frantumato la spina dei desideri sensoriali +
 e raggiunto la distruzione dell’illusione, +
 piaceri e dolori non lo scuoteranno più.
+____
 
-Ud. 3:2
+_Ud. 3:2_
 
-PRIMO NARRATORE. La successiva stagione delle piogge, la quinta, fu
+[.narrator]
+`PRIMO NARRATORE.` La successiva stagione delle piogge, la quinta, fu
 trascorsa a Vesālī, la capitale del Videha, un territorio collocato a
 sud-est di Kosala e sulla riva occidentale del Gange. Era una
 confederazione retta da un’oligarchia, non da una monarchia.
 
-SECONDO NARRATORE. Nei mesi che seguirono, il re Suddhodana cadde malato
+[.narrator]
+`SECONDO NARRATORE.` Nei mesi che seguirono, il re Suddhodana cadde malato
 e morì come Arahant. Il Buddha visitò nuovamente la sua città natale.
 
-SECONDA VOCE. Avvenne questo. Il Buddha, il Beato, stava vivendo tra i
+[.voice]
+`SECONDA VOCE.` Avvenne questo. Il Buddha, il Beato, stava vivendo tra i
 Sakya nel Parco di Nigrodha a Kapilavatthu. Mahāpajāpatī Gotamī si recò
 da lui. Gli prestò omaggio e si mise in piedi da un lato. Allora lei
 disse: «Signore, sarebbe cosa buona se le donne potessero ottenere di
@@ -172,7 +182,14 @@ religiosa nel Dhamma e nella Disciplina dichiarate dal Perfetto, di
 realizzare il frutto di Chi è Entrato nella Corrente o di Chi Torna una
 Sola Volta o di Chi è Senza Ritorno o la condizione di Arahant?».
 
-«Lo sono, Ānanda» link:#nota2[^2^].
+«Lo sono, Ānanda».footnote:[Almeno due dei discorsi più esoterici del _Sutta Piṭaka_ (M.
+44 and S. 44:1) furono pronunciati da bhikkhunī. Un certo numero di
+donne si distinsero per particolari virtù (A. 1:14) e c’è una collezione
+di versi pronunciati da loro allorché raggiunsero la condizione di
+Arahant. - NDT. _Therīgāthā_, una parziale traduzione ital. di Pio
+Filippani-Ronconi in _Canone buddhista. Discorsi brevi,_ Torino 2004,
+pp. 695-724; si veda ora _Therīgāthā. Canti spirituali della monache
+buddhiste_, a cura di A.S. COMBA, Tapkina editrice 2016.]
 
 «Se è così, Signore, poiché Mahāpajāpatī Gotamī è stata di grande aiuto
 al Beato allorché, come sorella della madre, gli è stata nutrice, madre
@@ -241,9 +258,11 @@ far sì che l’acqua di un grande bacino non causi un’inondazione, io ho
 resi noti in anticipo questi otto punti capitali che le bhikkhuṇī non
 devono trasgredire finché dura la loro vita».
 
-Vin. Cv. 10:1; A. 8:51
+[.suttaref]
+_Vin. Cv. 10:1; A. 8:51_
 
-SECONDO NARRATORE. Quando lei in seguito chiese istruzioni per le donne
+[.narrator]
+`SECONDO NARRATORE.` Quando lei in seguito chiese istruzioni per le donne
 Sakya che l’avevano accompagnata, il Buddha ordinò che i bhikkhu
 avrebbero dovuto dare loro la piena ammissione come bhikkhuṇī. Le
 bhikkhuṇī, ottenuta la piena ammissione, reclamarono allora che, a
@@ -256,7 +275,8 @@ prestare omaggio agli anziani indipendentemente da quale delle due
 comunità appartenessero. Il Buddha rispose che nessun bhikkhu doveva
 prestare omaggio a una bhikkhuṇī.
 
-SECONDA VOCE. Un’altra volta Mahāpajāpatī Gotamī andò dal Beato. Dopo
+[.voice]
+`SECONDA VOCE.` Un’altra volta Mahāpajāpatī Gotamī andò dal Beato. Dopo
 avergli prestato omaggio si mise in piedi da un lato e disse: «Signore,
 sarebbe bene che il Beato m’istruisse brevemente, in modo che dopo aver
 ascoltato il Dhamma dal Beato, io possa dimorare sola, ritirata,
@@ -280,20 +300,5 @@ vigore, non all’indolenza. Alla frugalità, non alla lussuria”. A
 proposito di queste cose puoi certamente dire: “Questo è il Dhamma,
 questo è la Disciplina, questo è l’insegnamento del Maestro”».
 
-Vin. Cv. 10:5; A. 8:53
-
-[[nota1]]1. Il _Mālālankāravatthu_ dice che questa stagione delle piogge
-fu trascorsa a Rājagaha, nel Boschetto di Bambù, ma ciò è errato.
-
-// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
-
-[[nota2]]2. Almeno due dei discorsi più esoterici del _Sutta Piṭaka_ (M.
-44 and S. 44:1) furono pronunciati da bhikkhunī. Un certo numero di
-donne si distinsero per particolari virtù (A. 1:14) e c’è una collezione
-di versi pronunciati da loro allorché raggiunsero la condizione di
-Arahant. - NDT. _Therīgāthā_, una parziale traduzione ital. di Pio
-Filippani-Ronconi in _Canone buddhista. Discorsi brevi,_ Torino 2004,
-pp. 695-724; si veda ora _Therīgāthā. Canti spirituali della monache
-buddhiste_, a cura di A.S. COMBA, Tapkina editrice 2016.
-
-// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
+[.suttaref]
+_Vin. Cv. 10:5; A. 8:53_

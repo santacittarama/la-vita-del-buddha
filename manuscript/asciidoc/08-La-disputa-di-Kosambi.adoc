@@ -1,6 +1,7 @@
 = La Disputa di Kosambī
 
-SECONDO NARRATORE.  La tradizione afferma che la sesta stagione delle
+[.narrator]
+`SECONDO NARRATORE.`  La tradizione afferma che la sesta stagione delle
 piogge fu trascorsa sul monte Makula e che durante l’anno successivo
 avvenne nuovamente il miracolo doppio a Sāvatthī, dopo di che il Buddha
 ascese nel paradiso delle Trentatré Divinità. Lì egli trascorse la
@@ -10,14 +11,16 @@ quella stagione delle piogge, quando il Buddha tornò sulla terra ebbe
 luogo la “discesa degli déi”. Egli trascorse l’ottava stagione delle
 piogge a Suṃsumāragira e la nona a Kosambī.
 
-PRIMO NARRATORE. Kosambī era la capitale del piccolo regno di Vaṃsa,
+[.narrator]
+`PRIMO NARRATORE.` Kosambī era la capitale del piccolo regno di Vaṃsa,
 incuneato tra il Gange e il Jumna. Il suo re, Udena, è a mala pena
 menzionato nel Canone. La maggior parte degli eventi collocati in questi
 anni dalla tradizione più tarda, inclusa la visita al paradiso delle
 Trentatré Divinità e la discesa degli déi, non sono menzionati nel
 Canone.
 
-SECONDO NARRATORE. Per iniziare, questo è il racconto della triviale
+[.narrator]
+`SECONDO NARRATORE.` Per iniziare, questo è il racconto della triviale
 circostanza che condusse alla prima grande disputa, che minacciò di
 produrre uno scisma nel Saṅgha. Pare che in un monastero vi fossero due
 bhikkhu, uno era esperto nella Disciplina e l’altro insegnava i
@@ -40,10 +43,12 @@ discepoli dell’esperto nella Disciplina: «Il vostro precettore è un
 bugiardo». La sua risposta consistette nel convocare un capitolo e
 sospendere l’insegnante di Discorsi.
 
-PRIMO NARRATORE. Questo è il racconto canonico di quel che successe in
+[.narrator]
+`PRIMO NARRATORE.` Questo è il racconto canonico di quel che successe in
 seguito.
 
-SECONDA VOCE. Avvenne questo. Mentre il Buddha, il Beato, viveva a
+[.voice]
+`SECONDA VOCE.` Avvenne questo. Mentre il Buddha, il Beato, viveva a
 Kosambī nel Parco di Ghosita, un bhikkhu fu coinvolto in un’infrazione.
 Egli considerò l’infrazione come un’infrazione, ma l’altro bhikkhu non
 considerò l’infrazione come un’infrazione. Poi, lui stesso non considerò
@@ -119,9 +124,11 @@ Saṅgha”».
 
 Dopo che il Beato ebbe detto queste cose, si alzò e se ne andò.
 
-Vin. Mv. 10:1
+[.suttaref]
+_Vin. Mv. 10:1_
 
-PRIMA VOCE. Però, nel Saṅgha scoppiarono litigi, risse e dispute, e i
+[.voice]
+`PRIMA VOCE.` Però, nel Saṅgha scoppiarono litigi, risse e dispute, e i
 bhikkhu si ferirono a vicenda con frecce fatte di parole. Non riuscivano
 a comporre la loro lite. Allora un bhikkhu andò dal Beato e, dopo
 avergli prestato omaggio, si mise in piedi da un lato. Gli raccontò che
@@ -148,8 +155,11 @@ questua e tornò dopo il pasto, mise in ordine il posto nel quale
 riposava e prese la ciotola e la sua veste superiore. Poi pronunciò
 queste strofe:
 
-M. 128; cf. Vin. Mv. 10:2-3
+[.suttaref]
+_M. 128; cf. Vin. Mv. 10:2-3_
 
+[verse]
+____
 Quando molte voci urlano contemporaneamente, +
 non vi è chi pensa d’essere un folle, +
 l’Ordine è diviso, nessuno pensa: +
@@ -158,11 +168,16 @@ Hanno dimenticato il saggio parlare, parlano +
 con la mente ossessionata dalle sole parole, +
 sfrenate le loro labbra, sbraitano a volontà, +
 nessuno sa che cosa l’abbia indotto a comportarsi così.
+____
 
-M. 128; Jā. 3:488; Ud. 5:9
+[.suttaref]
+_M. 128; Jā. 3:488; Ud. 5:9_
 
-Thag. 275; Vin, Mv. 10:3
+[.suttaref]
+_Thag. 275; Vin, Mv. 10:3_
 
+[verse]
+____
 «Mi ha insultato, mi ha picchiato, +
 mi ha sconfitto, mi ha derubato!» +
 L’odio non si placa mai in chi +
@@ -176,20 +191,31 @@ questo mondo non ha mai pace. +
 Trova pace con l’amicizia, +
 questo è un antico principio. +
 Quegli altri non riconoscono +
-che qui dovremmo contenere noi stessi link:#nota1[^1^]. +
+che qui dovremmo contenere noi stessi.footnote:[Non vi è accordo
+sul significato della parola _yamāmase_, se
+debba essere resa con «dovremmo contenere noi stessi» oppure con
+«potremmo essere distrutti».] +
 Qui tuttavia alcuni ne sono consapevoli +
 e perciò le loro liti sono sedate.
+____
 
-M. 128; Dh. 3-6; Jā. 3:212, 488; Vin. Mv. 10:3
+[.suttaref]
+_M. 128; Dh. 3-6; Jā. 3:212, 488; Vin. Mv. 10:3_
 
+[verse]
+____
 Spaccaossa e assassini, +
 ladri di bestiame, di cavalli, di patrimoni: +
 mentre sono intenti a saccheggiare il reame, +
 perfino costoro possono agire in concordia. +
 Perché allora voi non potete fare altrettanto?
+____
 
-M. 128; Jā. 3:488; Vin. Mv. 10:3
+[.suttaref]
+_M. 128; Jā. 3:488; Vin. Mv. 10:3_
 
+[verse]
+____
 Se riuscite a trovare un compagno degno di fede, +
 col quale camminare, virtuoso e risoluto, +
 camminate con lui soddisfatti e consapevoli, +
@@ -203,10 +229,13 @@ camminate soli come un rinoceronte nella foresta.
 non c’è amicizia con i folli. +
 Camminate da soli, non ferite nessuno, senza conflitti, +
 siate come un rinoceronte solo nella foresta.
+____
 
-M. 128; Jā. 3:488; Vin. Mv. 10:3
+[.suttaref]
+_M. 128; Jā. 3:488; Vin. Mv. 10:3_
 
-Dh. 328-30; cf. Sn. 45-46
+[.suttaref]
+_Dh. 328-30; cf. Sn. 45-46_
 
 Dopo aver pronunciato queste strofe, il Beato se ne andò a
 Bālakaloṇakāragāma. In quel tempo lì viveva il venerabile Bhagu. Quando
@@ -288,9 +317,11 @@ parliamo per tale scopo. Ogni cinque giorni, però, sediamo fuori insieme
 nella notte parlando di Dhamma. In questo modo dimoriamo diligenti,
 ardenti e auto-controllati».
 
-M. 128; Vin. Mv. 10:4
+[.suttaref]
+_M. 128; Vin. Mv. 10:4_
 
-SECONDA VOCE. Quando il Beato li ebbe istruiti, esortati, risvegliati e
+[.voice]
+`SECONDA VOCE.` Quando il Beato li ebbe istruiti, esortati, risvegliati e
 incoraggiati con un discorso di Dhamma, si alzò dal posto in cui sedeva.
 Partì viaggiando per tappe per recarsi a Pārileyyaka. Infine vi giunse e
 andò a vivere nella giungla Rakkhita, ai piedi di un fausto albero
@@ -341,9 +372,10 @@ del fausto albero _sāla_ a Pārileyyaka e, dopo avergli prestato omaggio,
 si misero a sedere da un lato. Allora il Beato li incoraggiò con un
 discorso di Dhamma.
 
-S. 22:81
+_S. 22:81_
 
-SECONDA VOCE. Quando il Beato era rimasto a Pārileyyaka per tutto il
+[.voice]
+`SECONDA VOCE.` Quando il Beato era rimasto a Pārileyyaka per tutto il
 tempo che volle, partì viaggiando per tappe verso Sāvatthī. Infine vi
 arrivò, e andò a vivere nel Boschetto di Jeta, nel Parco di
 Anāthapiṇḍika.
@@ -456,10 +488,6 @@ Allora il bhikkhu che aveva pronunciato la sospensione andò dal Beato e
 gli raccontò quel che era avvenuto. L’atto di composizione fu approvato
 e la procedura seguita.
 
-Vin. Mv. 10:5
+[.suttaref]
+_Vin. Mv. 10:5_
 
-[[nota1]]1. Non vi è accordo sul significato della parola _yamāmase_, se
-debba essere resa con «dovremmo contenere noi stessi» oppure con
-«potremmo essere distrutti».
-
-// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]

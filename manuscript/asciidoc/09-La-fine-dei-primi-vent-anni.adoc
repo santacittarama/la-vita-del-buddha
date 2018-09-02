@@ -1,12 +1,14 @@
 = La Fine Dei Primi Vent’anni
 
-SECONDO NARRATORE. La decima stagione delle piogge successiva
+[.narrator]
+`SECONDO NARRATORE.` La decima stagione delle piogge successiva
 all’Illuminazione fu trascorsa a Pārileyyaka, mentre la disputa di
 Kosambī era al culmine. La stessa tradizione riporta che l’undicesima
 stagione delle piogge fu trascorsa nelle colline del sud – le colline a
 sud di Rājagaha – e che allora accadde il seguente evento.
 
-PRIMA VOCE. Così ho udito. Una volta il Beato soggiornava nel regno di
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta il Beato soggiornava nel regno di
 Magadha, nel villaggio di Ekanālā. Era il tempo della semina e Kasi
 (l’“aratore”) Bhāradvāja della casta dei brāhmaṇa aveva ben cinquecento
 aratri al lavoro. Di mattino presto il Beato si vestì, prese la ciotola
@@ -27,6 +29,8 @@ buoi del Maestro Gotama. Tuttavia il Maestro Gotama ha detto: “Anche io,
 brāhmaṇa, aro e semino e, dopo aver arato e seminato, mangio”». Egli
 allora si rivolse al Beato in strofe:
 
+[verse]
+____
 Tu pretendi di essere un aratore, tuttavia +
 noi non vediamo la tua aratura. +
 Rispondi perciò, signore, così che +
@@ -48,21 +52,27 @@ Questa è la mia aratura, +
 Ciò Che Non Muore è il suo frutto. +
 Chi ara in questo modo sarà libero +
 Da ogni genere di sofferenza.
+____
 
 Allora Kasi Bhāradvāja riempì una grande ciotola di bronzo con riso
 cotto nel latte e la portò dal Beato: «Che il Maestro Gotama mangi il
 riso cotto nel latte. Il Maestro Gotama è un aratore perché la sua
 aratura ha come frutto Ciò Che Non Muore».
 
+[verse]
+____
 Non posso ottenere ricompense per i miei versi, +
 questa è la legge dei profeti. Gli Esseri Illuminati +
 non accettano ricompense per i loro versi, +
 questo è il loro costume finché prevale la loro legge. +
 Quando un profeta è libero dalle contaminazioni, +
 placati i conflitti – come voi direste: +
-“ha raggiunto l’Assoluto” link:#nota1[^1^] – +
+“ha raggiunto l’Assoluto”footnote:[Il termine _kevalī_
+(“ha raggiunto l’Assoluto”) pare fosse
+usato dal Buddha quando si rivolgeva ai brāhmaṇa.] – +
 allora offrite a lui doni con altri pensieri nella mente: +
 egli è il campo per coloro che mieteranno meriti.
+____
 
 «A chi darò questo riso cotto nel latte, Maestro Gotama?».
 
@@ -85,9 +95,11 @@ rizzarono. Andò dal Maestro Gotama, si prostrò ai suoi piedi e disse:
 ricevere l’ammissione dal Maestro Gotama». E non molto tempo dopo il
 venerabile Bhāradvāja divenne uno degli Arahant.
 
-Sn. 1:4; S. 7:11
+[.suttaref]
+_Sn. 1:4; S. 7:11_
 
-SECONDO NARRATORE. Il novizio Rāhula, il figlio del Buddha, aveva ora
+[.narrator]
+`SECONDO NARRATORE.` Il novizio Rāhula, il figlio del Buddha, aveva ora
 diciotto anni. Il Buddha dimorava nel Boschetto di Jeta e un mattino era
 andato in città per la questua. Suo figlio lo seguiva da vicino e,
 mentre lo seguiva, i suoi pensieri vagarono e cominciò a chiedersi quale
@@ -95,7 +107,8 @@ avrebbe potuto essere il suo futuro se suo padre fosse diventato un
 Monarca Universale, com’era stato predetto, e non avesse rinunciato alla
 vita famigliare.
 
-PRIMA VOCE. Mentre il venerabile Rāhula lo stava seguendo da vicino, il
+[.voice]
+`PRIMA VOCE.` Mentre il venerabile Rāhula lo stava seguendo da vicino, il
 Beato si girò e lo guardò, e si rivolse a lui in questo modo: «Rāhula,
 qualsiasi forma materiale, sia essa passata, futura o presente, interna
 o esterna, grossolana o sottile, inferiore o superiore, vicina o
@@ -122,15 +135,18 @@ Allora egli disse: «Signore, come dovrebbe essere mantenuta in essere e
 ben sviluppata la consapevolezza del respiro affinché essa possa recare
 grande frutto e molte benedizioni?».
 
-M. 62
+[.suttaref]
+_M. 62_
 
-SECONDO NARRATORE. Il Buddha gli descrisse prima in dettaglio i quattro
+[.narrator]
+`SECONDO NARRATORE.` Il Buddha gli descrisse prima in dettaglio i quattro
 elementi primari della forma materiale – terra o solidità, acqua o
 coesione, fuoco o temperatura e maturazione, e aria o dilatazione e
 movimento – e dello spazio, e come ognuno di essi dovrebbe essere
 considerato allo stesso modo della forma materiale. Allora egli disse:
 
-PRIMA VOCE. «Cerca di essere come la terra, Rāhula. Così facendo, quando
+[.voice]
+`PRIMA VOCE.` «Cerca di essere come la terra, Rāhula. Così facendo, quando
 sorgono i contatti piacevoli o spiacevoli, essi non invaderanno il tuo
 cuore e non resteranno lì, proprio come quando la gente butta cose
 pulite o cose sporche o escrementi o urina o sputo o pus o sangue sulla
@@ -157,18 +173,23 @@ presunzione dell’“io sono”. Pratica la consapevolezza del respiro,
 perché quando essa è mantenuta in essere e ben sviluppata, reca gran
 frutto e molte benedizioni».
 
-M. 62
+[.suttaref]
+_M. 62_
 
-SECONDO NARRATORE. Il Buddha descrisse allora i sedici modi in cui può
+[.narrator]
+`SECONDO NARRATORE.` Il Buddha descrisse allora i sedici modi in cui può
 essere praticata la consapevolezza del respiro.
 
-PRIMO NARRATORE. Il raggiungimento della condizione di Arahant da parte
+[.narrator]
+`PRIMO NARRATORE.` Il raggiungimento della condizione di Arahant da parte
 del novizio Rāhula è narrata in seguito.
 
-SECONDO NARRATORE. Nella successiva stagione delle piogge, la
+[.narrator]
+`SECONDO NARRATORE.` Nella successiva stagione delle piogge, la
 dodicesima, il Buddha si trovò a Verañjā.
 
-SECONDA VOCE. Avvenne questo. Il Buddha, il Beato, soggiornava a
+[.voice]
+`SECONDA VOCE.` Avvenne questo. Il Buddha, il Beato, soggiornava a
 Verañjā, ai piedi dell’albero _nimba_ di Naḷeru con una grande comunità
 di bhikkhu, di cinquecento bhikkhu, quando un brāhmaṇa di Verañjā sentì
 parlare del Beato e decise di andare ad incontrarlo. Andò da lui e
@@ -207,7 +228,21 @@ non più soggette a sorgere in futuro. È però sicuro, brāhmaṇa, che tu
 intenda questo?».
 
 «Il Maestro Gotama insegna che non si dovrebbe fare
-nulla» link:#nota2[^2^].
+nulla».footnote:[Alcuni dei giochi di parole presenti in questo passo
+mettono a dura prova le qualità di un traduttore. «Insegna che non ci sono cose
+da fare» (_akiriyavādī_) indica colui il quale afferma che le azioni
+sono a-morali e non fanno maturare effetti, né buoni né cattivi.
+«Insegna il nichilismo» (_ucchedavādī_) indica colui il quale crede che
+alcuni tipi di anima o di sé abbiano una permanenza temporanea, che a un
+certo punto viene però interrotta. Essa presuppone l’esistenza di
+un’anima temporanea. «Uno da portare via» (_venayika_) è l’espressione
+più difficile. La parola _vineti_ (letteralmente “da portare via”)
+significa sia da portare via sia, metaforicamente, da disciplinare.
+“Portare via” è pure utilizzato dal Buddha nel senso di condurre i
+discepoli lontano dalla sofferenza e, dai suoi oppositori, per
+insultarlo come uno che porta la gente fino alla distruzione, procurata
+dal nichilismo, l’“abisso del nulla”, e, di conseguenza, per loro egli è
+uno “da portare via”, ossia di cui sbarazzarsi.]
 
 «C’è una ragione per la quale si potrebbe giustamente dire che il monaco
 Gotama insegna che non si dovrebbe fare nulla: io insegno che non si
@@ -272,15 +307,18 @@ dall’ignoranza, sono io l’unico al mondo ad aver scoperto la suprema e
 piena Illuminazione forando il guscio dell’ignoranza, della nescienza.
 Sono perciò io il più anziano ed eminente nel mondo».
 
-Vin. Sv. Pārā. 1; A. 8:11
+[.suttaref]
+_Vin. Sv. Pārā. 1; A. 8:11_
 
-SECONDO NARRATORE. Il Buddha poi descrisse come, mediante l’ottenimento
+[.narrator]
+`SECONDO NARRATORE.` Il Buddha poi descrisse come, mediante l’ottenimento
 dei quattro jhāna e delle tre vere conoscenze, pervenne a conoscere
 direttamente che non vi era più nascita per lui. Il brāhmaṇa si convinse
 e prese i Tre Rifugi. Egli allora offrì ricovero e sostegno al Buddha
 per la successiva stagione delle piogge, e il Buddha accettò.
 
-SECONDA VOCE. A Verañjā ottenere cibo in elemosina era difficile. C’era
+[.voice]
+`SECONDA VOCE.` A Verañjā ottenere cibo in elemosina era difficile. C’era
 carestia ed erano stati emessi dei buoni per ottenere il cibo. Non era
 facile sopravvivere neanche spigolando strenuamente. Tuttavia, alcuni
 commercianti del nord del paese con cinquecento cavalli avevano allora
@@ -347,7 +385,11 @@ la santa vita non durò a lungo?».
 
 «Quei Beati non furono solleciti a insegnare il Dhamma ai loro discepoli
 dettagliatamente e pronunciarono pochi Fili di Discorsi
-(sutta) link:#nota3[^3^], Canti, Esposizioni, Strofe, Esclamazioni,
+(sutta),footnote:[C’è un gioco di parole sul termine sutta, letteralmente
+“filo” e metaforicamente “filo di discorsi” o insieme di idee connesse.
+È in quest’ultimo senso che i discorsi del Buddha sono chiamati “sutta”,
+perché in essi l’insegnamento è tenuto assieme nella forma di un filo di
+argomenti legati l’uno con l’altro.] Canti, Esposizioni, Strofe, Esclamazioni,
 Detti, Storie di Nascite, Meraviglie e Domande. Non fu resa nota alcuna
 regola di addestramento per i discepoli. Il _Pātimokkha_, il Codice
 Monastico, non fu esposto. Proprio come quando vari fiori sono posti su
@@ -444,12 +486,15 @@ offrì al Beato la stoffa per una veste e a ogni bhikkhu due pezzi di
 stoffa. E il Beato, dopo averlo istruito con un discorso di Dhamma, se
 ne andò.
 
-Vin. Sv. Pārā. 1
+[.suttaref]
+_Vin. Sv. Pārā. 1_
 
-SECONDO NARRATORE. Il seguente episodio si verificò mentre la
+[.narrator]
+`SECONDO NARRATORE.` Il seguente episodio si verificò mentre la
 tredicesima stagione delle piogge veniva trascorsa a Cālikā.
 
-PRIMA VOCE. Così ho udito. Mentre il Beato soggiornava a Cālikā, sulla
+[.voice]
+`PRIMA VOCE.` Così ho udito. Mentre il Beato soggiornava a Cālikā, sulla
 Rupe Cālikā, il suo attendente era allora il venerabile Meghiya. Egli
 andò dal Beato e gli disse: «Signore, voglio entrare a Jantugāma per la
 questua».
@@ -527,7 +572,12 @@ sofferenza».
 
 «Per fondare dentro di sé queste cinque cose, però, un bhikkhu dovrebbe,
 per di più, mantenere in essere queste quattro cose. La ripugnanza (in
-relazione all’aspetto repellente del corpo) link:#nota4[^4^] dovrebbe
+relazione all’aspetto repellente del corpo)footnote:[“Ripugnanza” è un
+termine che indica l’oggetto di
+contemplazione consistente sia nelle “trentuno parti del corpo”
+(trentadue nei Commentari) sia la decomposizione dei cadaveri (cap. 12,
+pp. 270-271). Lo scopo è ridurre l’attaccamento al corpo fisico
+dimostrando che è non attraente ma transitorio.] dovrebbe
 essere mantenuta in essere al fine di abbandonare la lussuria. La
 gentilezza amorevole al fine di abbandonare la malevolenza. La
 consapevolezza del respiro al fine di interrompere i pensieri
@@ -539,6 +589,8 @@ Nibbāna qui e ora».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
+[verse]
+____
 Pensieri meschini, pensieri triviali +
 arrivano a tentare la mente e poi volano via. +
 Non comprendendo questi pensieri nella mente, +
@@ -547,16 +599,20 @@ Un uomo che comprende questi pensieri nella sua mente +
 li espelle con consapevolezza vigorosa. +
 E un Essere Illuminato se n’è sbarazzato +
 perché le tentazioni non agitano più la sua mente.
+____
 
-Ud. 4:1; A. 9:3.
+[.suttaref]
+_Ud. 4:1; A. 9:3._
 
-SECONDO NARRATORE Il figlio del Buddha aveva ora vent’anni. Gli fu di
+[.narrator]
+`SECONDO NARRATORE.` Il figlio del Buddha aveva ora vent’anni. Gli fu di
 conseguenza impartita la piena ammissione (in quanto non conferibile
 prima di tale età). E la tradizione riporta che fu in questo stesso anno
 che il Buddha pronunciò il discorso che fu per lui la causa per ottenere
 la condizione di Arahant.
 
-PRIMA VOCE. Così ho udito. Allora il Beato soggiornava a Sāvatthī, nel
+[.voice]
+`PRIMA VOCE.` Così ho udito. Allora il Beato soggiornava a Sāvatthī, nel
 Boschetto di Jeta, nel Parco di Anāthapiṇḍika. Ora, mentre egli era solo
 in meditazione questo pensiero sorse nella sua mente: «Le cose che
 giungono a maturazione nella Liberazione sono mature nella mente di
@@ -606,11 +662,13 @@ impermanente?» … 
 una percezione, una formazione [mentale], una coscienza che sorge avendo
 come condizione il contatto visivo?» …
 
-SECONDO NARRATORE. Le cinque stesse proposizioni da (a) a (e) furono
+[.narrator]
+`SECONDO NARRATORE.` Le cinque stesse proposizioni da (a) a (e) furono
 ripetute per (2) orecchio e suoni, (3) naso e odori, (4) lingua e
 sapori, (5) corpo e oggetti tangibili, (6) mente e oggetti mentali.
 
-PRIMA VOCE. «Con questa comprensione, Rāhula, il saggio nobile discepolo
+[.voice]
+`PRIMA VOCE.` «Con questa comprensione, Rāhula, il saggio nobile discepolo
 diventa disincantato nei riguardi dell’occhio, delle forme visibili,
 della coscienza visiva e del contatto visivo, ed egli diventa
 disincantato nei riguardi della sensazione, della percezione, delle
@@ -634,9 +692,11 @@ venerabile Rāhula fu liberato dalle contaminazioni mediante il
 non-attaccamento. E in quelle molte migliaia di divinità sorse la pura,
 immacolata visione del Dhamma: tutto quel che sorge deve cessare.
 
-M. 147
+[.suttaref]
+_M. 147_
 
-SECONDO NARRATORE. Le sei successive stagioni delle piogge – ossia dalla
+[.narrator]
+`SECONDO NARRATORE.` Le sei successive stagioni delle piogge – ossia dalla
 quattordicesima alla diciannovesima – furono trascorse in luoghi
 differenti. La ventesima a Sāvatthī, nel Boschetto di Jeta. Secondo la
 tradizione dei Commentari, il Buddha decise allora di trascorrere
@@ -658,7 +718,11 @@ Sāvatthī per la questua. Quando ebbe fatto il giro per la questua a
 Sāvatthī e fu ritornato dopo il pasto, mise in ordine il posto nel quale
 riposava e, poi, portando con sé la ciotola e la veste superiore, si
 incamminò verso il luogo in cui si trovava Aṅgulimāla. Bovari, pastori,
-agricoltori e viaggiatori link:#nota5[^5^] videro il Beato e dissero:
+agricoltori e viaggiatorifootnote:[La parola _padhāvino_ (viaggiatori)
+compare nella stessa frase in M. 50, ma è pronunciata _pathāvino_ (P.T.S. ed.). È stato
+seguito il Commentario a M. 50. Il Dizionario della P.T.S. offre
+entrambi i termini, ma con significati differenti, benché l’inclusione
+di _padhāvin_ sia un errore.] videro il Beato e dissero:
 «Non incamminarti per quella strada, monaco. Su quella strada c’è il
 bandito Aṅgulimāla. Uomini hanno percorso quella strada in bande di
 dieci, venti, trenta e anche quaranta di tanto in tanto, ma sono tutti
@@ -695,6 +759,8 @@ dice: “Io mi sono fermato, Aṅgulimāla, fermati anche tu”. E se
 rivolgessi delle domande a questo monaco?». Allora si rivolse al Beato
 in strofe:
 
+[verse]
+____
 Mentre stai camminando, monaco, +
 mi dici di esserti fermato, +
 ma ora che mi sono fermato, +
@@ -722,6 +788,7 @@ L’Illuminato, il Saggio di grande compassione, +
 l’insegnante del mondo con le sue divinità, +
 si rivolse a lui con queste parole: «Vieni, bhikkhu» +
 e fu così che lui divenne un bhikkhu.
+____
 
 Il Beato si mise poi in viaggio per tappe per Sāvatthī con Aṅgulimāla
 come suo monaco attendente. Infine arrivarono a Sāvatthī e il Beato si
@@ -842,6 +909,8 @@ all’inferno per molti anni, per molti secoli, per molti millenni».
 Quando il venerabile Aṅgulimāla era solo in ritiro assaporando la
 beatitudine della Liberazione, esclamò queste parole:
 
+[verse]
+____
 Chi ha in precedenza vissuto con avventatezza +
 e poi così più non vive +
 illumina il mondo come la luna piena +
@@ -877,7 +946,9 @@ altri con pungoli e altri ancora con la sferza. +
 Chi non ha bacchetta né armi: +
 da costui io sono domato.
 
-Innocente link:#notaNDT[^NDT^] è il mio nome, +
+Innocentefootnote:[Il nome attribuito ad Aṅgulimāla dal
+padre, un brāhmaṇa, fu Ahiṃsaka, che significa appunto
+“innocente”, “non violento”, “innocuo”.] è il mio nome, +
 fui nocivo agli altri in passato. +
 Il mio nome oggi è vero: +
 non faccio male ad alcuno. +
@@ -903,13 +974,17 @@ Sia allora benevenuta questa mia scelta +
 la si lasci così com’è, non fu cosa mal fatta, +
 la triplice conoscenza è stata ottenuta +
 e quel che il Veggente ha ordinato è stato fatto.
+____
 
-M. 86
+[.suttaref]
+_M. 86_
 
-SECONDO NARRATORE. Questa è la storia di un tentativo di screditare il
+[.narrator]
+`SECONDO NARRATORE.` Questa è la storia di un tentativo di screditare il
 Buddha.
 
-PRIMA VOCE. Così ho udito. Una volta, quando il Beato soggiornava a
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta, quando il Beato soggiornava a
 Sāvatthī, era onorato, rispettato, riverito, venerato e lodato. Otteneva
 vesti, cibo in elemosia, alloggio e medicinali, e così pure il Saṅgha
 dei bhikkhu. Per gli asceti itineranti di altre sette, però, le cose
@@ -960,10 +1035,13 @@ riferirono al Beato.
 Al termine di sette giorni cesserà. Così, quando la gente vi insulta in
 questo modo, ammonitela con questa strofa:»
 
+[verse]
+____
 Il bugiardo va all’inferno, come colui che agisce +
 e poi dichiara: «Non sono stato io», +
 quando muoiono entrambi viaggiano allo stesso modo +
 nella vita successiva, come uomini dal comportamente abietto.
+____
 
 I bhikkhu impararono questa strofa dal Beato. Quando la gente li
 insultò, loro la ammonirono con essa. La gente pensò: «Questi monaci,
@@ -977,17 +1055,23 @@ predizione del Beato!».
 
 Conoscendo il significato di ciò, il Beato esclamò allora queste parole:
 
+[verse]
+____
 Uomini incauti provocano con parole come frecce +
 fatte volare contro un elefante in battaglia. +
 Ma quando parole dure sono rivolte a un bhikkhu, +
 che egli sopporti con mente imperturbata.
+____
 
-Ud. 4:8
+[.suttaref]
+_Ud. 4:8_
 
-PRIMO NARRATORE. Non sappiamo quando gli eventi di seguito narrati si
+[.narrator]
+`PRIMO NARRATORE.` Non sappiamo quando gli eventi di seguito narrati si
 verificarono, ma con essi possiamo chiudere i primi venti anni.
 
-PRIMA VOCE. Così ho udito. Una volta il Beato soggiornava a Cātumā in un
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta il Beato soggiornava a Cātumā in un
 boschetto di mirabolamo. In quell’occasione cinquecento bhikkhu guidati
 dal venerabile Sāriputta e dal venerabile Mahā-Moggallāna erano giunti a
 Cātumā per vedere il Beato. Mentre i bhikkhu in visita scambiavano
@@ -1074,12 +1158,15 @@ Sāriputta continueremo a guidare il Saṅgha dei bhikkhu”».
 «Bene, bene, Moggallāna. O sarò io a continuare a guidare il Saṅgha dei
 bhikkhu oppure lo faranno Sāriputta e Moggallāna».
 
-M. 67
+[.suttaref]
+_M. 67_
 
-SECONDO NARRATORE. Il Buddha raccontò ai bhikkhu di essere stato negli
+[.narrator]
+`SECONDO NARRATORE.` Il Buddha raccontò ai bhikkhu di essere stato negli
 alti paradisi del mondo di Brahmā.
 
-PRIMA VOCE. «Bhikkhu, una volta, quando vivevo a Ukkaṭṭhā nel Boschetto
+[.voice]
+`PRIMA VOCE.` «Bhikkhu, una volta, quando vivevo a Ukkaṭṭhā nel Boschetto
 di Subhaga ai piedi di un reale albero _sāla_, in Brahmā Baka era sorto
 un pernicioso modo di vedere (in relazione alla sua stessa permanenza e
 assolutezza). Io nella mia mente fui consapevole del pensiero sorto
@@ -1136,7 +1223,11 @@ via di fuga, che al di là c’era una via di fuga, e che quando al di là
 non c’era una via di fuga, che al di là non c’era una via di fuga.
 Perciò, bhikkhu, questo io ti dico: ‘Al di là di questo non troverai via
 di fuga, e se cercherai di farlo alla fine otterrai stanchezza e
-delusione. Se crederai nella link:#nota6[^6^] terra … nell’acqua … nel
+delusione. Se crederai nellafootnote:[“Se crederai nella”: letteralmente
+_sace ... ajjhosissasi_ significa “se accetterai” oppure, come dice il Commentario: “Se, per
+mezzo della fiducia (ossia dell’accettazione), della deglutizione,
+dell’assimilazione, presupporai mediante bramosia, presunzione e
+opinioni”.] terra … nell’acqua … nel
 fuoco … nell’aria … negli esseri … negli déi … in Pajāpati … Se crederai
 in Brahmā, tu sarai uno di quelli che stanno al mio fianco, risiederai
 nel mio dominio, quando sarà giunto per me il momento di esercitare la
@@ -1149,6 +1240,8 @@ il suo seguito, si estende fino a questo punto e non oltre’ ”».
 «“Ora, buon signore, com’è che intendi l’estensione di fin dove posso
 arrivare e il mio influsso?”».
 
+[verse]
+____
 Quant’è ampio il tragitto circolare di luna e sole, +
 il loro splendore e luminosità nelle quattro direzioni, +
 più di mille volte l’ampiezza di un mondo, +
@@ -1157,6 +1250,7 @@ E colà tu conosci sia l’alto sia il basso, +
 e coloro che sono governati dalla lussuria e da essi liberi, +
 la condizione di ciò che è così e altrimenti, +
 e la provenienza delle creature e la loro destinazione.
+____
 
 «“Così intendo l’estensione di fin dove puoi arrivare e il tuo influsso.
 Ci sono tuttavia altri tre corpi principali di déi Brahmā che tu né
@@ -1172,7 +1266,29 @@ Gloria) e di Vehapphala (del Grande Frutto)”».
 «“Ora, Brahmā, avendo avuto conoscenza diretta della terra in quanto
 terra, e avendo avuto conoscenza diretta di quel che non è co-essenziale
 rispetto all’essenza della terra, io non pretendo di essere
-terra link:#nota7[^7^], non pretendo che la terra sia mia, non affermo
+terra,footnote:[L’enfasi è sulla nozione dell’essere (“essere o non
+essere”). L’attribuzione di espressioni e letture è tratta dall’edizione
+birmana, che qui è più affidabile di qualsiasi altra e ha _nāpahosiṃ_
+invece di _nāhosi_. Così si dovrebbe ad esempio leggere: _sabbaṃ kho
+ahaṃ brahme sabbato abhiññāya yāvatā sabbassa sabbattena ananubhūtaṃ,
+tad abhiññāya sabbaṃ nāpahosiṃ, sabbasmiṃ nāpahosiṃ, sabbato nāpahosiṃ,
+sabbam me ti nāpahosiṃ, sabbaṃ nābhivadiṃ_ (“Avendo avuto conoscenza del
+tutto in quanto tutto …” ). Sia in questo sutta sia in D. 11 la riga
+_Viññāṇam anidassanam anantaṃ sabbatopabhaṃ_ (“La coscienza che non si
+mostra …”) è menzionata dal Buddha (in questa pagina e anche alla p.
+167). Questa frase è stata un problema per molti. Il Commentario al
+_Majjhima_ ha un’ampiezza molto maggiore del Commentario al _Dīgha_ e
+propone una derivazione dalla radice _bhū_ (essere) per _pabhaṃ_ (o
+_pahaṃ_). Seguendo questo suggerimento, sebbene non del tutto in linea
+con quanto suggerito dal Commentario, possiamo ritenere che
+_sabbatopabhaṃ_ sia costituito da _sabbato_ e da una forma contratta del
+participio presente di _pahoti_ (= _pabhavati_), ossia _pahaṃ_ (=
+_pabhaṃ_). Questo si lega con il precedente _sabbato abhiññāya … sabbaṃ
+nāpahosiṃ = sabbato apabhaṃ_ (“non pretendo di essere separato dal
+tutto”). Le lettere _h_ e _bh_ vengono facilmente confuse in Singalese.
+In D. 11, nel quale ricorre la stessa frase, il Buddha cita
+probabilmente da questo discorso. Abbiamo qui materiale per un
+interessante punto per uno studio ontologico.] non pretendo che la terra sia mia, non affermo
 nulla a riguardo della terra. Avendo avuto conoscenza diretta dell’acqua
 in quanto acqua … del fuoco … dell’aria … degli esseri … degli déi … di
 Pajāpati … di Brahmā … di Ābhassara … di Subhakiṇṇa … di Vehapphala …
@@ -1188,9 +1304,12 @@ te, ma di più”».
 coessenziale alla totalità del tutto, che non si possa affermare che tu
 sia vano e vuoto!”».
 
+[verse]
+____
 La coscienza che non si mostra +
 e che nemmeno ha a che fare con la finitezza, +
 pretendendo di non essere separata dal tutto
+____
 
 non è co-essenziale all’essenza della terra, all’essenza dell’acqua …
 all’essenza del tutto.
@@ -1209,10 +1328,13 @@ dissi: “Allora, Brahmā, io sparirò dal tuo cospetto”».
 Brahmā e all’Assemblea, che loro sentano il suono della mia voce senza
 vedermi”, e dopo essere scomparso, esclamai questa strofa:
 
+[verse]
+____
 Ho visto la paura in ogni tipo di esistenza +
 inclusi gli esseri che cercano la non-esistenza; +
 non c’è tipo di esistenza, affermo, +
 che non provi diletto per ciò a cui si attacca.
+____
 
 «Allora Brahmā e l’Assemblea e tutti i suoi componenti si stupirono e si
 meravigliarono, e dissero: “È meraviglioso, signori, è stupefacente!
@@ -1257,7 +1379,8 @@ aveva più nulla da dire, e in ragione dell’invito a me fatto da Brahmā
 (di sparire), questo discorso può essere intitolato “Dietro invito di un
 Brahmā”».
 
-M. 49
+[.suttaref]
+_M. 49_
 
 Una volta il Beato soggiornava a Nālandā nel Boschetto di Pāvārikā.
 Allora il figlio del capofamiglia Kevaḍḍha si recò da lui e, dopo
@@ -1273,7 +1396,8 @@ modo: “Venite, bhikkhu, operate un miracolo con poteri sovrannaturali
 maggiori di quelli propri della condizione umana per i laici vestiti di
 bianco”».
 
-SECONDO NARRATORE. Il Buddha diede la stessa risposta quando tale
+[.narrator]
+`SECONDO NARRATORE.` Il Buddha diede la stessa risposta quando tale
 domanda fu ripetuta una seconda volta. Quando fu ripetuta ancora una
 volta, egli rispose di conoscere per esperienza tre tipi di miracoli: il
 miracolo del potere sovrannaturale che consiste nell’abilità di
@@ -1297,7 +1421,8 @@ vicenda di un bhikkhu che possedeva questi poteri magici, e come questi
 non gli fossero serviti a nulla nella sua ricerca per una via d’uscita
 dalla sofferenza.
 
-PRIMA VOCE. «C’era un bhikkhu in questo Saṅgha di bhikkhu che ebbe
+[.voice]
+`PRIMA VOCE.` «C’era un bhikkhu in questo Saṅgha di bhikkhu che ebbe
 questo pensiero: “Dov’è che queste quattro entità cessano senza residuo,
 ossia l’elemento terra, l’elemento acqua, l’elemento fuoco e l’elemento
 aria?”. Egli entrò in uno stato tale di concentrazione che, quando la
@@ -1308,13 +1433,15 @@ residuo?”. Esse risposero: “Non lo sappiamo, bhikkhu. Ci sono però
 questi stessi Quattro Divini Sovrani che sono più grandi di noi e a noi
 superiori. Loro dovrebbero saperlo”. Così egli andò da loro».
 
-SECONDO NARRATORE. Essi gli diedero la stessa risposta e lo inviarono
+[.narrator]
+`SECONDO NARRATORE.` Essi gli diedero la stessa risposta e lo inviarono
 nel paradiso Tāvatiṃsa, e così egli andò attraverso tutti i cieli
 dell’esistenza sensoriale fino a che fu inviato al di là di essi, nel
 mondo di Brahmā, il mondo delle supreme divinità. Egli pose agli déi
 dell’Assemblea di Brahmā la stessa domanda. Loro gli dissero:
 
-PRIMA VOCE. «“Non lo sappiamo, bhikkhu. C’è però Brahmā, il Gran Brahmā,
+[.voice]
+`PRIMA VOCE.` «“Non lo sappiamo, bhikkhu. C’è però Brahmā, il Gran Brahmā,
 Essere Trascendente Intrasceso, Lungimirante Branditore della Maestria,
 Signore Artefice e Creatore, Altissima Provvidenza, Maestro e Padre di
 coloro che sono e potranno essere, che è più grande di noi e a noi
@@ -1354,6 +1481,8 @@ nel mondo di Brahmā non hai trovato una risposta alla tua domanda, e sei
 tornato da me. La domanda, però, non dovrebbe essere posta in quel modo,
 dovrebbe essere posta così»:
 
+[verse]
+____
 Dimmi, allora, dov’è che non trovano appoggio +
 acqua, terra, fuoco e aria? +
 Come pure il lungo e il corto, +
@@ -1372,93 +1501,10 @@ come pure il lungo e il corto, +
 il piccolo e il grande, il giusto e il disonesto. +
 Là è che nome-e-forma +
 cessano senza residuo.
+____
 
-D. 11
+[.suttaref]
+_D. 11_
 
-[[nota1]]1. Il termine _kevalī_ (“ha raggiunto l’Assoluto”) pare fosse
-usato dal Buddha quando si rivolgeva ai brāhmaṇa.
 
-// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
 
-[[nota2]]2. Alcuni dei giochi di parole presenti in questo passo mettono
-a dura prova le qualità di un traduttore. «Insegna che non ci sono cose
-da fare» (_akiriyavādī_) indica colui il quale afferma che le azioni
-sono a-morali e non fanno maturare effetti, né buoni né cattivi.
-«Insegna il nichilismo» (_ucchedavādī_) indica colui il quale crede che
-alcuni tipi di anima o di sé abbiano una permanenza temporanea, che a un
-certo punto viene però interrotta. Essa presuppone l’esistenza di
-un’anima temporanea. «Uno da portare via» (_venayika_) è l’espressione
-più difficile. La parola _vineti_ (letteralmente “da portare via”)
-significa sia da portare via sia, metaforicamente, da disciplinare.
-“Portare via” è pure utilizzato dal Buddha nel senso di condurre i
-discepoli lontano dalla sofferenza e, dai suoi oppositori, per
-insultarlo come uno che porta la gente fino alla distruzione, procurata
-dal nichilismo, l’“abisso del nulla”, e, di conseguenza, per loro egli è
-uno “da portare via”, ossia di cui sbarazzarsi.
-
-// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
-
-[[nota3]]3. C’è un gioco di parole sul termine sutta, letteralmente
-“filo” e metaforicamente “filo di discorsi” o insieme di idee connesse.
-È in quest’ultimo senso che i discorsi del Buddha sono chiamati “sutta”,
-perché in essi l’insegnamento è tenuto assieme nella forma di un filo di
-argomenti legati l’uno con l’altro.
-
-// link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
-
-[[nota4]]4. “Ripugnanza” è un termine che indica l’oggetto di
-contemplazione consistente sia nelle “trentuno parti del corpo”
-(trentadue nei Commentari) sia la decomposizione dei cadaveri (cap. 12,
-pp. 270-271). Lo scopo è ridurre l’attaccamento al corpo fisico
-dimostrando che è non attraente ma transitorio.
-
-// link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
-
-[[nota5]]5. La parola _padhāvino_ (viaggiatori) compare nella stessa
-frase in M. 50, ma è pronunciata _pathāvino_ (P.T.S. ed.). È stato
-seguito il Commentario a M. 50. Il Dizionario della P.T.S. offre
-entrambi i termini, ma con significati differenti, benché l’inclusione
-di _padhāvin_ sia un errore.
-
-// link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
-
-[[notaNDT]]NDT. Il nome attribuito ad Aṅgulimāla dal padre, un brāhmaṇa,
-fu Ahiṃsaka, che significa appunto “innocente”, “non violento”,
-“innocuo”.
-
-// link:#OrigineNotaNDT[image:../Images/BackArrow.jpg[<--]]
-
-[[nota6]]6. “Se crederai nella”: letteralmente _sace ... ajjhosissasi_
-significa “se accetterai” oppure, come dice il Commentario: “Se, per
-mezzo della fiducia (ossia dell’accettazione), della deglutizione,
-dell’assimilazione, presupporai mediante bramosia, presunzione e
-opinioni”.
-
-// link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
-
-[[nota7]]7. L’enfasi è sulla nozione dell’essere (“essere o non
-essere”). L’attribuzione di espressioni e letture è tratta dall’edizione
-birmana, che qui è più affidabile di qualsiasi altra e ha _nāpahosiṃ_
-invece di _nāhosi_. Così si dovrebbe ad esempio leggere: _sabbaṃ kho
-ahaṃ brahme sabbato abhiññāya yāvatā sabbassa sabbattena ananubhūtaṃ,
-tad abhiññāya sabbaṃ nāpahosiṃ, sabbasmiṃ nāpahosiṃ, sabbato nāpahosiṃ,
-sabbam me ti nāpahosiṃ, sabbaṃ nābhivadiṃ_ (“Avendo avuto conoscenza del
-tutto in quanto tutto …” ). Sia in questo sutta sia in D. 11 la riga
-_Viññāṇam anidassanam anantaṃ sabbatopabhaṃ_ (“La coscienza che non si
-mostra …”) è menzionata dal Buddha (in questa pagina e anche alla p.
-167). Questa frase è stata un problema per molti. Il Commentario al
-_Majjhima_ ha un’ampiezza molto maggiore del Commentario al _Dīgha_ e
-propone una derivazione dalla radice _bhū_ (essere) per _pabhaṃ_ (o
-_pahaṃ_). Seguendo questo suggerimento, sebbene non del tutto in linea
-con quanto suggerito dal Commentario, possiamo ritenere che
-_sabbatopabhaṃ_ sia costituito da _sabbato_ e da una forma contratta del
-participio presente di _pahoti_ (= _pabhavati_), ossia _pahaṃ_ (=
-_pabhaṃ_). Questo si lega con il precedente _sabbato abhiññāya … sabbaṃ
-nāpahosiṃ = sabbato apabhaṃ_ (“non pretendo di essere separato dal
-tutto”). Le lettere _h_ e _bh_ vengono facilmente confuse in Singalese.
-In D. 11, nel quale ricorre la stessa frase, il Buddha cita
-probabilmente da questo discorso. Abbiamo qui materiale per un
-interessante punto per uno studio
-ontologico.
-
-// link:#OrigineNota7[image:../Images/BackArrow.jpg[<--]]
