@@ -1,11 +1,13 @@
 = Il Primo Concilio
 
-PRIMO NARRATORE. Dopo l’ottenimento del Nibbāna definitivo da parte del
+[.narrator]
+`PRIMO NARRATORE.` Dopo l’ottenimento del Nibbāna definitivo da parte del
 Buddha, i bhikkhu si allontanarono da Kusinārā e si dispersero.
 L’Anziano Mahā-Kassapa emerge quale figura più eminente nel Saṅgha dei
 bhikkhu.
 
-SECONDO NARRATORE. Egli era già stato in precedenza menzionato dal
+[.narrator]
+`SECONDO NARRATORE.` Egli era già stato in precedenza menzionato dal
 Buddha come il quarto nella lunga lista dei discepoli di particolare
 distinzione. Il primo era l’Anziano Kondañña, il primo convertito; il
 secondo e il terzo erano gli Anziani Sāriputta e Moggallāna, i due
@@ -18,10 +20,12 @@ altruismo, invece di dedicarsi a beni più duraturi, portando a
 compimento la sua perfezione, quella perfezione già raggiunta dallo
 stesso Anziano Mahā-Kassapa.
 
-PRIMO NARRATORE. Ecco un episodio appartenente a questo periodo di
+[.narrator]
+`PRIMO NARRATORE.` Ecco un episodio appartenente a questo periodo di
 transizione, che ben illustra il suo carattere.
 
-PRIMA VOCE. Così ho udito. Una volta il venerabile Mahā-Kassapa
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta il venerabile Mahā-Kassapa
 soggiornava a Rājagaha, nel Boschetto di Bambù, nel Sacrario degli
 Scoiattoli. In quel momento il venerabile Ānanda andava errando nelle
 Colline Meridionali con una larga comunità di bhikkhu. Fu allora che
@@ -60,7 +64,10 @@ raccolti. Si potrebbe pensare che vai errando per distruggere famiglie.
 Il tuo seguito va in pezzi. I tuoi nuovi convertiti si allontanano. E
 neanche questo ragazzo conosce ancora la sua propria misura!».
 
-La bhikkhuṇī Thullānandā link:#nota1[^1^] udì queste parole. Ella pensò:
+La bhikkhuṇī Thullānandāfootnote:[La bhikkhunī Thullānandā compare
+spesso nel Vinaya come una
+donna orgogliosa, intelligente e faziosa, che causò la stesura di
+numerose regole.] udì queste parole. Ella pensò:
 «Sembra che il Signore Ānanda, il Veggente Videha, si sia dispiaciuto
 perché il Signore Kassapa l’ha chiamato ragazzo». E lei si sentì offesa
 ed esclamò parole di dispiacere: «Come può il Signore Mahā-Kassapa, che
@@ -127,7 +134,8 @@ Dhamma, un erede del Dhamma, che riceve una veste dismessa fatta di
 panni scartati di canapa”, è di me che in verità ciò potrebbe essere
 detto».
 
-PRIMO NARRATORE. Egli proseguì raccontando come fosse in grado, ogni
+[.narrator]
+`PRIMO NARRATORE.` Egli proseguì raccontando come fosse in grado, ogni
 volta che lo desiderava, di entrare e dimorare nei quattro jhāna e anche
 nei quattro stati privi di forma, come pure nella cessazione della
 percezione e della sensazione, avendo inoltre acquisito i cinque tipi di
@@ -136,7 +144,8 @@ dell’orecchio divino, la penetrazione delle menti, il ricordo delle vite
 passate e l’occhio divino per mezzo del quale si vede come gli esseri
 scompaiono e ricompaiono in accordo con le loro azioni. Egli concluse:
 
-PRIMA VOCE. «Ogni volta che lo desidero, mediante la realizzazione di me
+[.voice]
+`PRIMA VOCE.` «Ogni volta che lo desidero, mediante la realizzazione di me
 stesso con la conoscenza diretta qui e ora, io entro e dimoro nella
 liberazione della mente e nella liberazione per mezzo della
 comprensione, che è priva delle contaminazioni per l’esaurimento delle
@@ -147,12 +156,15 @@ diretta».
 
 In seguito la bhikkhuṇī Thullānandā abbandonò la santa vita.
 
-S. 16:11
+[.suttaref]
+_S. 16:11_
 
-SECONDO NARRATORE. Sono passate ancora solo poche settimane dal
+[.narrator]
+`SECONDO NARRATORE.` Sono passate ancora solo poche settimane dal
 Parinibbāna.
 
-TERZA VOCE. Il venerabile Mahā-Kassapa disse: «Ora, amici, recitiamo
+[.voice]
+`TERZA VOCE.` Il venerabile Mahā-Kassapa disse: «Ora, amici, recitiamo
 l’Insegnamento e la Disciplina, il Dhamma e il Vinaya. Già erronei
 insegnamenti ed erronea disciplina sono stati corteggiati, e retti
 insegnamenti e retta disciplina sono stati derisi. E già sostenitori di
@@ -231,7 +243,8 @@ Upāli, dove fu resa nota la Prima Sconfitta?».
 
 «Sull’argomento del rapporto sessuale».
 
-SECONDO NARRATORE. L’Anziano Mahā-Kassapa allora interrogò l’Anziano
+[.narrator]
+`SECONDO NARRATORE.` L’Anziano Mahā-Kassapa allora interrogò l’Anziano
 Upāli sull’argomento della Prima Sconfitta, sulla sua origine, sulla
 persona, sulla proclamazione, sulle modifiche, sull’infrazione e su quel
 che non rappresentava un’infrazione. Poi egli lo interrogò nello stesso
@@ -242,7 +255,8 @@ ossia il _Pātimokkha_ dei bhikkhu o Codice delle Regole Monastiche e
 quello delle bhikkhuṇī, come pure su tutte le altre regole. L’Anziano
 Upāli rispose a ogni domanda.
 
-TERZA VOCE. Allora il venerabile Mahā-Kassapa offrì tale argomento di
+[.voice]
+`TERZA VOCE.` Allora il venerabile Mahā-Kassapa offrì tale argomento di
 decisione al cospetto del Saṅgha: «Che il Saṅgha mi ascolti, amici. Se
 al Saṅgha sembra opportuno, interrogherò il venerabile Ānanda sul
 Dhamma».
@@ -257,12 +271,14 @@ Allora il venerabile Mahā-Kassapa disse al venerabile Ānanda: «Amico
 
 «Tra Rājagaha e Nālandā, Signore, nella Casa del Re ad Ambalaṭṭhikā».
 
-SECONDO NARRATORE. L’anziano lo interrogò poi sull’origine del
+[.narrator]
+`SECONDO NARRATORE.` L’anziano lo interrogò poi sull’origine del
 _Brahmajāla Sutta_, il primo nella Raccolta dei Discorsi Lunghi, e sulla
 persona. Poi egli lo interrogò nello stesso modo a proposito del
 _Sāmaññaphala Sutta_. In questo maniera egli lo interrogò su tutti i
 discorsi di tutte le quattro Principali Raccolte del _Sutta Piṭaka._
 
+[.voice]
 TERZA VOCE. Allora il venerabile Ānanda disse ai bhikkhu anziani:
 «Signori, il Beato nel tempo in cui ottenne il Nibbāna definitivo mi
 disse: “Quando me ne sarò andato, il Saṅgha potrà, se lo desidera,
@@ -273,12 +289,14 @@ minute e minori?».
 
 «No, Signori, non l’ho chiesto».
 
-SECONDO NARRATORE. Gli anziani espressero diverse opinioni in relazioni
+[.narrator]
+`SECONDO NARRATORE.` Gli anziani espressero diverse opinioni in relazioni
 a quali regole, a parte le Quattro Sconfitte, dovessero essere
 considerate minute e minori. Allora il venerabile Mahā-Kassapa offrì un
 argomento di decisione al cospetto del Saṅgha.
 
-TERZA VOCE. «Che il Saṅgha mi ascolti, amici. Ci sono alcune delle
+[.voice]
+`TERZA VOCE.` «Che il Saṅgha mi ascolti, amici. Ci sono alcune delle
 nostre regole d’addestramento che coinvolgono i laici, mediante le quali
 i laici conoscono quello che è permesso ai monaci che sono figli dei
 Sakya e quello che non lo è. Se noi aboliamo queste regole più minute e
@@ -340,7 +358,8 @@ gli aveva dato il latte, aveva allattato il Beato quando sua madre morì.
 Non la considero una mancanza. Tuttavia, per fiducia nei venerabili, la
 riconosco come mancanza».
 
-Vin. Cv. 11:1-10
+[.suttaref]
+_Vin. Cv. 11:1-10_
 
 In quel tempo il venerabile Purāṇa stava errando nelle Colline
 Meridionali con una grande comunità di bhikkhu, con cinquecento bhikkhu.
@@ -355,14 +374,17 @@ ripetizione?».
 Io li ricorderò tuttavia come li ho uditi dalle labbra stesse del
 Beato».
 
-Vin. Cv. 11:11
+[.suttaref]
+_Vin. Cv. 11:11_
 
-PRIMO NARRATORE. Ecco ora un ultimo episodio, che mostra il giovane
+[.narrator]
+`PRIMO NARRATORE.` Ecco ora un ultimo episodio, che mostra il giovane
 Saṅgha che continua a vivere dopo la scomparsa del fondatore, un
 organismo affermato, che è sopravvissuto in modo ininterrotto e fiorente
 per due millenni e mezzo, fino a oggi.
 
-TERZA VOCE. Così ho udito. Una volta il venerabile Ānanda viveva a
+[.voice]
+`TERZA VOCE.` Così ho udito. Una volta il venerabile Ānanda viveva a
 Rājagaha, nel Boschetto di Bambù, nel Sacrario degli Scoiattoli, non
 molto tempo dopo che il Beato aveva ottenuto il Nibbāna definitivo.
 
@@ -564,9 +586,11 @@ del sentiero, il veggente del sentiero, abile nel sentiero. Ora, però,
 quando i discepoli dimorano in conformità con quel sentiero, sono
 posseduti da esso, e fanno così seguendo lui”?».
 
-M. 108
+[.suttaref]
+_M. 108_
 
-SECONDO NARRATORE. Nel frattempo il re Ajātasattu era intento alla
+[.narrator]
+`SECONDO NARRATORE.` Nel frattempo il re Ajātasattu era intento alla
 distruzione del suo troppo possente vicino, la confederazione Vajji con
 capitale a Vesālī, a nord-est al di là del Gange. Al fine di aiutarlo a
 raggiungere il suo scopo, Vassakāra finse di cospirare contro di lui, si
@@ -583,7 +607,8 @@ il territorio dei Sakya e dei Koliya posti sul suo confine
 nord-orientale, trattando nello stesso modo le popolazioni che là
 vivevano.
 
-PRIMO NARRATORE. Tutto questo chiude il primo scenario di storia
+[.narrator]
+`PRIMO NARRATORE.` Tutto questo chiude il primo scenario di storia
 dell’India. Per il successivo secolo e mezzo, fino alla nascita
 dell’Impero Maurya con la sua nuova dinastia, vengono solo menzionati i
 nomi dei re di Magadha e il racconto del Secondo Concilio degli Arahant,
@@ -599,12 +624,14 @@ periodo successivo al Primo Concilio vennero incorporati nel _Sutta
 Piṭaka_. In un terzo concilio, tenuto durante il regno dell’imperatore
 Asoka (il nipote di Chandragupta), l’_Abhidhamma Piṭaka_ fu completato
 aggiungendo un libro sulle eresie e, di fatto, il _Tipiṭaka_ venne
-chiuso. +
-   In questo tempo erano sorte diciotto differenti “scuole”. Il
+chiuso.
+
+In questo tempo erano sorte diciotto differenti “scuole”. Il
 _Theravāda_ (la Dottrina degli Anziani) divenne dominante sotto Asoka,
 che abbracciò egli stesso il buddhismo. Suo figlio (o, secondo alcune
 tradizioni, suo nipote), l’Arahant Mahinda, portò il _Tipiṭaka_ in pāli
-con il suo Commentario a Ceylon link:#nota2[^2^], mentre altri anziani
+con il suo Commentario a Ceylon,footnote:[L’attuale Sri Lanka (BB).]
+mentre altri anziani
 si recarono in altri territori. È questo _Tipiṭaka_ in pāli che è stato
 conservato fino ad oggi a Ceylon, in Birmania, in Thailandia e in
 Cambogia, dove ancora fiorisce il _Theravāda_. +
@@ -622,14 +649,3 @@ di tanto in tanto fiorente a Ceylon e in Birmania, in questi territori
 esso non fu mai in grado di cancellare il suo più antico rivale. In
 India, però, il buddhismo in tutte le sue forme si ritiene sia del tutto
 scomparso nel XV secolo.
-
- 
-[[nota1]]1. La bhikkhunī Thullānandā compare spesso nel Vinaya come una
-donna orgogliosa, intelligente e faziosa, che causò la stesura di
-numerose regole.
-
-// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
-
-[[nota2]]2. L’attuale Sri Lanka (BB).
-
-// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]

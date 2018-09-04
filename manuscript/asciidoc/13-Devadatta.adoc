@@ -1,13 +1,16 @@
 = Devadatta
 
-SECONDO NARRATORE. Devadatta era il primo cugino del Buddha. Il suo
+[.narrator]
+`SECONDO NARRATORE.` Devadatta era il primo cugino del Buddha. Il suo
 tentativo di usurpare il posto del Buddha è collocato trentasette anni
 dopo l’Illuminazione: quando, in altre parole, il Buddha aveva
 settantadue anni.
 
-PRIMO NARRATORE. Questo è il racconto offerto nel _Vinaya Piṭaka._
+[.narrator]
+`PRIMO NARRATORE.` Questo è il racconto offerto nel _Vinaya Piṭaka_.
 
-SECONDA VOCE. Avvenne questo. Una volta, quando Devadatta era da solo in
+[.voice]
+`SECONDA VOCE.` Avvenne questo. Una volta, quando Devadatta era da solo in
 ritiro, questo pensiero sorse nella sua mente: «Di chi posso
 conquistarmi la fiducia e così acquisire profitto, onore e fama?». Poi
 pensò: «Il principe Ajātasattu. È giovane, e ha un futuro glorioso. E se
@@ -39,7 +42,8 @@ ossessionò la sua mente e un desiderio sorse nella sua mente: «Governerò
 il Saṅgha dei bhikkhu». Contemporaneamente a questo pensiero svanirono i
 suoi poteri sovrannaturali.
 
-Vin. Cv. 7:2; cf. S. 17:36
+[.suttaref]
+_Vin. Cv. 7:2; cf. S. 17:36_
 
 Allorché il Beato aveva soggiornato a Benares per tutto il tempo che
 volle, si mise in viaggio per tappe verso Rājagaha, ove giunse a tempo
@@ -55,11 +59,13 @@ inferocito e il cane s’inferocisce ancora di più, così, fino a quando il
 principe Ajātasattu continua a servire Devadatta come sta facendo ora,
 altrettanto a lungo si può prevedere che gli stati [mentali] salutari in
 Devadatta diminuiscano e non aumentino. Proprio come un banano produce i
-suoi frutti per la propria distruzione e rovina link:#NDT[^NDT^], allo
+suoi frutti per la propria distruzione e rovina,footnote:[NDT. Dopo aver
+prodotto fiori e frutti, il banano muore.] allo
 stesso modo il profitto, l’onore e la fama di Devadatta sono sorti per
 la sua stessa distruzione e rovina».
 
-Vin. Cv. 7:2; cfr. S. 17:35-36 e A. 4:68
+[.suttaref]
+_Vin. Cv. 7:2; cfr. S. 17:35-36 e A. 4:68_
 
 Avvenne questo. Il Beato stava seduto a insegnare il Dhamma, circondato
 da un grande raduno di persone, incluso il re. Allora Devadatta si alzò
@@ -240,9 +246,11 @@ la prima azione con effetto immediato sulla rinascita che Devadatta ha
 accumulato, perché con intenzione malvagia, con l’intenzione di
 uccidere, ha fatto sanguinare un Perfetto».
 
-Vin. Cv. 7:3
+[.suttaref]
+_Vin. Cv. 7:3_
 
-PRIMA VOCE. In quel tempo, quando il piede del Beato era stato ferito
+[.voice]
+`PRIMA VOCE.` In quel tempo, quando il piede del Beato era stato ferito
 dalla scheggia, egli soffrì per gravi sensazioni corporee, che erano
 dolorose, acute, tormentose, sgradevoli e spiacevoli. Consapevole e
 pienamente presente, egli le sopportò senza irritazione e, allargando la
@@ -252,6 +260,8 @@ sovrapposto all’altro, consapevole e pienamente presente.
 
 Allora Māra il Malvagio andò da lui e gli si rivolse in strofe:
 
+[verse, S. 4:13]
+____
 Com’è che giaci, sei inebetito? +
 Oppure sei estasiato da qualche divagazione? +
 Non ci sono molti scopi da raggiungere? +
@@ -266,10 +276,10 @@ da solo nel luogo appartato ove dimoro.
 
 Allora Māra il Malvagio seppe: «Il Beato mi conosce, il Sublime mi
 conosce». Triste e deluso, subito sparì.
+____
 
-S. 4:13
-
-SECONDA VOCE. I bhikkhu sentirono: «Sembra che Devadatta abbia cercato
+[.voice]
+`SECONDA VOCE.` I bhikkhu sentirono: «Sembra che Devadatta abbia cercato
 di assassinare il Beato». Camminarono sopra, sotto e tutt’intorno al
 luogo in cui il Beato dimorava. Fecero un gran rumore, un gran clamore,
 recitando canti per la custodia, la salvaguardia e la protezione del
@@ -334,6 +344,8 @@ amorevole. L’elefante abbassò la sua proboscide, raggiunse il Beato e si
 mise di fronte a lui. Il Beato accarezzò la fronte dell’elefante con la
 mano destra e gli rivolse queste strofe:
 
+[verse]
+____
 Elefante, non attaccare un pachiderma, +
 perché è dannoso attaccare un pachiderma. +
 Non c’è dopo alcun felice destino +
@@ -342,6 +354,7 @@ Avendolo fatto per vanità e avventatezza +
 l’avventato non ha felice destino. +
 Agisci perciò in modo da poterti dirigere +
 verso un felice destino.
+____
 
 L’elefante Nāḷagiri tolse la polvere dai piedi del Beato con la sua
 proboscide e la sparse sulla sua testa, e si ritirò camminando a ritroso
@@ -349,17 +362,21 @@ finché il Beato uscì dalla sua vista. Andò nella stalla degli elefanti e
 si mise al suo posto. Così fu che egli venne domato. Allora la gente
 cantò questa strofa:
 
+[verse]
+____
 Alcuni domano mediante bastoni, +
 altri con pungoli e sferze. +
 Qui però un saggio ha domato un pachiderma +
 senza usare né bastoni né armi.
+____
 
 La gente era irritata, mormorava e protestava: «Questo sciagurato di
 Devadatta è in realtà così malvagio da cercare di uccidere il monaco
 Gotama che è così forte e potente!». E la fama e l’onore di Devadatta
 svanirono mentre la fama e l’onore del Beato crebbero ancor di più.
 
-Vin. Cv. 7:3
+[.suttaref]
+_Vin. Cv. 7:3_
 
 Ora, dopo che la fama e l’onore di Devadatta erano svaniti, lui e i suoi
 seguaci erano soliti andare a mangiare insieme presso le famiglie,
@@ -383,7 +400,8 @@ uno scisma nel Saṅgha, e per compassione nei riguardi delle famiglie.
 Mangiare in gruppo, però, dovrà avvenire secondo la procedura già
 prevista».
 
-Vin. Cv. 7:3; Vin. Sv. Pāc. 32
+[.suttaref]
+_Vin. Cv. 7:3; Vin. Sv. Pāc. 32_
 
 Devadatta andò da Kokālika, Kaṭamoraka-Tissa, Khaṇḍādeyīputta e
 Samuddadatta e disse: «Venite, amici, causiamo uno scisma e una
@@ -461,7 +479,8 @@ e gode del paradiso per quanto resta di quest’era. Basta così,
 Devadatta, non cercare di causare uno scisma nel Saṅgha: uno scisma nel
 Saṅgha è una cosa grave».
 
-Vin. Cv. 7:3; Vin. Sv. Saṇgh. 10
+[.suttaref]
+_Vin. Cv. 7:3; Vin. Sv. Saṇgh. 10_
 
 Quando fu mattino, il venerabile Ānanda si vestì, prese la ciotola e la
 veste superiore, e si recò a Rājagaha per la questua. Devadatta lo vide,
@@ -472,10 +491,13 @@ separatamente dal Beato e dal Saṅgha dei bhikkhu».
 Al ritorno il venerabile Ānanda lo disse al Beato. Conoscendo il
 significato di ciò, il Beato esclamò queste parole:
 
+[verse]
+____
 Il bene può farlo con facilità chi è buono, +
 il bene non può farlo con facilità chi è malvagio. +
 Il male può farlo con facilità chi è malvagio, +
 gli Esseri Nobili non possono fare cattive azioni.
+____
 
 Il successivo giorno dell’_Uposatha_ Devadatta organizzò una votazione:
 «Amici, siamo andati dal Beato e lo abbiamo interrogato su cinque punti.
@@ -489,23 +511,27 @@ l’insegnamento del Maestro», votarono favorevolmente. Dopo aver causato
 uno scisma nel Saṅgha, Devadatta partì per Gayāsīsa con i cinquecento
 bhikkhu.
 
-Vin. Cv. 7:3; Ud. 5:8
+[.suttaref]
+_Vin. Cv. 7:3; Ud. 5:8_
 
-PRIMA VOCE. Il Beato stava soggiornando a Rājagaha sul Picco
+[.voice]
+`PRIMA VOCE.` Il Beato stava soggiornando a Rājagaha sul Picco
 dell’Avvoltoio. Era subito dopo la partenza di Devadatta. Allora, a
 notte inoltrata, Brahmā Sahampati, con un aspetto meraviglioso che
 illuminava tutto il Picco dell’Avvoltoio, andò dal Beato e, dopo avergli
 prestato omaggio, si mise in piedi da un lato. Poi, si rivolse al Beato
 con queste strofe:
 
+[verse, S. 6:12; cf. A. 4:68]
+____
 L’atto di fruttificare distrugge +
 l’aloe, il banano e il bambù. +
 E la fama distrugge pure il perdigiorno, +
 come avviene alla mula con il parto.
+____
 
-S. 6:12; cf. A. 4:68
-
-SECONDA VOCE. Sāriputta e Moggallāna andarono dal Beato. Loro gli
+[.voice]
+`SECONDA VOCE.` Sāriputta e Moggallāna andarono dal Beato. Loro gli
 dissero: «Signore, Devadatta ha causato uno scisma nel Saṅgha ed è
 partito per Gayāsīsa con cinquecento bhikkhu».
 
@@ -603,12 +629,16 @@ fu bene né per il loro aspetto né per la loro salute, e incorsero nella
 morte o in sofferenze mortali a causa di ciò. Allo stesso modo, bhikkhu,
 Devadatta morirà miseramente per avermi imitato».
 
+[verse]
+____
 Per avermi scimmiottato egli morirà meschinamente +
 proprio come un cucciolo che mangia il fango +
 quando imita il pachiderma che, vigile nel fiume, +
 cibandosi del loto scrolla via la terra.
+____
 
-Vin. Cv. 7:4
+[.suttaref]
+_Vin. Cv. 7:4_
 
 «Bhikkhu, un bhikkhu è adatto ad andare in una missione quando ha otto
 qualità. Quali otto? Egli è un bhikkhu che ascolta, che ottiene che gli
@@ -619,6 +649,8 @@ una missione quando ha queste otto qualità. Ora, Sāriputta ha queste
 otto qualità e, di conseguenza, egli è adatto ad andare in una
 missione».
 
+[verse]
+____
 Egli non vacilla quando è al cospetto +
 di un’assemblea d’alto rango. +
 Egli non perde il filo del discorso, +
@@ -627,8 +659,10 @@ Privo di esitazione, parla, +
 nessuna domanda può turbarlo. +
 Un bhikkhu così è adatto +
 ad andare in una missione.
+____
 
-Vin. Cv. 7:4; A. 8:16
+[.suttaref]
+_Vin. Cv. 7:4; A. 8:16_
 
 «Bhikkhu, Devadatta è sconfitto e la sua mente è ossessionata da otto
 cose malvagie, per le quali egli inevitabilmente finirà in stati di
@@ -653,9 +687,11 @@ all’inferno, per la durata di un’era. Quali tre? Esse sono cattivi
 desideri, cattivi amici e fermarsi a mezza strada con l’ottenimento
 della sola terrena distinzione dei poteri sovrannaturali».
 
-Vin. Cv. 7:4; A. 8:7; Iti. 89
+[.suttaref]
+_Vin. Cv. 7:4; A. 8:7; Iti. 89_
 
-SECONDO NARRATORE. Il Canone non fornisce notizie sulle effettive
+[.narrator]
+`SECONDO NARRATORE.` Il Canone non fornisce notizie sulle effettive
 circostanze della morte di Devadatta. Secondo il Commentario la terra si
 aprì ed egli fu ingoiato e inghiottito nell’inferno, per rimanervi fino
 alla distruzione degli inferni, fino all’avvento del successivo ciclo di
@@ -665,7 +701,8 @@ imprigionò e poi lo mise a morte. La successione dell’ambizioso
 Ajātasattu fu seguita da guerre tra i due regni dominanti di Magadha e
 di Kosala, tra nipote e zio.
 
-PRIMA VOCE. Così ho udito. Il Beato viveva a Sāvatthī. Ora, in quel
+[.voice]
+`PRIMA VOCE.` Così ho udito. Il Beato viveva a Sāvatthī. Ora, in quel
 tempo Ajātasattu Vedehiputta, re di Magadha, radunò un quadruplice
 esercito composto di elefanti, cavalleria, carri e fanteria, e marciò
 nella regione di Kāsi contro Pasenadi, re di Kosala. Il re Pasenadi lo
@@ -681,10 +718,13 @@ cattivi alleati, cattivi confidenti. Pasenadi, re di Kosala, ha buoni
 amici, buoni alleati, buoni confidenti. Il re Pasenadi, però,
 trascorrerà questa notte soffrendo come uno che è stato sconfitto».
 
+[verse]
+____
 La conquista genera nemici, +
 chi è vinto ha un letto fatto di dolore, +
 un uomo in pace può giacere quieto, +
 per lui non c’è vittoria né sconfitta.
+____
 
 In seguito i due sovrani combatterono come prima. Nella battaglia, però,
 il re Pasenadi catturò il re Ajātasattu vivo. Allora il re Pasenadi
@@ -695,6 +735,8 @@ la sua fanteria, e lasciarlo andare vivo?». I bhikkhu che facevano la
 questua a Sāvatthī ne sentirono parlare e andarono a riferirlo al Beato.
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
+[verse]
+____
 Un uomo può depredare quanto vuole. +
 Quando gli altri di rinvio lo deprederanno, +
 egli, depredato, li deprederà di nuovo. +
@@ -708,9 +750,8 @@ l’aggressore sarà aggredito, +
 il persecutore perseguitato. +
 La ruota delle azioni fa un altro giro +
 e fa diventare saccheggiati i saccheggiatori.
+____
 
-S. 3:14-15
+[.suttaref]
+_S. 3:14-15_
 
-[[NDT]]NDT. Dopo aver prodotto fiori e frutti, il banano muore.
-
-// link:#OrigineNDT[image:../Images/BackArrow.jpg[<--]]

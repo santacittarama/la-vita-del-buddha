@@ -1,6 +1,7 @@
 = La Vecchiaia
 
-PRIMA VOCE. Così ho udito. Una volta, quando il Beato risiedeva a
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta, quando il Beato risiedeva a
 Sāvatthī, il re Pasenadi di Kosala andò a trovarlo a mezzogiorno. Il
 Beato gli chiese: «Da dove vieni, a mezzogiorno, gran re?».
 
@@ -50,7 +51,8 @@ quel che è salutare e ottenere meriti?».
 te, che cos’altro puoi fare se non camminare nel Dhamma, camminare nella
 rettitudine, coltivare quel che è salutare e ottenere meriti?».
 
-S. 3:25
+[.suttaref]
+_S. 3:25_
 
 Una volta, quando il Beato soggiornava a Sāvatthī nel Monastero
 Orientale, il Palazzo della Madre di Migāra, egli si era alzato dal
@@ -73,6 +75,8 @@ lingua e delle mie sensazioni corporee».
 Così disse il Beato. Quando il Sublime ebbe detto questo, il Maestro
 disse ancora:
 
+[verse]
+____
 Vergognati, sordida Età, +
 artefice di bruttezza! +
 L’Età ha ora calpestato +
@@ -81,8 +85,10 @@ Per vivere cento anni +
 non si può ingannare il Decadimento +
 nel quale nessuno alloggia [a lungo] +
 ma schiaccia ogni cosa.
+____
 
-S. 48:41
+[.suttaref]
+_S. 48:41_
 
 Una volta il Beato soggiornava a Sāmagāna, nel territorio dei Sakya,
 subito dopo che Nigaṇṭha Nāthaputta era morto a Pāvā. Dopo la sua morte
@@ -130,7 +136,8 @@ dovessero sorgere controversie sul Sentiero o sul modo di praticare,
 controversie come queste condurrebbero davvero alla sventura e
 all’infelicità di molti».
 
-M. 104
+[.suttaref]
+_M. 104_
 
 Una volta il Beato soggiornava a Vesālī, nel boschetto a nord della
 città. Allora Sunakkhatta, un figlio dei Licchavi, aveva appena lasciato
@@ -156,7 +163,9 @@ esperienza diretta di questo genere di santa vita conosciuta come quella
 dotata di quattro fattori: io ho praticato gli estremi dell’ascetismo,
 della rozzezza, della scrupolosità e dell’isolamento».
 
-«Questo era il mio ascetismo link:#nota1[^1^]. Andavo nudo, rifiutavo le
+«Questo era il mio ascetismo.footnote:[Le austerità qui descritte
+sono principalmente quelle raccomandate dalla religione jainista.]
+Andavo nudo, rifiutavo le
 convenzioni, mi leccavo le mani. Non andavo quando ero chiamato, non mi
 fermavo quando me lo si chiedeva. Non accettavo una cosa quando mi
 veniva portata né una cosa appositamente fatta [per me], oppure un
@@ -229,10 +238,13 @@ dimoravo all’aperto e di notte nel bosco nell’ultimo mese della stagione
 calda. E là mi venne in mente in modo spontaneo questa strofa, mai udita
 prima:
 
+[verse]
+____
 Congelato di notte e bruciato di giorno, +
 da solo in boschi che ispirano timore, +
 nudo, senza un fuoco vicino al quale sedersi, +
 l’eremita ancora persegue la sua ricerca».
+____
 
 «Dormivo in un carnaio con le ossa di un morto come cuscino. E giovani
 pastori si avvicinavano e mi sputavano addosso, mi urinavano addosso, mi
@@ -264,8 +276,12 @@ al di là (del mondo)».
 purificazione provenga da un particolare ciclo di rinascite. È però
 impossibile rinvenire un ciclo di rinascite che io non abbia già
 attraversato in questo lungo viaggio, ad eccezione delle Pure
-Dimore link:#nota2[^2^], perché se io fossi nato nelle Pure Dimore non
-sarei mai dovuto tornare in questo mondo».
+Dimore,footnote:[Le “Pure Dimore” sono parte dell’alto mondo di Brahmā
+(_brahmaloka_), abitate solo da chi ha raggiunto la condizione di Chi è
+Senza Ritorno (si veda il cap. 12, p. 263), che sono là rinati alla
+morte e là vivono senza tornare in nessun altro mondo finché non
+raggiungono il Nibbāna definitivo.] perché se io fossi nato nelle
+Pure Dimore non sarei mai dovuto tornare in questo mondo».
 
 «Ci sono alcuni monaci e brāhmaṇa che sostengono e credono che la
 purificazione provenga da pratiche sacrificali. È però impossibile
@@ -308,9 +324,11 @@ alla fine di quei cento anni. Sāriputta, anche se tu dovessi portarmi in
 giro su un letto, non ci sarà alcun cambiamento nella lucidità della
 comprensione del Perfetto».
 
-M. 12
+[.suttaref]
+_M. 12_
 
-PRIMO NARRATORE. Negli ultimi anni del Buddha si verificarono un certo
+[.narrator]
+`PRIMO NARRATORE.` Negli ultimi anni del Buddha si verificarono un certo
 numero di vessazioni – eventi, ossia, che sarebbero stati vessatorî
 secondo il comune buon senso. Poco sopra si è detto come Sunakkhatta,
 che in precedenza era stato un bhikkhu (oltre che attendente personale
@@ -322,7 +340,8 @@ provato. Egli avrebbe poi presto perso i suoi due discepoli eminenti.
 Nel frattempo, il re Pasenadi di Kosala, suo devoto sostenitore per più
 di quarant’anni, fu sempre più infastidito da problemi politici.
 
-SECONDO NARRATORE. Il re Pasenadi aveva la stessa età del Buddha e,
+[.narrator]
+`SECONDO NARRATORE.` Il re Pasenadi aveva la stessa età del Buddha e,
 perciò, aveva superato gli ottant’anni. Era stato travagliato da guerre
 occasionali e prive di risultati con suo nipote, re Ajātasattu di
 Magadha, e da sommosse politiche all’interno del suo stesso regno. Di
@@ -332,27 +351,33 @@ a morte. Solo in seguito egli apprese che era innocente. Il rimorso lo
 assediava. Forse al fine di fare ammenda, promosse a quella stessa
 carica il nipote del generale, Dīgha Kārāyana.
 
-Commentario a M. 89 e D. 16
+[.suttaref]
+_Commentario a M. 89 e D. 16_
 
-PRIMO NARRATORE. Il re Pasenadi andò dal Buddha per chiedergli
+[.narrator]
+`PRIMO NARRATORE.` Il re Pasenadi andò dal Buddha per chiedergli
 consiglio. Quando morì la sua devota consorte, la regina Mallikā, si
 recò profondamente sconsolato dal Buddha, che allora si trovava a
 Sāvatthī, per cercare consolazione.
 
-Si veda A. 5:49
+[.suttaref]
+_Si veda A. 5:49_
 
-SECONDO NARRATORE. Il palazzo del re e la sua smagliante capitale non
+[.narrator]
+`SECONDO NARRATORE.` Il palazzo del re e la sua smagliante capitale non
 gli recavano più alcun piacere. Li lasciò per un po’ per errare di luogo
 in luogo con un grande seguito, ma senza alcuna meta.
 
-PRIMO NARRATORE. Durante questo vagare nostalgico e sconsolato, quando
+[.narrator]
+`PRIMO NARRATORE.` Durante questo vagare nostalgico e sconsolato, quando
 la strada dell’anziano sovrano incrociava quella del Buddha, il re
 andava a trovarlo. La sua morte non è registrata nel Tipiṭaka. Un
 discorso [del Buddha] è però collocato dal Commentario tra gli eventi
 che immediatamente la precedettero. Questo è il racconto del loro ultimo
 incontro.
 
-PRIMA VOCE. Così ho udito. Una volta il Buddha soggiornava nel
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta il Buddha soggiornava nel
 territorio dei Sakya, in una città dei Sakya chiamata Medaḷumpa. In
 quella circostanza il re Pasenadi di Kosala giunse a Nāgaraka per alcuni
 affari e altre cose ancora. Egli disse allora a Dīgha Kārāyana: «Amico
@@ -530,12 +555,15 @@ benessere e riguardano i fondamenti della santa vita».
 Questo è ciò che il Beato disse. I bhikkhu si sentirono soddisfatti, e
 si deliziarono alle sue parole.
 
-M. 89
+[.suttaref]
+_M. 89_
 
-PRIMO NARRATORE. Quel che avvenne dopo che il re era stato a colloquio
+[.narrator]
+`PRIMO NARRATORE.` Quel che avvenne dopo che il re era stato a colloquio
 [con il Beato] è raccontato solo nel Commentario.
 
-SECONDO NARRATORE. Quando il re entrò nel luogo in cui il Buddha
+[.narrator]
+`SECONDO NARRATORE.` Quando il re entrò nel luogo in cui il Buddha
 dimorava, lasciando le insegne reali a Dīgha Kārāyana, quest’ultimo,
 risentitosi, divenne sospettoso. Iniziò a fantasticare, pensando che il
 sovrano avesse fatto giustiziare suo zio, il generale, dopo un
@@ -551,8 +579,9 @@ aspettava di avvertire il re di non seguirli, se alla sua vita ci
 teneva. Quando il re uscì dalla dimora dal luogo in cui il Buddha
 dimorava, vedendo che lì non c’era nessuno, andò ove prima si trovava
 l’accampamento. La donna che l’attendeva gli disse quel che era
-avvenuto. +
- Egli decise di chiedere aiuto a suo nipote, re Ajātasattu. Durante il
+avvenuto.
+
+Egli decise di chiedere aiuto a suo nipote, re Ajātasattu. Durante il
 lungo viaggio per Rājagaha egli mangiò del cibo grossolano, di un genere
 del quale non era solito cibarsi e bevette molta acqua. Quando arrivò a
 Rājagaha era tardi e le porte della città erano chiuse, così che fu
@@ -567,18 +596,3 @@ d’indignazione, ordinando un attacco punitivo contro suo cugino, ora re
 Viḍūḍabha, ma venne subito persuaso dai suoi ministri che, siccome
 l’anziano sovrano era morto, un tentativo del genere sarebbe stato
 inutile ed egli puntualmente riconobbe la successione di suo cugino.
-
- 
-[[nota1]]1. Le austerità qui descritte sono principalmente quelle
-raccomandate dalla religione jainista.
-
-// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
-
-[[nota2]]2. Le “Pure Dimore” sono parte dell’alto mondo di Brahmā
-(_brahmaloka_), abitate solo da chi ha raggiunto la condizione di Chi è
-Senza Ritorno (si veda il cap. 12, p. 263), che sono là rinati alla
-morte e là vivono senza tornare in nessun altro mondo finché non
-raggiungono il Nibbāna
-definitivo.
-
-// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]

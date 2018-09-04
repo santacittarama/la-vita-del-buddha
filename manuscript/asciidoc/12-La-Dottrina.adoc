@@ -1,22 +1,25 @@
 = La Dottrina
 
-\1. Questioni varie. – 2. Non c’è un Primo Inizio. – 3. Le Quattro
-Nobili Verità. – 4.1. La Verità della Sofferenza. – 4.2. La Verità
-dell’Origine della Sofferenza. – 4.3. La Verità della Cessazione della
-Sofferenza. – 4.4. La Verità del Sentiero. – 4.4a. Retta visione. –
-4.4b. Retta intenzione. – 4.4c. Retta parola. – 4.4d. Retta azione. –
-4.4e. Retti mezzi di sostentamento. – 4.4f. Retto sforzo. – 4.4g. Retta
-consapevolezza. – 4.4h. Retta concentrazione. – 5. Il Nobile Ottuplice
-Sentiero in pratica. – 6. I mezzi. – 7. La Meta.
+// TODO add TOC?
 
-[[QuestioniVarie]]1. QUESTIONI VARIE +
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// \1. Questioni varie. – 2. Non c’è un Primo Inizio. – 3. Le Quattro
+// Nobili Verità. – 4.1. La Verità della Sofferenza. – 4.2. La Verità
+// dell’Origine della Sofferenza. – 4.3. La Verità della Cessazione della
+// Sofferenza. – 4.4. La Verità del Sentiero. – 4.4a. Retta visione. –
+// 4.4b. Retta intenzione. – 4.4c. Retta parola. – 4.4d. Retta azione. –
+// 4.4e. Retti mezzi di sostentamento. – 4.4f. Retto sforzo. – 4.4g. Retta
+// consapevolezza. – 4.4h. Retta concentrazione. – 5. Il Nobile Ottuplice
+// Sentiero in pratica. – 6. I mezzi. – 7. La Meta.
 
-PRIMO NARRATORE. Che cos’è il “Dhamma” che è “ben proclamato” dal
+== Questioni Varie
+
+[.narrator]
+`PRIMO NARRATORE.` Che cos’è il “Dhamma” che è “ben proclamato” dal
 “Medico Supremo”? È un tentativo di realizzare una completa descrizione
 del mondo? È un sistema metafisico?
 
-PRIMA VOCE. Una volta il Beato soggiornava a Sāvatthī, nel Boschetto di
+[.voice]
+`PRIMA VOCE.` Una volta il Beato soggiornava a Sāvatthī, nel Boschetto di
 Jeta. Una divinità di nome Rohitassa andò da lui a notte tarda, gli
 prestò omaggio e chiese: «Signore, la fine del mondo, nella quale non si
 nasce, né si invecchia, né si muore, né si scompare e neanche si
@@ -31,6 +34,8 @@ percezioni e la sua mente che io descrivo il mondo, l’origine del mondo,
 la cessazione del mondo, e la via che conduce alla cessazione del
 mondo».
 
+[verse]
+____
 È assolutamente impossibile +
 raggiungere la fine del mondo camminando. +
 Nessuno però sfugge alla sofferenza +
@@ -41,8 +46,10 @@ che raggiunge la fine del mondo, ed è da lui +
 che è stata vissuta la santa vita. +
 Conoscendo la fine del mondo egli è in pace +
 e non ripone speranza né in questo mondo né nel successivo.
+____
 
-S. 2:36; A. 4:46
+[.suttaref]
+_S. 2:36; A. 4:46_
 
 Una volta il Beato soggiornava a Kosambī, in una foresta di alberi
 _siṃsapa_. Prese poche foglie in mano e chiese ai bhikkhu: «Cosa ne
@@ -69,14 +76,17 @@ compito: Questa è la sofferenza, questa è l’origine della sofferenza,
 questa è la cessazione della sofferenza, questo è il Sentiero che
 conduce alla cessazione della sofferenza».
 
-S. 56:31
+[.suttaref]
+_S. 56:31_
 
-PRIMO NARRATORE. Non si tratta, allora, di un tentativo di realizzare
+[.narrator]
+`PRIMO NARRATORE.` Non si tratta, allora, di un tentativo di realizzare
 una completa descrizione del mondo, sia interiore sia esteriore. È un
 sistema metafisico, una costruzione logica coerente? E, se è così, su
 quale fondamento poggia?
 
-PRIMA VOCE. Una volta, quando il Beato era entrato a Rājagaha per la
+[.voice]
+`PRIMA VOCE.` Una volta, quando il Beato era entrato a Rājagaha per la
 questua, l’asceta itinerante nudo Kassapa andò da lui e, dopo averlo
 salutato, disse: «Qualora il Maestro Gotama acconsentisse a darci una
 risposta, vorremmo chiedere una cosa al Maestro Gotama». – «Non è il
@@ -98,7 +108,8 @@ conosce né vede la sofferenza?». – «Non è un dato di fatto che io non
 conosca né veda la sofferenza: io sia conosco sia vedo la sofferenza,
 Kassapa».
 
-S. 12:17
+[.suttaref]
+_S. 12:17_
 
 Una volta anche l’asceta itinerante Uttiya andò dal Beato e, dopo averlo
 salutato, si mise a sedere da un lato. Poi gli chiese: «Com’è, Maestro
@@ -164,7 +175,8 @@ dell’Illuminazione con la mente ben fondata sui quattro fondamenti della
 consapevolezza”. La domanda che hai posto al Beato era presentata in
 modo sbagliato, per questa ragione il Beato non ha risposto».
 
-A. 10:95
+[.suttaref]
+_A. 10:95_
 
 Un’altra volta l’asceta itinerante Vacchagotta andò dal Beato e scambiò
 con lui saluti. Poi gli chiese: «Com’è che stanno le cose, Maestro
@@ -188,7 +200,8 @@ avessi risposto “Il sé non esiste” allora, confuso com’è, l’asceta
 itinerante Vacchagotta sarebbe diventato ancor più confuso, pensando:
 “Certamente prima avevo un sé e ora non ce l’ho”».
 
-S. 44:10
+[.suttaref]
+_S. 44:10_
 
 Una volta il Beato soggiornava a Sāvatthī e a quel tempo un gran numero
 di asceti itineranti e brāhmaṇa di varie sette si erano recati a
@@ -234,9 +247,11 @@ privi di occhi. Per questa ragione litigano, bisticciano, disputano e si
 feriscono a vicenda con frecce fatte di parole: “Il Dhamma è così, il
 Dhamma non è così! Il Dhamma non è così, il Dhamma è così!”».
 
-Ud. 6:4
+[.suttaref]
+_Ud. 6:4_
 
-PRIMO NARRATORE. Sarebbe perciò un errore definire l’insegnamento del
+[.narrator]
+`PRIMO NARRATORE.` Sarebbe perciò un errore definire l’insegnamento del
 Buddha sia un tentativo di realizzare una completa descrizione del mondo
 sia un sistema metafisico costruito mediante la logica. Esso è allora un
 comandamento etico, una religione di fede rivelata o, semplicemente, un
@@ -264,18 +279,20 @@ si deve cominciare, possiamo farlo prendendo la nascita come punto di
 partenza, che, assieme alla morte, rappresenta per l’uomo comune un
 evento quotidiano e, nello stesso tempo, un mistero irrisolvibile.
 
-[[NonceunprimoInizio]]2. NON C’È UN PRIMO INIZIO +
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+== Non C’è Un Primo Inizio
 
-SECONDO NARRATORE. La coscienza è concepibile senza un passato? Si può
+[.narrator]
+`SECONDO NARRATORE.` La coscienza è concepibile senza un passato? Si può
 dire che abbia un inizio?
 
-PRIMA VOCE. «Bhikkhu, il cerchio non ha inizio. Degli esseri che
+[.voice]
+`PRIMA VOCE.` «Bhikkhu, il cerchio non ha inizio. Degli esseri che
 viaggiano e arrancano in questo cerchio, rinserrati come sono
 nell’ignoranza e incatenati dalla brama, non si può descrivere alcun
 inizio».
 
-S. 15:1
+[.suttaref]
+_S. 15:1_
 
 «Che sia io sia voi abbiamo dovuto viaggiare e arrancare in questo lungo
 cerchio è dovuto al fatto che non abbiamo scoperto, non abbiamo
@@ -285,22 +302,36 @@ della Sofferenza, (II) la Nobile Verità dell’Origine della Sofferenza,
 Nobile Verità del Sentiero che conduce alla Cessazione della
 Sofferenza».
 
-D. 16
+[.suttaref]
+_D. 16_
 
-[[Le4NV]]3. LE QUATTRO NOBILI VERITÀ
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+== Le Quattro Nobili Verità
 
-SECONDO NARRATORE. Ecco una descrizione delle Quattro Nobili Verità.
+[.narrator]
+`SECONDO NARRATORE.` Ecco una descrizione delle Quattro Nobili Verità.
 
-PRIMA VOCE. I. «Qual è la Nobile Verità della Sofferenza? La nascita è
+[.voice]
+`PRIMA VOCE.` I. «Qual è la Nobile Verità della Sofferenza? La nascita è
 sofferenza, la vecchiaia è sofferenza, la malattia è sofferenza, la
 morte è sofferenza. L’afflizione, il lamento, il dolore, il dispiacere e
 la disperazione sono sofferenza. Associarsi con quel che si detesta è
 sofferenza, separarsi da quel che si ama è sofferenza, non ottenere ciò
 che si vuole è sofferenza. In breve, i cinque aggregati affetti
-dall’attaccamento sono sofferenza link:#nota1[^1^]».
+dall’attaccamento sono sofferenza».footnote:[I “cinque aggregati affetti dall’attaccamento”
+(_upādāna-kkhanda_) possono essere considerati come le cinque apposite
+“classi” o categorie sotto le quali ogni componente dell’esperienza (nel
+senso più ampio del termine) che si trova a sorgere può essere
+raggruppato per l’analisi e la discussione. Esse non hanno esistenza
+separata dai componenti che li rappresentano. Quel che rappresentano non
+si verifica separatamente. Essi sono d’altra parte interdipendenti, come
+un bicchiere di vetro implica contemporaneamente materiale (il vetro),
+affettività (attraente, non attraente o indifferente), caratteristiche
+individuali (forma, colore, ecc.), determinatezza (essere formato)
+quanto all’utilità (tutte cose che sono costitutive di “nome-e-forma”),
+e la coscienza di tutto ciò che non è.]
 
-S. 56:11
+[.suttaref]
+_S. 56:11_
 
 \II. «Qual è la Nobile Verità dell’Origine della Sofferenza? È la brama,
 che rinnova l’esistenza e che è accompagnata dal diletto e dal
@@ -309,7 +340,8 @@ desideri sensoriali, brama per l’esistenza, brama per la non-esistenza.
 Su cosa sorge e fiorisce, però, questa brama? Ovunque ci sia qualcosa
 che sembra amabile e gratificante, su questo sorge e fiorisce».
 
-D. 22
+[.suttaref]
+_D. 22_
 
 «È con l’ignoranza quale condizione che le formazioni [mentali] giungono
 a esistere; con le formazioni [mentali] quale condizione, la coscienza;
@@ -324,7 +356,8 @@ morte, e anche l’afflizione, il lamento, il dolore, il dispiacere e la
 disperazione. Così ha origine tutto questo aggregato di sofferenza.
 Questa è detta Nobile Verità dell’Origine della Sofferenza».
 
-A. 3:61
+[.suttaref]
+_A. 3:61_
 
 \III. «Qual è la Nobile Verità della Cessazione della sofferenza? È lo
 svanire senza residuo e la cessazione di quella stessa brama, il
@@ -332,7 +365,8 @@ rifiuto, l’abbandono, la rinuncia a essa. Ma dove questa brama è
 abbandonata e fatta cessare? Ovunque ci sia qualcosa che sembra amabile
 e gratificante, è qui che essa è abbandonata e condotta a cessazione».
 
-D. 22
+[.suttaref]
+_D. 22_
 
 Con lo svanire senza residuo e la cessazione dell’ignoranza, c’è la
 cessazione delle formazioni [mentali]; con la cessazione delle
@@ -342,14 +376,16 @@ lamento, il dolore, il dispiacere e la disperazione. Così c’è la
 cessazione di tutto questo aggregato di sofferenza. Questa è detta
 Nobile Verità della Cessazione della Sofferenza».
 
-A. 3:61
+[.suttaref]
+_A. 3:61_
 
 \IV. «Qual è la Nobile Verità del Sentiero che conduce alla Cessazione
 della Sofferenza? È il Nobile Ottuplice Sentiero, ossia: retta visione,
 retta intenzione, retta parola, retta azione, retto modo di vivere,
 retto sforzo, retta consapevolezza, retta concentrazione».
 
-D. 22
+[.suttaref]
+_D. 22_
 
 «Di queste Quattro Nobili Verità, la Nobile Verità della Sofferenza deve
 essere penetrata con piena comprensione della sofferenza; la Nobile
@@ -360,42 +396,50 @@ la Nobile Verità del Sentiero che conduce alla Cessazione della
 Sofferenza deve essere penetrata mantenendo in essere il Nobile
 Ottuplice Sentiero».
 
-S. 56:11 e 29 (adattati)
+[.suttaref]
+_S. 56:11 e 29 (adattati)_
 
 «Queste Quattro Nobili Verità (Realtà) sono reali, non irreali, non
 diverse da quello che sembrano».
 
-S. 56:27
+[.suttaref]
+_S. 56:27_
 
-PRIMO NARRATORE. Ognuna delle Quattro Nobili Verità è analizzata e
+[.narrator]
+`PRIMO NARRATORE.` Ognuna delle Quattro Nobili Verità è analizzata e
 definita dettagliatamente.
 
-4.1. LA VERITÀ DELLA SOFFERENZA
+== La Verità Della Sofferenza
 
-SECONDO NARRATORE. È stato detto che la Verità della Sofferenza era «in
+[.narrator]
+`SECONDO NARRATORE.` È stato detto che la Verità della Sofferenza era «in
 breve, i cinque aggregati affetti dall’attaccamento». Ecco una
 definizione di essi.
 
-PRIMA VOCE. I. «Quali sono i cinque aggregati affetti dall’attaccamento?
+[.voice]
+`PRIMA VOCE.` I. «Quali sono i cinque aggregati affetti dall’attaccamento?
 Essi sono l’aggregato della forma (materiale) affetto dall’attaccamento,
 l’aggregato della sensazione affetto dall’attaccamento, l’aggregato
 della percezione affetto dall’attaccamento, l’aggregato delle formazioni
 [mentali] affetto dall’attaccamento e l’aggregato della coscienza
 affetto dall’attaccamento».
 
-D. 22
+[.suttaref]
+_D. 22_
 
 «Perché si dice “forma”? Essa è deformata (_ruppati_), ecco perché è
 chiamata “forma” (_rūpa_). Deformata da che cosa? Dal freddo e dal
 caldo, dalla fame e dalle sete, dal contatto con i tafani, le zanzare,
 il vento, le scottature del sole e le cose striscianti».
 
-S. 22:79
+[.suttaref]
+_S. 22:79_
 
 «Che cos’è la forma? Le quattro grandi entità e ogni forma ricavata da
 esse per mezzo dell’attaccamento sono chiamate forma».
 
-S. 22:56
+[.suttaref]
+_S. 22:56_
 
 «Ogni cosa in un essere, appartenente a un essere, che sia solida,
 solidificata e attaccata [a qualcosa di organico], come capelli, peli,
@@ -403,7 +447,9 @@ unghie, denti, pelle, carne, muscoli, ossa, midollo osseo, reni, cuore,
 fegato, diaframma, milza, polmoni, intestino, viscere, cibo non
 digerito, feci, o qualsiasi altra cosa in un essere, che appartiene a un
 essere, che sia solida, solidificata e attaccata: ciò è chiamato
-elemento terra link:#nota2[^2^] in un essere. Ora, l’elemento terra in
+elemento terrafootnote:[La “terra” rappresenta la solidità, l’“acqua” la coesione,
+il “fuoco” sia la temperatura sia la maturazione, l’“aria” sia
+l’estensione (distensione) sia il moto.] in un essere. Ora, l’elemento terra in
 un essere e l’elemento terra esteriore sono solo elemento terra».
 
 «Ogni cosa in un essere … che sia acqua, acquosa e attaccata, come bile,
@@ -439,20 +485,23 @@ essere]. Ora, l’elemento spazio in un essere e l’elemento spazio
 esteriore sono solo elemento spazio … E l’elemento spazio non ha alcun
 luogo nel quale può esistere di per sé».
 
-M. 62
+[.suttaref]
+_M. 62_
 
 «Qualsiasi forma, passata, futura o presente, in un essere oppure
 esteriore, grossolana o sottile, inferiore o superiore, lontana o
 vicina, che sia affetta da contaminazioni e provochi l’attaccamento:
 essa è chiamata aggregato della forma affetto da attaccamento».
 
-S. 22:48
+[.suttaref]
+_S. 22:48_
 
 «Perché si dice “sensazione”? È sentita, ecco perché è chiamata
 “sensazione”. Sentita come che cosa? Sentita come piacere, come dolore,
 oppure come né-dolore-né-piacere».
 
-S. 22:79; cf. M. 43
+[.suttaref]
+_S. 22:79; cf. M. 43_
 
 «Qualsiasi cosa sia sentita con il corpo o con la mente come piacevole e
 gratificante è sensazione piacevole. Qualsiasi cosa sia sentita con il
@@ -465,38 +514,44 @@ della presenza e piacevole in ragione del cambiamento. La sensazione
 né-dolorosa-né-piacevole è piacevole in ragione della conoscenza e
 dolorosa in ragione della mancanza di conoscenza».
 
-M. 44
+[.suttaref]
+_M. 44_
 
 «Ci sono questi sei corpi di sensazione: la sensazione nata dal contatto
 con l’occhio, dal contatto con l’orecchio, dal contatto con il naso, dal
 contatto con la lingua, dal contatto con il corpo e dal contatto con la
 mente».
 
-S. 22:56
+[.suttaref]
+_S. 22:56_
 
 «Qualsiasi sensazione … che sia affetta da contaminazioni e provochi
 l’attaccamento: essa è chiamata aggregato della sensazione affetto da
 attaccamento».
 
-S. 22:48
+[.suttaref]
+_S. 22:48_
 
 «Perché si dice “percezione”? È percepita, ecco perché è chiamata
 “percezione”. Percepita come che cosa? Percepita, ad esempio, blu e
 gialla e rossa e bianca».
 
-S. 22:79
+[.suttaref]
+_S. 22:79_
 
 «Ci sono questi sei corpi della percezione: percezione delle forme
 (visibili), dei suoni, degli odori, dei sapori, degli oggetti tangibili
 e delle idee».
 
-S. 22:56
+[.suttaref]
+_S. 22:56_
 
 «Qualsiasi percezione … che sia affetta da contaminazioni e provochi
 l’attaccamento: essa è chiamata aggregato della percezione affetto da
 attaccamento».
 
-S. 22:48
+[.suttaref]
+_S. 22:48_
 
 «Perché si dice “formazioni”? Danno forma al formato, ecco perché si
 chiamano “formazioni”. Che cos’è il formato al quale danno forma? La
@@ -506,9 +561,15 @@ quanto stato della sensazione, è il formato al quale esse danno forma.
 La percezione, in quanto stato della percezione, è il formato al quale
 esse danno forma. Le formazioni, in quanto stato delle formazioni, è il
 formato al quale esse danno forma. La coscienza, in quanto stato della
-coscienza, è il formato al quale esse danno forma» link:#nota3[^3^].
+coscienza, è il formato al quale esse danno forma».footnote:[«Qualsiasi
+cosa abbia la caratteristica di dare forma
+dovrebbe essere compresa, tutt’insieme, come aggregato delle formazioni
+… ha la caratteristica di agglomerare … (ed) ha la funzione di
+accumulare»; cf. _The Path of Purification (Visuddhimagga)_, tr. da
+Ñāṇamoli, XIV, 131 (Nyp.).]
 
-S. 22:79
+[.suttaref]
+_S. 22:79_
 
 «Tre tipi di formazioni: formazione del merito (in quanto azione che
 matura in piacere), formazione del demerito (in quanto azione che matura
@@ -517,7 +578,8 @@ la meditazione, che matura in stati privi di forma che, per il tempo che
 durano, non sono perturbati dalla percezione della forma, dalla
 resistenza o della differenza)».
 
-D. 33
+[.suttaref]
+_D. 33_
 
 «Tre formazioni: inspirazione ed espirazione appartengono a un corpo,
 queste sono cose legate a un corpo, per questa ragione sono formazioni
@@ -526,42 +588,50 @@ questa ragione pensare ed esplorare sono formazioni verbali. Percezione
 e sensazione appartengono alla coscienza, queste sono cose legate alla
 coscienza, per questa ragione esse sono formazioni mentali».
 
-M. 44; cf. M. 9
+[.suttaref]
+_M. 44; cf. M. 9_
 
 «Che cosa sono le formazioni? Ci sono sei corpi di
-scelta link:#nota4[^4^]: scelta tra le forme visibili, tra i suoni, tra
+scelta:footnote:[_Cetanā_, di solito tradotto con “volizione”,
+volontà (Nyp.).] scelta tra le forme visibili, tra i suoni, tra
 gli odori, tra i sapori, tra gli oggetti tangibili e tra gli oggetti
 mentali».
 
-S. 22:56
+[.suttaref]
+_S. 22:56_
 
 «Chiamo azione la scelta».
 
-A. 6:63
+[.suttaref]
+_A. 6:63_
 
 «Qualsiasi formazione … che sia affetta da contaminazioni e provochi
 l’attaccamento: essa è chiamata aggregato delle formazioni affetto da
 attaccamento».
 
-S. 22:48
+[.suttaref]
+_S. 22:48_
 
 «Perché si dice “coscienza”? Essa ha cognizione, ecco perché si chiama
 “coscienza”. Di che cosa ha cognizione? Essa ha cognizione, ad esempio,
 dell’aspro, dell’amaro, del pungente, del dolce, dell’alcalino, del non
 alcalino, del salato e del non salato».
 
-S. 22:79
+[.suttaref]
+_S. 22:79_
 
 «Di che cosa ha cognizione la coscienza? Essa ha cognizione, ad esempio,
 che c’è il piacere, che c’è il dolore, che c’è né-dolore-né-piacere».
 
-M. 43, 140
+[.suttaref]
+_M. 43, 140_
 
 «Ci sono questi sei corpi della coscienza: coscienza visiva, coscienza
 uditiva, coscienza olfattiva, coscienza gustativa, coscienza corporea e
 coscienza mentale».
 
-S. 22:56
+[.suttaref]
+_S. 22:56_
 
 «La coscienza ha un nome in base alle condizioni che la fanno sorgere.
 Quando la coscienza sorge a causa dell’occhio e delle forme, è chiamata
@@ -569,7 +639,8 @@ coscienza visiva. Se sorge a causa dell’orecchio e dei suoni, coscienza
 uditiva ... Se sorge a causa della mente e delle idee, coscienza
 mentale».
 
-M. 38
+[.suttaref]
+_M. 38_
 
 «Sensazione, percezione e coscienza sono congiunte, non disgiunte, ed è
 impossibile separarle una dall’altra al fine di descrivere le loro
@@ -583,19 +654,22 @@ coscienza può essere conosciuta come “coscienza infinita”. E la base
 (esterna) che consiste nel nulla può essere conosciuta come “nulla-è”.
 Un’idea conoscibile è compresa mediante l’occhio della comprensione».
 
-M. 43
+[.suttaref]
+_M. 43_
 
 «La coscienza per la sua esistenza poggia su una dualismo (il dualismo
 dell’interiorità e le basi esterne per il contatto).
 
-S. 35:93
+[.suttaref]
+_S. 35:93_
 
 «Qualsiasi coscienza, passata, futura o presente, in un essere oppure
 esteriore, grossolana o sottile, inferiore o superiore, lontana o
 vicina, che sia affetta da contaminazioni e provochi l’attaccamento:
 essa è chiamata aggregato della coscienza affetto da attaccamento».
 
-S. 22:48
+[.suttaref]
+_S. 22:48_
 
 «Questi cinque aggregati affetti da attaccamento hanno il desiderio per
 la loro radice ... Le quattro grandi entità (di terra, acqua, fuoco e
@@ -605,32 +679,43 @@ aggregati della sensazione, della percezione e delle formazioni
 [mentali]. Nome-e-forma è la causa e la condizione per descrivere
 l’aggregato della coscienza».
 
-M. 109
+[.suttaref]
+_M. 109_
 
 «Qualsiasi monaco o brāhmaṇa ricordi la sua vita passata nei suoi vari
 modi, ricorda i cinque aggregati affetti da attaccamento o uno o l’altro
 di essi».
 
-S. 22:79
+[.suttaref]
+_S. 22:79_
 
-4.2. LA VERITÀ DELL’ORIGINE DELLA SOFFERENZA
+== La Verità Dell’origine Della Sofferenza
 
-SECONDO NARRATORE. Ecco alcune definizioni dettagliate della Seconda
+[.narrator]
+`SECONDO NARRATORE.` Ecco alcune definizioni dettagliate della Seconda
 Nobile Verità.
 
-PRIMA VOCE. «Questi cinque aggregati affetti dall’attaccamento provano
+[.voice]
+`PRIMA VOCE.` «Questi cinque aggregati affetti dall’attaccamento provano
 desiderio per la loro radice ... L’attaccamento non è la stessa cosa dei
 cinque aggregati affetti dall’attaccamento, né è qualcosa di separato da
 essi. È il desiderio e la brama in essi contenuto che è l’attaccamento».
 
-M. 109
+[.suttaref]
+_M. 109_
 
 «Quello giunge all’esistenza quando c’è questo, quello sorge con il
-sorgere di questo» link:#nota5[^5^].
+sorgere di questo».footnote:[Nel senso di condizione necessaria.]
 
-M. 38
+[.suttaref]
+_M. 38_
 
-«(Nell’esposizione della genesi interdipendente:) link:#nota6[^6^] Che
+// TODO very long paragraph, break it up
+
+«(Nell’esposizione della genesi interdipendente:)footnote:[Sulla genesi
+interdipendente, o originazione interdipendente
+e coproduzione condizionata, si veda _The Path of Purification_, cap.
+XVII.] Che
 cos’è l’invecchiamento? Nei vari generi di esseri è l’invecchiare, la
 vecchiaia, i denti che si rompono, il grigiore dei capelli e la
 rugosità, il declino della vita e l’indebolimento delle facoltà
@@ -646,7 +731,8 @@ modalità della forma, l’esistenza nella modalità del senza forma. Che
 cos’è l’attaccamento? Quattro sono le varietà di attaccamento:
 l’attaccamento come abitudine al desiderio sensoriale, l’attaccamento
 come abitudine all’errata visione, l’attaccamento come abitudine (al
-fraintendimento) della virtù e del dovere link:#nota7[^7^], e
+fraintendimento) della virtù e del dovere,footnote:[_Sīlabbatupādāna_,
+l’attaccamento a riti e rituali (Nyp.).] e
 l’attaccamento come abitudine alla teoria del sé. Che cos’è la brama?
 Sei sono i corpi della brama: la brama per le forme visibili, per i
 suoni, per gli odori, per i sapori, per gli oggetti tangibili e per le
@@ -654,14 +740,28 @@ idee. Che cos’è la sensazione? Sei sono i corpi (delle tre specie) della
 sensazione: sensazione nata dal contatto con l’occhio, dal contatto con
 l’orecchio, dal contatto con il naso, dal contatto con la lingua, dal
 contatto con il corpo e dal contatto con la mente. Che cos’è il
-contatto? link:#nota8[^8^] Sei sono i corpi del contatto: il contatto
+contatto?footnote:[Il “contatto” è contatto tra l’“in-sé” e l’“esterno” (ad
+esempio, la vista insieme a ciò che è visto), il quale è reso possibile
+solo dalla presenza della coscienza (ad esempio, coscienza visiva). È
+perciò un fattore basilare nell’essenziale complessità di qualsiasi cosa
+sorga, sia percepita e formata, tanto dai cinque sensi quanto dalla
+mente, sia dai sensi e dalla mente insieme.] Sei sono i corpi del contatto: il contatto
 con l’occhio, il contatto con l’orecchio, il contatto con il naso, il
 contatto con la lingua, il contatto con il corpo e il contatto con la
 mente. Che cos’è la sestuplice base? È la base dell’occhio, la base
 dell’orecchio, la base del naso, la base della lingua, la base del corpo
-e la base della mente. Che cos’è nome-e-forma? link:#nota9[^9^] Quel che
+e la base della mente. Che cos’è nome-e-forma?footnote:[“Nome-e-forma”
+è contemporaneamente il percepire e quel che
+è percepito, esperito e riconosciuto (“nominato”). È l’immaginato
+insieme alla materia, che insieme costituiscono la forma
+individualizzata e soggettivamente determinata di un oggetto. Nei sutta,
+però, essa non include la coscienza, grazie alla quale ciò è reso
+possibile. La successiva letteratura include la coscienza all’interno
+del “nome”, creando così le basi per un’opposizione tra mente e materia
+priva di riscontri nel Canone.] Quel che
 è chiamato nome comprende la sensazione, la percezione, la
-scelta link:#nota10[^10^], il contatto e l’attenzione; quel che è
+scelta,footnote:[Altre traduzioni di _cetanā_ (qui reso con “scelta”) sono
+“volizione” e “intenzione”.] il contatto e l’attenzione; quel che è
 chiamato forma comprende i quattro grandi elementi e qualsiasi forma da
 essi derivata mediante l’attaccamento, perciò questo nome e questa forma
 sono ciò che viene chiamato nome-e-forma. Che cos’è la coscienza? Sei
@@ -673,7 +773,8 @@ l’ignoranza? È la nescienza in relazione alla sofferenza, all’origine
 della sofferenza, alla cessazione della sofferenza e al sentiero che
 conduce alla cessazione della sofferenza».
 
-S. 12:2
+[.suttaref]
+_S. 12:2_
 
 «In dipendenza dall’occhio e dalle forme visibili, sorge la coscienza
 visiva. La coincidenza dei tre è data dal contatto. Con il contatto
@@ -681,21 +782,24 @@ quale condizione, la sensazione. Con la sensazione quale condizione, la
 brama. Ecco come ha origine la sofferenza (e così con l’orecchio ... la
 mente)».
 
-S. 12:43
+[.suttaref]
+_S. 12:43_
 
 «Infiammato dalla brama, reso furente dall’odio, confuso dall’illusione,
 da essi trasceso e con la mente ossessionata, un uomo sceglie per la
 propria afflizione, per l’afflizione degli altri, per l’afflizione
 propria e per quella degli altri, e sperimenta dolore e afflizione».
 
-A. 3:55
+[.suttaref]
+_A. 3:55_
 
 «Gli esseri sono possessori delle loro azioni, eredi delle loro azioni,
 hanno le loro azioni come progenitori, le azioni come loro congiunti (e
 responsabilità), le azioni come loro rifugio, sono le azioni che
 differenziano gli esseri in inferiori e superiori».
 
-M. 135
+[.suttaref]
+_M. 135_
 
 «Che cosa sono vecchie azioni? Occhio, orecchio, naso, lingua, corpo
 sono vecchie azioni (già) determinate e scelte che devono essere
@@ -703,12 +807,14 @@ sperimentate per essere viste. Che cosa sono le nuove azioni? È
 qualsiasi azione che si compia ora, sia per mezzo del corpo, della
 parola o della mente».
 
-S. 35:145
+[.suttaref]
+_S. 35:145_
 
 «Questo corpo non appartiene a voi o ad altri, ma è azione passata (già)
 determinata e scelta che deve essere sperimentata per essere vista».
 
-S. 12:37
+[.suttaref]
+_S. 12:37_
 
 «Chiamo azione la scelta. È scegliendo che un uomo agisce con il corpo,
 con la parola e con la mente. Ci sono azioni la cui maturazione sarà
@@ -717,7 +823,8 @@ tra gli esseri umani e nei mondi paradisiaci. Le azioni maturano in tre
 modi; possono maturare qui e ora, ricomparendo, oppure, al di là di
 questo, in un qualche altro processo vitale».
 
-A. 6:63
+[.suttaref]
+_A. 6:63_
 
 «Le azioni compiute dietro spinta della brama, dell’odio o
 dell’illusione maturano ovunque sia generato un sé individuale, e
@@ -725,7 +832,8 @@ ovunque queste azioni maturino, là viene sperimentata la loro
 maturazione, sia qui e ora o in un successivo ricomparire oppure in un
 qualche altro processo vitale».
 
-A. 3:33
+[.suttaref]
+_A. 3:33_
 
 «Ci sono quattro cose incommensurabili, che non possono essere misurate,
 e un tentativo di concepirle condurrebbe a frustrazione e follia. Quali
@@ -733,23 +841,26 @@ quattro? Esse sono la sfera d’influsso dei Buddha, la sfera d’influsso
 di chi ha raggiunto i jhāna, la maturazione delle azioni e la stima del
 mondo».
 
-A. 4:77
+[.suttaref]
+_A. 4:77_
 
 «Il mondo è condotto dalla mente».
 
-S. 1:72
+[.suttaref]
+_S. 1:72_
 
- +
+== La Verità Della Cessazione Della Sofferenza
 
-4.3. LA VERITÀ DELLA CESSAZIONE DELLA SOFFERENZA
-
-SECONDO NARRATORE. Ecco alcune definizioni dettagliate della Terza
+[.narrator]
+`SECONDO NARRATORE.` Ecco alcune definizioni dettagliate della Terza
 Nobile Verità.
 
-PRIMA VOCE. «Quello non giunge all’esistenza quando non c’è questo,
+[.voice]
+`PRIMA VOCE.` «Quello non giunge all’esistenza quando non c’è questo,
 quello cessa con la cessazione di questo».
 
-M. 38
+[.suttaref]
+_M. 38_
 
 «In dipendenza dall’occhio e dalle forme visibili, sorge la coscienza
 visiva. La coincidenza dei tre è data dal contatto. Con il contatto
@@ -773,7 +884,8 @@ sensazione dolorosa e mediante l’abolizione della soggiacente tendenza
 di fondo a ignorare la sensazione né-dolorosa-né-piacevole: tutto questo
 è possibile».
 
-M. 148
+[.suttaref]
+_M. 148_
 
 «Quando la brama, l’odio e l’illusione sono abbandonate, un uomo non
 sceglie per la propria afflizione, per l’afflizione degli altri, per
@@ -782,20 +894,27 @@ essere l’estinzione qui e ora che, senza indugio, invita
 all’investigazione e conduce verso l’interiorità, e che è [direttamente]
 sperimentabile dal saggio.
 
-A. 3:55
+[.suttaref]
+_A. 3:55_
 
 «Le azioni compiute sulla base della non-brama, del nonodio e della
 non-illusione, sono compiute quando la brama, l’odio e l’illusione sono
 scomparse, sono state abbandonate, [eliminate,] recise alla radice, rese
 come un ceppo di palma, abolite e non più soggette a sorgere in futuro».
 
-A. 3:33
+[.suttaref]
+_A. 3:33_
 
 «Gli stati privi di forma sono più sereni degli stati dotati di forma,
 la cessazione è più serena degli stati privi di
-forma» link:#nota11[^11^].
+forma».footnote:[È necessario evitare di confondere il “privo di forma”
+(_arūpa_), che è un tipo di esistenza (_bhava_), con “non-formato” (o
+“incondizionato”, _asankhata_), che è ciò che non ha formazioni (o
+condizioni, _sankhāra_). Quest’ultimo è un termine per il Nibbāna. Il
+“privo di forma” è sempre condizionato.]
 
-Iti. 73
+[.suttaref]
+_Iti. 73_
 
 «C’è quella base (esterna) ove non (c’è) terra, acqua, fuoco, aria, e
 neanche una base consistente dell’infinità dello spazio, una base
@@ -805,10 +924,13 @@ neanche questo mondo, un altro mondo, la luna o il sole. E questo io lo
 chiamo né venire, né andare, né stare, né morire, né ricomparire. Non ha
 base, non ha evoluzione, non ha supporto. È la fine della sofferenza».
 
+[verse]
+____
 Il Non-Condizionato è difficile da vedere, +
 non è facile vedere la Verità. +
 Per conoscere bisogna togliere il velo alla brama, +
 per vedere bisogna essersi affrancati dal possesso.
+____
 
 «C’è un non-nato, un non-condotto-all’esistenza, un non-fatto, un
 non-formato. Se non ci fosse, non si potrebbe far conoscere una via
@@ -817,7 +939,8 @@ c’è un non-nato, un non-condotto-all’esistenza, un non-fatto, un
 non-formato è perciò possibile descrivere una via d’uscita a chi è nato,
 condotto all’esistenza, fatto, formato».
 
-Ud. 8:1-3
+[.suttaref]
+_Ud. 8:1-3_
 
 «Ci sono due elementi del Nibbāna. Quali due? C’è un elemento del
 Nibbāna con residuo del passato attaccamento e l’elemento del Nibbāna
@@ -839,13 +962,17 @@ sensazioni che in lui sono provate, poiché egli non le assapora, si
 raffreddano qui, proprio in questa vita: questo è chiamato elemento del
 Nibbāna senza residuo del passato attaccamento».
 
-Iti. 44
+[.suttaref]
+_Iti. 44_
 
 «Quel che è l’esaurimento della brama, dell’odio e dell’illusione è
 chiamato Nibbāna».
 
-S. 38:1
+[.suttaref]
+_S. 38:1_
 
+[verse, Sn. 5:7]
+____
 «Proprio come una fiamma soffiata via dalla forza del vento, +
 Upasīva», disse il Beato, +
 «si spegne, e come tale non può più essere designata, +
@@ -862,31 +989,39 @@ Upasīva», disse il Beato, +
 «e nulla di lui si può dire, +
 perché quando tutte le idee sono state abolite, +
 sono stati aboliti anche tutti i modi di dire».
+____
 
-Sn. 5:7
+== La Verità Del Sentiero
 
-4.4. LA VERITÀ DEL SENTIERO
-
-SECONDO NARRATORE. La Quarta Nobile Verità è il Nobile Ottuplice
+[.narrator]
+`SECONDO NARRATORE.` La Quarta Nobile Verità è il Nobile Ottuplice
 Sentiero. Ognuna delle sue otto componenti necessita di essere definita
 separatamente.
 
-4.4.1 RETTA VISIONE
+=== Retta Visione
 
-PRIMA VOCE. «Proprio come l’alba annuncia e prevede il sorgere del sole,
+[.voice]
+`PRIMA VOCE.` «Proprio come l’alba annuncia e prevede il sorgere del sole,
 così la retta visione annuncia e prevede la penetrazione delle Quattro
 Nobili Verità in accordo con quel che esse in realtà sono».
 
-S. 56:37
+[.suttaref]
+_S. 56:37_
 
-SECONDO NARRATORE. La retta visione ha molte sfaccettature. Osserviamole
+[.narrator]
+`SECONDO NARRATORE.` La retta visione ha molte sfaccettature. Osserviamole
 una per una, iniziando con la “maturazione dell’azione” che, in certe
 forme e con alcune riserve, è pure condivisa con altri insegnamenti.
 
-PRIMA VOCE. «Viene prima la retta visione link:#nota12[^12^]. Come? Si
+[.voice]
+`PRIMA VOCE.` «Viene prima la retta visione.footnote:[Fino ad ora sono stati
+offerti solo dettagli analitici
+delle prime tre Nobili Verità. Qui incontreremo mere descrizioni che ci
+aiutano a comprenderle.] Come? Si
 comprende l’errata visione come errata visione e si comprende la retta
 visione come retta visione. Che cos’è l’errata visione? La visione che
-non c’è niente di dato, offerto o sacrificato link:#nota13[^13^], che
+non c’è niente di dato, offerto o sacrificato,footnote:[Ciò significa che
+in queste azioni non c’è significato morale (Nyp.).] che
 non c’è frutto o maturazione delle buone e delle cattive azioni, non c’è
 questo mondo né un altro mondo, non c’è madre né padre, non ci sono
 esseri che compaiono, non ci sono monaci buoni e virtuosi e brāhmaṇa che
@@ -912,42 +1047,53 @@ pura, possiede il Sentiero e lo mantiene in essere: questa è la retta
 visione degli Esseri Nobili priva di contaminazioni, che è sovramondana
 ed è un fattore del Sentiero».
 
-M. 117
+[.suttaref]
+_M. 117_
 
-SECONDO NARRATORE. Ancora, è la retta visione della genesi
+[.narrator]
+`SECONDO NARRATORE.` Ancora, è la retta visione della genesi
 interdipendente – la struttura basilare dell’“insegnamento peculiare ai
 Buddha” e la prima delle nuove scoperte fatte dal Buddha. Niente può
 sorgere da sé, senza il supporto di altre cose dalle quali l’esistenza
 di una cosa dipende.
 
-SECONDA VOCE.
+[.voice]
+`SECONDA VOCE.`
 
+[verse]
+____
 Il Perfetto ha dichiarato la causa +
 del sorgere delle cose condizionate, +
 e anche quel che conduce alla loro cessazione: +
 questa è la dottrina predicata dal Grande Monaco.
+____
 
 «La pura, immacolata visione del Dhamma sorse in lui: tutto quel che
 sorge deve cessare».
 
-Vin. Mv. 1:23
+[.suttaref]
+_Vin. Mv. 1:23_
 
-PRIMA VOCE. «Quello giunge all’esistenza quando c’è questo, quello sorge
+[.voice]
+`PRIMA VOCE.` «Quello giunge all’esistenza quando c’è questo, quello sorge
 con il sorgere di questo. Quello non giunge all’esistenza quando non c’è
 questo, quello cessa con la cessazione di questo».
 
-M. 38
+[.suttaref]
+_M. 38_
 
 «Chi vede la genesi interdipendente vede il Dhamma, chi vede il Dhamma
 vede la genesi interdipendente».
 
-M. 28
+[.suttaref]
+_M. 28_
 
 «Che gli Esseri Perfetti compaiano o no, questo elemento resta, questa
 struttura delle cose (dei fenomeni), questa certezza nelle cose, ossia:
 una specifica condizionalità. Un Perfetto l’ha scoperta».
 
-S. 12:20
+[.suttaref]
+_S. 12:20_
 
 «Se non ci fosse affatto nascita, di nulla, da nessuna parte ... non
 essendoci nascita, con la cessazione della nascita, potrebbero essere
@@ -956,7 +1102,8 @@ questa è una ragione, una fonte, un’origine, una condizione per la
 vecchiaia e la morte». (E così via, con le altre coppie della formula
 della genesi interdipendente.)
 
-D. 15
+[.suttaref]
+_D. 15_
 
 «Signore, “retta visione, retta visione” è stato detto. A che cosa si
 riferisce la “retta visione”?». – «Di solito, Kaccāyana, questo mondo
@@ -983,7 +1130,8 @@ formazioni [mentali] giungono all’esistenza; con le formazioni [mentali]
 quale condizione, la coscienza; con la coscienza…” (e così via sia con
 il sorgere sia con il cessare)».
 
-S. 12:15
+[.suttaref]
+_S. 12:15_
 
 «Se si afferma: “Chi produce (sofferenza), (la) prova: essendo egli fin
 dall’inizio, è lui stesso a produrre la sua sofferenza”, allora si
@@ -994,11 +1142,13 @@ Invece di ricorrere a uno di questi due estremi, un Perfetto espone il
 Dhamma mediante la Via di Mezzo: … (ossia, mediante la genesi
 interdipendente e la cessazione)».
 
-S. 12:17
+[.suttaref]
+_S. 12:17_
 
 «Tutti gli esseri sono mantenuti dal nutrimento».
 
-D. 33; A. 10:27, 28; Khp. 2
+[.suttaref]
+_D. 33; A. 10:27, 28; Khp. 2_
 
 «Che cos’è il nutrimento? Ci sono questi quattro generi di nutrimento
 per mantenere gli esseri che già esistono, e per soccorrere quelli che
@@ -1006,34 +1156,46 @@ cercano di tornare a esistere: essi sono il cibo fisico come nutrimento
 grossolano o sottile, il secondo è il contatto, la scelta è il terzo e
 la coscienza è il quarto».
 
-S. 12:63; M. 38
+[.suttaref]
+_S. 12:63; M. 38_
 
-SECONDO NARRATORE. La stessa essenza della retta visione è, tuttavia, la
+[.narrator]
+`SECONDO NARRATORE.` La stessa essenza della retta visione è, tuttavia, la
 comprensione delle Quattro Nobili Verità, la quale abbraccia la genesi
 interdipendente e costituisce l’“insegnamento peculiare dei Buddha”.
 Esse costituiscono l’oggetto del Primo Sermone.
 
-PRIMA VOCE. «Che cos’è la retta visione? È la conoscenza della
+[.voice]
+`PRIMA VOCE.` «Che cos’è la retta visione? È la conoscenza della
 sofferenza, dell’origine della sofferenza, della cessazione della
 sofferenza e del Sentiero che conduce alla cessazione della sofferenza:
 questa è detta retta visione».
 
-S. 45:8; D. 22
+[.suttaref]
+_S. 45:8; D. 22_
 
 \(I) «“Quattro serpenti velenosi” è un nome per i quattro grandi
 elementi (terra, acqua, fuoco e aria)».
 
-S. 35:197
+[.suttaref]
+_S. 35:197_
 
+[verse]
+____
 La forma è come un grumo di schiuma, +
 la sensazione è come una bolla d’acqua, +
 la percezione anche è come un miraggio, +
-le formazioni [mentali] come il tronco di un
-banano link:#nota14[^14^]. +
-E la coscienza, manifestazione dei figli di Āditi link:#NDT[^NDT^], +
+le formazioni [mentali] come il tronco di un banano.footnote:[Il tronco
+di un banano è fatto solo d’un involucro, è privo di nucleo.] +
+E la coscienza, manifestazione dei figli di Āditi,footnote:[NDT.
+L’espressione rinvia ai figli del Dio Sole (Āditi), dodici
+come i mesi dell’anno nel _Bhāgavata Purāṇa_, che si manifestano appunto
+in modo via via differente.] +
 altro non è che un gioco di prestigio.
+____
 
-S. 22:95
+[.suttaref]
+_S. 22:95_
 
 «Le sei basi, di per se stesse, possono essere definite come un
 villaggio vuoto, perché se un uomo saggio le investiga quali occhio,
@@ -1044,50 +1206,67 @@ gradevoli e sgradevoli, l’orecchio da suoni siffatti, il naso da odori
 siffatti, la lingua da sapori siffatti, il corpo da oggetti tangibili
 siffatti e la mente da oggetti mentali siffatti».
 
-S. 35:197
+[.suttaref]
+_S. 35:197_
 
+[verse]
+____
 \(II) Nel mondo vedo questa generazione tormentata +
 dalla brama per l’esistenza, +
 miserevoli uomini che farfugliano di fronte alla Morte, +
 ancora bramosi, speranzosi per un qualche tipo di esistenza. +
 Guardate come fremono per quel che pretendono essere “mio”, +
 come pesci in una pozzanghera che si sta prosciugando.
+____
 
-Sn. 4:2
+[.suttaref]
+_Sn. 4:2_
 
 \(III) «Questa è (la più alta) serenità, questa è (la meta) superiore (a
 tutto), ossia è la pacificazione di tutte le formazioni [mentali],
 l’abbandono di tutti gli essenziali dell’esistenza, l’esaurimento della
 brama, la cessazione, il Nibbāna».
 
-A. 10:60
+[.suttaref]
+_A. 10:60_
 
+[verse]
+____
 \(IV) La più grande delle acquisizioni (mondane) è la ricchezza, +
 il Nibbāna è la più grande beatitudine. +
 Il Nobile Ottuplice Sentiero è il sentiero migliore, +
 per arrivare al sicuro a Ciò che Non Muore.
+____
 
-M. 75
+[.suttaref]
+_M. 75_
 
-SECONDO NARRATORE. È di nuovo la retta visione delle tre caratteristiche
+[.narrator]
+`SECONDO NARRATORE.` È di nuovo la retta visione delle tre caratteristiche
 universali dell’impermanenza, della sofferenza (o insicurezza) e del
 non-sé, che esprime globalmente quel che la genesi interdipendente
 esprime strutturalmente. Esse costituiscono l’oggetto del Secondo
 Sermone.
 
-PRIMA VOCE. «Tre sono le caratteristiche formate di ciò che è
-formato link:#nota15[^15^]: il sorgere è evidente, il declino è evidente
+[.voice]
+`PRIMA VOCE.` «Tre sono le caratteristiche formate di ciò che è
+formato:footnote:[“Formato” è _saṅkhata_, tradotto anche con “composto”
+o “condizionato”; “non-formato” è _asaṅkhata_, tradotto anche con
+“non-composto” o “incondizionato”. Quest’ultimo è identificato come Nibbāna (Nyp.)]
+il sorgere è evidente, il declino è evidente
 e l’alterazione di ciò che è presente è evidente. Tre sono le
 caratteristiche non-formate di ciò che è non-formato: il non-sorgere è
 evidente, il nondeclino è evidente e la non-alterazione è evidente».
 
-A. 3:47
+[.suttaref]
+_A. 3:47_
 
 «Allorché si comprende come forma, sensazione, percezione, formazioni
 [mentali] e coscienza (e come l’occhio, ecc.) sono impermanenti, in ciò
 si possiede retta visione».
 
-S. 22:51; 35:155
+[.suttaref]
+_S. 22:51; 35:155_
 
 «Tutto è impermanente. E che cos’è il tutto che è impermanente? L’occhio
 è impermanente, le forme sono impermanenti, la coscienza visiva è
@@ -1098,18 +1277,21 @@ ecc. … Il corpo, ecc. … La mente è impermanente, gli oggetti mentali …
 la coscienza mentale … il contatto mentale … qualsiasi cosa sia sentita
 … nata dal contatto mentale è impermanente».
 
-S. 35:43
+[.suttaref]
+_S. 35:43_
 
 «Quel che è impermanente è sofferenza, quel che è sofferenza è non-sé».
 
-S. 35:1; 22:46
+[.suttaref]
+_S. 35:1; 22:46_
 
 «Che un Perfetto compaia o no, questo elemento resta, questa struttura
 delle cose (dei fenomeni), questa certezza nelle cose: tutte le
 formazioni sono impermanenti, tutte le formazioni sono sofferenza, tutte
 le cose sono non-sé».
 
-A. 3:134
+[.suttaref]
+_A. 3:134_
 
 «Bhikkhu, io non disputo con il mondo: il mondo disputa con me. Chi
 proclama il Dhamma non disputa con nessuno nel mondo. Quello che gli
@@ -1122,21 +1304,25 @@ uomini saggi del mondo dicono che c’è una forma impermanente, che è
 sofferenza e soggetta al cambiamento, e anche io dico che c’è. (E così
 con gli altri quattro.)».
 
-S. 22:94
+[.suttaref]
+_S. 22:94_
 
 «Questo corpo è impermanente, è formato ed è sorto in dipendenza».
 
-S. 36:7
+[.suttaref]
+_S. 36:7_
 
 «Per un uomo ignorante e ordinario sarebbe meglio trattare come se fosse
 un sé questo corpo, che è costruito sulla base di quattro grandi
-elementi, invece che la mente link:#nota16[^16^]. Perché? Perché questo
+elementi, invece che la mente.footnote:[_citta_: mente, mentalità, cognizione]
+Perché? Perché questo
 corpo può durare un anno, due anni … cento anni. Quel che però è
 chiamato “mente” e “coscienza” sorge e cessa in vari modi notte e
 giorno, proprio come una scimmia che attraversa una foresta passando di
 ramo in ramo e, lasciandone uno, ne afferra un altro».
 
-S. 12:61
+[.suttaref]
+_S. 12:61_
 
 «L’atto del donare è fruttuoso … tuttavia è ancor più fruttuoso prendere
 rifugio con cuore fiducioso nel Buddha, nel Dhamma e nel Saṅgha, e
@@ -1146,12 +1332,14 @@ solo per il tempo di mungere una mucca … Questo è fruttuoso … tuttavia è
 ancor più fruttuoso mantenere in essere la percezione dell’impermanenza
 anche solo per il tempo di far schioccare le dita».
 
-A. 9:20 (condensato)
+[.suttaref]
+_A. 9:20 (condensato)_
 
 «Chiunque apprezza l’occhio, apprezza la sofferenza, e non sarà libero
 dalla sofferenza, questo dico».
 
-S. 35:19
+[.suttaref]
+_S. 35:19_
 
 «Che cos’è la maturazione della sofferenza? Quando qualcuno è
 sopraffatto e la sua mente è ossessionata dalla sofferenza, o si
@@ -1160,13 +1348,15 @@ sconvolto, oppure intraprende una ricerca esteriormente: “C’è qualcuno
 che sa una parola, due parole, per la cessazione della sofferenza?”.
 Dico che la sofferenza matura o nella confusione o nella ricerca».
 
-A. 6:63
+[.suttaref]
+_A. 6:63_
 
 «Che qualcuno possa vedere le formazioni come piacere … oppure il
 Nibbāna come sofferenza, e abbia una predilezione conforme [alla
 Verità], questo non è possibile. (L’opposto però) è possibile».
 
-A. 6:99
+[.suttaref]
+_A. 6:99_
 
 «Qualsiasi forma, sensazione, percezione, formazione e coscienza, di
 qualsiasi genere, passata, futura o presente, interna o esterna,
@@ -1174,7 +1364,8 @@ grossolana o sottile, inferiore o superiore, lontana o vicina, dovrebbe
 essere considerata come realmente è in questo modo: “Questo non è mio,
 questo non è quel che io sono, questo non è il mio sé”».
 
-S. 22:59
+[.suttaref]
+_S. 22:59_
 
 «Nel mondo mediante cui si percepisce il mondo e si concepiscono
 concetti a proposito del mondo, ciò è chiamato “il mondo” nella
@@ -1182,12 +1373,14 @@ Disciplina degli Esseri Nobili. E con che cosa si fa tutto questo nel
 mondo? Con l’occhio, l’orecchio, il naso, la lingua, il corpo e la
 mente».
 
-S. 35:116
+[.suttaref]
+_S. 35:116_
 
 «Si va logorando (_lujjati_), ecco perché è chiamato “il mondo”
 (_loka_)».
 
-S. 35:82
+[.suttaref]
+_S. 35:82_
 
 «“Mondo vuoto, mondo vuoto” si dice, Signore. In quale modo si dice
 “mondo vuoto”? – «È perché è vuoto del sé e della proprietà del sé che
@@ -1199,7 +1392,8 @@ mente, ecc. … qualsiasi sensazione piacevole o dolorosa oppure
 né-piacevole-né-dolorosa nata dal contatto mentale è vuota del sé e
 della proprietà del sé».
 
-S. 35:85
+[.suttaref]
+_S. 35:85_
 
 «Quando un bhikkhu dimora molto con la sua mente fortificata dalla
 percezione dell’impermanenza, la sua mente retrocede, si ritrae e
@@ -1216,9 +1410,11 @@ fortificata dalla percezione del non-sé nella sofferenza, la sua mente
 si libera di quelle presunzioni che considerano come “io” e “mio” questo
 corpo con la sua coscienza e tutti i segni esteriori».
 
-A. 7:46
+[.suttaref]
+_A. 7:46_
 
-SECONDO NARRATORE. La razionalizzata “teoria del sé” che,
+[.narrator]
+`SECONDO NARRATORE.` La razionalizzata “teoria del sé” che,
 indipendentemente dalla forma che assume, è chiamata «sia un’opinione
 sia una catena», si fonda su una sottile distorsione di fondo nell’atto
 del percepire, la «presunzione “io sono”», che è «una catena, ma non
@@ -1226,11 +1422,17 @@ un’opinione». Le teorie del sé possono o non possono essere formulate,
 ma se lo sono, non è possibile descriverle in modo specifico senza far
 riferimento ai cinque aggregati. Per questa ragione esse possono essere
 ricondotte, quando descritte, a uno dei tipi di quel che è chiamata
-“opinione della personificazione” link:#nota17[^17^], che è esposta
+“opinione della personificazione”,footnote:[“Personificazione”:
+_sakkāya_ = _sa_ (“esistente” o “
+proprio”) più _kāya_ (corpo). L’identificazione del sé (_attā_) con uno
+o più dei cinque aggregati costituisce perciò una “personificazione” di
+quel sé, e ciò fonda un’errata visione. Si noti che _sakkāyadiṭṭhi è_ di
+solito più tradotto con “opinione dell’io” (Nyp.).] che è esposta
 schematicamente. Tutto ciò è abbandonato da Chi è Entrato nella
 Corrente, anche se la presunzione “io sono” non lo è.
 
-PRIMA VOCE. «Com’è che perviene a esistere l’opinione della
+[.voice]
+`PRIMA VOCE.` «Com’è che perviene a esistere l’opinione della
 personificazione?». – «Un uomo ignorante e ordinario che non ha
 considerazione per gli Esseri Nobili e non è versato con il loro Dhamma
 e Disciplina … vede la forma come sé o il sé come dotato di una forma, o
@@ -1238,7 +1440,8 @@ la forma come nel sé o il sé come nella forma. (E così via con ognuno
 degli altri quattro aggregati: sensazione, percezione, formazioni
 [mentali] e coscienza.) Un ben istruito nobile discepolo non lo fa».
 
-M. 44; M. 109
+[.suttaref]
+_M. 44; M. 109_
 
 «L’uomo ignorante e ordinario che non ha considerazione per gli Esseri
 Nobili … presta un’irragionevole (acritica) attenzione a queste cose:
@@ -1265,7 +1468,8 @@ dalla vecchiaia e dalla morte, dall’afflizione, dal lamento, dal dolore,
 dal dispiacere e dalla disperazione: egli non si è liberato dalla
 sofferenza, dico».
 
-M. 2
+[.suttaref]
+_M. 2_
 
 «Bhikkhu, ci sono due tipi di (errata) visione, e quando le divinità e
 gli esseri umani sono nella loro morsa, alcuni restano indietro e altri
@@ -1287,7 +1491,8 @@ all’esistenza come giunta all’esistenza. Vedendo in questo modo egli si
 cessazione della brama per essa. È così che uno con la [retta] visione
 vede».
 
-Iti. 49
+[.suttaref]
+_Iti. 49_
 
 «Bhikkhu, i possedimenti che uno può possedere che siano permanenti,
 perenni … Vedete possedimenti di questo genere?». – «No. Signore». – «…
@@ -1307,7 +1512,8 @@ soggetto al cambiamento, durerò per l’eternità” [nient’altro che] la
 pura perfezione dell’idea di un folle?». – «Come potrebbe non essere
 così, Signore? Sarebbe la pura perfezione dell’idea di un folle».
 
-M. 22
+[.suttaref]
+_M. 22_
 
 «Ogni qual volta monaci o brāhmaṇa vedono il sé nelle sue varie forme,
 tutti loro vedono i cinque aggregati affetti dall’attaccamento, o uno o
@@ -1330,9 +1536,11 @@ l’ignoranza a riguardo di esse è abbandonata ed è sorta la vera
 conoscenza. Con essa non gli capita di pensare “io sono” o … “io sarò né
 percettivo né impercettivo”».
 
-S. 22:47
+[.suttaref]
+_S. 22:47_
 
-SECONDO NARRATORE. L’uomo ignorante e ordinario è ignaro della sottile
+[.narrator]
+`SECONDO NARRATORE.` L’uomo ignorante e ordinario è ignaro della sottile
 attitudine di fondo, della soggiacente tendenza o presunzione “io sono”.
 Essa,nella percezione di un percetto, lo fa automaticamente e
 simultaneamente presumere in termini di “io”, presupponendo una
@@ -1342,18 +1550,21 @@ di possesso. Quest’attitudine, questa concezione, è abbandonata solo con
 il raggiungimento della condizione di Arahant, non prima (si veda ad es.
 M. 1 e M. 49).
 
-PRIMA VOCE. «“Io sono” è una derivazione, non una non-derivazione. Una
+[.voice]
+`PRIMA VOCE.` «“Io sono” è una derivazione, non una non-derivazione. Una
 derivazione da che cosa? È una derivazione da forma, sensazione,
 percezione, formazioni [mentali] e coscienza».
 
-S. 22:83
+[.suttaref]
+_S. 22:83_
 
 «Quando ogni monaco o brāhmaṇa con la forma (e il resto) quale mezzo,
 che è impermanente, è sofferenza e soggetta al cambiamento, pensa “io
 sono superiore”, “io sono uguale” o “io sono inferiore”, che cos’è
 questo se non cecità rispetto a quello che in realtà è?».
 
-S. 22:49
+[.suttaref]
+_S. 22:49_
 
 (Interrogato dagli Anziani, l’Anziano Khemada disse:) «In questi cinque
 aggregati affetti dall’attaccamento non vedo alcun sé o proprietà del sé
@@ -1375,26 +1586,32 @@ questo è il suo scomparire” (e così con gli altri quattro [aggregati],
 finché, così facendo, alla fine la sua presunzione “io sono” giunge a
 essere abolita».
 
-S. 22:89
+[.suttaref]
+_S. 22:89_
 
-SECONDO NARRATORE. Siamo infine giunti alle dieci catene, che sono
+[.narrator]
+`SECONDO NARRATORE.` Siamo infine giunti alle dieci catene, che sono
 progressivamente spezzate dai quattro stadi della realizzazione.
 
-PRIMA VOCE. «L’uomo ignorante e ordinario che non ha considerazione per
+[.voice]
+`PRIMA VOCE.` «L’uomo ignorante e ordinario che non ha considerazione per
 gli Esseri Nobili … vive con il suo cuore posseduto e reso schiavo
 dall’opinione della personificazione, dal dubbio, dall’errata
-comprensione della virtù e del dovere link:#nota18[^18^], dal desiderio
+comprensione della virtù e del dovere,footnote:[O “attaccamento a riti
+e rituali” (_sīlabbata-parāmāsa_) (Nyp.).] dal desiderio
 sensoriale e dalla malevolenza, ed egli non vede come sfuggire ad essi
 quando sorgono. Questi, quando sono abituali e permangono non sradicati
 in lui, sono chiamati catene inferiori».
 
-M. 64
+[.suttaref]
+_M. 64_
 
 «Le cinque catene superiori sono: desiderio per la forma, desiderio per
 i fenomeni privi di forma, presunzione (la presunzione “io sono”),
 agitazione e ignoranza».
 
-D. 33
+[.suttaref]
+_D. 33_
 
 «Ci sono bhikkhu che, con l’esaurimento delle (prime) tre catene, sono
 Entrati nella Corrente, e non sono più soggetti alla perdizione, sono
@@ -1411,12 +1628,14 @@ essere fatto, che hanno poggiato il fardello, che hanno raggiunto lo
 scopo supremo, che hanno distrutto le catene dell’esistenza e che si
 sono completamente liberati mediante la conoscenza finale».
 
-M. 118
+[.suttaref]
+_M. 118_
 
 «L’esaurimento della brama, dell’odio e dell’illusione è chiamato
 condizione di Arahant».
 
-S. 38:2
+[.suttaref]
+_S. 38:2_
 
 «Quando un bhikkhu viaggia in molti paesi, gente colta di ogni
 condizione sociale gli pone delle domande. Persone colte e indagatrici
@@ -1436,18 +1655,22 @@ per forma, sensazione, percezione, formazioni [mentali] e coscienza,
 poi, con il loro cambiamento e alterazione, non sorgono in lui
 l’afflizione, il lamento, il dolore, il dispiacere e la disperazione”».
 
-S. 22:2
+[.suttaref]
+_S. 22:2_
 
-4.4.2 RETTA INTENZIONE
+== Retta Intenzione
 
-SECONDO NARRATORE. Il riassunto della retta visione è concluso. Il
+[.narrator]
+`SECONDO NARRATORE.` Il riassunto della retta visione è concluso. Il
 successivo fattore del Nobile Ottuplice Sentiero è la retta intenzione.
 
-PRIMA VOCE. «Che cos’è la retta intenzione? È l’intenzione della
+[.voice]
+`PRIMA VOCE.` «Che cos’è la retta intenzione? È l’intenzione della
 rinuncia, l’intenzione della non-malevolenza, l’intenzione della
 non-crudeltà: questa è chiamata retta intenzione».
 
-S. 45:8; D. 22
+[.suttaref]
+_S. 45:8; D. 22_
 
 «Quando un nobile discepolo ha chiaramente visto con retta comprensione
 come in realtà stanno le cose, quanto sia piccola la gratificazione
@@ -1457,30 +1680,36 @@ felicità e il piacere dissociati dai desideri sensoriali e dagli stati
 non salutari, o qualcosa di ancor più alto di questo, allora egli non è
 più interessato ai desideri sensoriali».
 
-M. 14
+[.suttaref]
+_M. 14_
 
 «Anche se dei banditi lo tagliassero a pezzi con una sega da boscaiolo,
 se nel suo cuore concepisse odio nei loro riguardi, costui non potrebbe
 essere considerato uno che segue il mio insegnamento».
 
-M. 21
+[.suttaref]
+_M. 21_
 
 «Egli non sceglie per la propria afflizione, per l’afflizione degli
 altri o per l’afflizione propria e per quella degli altri».
 
-M. 13
+[.suttaref]
+_M. 13_
 
-4.4.3 RETTA PAROLA
+== Retta Parola
 
-SECONDO NARRATORE. Questi due fattori della retta visione e della retta
+[.narrator]
+`SECONDO NARRATORE.` Questi due fattori della retta visione e della retta
 intenzione insieme costituiscono (quel gruppo dei fattori del Sentiero
 chiamato) “saggezza” (_paññā_). Passiamo ora al terzo fattore, la retta
 parola.
 
-PRIMA VOCE. «Che cos’è la retta parola? Astenersi dalla menzogna, dalla
+[.voice]
+`PRIMA VOCE.` «Che cos’è la retta parola? Astenersi dalla menzogna, dalla
 calunnia, dall’insulto e dal pettegolezzo. Questo è la retta parola».
 
-S. 45:8; D. 22
+[.suttaref]
+_S. 45:8; D. 22_
 
 «Qualcuno abbandona la menzogna: quando è convocato in giudizio, in una
 riunione e alla presenza dei suoi parenti o dell’associazione della
@@ -1503,17 +1732,21 @@ opportuno, concreto, buono, e il Dhamma e la Disciplina, parla con un
 linguaggio giusto che merita di essere ricordato, che è motivato,
 preciso e connesso al bene».
 
-M. 41
+[.suttaref]
+_M. 41_
 
-4.4.4 RETTA AZIONE
+== Retta Azione
 
-SECONDO NARRATORE. Il quarto fattore, retta azione.
+[.narrator]
+`SECONDO NARRATORE.` Il quarto fattore, retta azione.
 
-PRIMA VOCE. «Che cos’è la retta azione? Astenersi dall’uccidere esseri
+[.voice]
+`PRIMA VOCE.` «Che cos’è la retta azione? Astenersi dall’uccidere esseri
 viventi, dal rubare, da una cattiva condotta sessuale. Questo è la retta
 azione».
 
-S. 45:8; D. 22
+[.suttaref]
+_S. 45:8; D. 22_
 
 «Quando un seguace laico possiede cinque cose, egli vive fiducioso nella
 propria casa, e si troverà in paradiso tanto certamente come se fosse
@@ -1522,38 +1755,46 @@ esseri viventi, dal prendere ciò che non gli è stato dato, dalla cattiva
 condotta sessuale, dal dire il falso e dall’indulgere ai liquori, al
 vino e alle bevande fermentate».
 
-A. 5:172-73
+[.suttaref]
+_A. 5:172-73_
 
-4.4.5 RETTI MEZZI DI SOSTENTAMENTO
+== Retti Mezzi Di Sostentamento
 
-SECONDO NARRATORE. Il quinto fattore, retti mezzi di sostentamento.
+[.narrator]
+`SECONDO NARRATORE.` Il quinto fattore, retti mezzi di sostentamento.
 
-PRIMA VOCE. «Che cosa sono i retti mezzi di sostentamento? Un nobile
+[.voice]
+`PRIMA VOCE.` «Che cosa sono i retti mezzi di sostentamento? Un nobile
 discepolo abbandona gli errati mezzi di sostentamento e si guadagna da
 vivere mediante retti mezzi di sostentamento».
 
-S. 45:8; D. 22
+[.suttaref]
+_S. 45:8; D. 22_
 
 «Manovrare (ingannare), persuadere, alludere, sminuire, mercanteggiare.
 Questi sono errati mezzi di sostentamento (per i bhikkhu)».
 
-M. 117
+[.suttaref]
+_M. 117_
 
 «Cinque sono i tipi di commercio che un seguace laico non dovrebbe
 esercitare. Quali cinque? Commerciare armi, esseri viventi, carne,
 liquori e veleni».
 
-A. 5:177
+[.suttaref]
+_A. 5:177_
 
-4.4.6 RETTO SFORZO
+== Retto Sforzo
 
-SECONDO NARRATORE. Gli ultimi tre fattori, retta parola, retta azione e
+[.narrator]
+`SECONDO NARRATORE.` Gli ultimi tre fattori, retta parola, retta azione e
 retti mezzi di sostentamento, costituiscono (quel gruppo dei fattori del
 Sentiero chiamato) “virtù” (_sīla_). Sono noti in quanto stadio
 preliminare del Sentiero. Ora si giunge al sesto fattore, il retto
 sforzo.
 
-PRIMA VOCE. «Che cos’è il retto sforzo? Un bhikkhu risveglia il
+[.voice]
+`PRIMA VOCE.` «Che cos’è il retto sforzo? Un bhikkhu risveglia il
 desiderio per il non-sorgere degli stati non salutari non sorti, per cui
 egli si sforza, suscita energia, esercita la sua mente, si applica
 intensamente … Egli risveglia il desiderio per l’abbandono degli stati
@@ -1565,14 +1806,17 @@ perfezionamento degli stati salutari già sorti, per cui egli si sforza,
 suscita energia, esercita la sua mente, si applica intensamente. Questo
 è chiamato retto sforzo».
 
-S. 45:8; D. 22
+[.suttaref]
+_S. 45:8; D. 22_
 
-4.4.7 RETTA PRESENZA MENTALE
+== Retta Presenza Mentale
 
-SECONDO NARRATORE. Siamo giunti al settimo fattore, la retta presenza
+[.narrator]
+`SECONDO NARRATORE.` Siamo giunti al settimo fattore, la retta presenza
 mentale.
 
-PRIMA VOCE. «Che cos’è la retta presenza mentale? Un bhikkhu dimora
+[.voice]
+`PRIMA VOCE.` «Che cos’è la retta presenza mentale? Un bhikkhu dimora
 contemplando il corpo come corpo, ardente, con piena consapevolezza e
 presenza mentale, avendo messo da parte la cupidigia e il rimpianto per
 il mondo. Dimora contemplando le sensazioni come sensazioni, ardente …
@@ -1582,13 +1826,20 @@ piena consapevolezza e presenza mentale, avendo messo da parte la
 cupidigia e il rimpianto per il mondo. Questa è la retta presenza
 mentale».
 
-S. 45:8; D. 22
+[.suttaref]
+_S. 45:8; D. 22_
 
 «Come dimora un bhikkhu contemplando il corpo come corpo? Un bhikkhu,
 recatosi nella foresta o ai piedi di un albero o in una stanza vuota,
 siede a terra. Dopo aver incrociato le gambe, siede con il corpo eretto
 e fissa la consapevolezza di fronte a sé, consapevole inspira,
-consapevole espira link:#nota19[^19^]. Come un tornitore esperto o come
+consapevole espira.footnote:[L’esercizio qui descritto è l’osservazione
+mentale, non lo
+sviluppo corporeo mediante controllo del respiro come nell’_hathayoga_.
+Questo sutta, il _Satipaṭṭhāna Sutta,_ è attualmente molto noto quale
+fondamento della pratica meditativa. L’argomento di cui tratta, la
+costituzione della consapevolezza, è la pietra angolare
+dell’insegnamento del Buddha.] Come un tornitore esperto o come
 un suo esperto apprendista quando fa una tornitura lunga sa “io sto
 facendo una tornitura lunga”, o quando fa una tornitura corta sa “io sto
 facendo una tornitura corta”, allo stesso modo quando sta facendo
@@ -1602,11 +1853,19 @@ in questo modo: “Espirerò sperimentando l’intero corpo (del respiro)”.
 Egli si addestra in questo modo: “Inspirerò tranquillizzando la
 formazione corporea (le funzioni corporee)”. Egli si addestra in questo
 modo: “Espirerò tranquillizzando la formazione corporea (le funzioni
-corporee)”» link:#nota20[^20^].
+corporee)”».footnote:[Secondo il Commentario, “sperimentare l’intero
+corpo (del respiro)” significa essere del tutto consapevole dell’intera
+inspirazione e dell’intera espirazione. “Tranquillizzare la formazione
+corporea” significa rendere il respiro sempre più sottile e calmo (BB).]
 
 «Egli dimora contemplando il corpo come corpo in questo modo in se
 stesso, o esternamente, o in se stesso ed
-esternamente» link:#nota21[^21^].
+esternamente».footnote:[Secondo il Commentario, “esternamente” significa il corpo
+di qualcun altro, ecc. (ma potrebbe riferirsi anche alla pura
+oggettività vista nel proprio corpo); questo primo paragrafo enfatizza
+la concentrazione. Il secondo, sul sorgere e sul cessare (decadimento)
+si riferisce alla visione profonda (retta visione). Il terzo descrive la
+piena consapevolezza in chi ha raggiunto il traguardo finale.]
 
 «Oppure egli contempla nel corpo i fattori della sua origine, o i
 fattori del suo decadimento, o i fattori della sua origine e del suo
@@ -1709,7 +1968,9 @@ una sensazione dolorosa”. Quando prova una sensazione
 né-dolorosa-né-piacevole, sa “provo una sensazione
 né-dolorosa-né-piacevole”. Quando prova una sensazione piacevole
 materiale, sa “provo una sensazione piacevole
-materiale” link:#nota22[^22^]. … (E così via con le altre due.) Quando
+materiale”.footnote:[“Materiale” (_āmisa_) si riferisce a cose fisiche come il
+cibo, il vestirsi, ecc., e con le sensazioni a ciò connesse.] …
+(E così via con le altre due.) Quando
 prova una sensazione piacevole non materiale, sa “provo una sensazione
 piacevole non materiale”. … (E così via con le altre due)».
 
@@ -1739,7 +2000,9 @@ dall’illusione. Egli comprende la coscienza contratta come contratta, e
 quella distratta come distratta. Egli comprende la coscienza esaltata
 come esaltata, e quella non esaltata come non esaltata. Egli comprende
 la coscienza superata come superata, e quella non superata come non
-superata link:#nota23[^23^]. Egli comprende la coscienza concentrata
+superata.footnote:[“Contratta” dal torpore; “esaltata” dallo stato sensoriale
+a quello meditativo; “superata” nella meditazione o nella realizzazione.]
+Egli comprende la coscienza concentrata
 come concentrata, e quella non concentrata come non concentrata. Egli
 comprende la coscienza liberata come liberata, e quella non liberata
 come non liberata».
@@ -1761,7 +2024,11 @@ indipendente, senza attaccarsi a nulla nel mondo».
 mentali?».
 
 «Un bhikkhu dimora contemplando gli oggetti mentali come oggetti mentali
-nei termini dei cinque impedimenti link:#nota24[^24^]. E come lo si fa?
+nei termini dei cinque impedimenti.footnote:[“Impedimento” dovrebbe essere
+inteso nel senso, per così
+dire, di barriera che fa restare nella corrente della brama, dell’odio e
+dell’illusione, piuttosto che come un ostacolo che blocca la strada.]
+E come lo si fa?
 Quando in lui c’è desiderio sensoriale, egli sa “in me c’è desiderio
 sensoriale”, o quando in lui non c’è desiderio sensoriale, egli sa “in
 me non c’è desiderio sensoriale”. Ed egli comprende anche come giunge in
@@ -1873,7 +2140,8 @@ della consapevolezza per sette anni … i sette anni a parte … per sette
 giorni, allora egli si potrebbe attendere uno di questi due frutti: la
 conoscenza finale qui e ora, oppure il non-ritorno».
 
-D. 22; M. 10
+[.suttaref]
+_D. 22; M. 10_
 
 «Bhikkhu, vi esporrò l’origine e lo scomparire dei quattro fondamenti
 della consapevolezza: il corpo ha [bisogno del] nutrimento per la sua
@@ -1884,7 +2152,8 @@ la sua origine, e scompare con la cessazione di nome-e-forma; gli
 oggetti mentali hanno [bisogno dell’]attenzione per la loro origine, e
 scompaiono con la cessazione dell’attenzione».
 
-S. 47:42
+[.suttaref]
+_S. 47:42_
 
 «Tutte le cose hanno come loro radice il desiderio, l’attenzione
 provvede alla loro esistenza, il contatto alla loro origine, la
@@ -1892,7 +2161,8 @@ sensazione al loro luogo d’incontro, la concentrazione al confronto con
 esse, la consapevolezza al loro controllo, la comprensione è la più alta
 di esse e la liberazione il loro nucleo».
 
-A. 8:83
+[.suttaref]
+_A. 8:83_
 
 «Se s’intende custodire se stessi, sono i fondamenti della
 consapevolezza a dover essere coltivati. Se s’intende custodire gli
@@ -1900,20 +2170,24 @@ altri, sono i fondamenti della consapevolezza a dover essere coltivati.
 Chi custodisce se stesso, custodisce gli altri. Chi custodisce gli
 altri, custodisce se stesso».
 
-S. 47:19
+[.suttaref]
+_S. 47:19_
 
-4.4.8 RETTA CONCENTRAZIONE
+== Retta Concentrazione
 
-SECONDO NARRATORE. Siamo giunti all’ottavo e ultimo fattore, la retta
+[.narrator]
+`SECONDO NARRATORE.` Siamo giunti all’ottavo e ultimo fattore, la retta
 concentrazione.
 
-PRIMA VOCE. «Che cos’è la retta concentrazione? Un bhikkhu, del tutto
+[.voice]
+`PRIMA VOCE.` «Che cos’è la retta concentrazione? Un bhikkhu, del tutto
 isolato dai desideri sensoriali, isolato dagli stati [mentali] non
 salutari, entra e dimora nel primo jhāna, che è accompagnato dal
 pensiero e dall’esplorazione uniti alla felicità e al piacere nati
 dall’isolamento».
 
-D. 2; D. 22; M. 39; S. 45:8
+[.suttaref]
+_D. 2; D. 22; M. 39; S. 45:8_
 
 «Proprio come un esperto addetto al lavacro o come un suo esperto
 apprendista accumula polvere di sapone in una bacinella di metallo e,
@@ -1924,14 +2198,16 @@ felicità e del piacere nati dall’isolamento, lo immerge in essi, di essi
 lo ricolma fino a che non vi è alcuna parte di tutto il corpo nella
 quale tale felicità e tale piacere non giungano».
 
-D. 2; M. 39
+[.suttaref]
+_D. 2; M. 39_
 
 «Con l’acquietarsi del pensiero e dell’esplorazione egli entra e dimora
 nel secondo jhāna, privo di pensiero ed esplorazione, che è accompagnato
 da fiducia interiore e unificazione della mente unite alla felicità e al
 piacere nati dalla concentrazione».
 
-D. 2; D. 22; M. 39; S. 45:8
+[.suttaref]
+_D. 2; D. 22; M. 39; S. 45:8_
 
 «Proprio come un lago, la cui acqua sgorga dal basso e che non ha
 afflussi da est, da ovest, nord o sud, né viene riempito di tanto in
@@ -1943,7 +2219,8 @@ corpo con la felicità e il piacere nati dalla concentrazione,
 estendendola del tutto in esso, così che non c’è parte dell’intero corpo
 nel quale tale felicità e tale piacere non giungano».
 
-D. 2; M. 39
+[.suttaref]
+_D. 2; M. 39_
 
 «Con lo svanire anche di questa felicità egli dimora nell’equanimità e,
 consapevole e pienamente presente, provando ancora piacere nel corpo,
@@ -1951,7 +2228,8 @@ entra e dimora nel terzo jhāna, in relazione al quale gli Esseri Nobili
 affermano: “Dimora piacevolmente chi osserva con equanimità e
 consapevolezza”».
 
-D. 2; D. 22; M. 39; S. 45:8
+[.suttaref]
+_D. 2; D. 22; M. 39; S. 45:8_
 
 «Proprio come in un laghetto alcuni fiori di loto blu, bianchi o rossi,
 nati sotto la superficie dell’acqua, cresciuti sott’acqua, non
@@ -1963,14 +2241,16 @@ riempie questo corpo con il piacere spoglio della felicità, estendendolo
 del tutto in esso, così che non c’è parte dell’intero corpo nel quale
 tale piacere spoglio della felicità non giunga».
 
-D. 2; M. 39
+[.suttaref]
+_D. 2; M. 39_
 
 «Con l’abbandono del piacere e del dolore, e con la precedente scomparsa
 della gioia e dell’afflizione mentale, egli entra e dimora nel quarto
 jhāna, nel quale non c’è né piacere né dolore, e la purezza della
 consapevolezza è dovuta all’equanimità».
 
-D. 2; D. 22; M. 39; S. 45:8
+[.suttaref]
+_D. 2; D. 22; M. 39; S. 45:8_
 
 «Proprio come un uomo seduto vestito di bianco da capo a piedi, senza
 che ci sia una sola parte di tutto il suo corpo sulla quale il bianco
@@ -1979,7 +2259,8 @@ cognizione che si estende su tutto il suo corpo, senza che ci sia una
 sola parte di esso nella quale tale pura e luminosa cognizione non
 giunga».
 
-D. 2; M. 39
+[.suttaref]
+_D. 2; M. 39_
 
 «Qual è quella retta concentrazione degli Esseri Nobili con le sue cause
 e il suo corredo? È qualsiasi unificazione della mente che sia corredata
@@ -1995,9 +2276,11 @@ quattro, e per acquisire la retta visione e gli altri quattro: questo è
 il retto sforzo. Consapevolmente si abbandona ciò che è errato e si
 entra sul Sentiero del giusto: questa è la retta presenza mentale».
 
-M. 117 (condensato)
+[.suttaref]
+_M. 117 (condensato)_
 
-SECONDO NARRATORE. Questi ultimi tre fattori, retto sforzo, retta
+[.narrator]
+`SECONDO NARRATORE.` Questi ultimi tre fattori, retto sforzo, retta
 presenza mentale e retta concentrazione, tutti insieme costituiscono la
 “concentrazione”. Gli otto fattori, insieme alla retta conoscenza e alla
 retta liberazione, sono chiamati le “dieci rettitudini”, che
@@ -2007,7 +2290,8 @@ concentrazione, però, ci sono quattro ulteriori stadi raggiungibili,
 chiamati i quattro “stati privi di forma”. Essi sono un aggiuntivo alla
 “retta concentrazione”, solo degli affinamenti del quarto jhāna.
 
-PRIMA VOCE. «Con il completo superamento della percezione della forma,
+[.voice]
+`PRIMA VOCE.` «Con il completo superamento della percezione della forma,
 con la scomparsa delle percezioni della resistenza, mediante il non
 prestare attenzione alle percezioni della differenza, (consapevole
 dello) “spazio infinito”, un bhikkhu entra e dimora nella base
@@ -2032,15 +2316,18 @@ piacevole dimorare qui e ora. I quattro stati privi di forma non sono
 chiamati annullamento, nella Disciplina degli Esseri Nobili sono
 chiamati sereno dimorare».
 
-M. 8
+[.suttaref]
+_M. 8_
 
 «Il bhikkhu (che pratica tali otto conseguimenti) si dice che ha bendato
 Māra, che ha (temporaneamente) privato Māra della vista dei suoi oggetti
 e che è diventato invisibile al Malvagio».
 
-M. 25
+[.suttaref]
+_M. 25_
 
-SECONDO NARRATORE. Nessuno di questi otto conseguimenti (né le quattro
+[.narrator]
+`SECONDO NARRATORE.` Nessuno di questi otto conseguimenti (né le quattro
 Divine Dimore, cfr. p. 200) sono rivendicate come peculiari
 dell’insegnamento dei Buddha. La loro pratica priva di retta visione
 conduce solo al paradiso, ma non al Nibbāna. L’insegnamento peculiare
@@ -2049,7 +2336,8 @@ dei Buddha è le Quattro Nobili Verità. Un nono conseguimento, il
 alti stadi di realizzazione ed è perciò peculiare dei Buddha e dei loro
 discepoli.
 
-PRIMA VOCE. «Con il completo superamento della base consistente nella
+[.voice]
+`PRIMA VOCE.` «Con il completo superamento della base consistente nella
 né-percezione-né-non-percezione, un bhikkhu entra e dimora nella
 cessazione della percezione e della sensazione, e le sue contaminazioni
 si esauriscono allorché egli le vede con comprensione. Allora si dice
@@ -2057,20 +2345,25 @@ che un bhikkhu ha bendato Māra, che ha privato Māra della vista dei suoi
 oggetti e che è diventato invisibile al Malvagio e, quel che più conta,
 che è andato al di là di ogni attaccamento per il mondo».
 
-M. 25
 
+[.suttaref]
+_M. 25_
+
+[verse, S. 1:23]
+____
 Quando un saggio, ben fondato nella virtù, +
 sviluppa consapevolezza e comprensione, +
 allora come un bhikkhu, ardente e sagace, +
 riesce a dipanare il groviglio.
+____
 
-S. 1:23
 
 «Bhikkhu, se un uomo dovesse viaggiare e arrancare attraverso un’era,
 allora il cumulo, la pila, la massa delle sue ossa, se riunite né
 distrutte, sarebbe tanto alto quanto il Monte Vepulla».
 
-Iti. 24
+[.suttaref]
+_Iti. 24_
 
 «Supponiamo che un uomo gettasse nell’oceano un giogo con un foro in
 esso e, poi, che il vento dell’est lo sospingesse a ovest, il vento
@@ -2086,14 +2379,16 @@ quel giogo con un foro in esso?».
 un solo foro in esso prima che un folle, destinato alla perdizione,
 possa trovare la via per tornare alla condizione umana».
 
-M. 129
+[.suttaref]
+_M. 129_
 
 «Bhikkhu, il Dhamma da me ben proclamato è schietto, aperto, evidente e
 spoglio di parole inutili. In questo Dhamma così da me ben proclamato
 chiunque abbia semplice fiducia in me, semplice amore per me, è
 destinato al paradiso».
 
-M. 22
+[.suttaref]
+_M. 22_
 
 «Ciò che dovrebbe essere fatto per i discepoli per compassione da un
 Maestro che cerca il loro benessere ed è compassionevole, questo ho
@@ -2101,15 +2396,17 @@ fatto io per voi. Ci sono questi spazi ai piedi degli alberi, queste
 stanze vuote: praticate la meditazione, bhikkhu, evitate di rimandare
 per rimpiangerlo in seguito. Questo è il mio insegnamento per voi».
 
-M. 8; M. 152
+[.suttaref]
+_M. 8; M. 152_
 
-SECONDO NARRATORE. Con questo si conclude tale esposizione. Ma come è in
+[.narrator]
+`SECONDO NARRATORE.` Con questo si conclude tale esposizione. Ma come è in
 realtà percorso il Sentiero?
 
-[[8s]]5. IL NOBILE OTTUPLICE SENTIERO IN PRATICA
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+== Il Nobile Ottuplice Sentiero In Pratica
 
-PRIMA VOCE. Un mattino il venerabile Ānanda si vestì, prese la ciotola e
+[.voice]
+`PRIMA VOCE.` Un mattino il venerabile Ānanda si vestì, prese la ciotola e
 la veste superiore e si recò a Sāvatthī per la questua. Egli vide il
 brāhmaṇa Jānussoni che usciva da Sāvatthī alla guida di un carro
 trainato da quattro giumente, tutto era bianco: bianchi i cavalli,
@@ -2127,7 +2424,8 @@ Ottuplice Sentiero, ed è “veicolo del Dhamma” e “impareggiabile vittoria
 nella battaglia”. Per tutti i componenti del Nobile Ottuplice Sentiero
 esso culmina nell’espulsione della brama, dell’odio e dell’illusione».
 
-S. 45:4
+[.suttaref]
+_S. 45:4_
 
 «(Un bambino viene concepito e con la nascita e la crescita) le sue
 facoltà sensoriali maturano, viene dotato e investito dei cinque
@@ -2195,9 +2493,10 @@ parla, egli è affidabile, attendibile e non inganna il mondo. Egli
 abbandona la calunnia … Egli abbandona l’insulto … Egli abbandona il
 pettegolezzo … parla con un linguaggio giusto che merita di essere
 ricordato, che è motivato, preciso e connesso al
-bene» link:#nota25[^25^].
+bene».footnote:[Si veda sopra, la “retta parola” (p. 265) per
+il testo completo.]
 
- «Egli si astiene dal danneggiare semi e piante. Egli mangia solo in una
+«Egli si astiene dal danneggiare semi e piante. Egli mangia solo in una
 parte del giorno, astenendosi dal cibo di notte e dai pasti tardivi.
 Egli si astiene dal ballo, dal canto, dalla musica e dagli spettacoli
 teatrali; dall’indossare ghirlande, dall’abbellirsi con profumi e
@@ -2227,7 +2526,8 @@ la mente.) Possedendo questa facoltà del contenimento degli Esseri
 Nobili, egli prova in se stesso un’incontaminata beatitudine».
 
 «È del tutto consapevole quando si muove avanti e indietro … e mantiene
-il silenzio» link:#nota26[^26^].
+il silenzio».footnote:[Si veda sopra, la “retta presenza mentale”
+(p. 267) per il testo.]
 
 «Possedendo l’insieme delle virtù degli Esseri Nobili, e questa facoltà
 del contenimento degli Esseri Nobili, e questa consapevolezza e piena
@@ -2253,7 +2553,8 @@ egli dimora con una mente che ha superato il dubbio, senza più
 interrogarsi sugli stati [mentali] non salutari; egli purifica la sua
 mente dal dubbio».
 
-M. 38
+[.suttaref]
+_M. 38_
 
 «Supponiamo che un uomo prenda un prestito, che intraprenda delle
 attività e che tali attività abbiano successo, così che egli sia in
@@ -2280,7 +2581,8 @@ e una strada che attraversa un deserto, e quando sono in lui
 abbandonati, egli li vede come un non debito, la salute, l’uscita dalla
 prigione, la libertà dalle catene e una terra sicura».
 
-M. 39
+[.suttaref]
+_M. 39_
 
 «Avendo abbandonato i cinque impedimenti, le imperfezioni mentali che
 indeboliscono la comprensione, allora, del tutto isolato dai desideri
@@ -2307,10 +2609,10 @@ della nascita, cessano l’invecchiamento e la morte, e anche
 l’afflizione, il lamento, il dolore, il dispiacere e la disperazione.
 Così c’è la cessazione di tutto questo aggregato di sofferenza».
 
-M. 38
+[.suttaref]
+_M. 38_
 
-[[mezzi]]6. I MEZZI
-~~~~~~~~~~~~~~~~~~~
+== I Mezzi
 
 «Supponiamo che un uomo, volendo un serpente, ne veda uno grande e in
 seguito lo afferri in modo sbagliato, per le spire o per la coda, così
@@ -2358,10 +2660,10 @@ la Similitudine della Zattera, (allora perfino i buoni) insegnamenti
 dovrebbero essere da voi abbandonati, e a maggior ragione quelli
 cattivi».
 
-M. 22 (condensato)
+[.suttaref]
+_M. 22 (condensato)_
 
-[[meta]]7. La Meta
-~~~~~~~~~~~~~~~~~~
+== La Meta
 
 «La cessazione della brama, dell’odio e dell’illusione è il Non-Formato
 (Incondizionato), la Meta, l’Incontaminato, la Verità, l’Altra Sponda,
@@ -2374,186 +2676,7 @@ Ostilità), lo Svanire del Desiderio, la Purezza, la Libertà,
 l’Indipendenza dal dipendente, l’Isola, il Ricovero, il Porto, il
 Rifugio, l’Oltre.
 
-S. 43:1-44
-
-[[nota1]]1. I “cinque aggregati affetti dall’attaccamento”
-(_upādāna-kkhanda_) possono essere considerati come le cinque apposite
-“classi” o categorie sotto le quali ogni componente dell’esperienza (nel
-senso più ampio del termine) che si trova a sorgere può essere
-raggruppato per l’analisi e la discussione. Esse non hanno esistenza
-separata dai componenti che li rappresentano. Quel che rappresentano non
-si verifica separatamente. Essi sono d’altra parte interdipendenti, come
-un bicchiere di vetro implica contemporaneamente materiale (il vetro),
-affettività (attraente, non attraente o indifferente), caratteristiche
-individuali (forma, colore, ecc.), determinatezza (essere formato)
-quanto all’utilità (tutte cose che sono costitutive di “nome-e-forma”),
-e la coscienza di tutto ciò che non è.
-
-// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
-
-[[nota2]]2. La “terra” rappresenta la solidità, l’“acqua” la coesione,
-il “fuoco” sia la temperatura sia la maturazione, l’“aria” sia
-l’estensione (distensione) sia il moto.
-
-// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
-
-[[nota3]]3. «Qualsiasi cosa abbia la caratteristica di dare forma
-dovrebbe essere compresa, tutt’insieme, come aggregato delle formazioni
-… ha la caratteristica di agglomerare … (ed) ha la funzione di
-accumulare»; cf. _The Path of Purification (Visuddhimagga)_, tr. da
-Ñāṇamoli, XIV, 131 (Nyp.).
-
-// link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
-
-[[nota4]]4. _Cetanā_, di solito tradotto con “volizione”, volontà
-(Nyp.).
-
-// link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
-
-[[nota5]]5. Nel senso di condizione necessaria.
-
-// link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
-
-[[nota6]]6. Sulla genesi interdipendente, o originazione interdipendente
-e coproduzione condizionata, si veda _The Path of Purification_, cap.
-XVII.
-
-// link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
-
-[[nota7]]7. _Sīlabbatupādāna_, l’attaccamento a riti e rituali (Nyp.).
-
-// link:#OrigineNota7[image:../Images/BackArrow.jpg[<--]]
-
-[[nota8]]8. Il “contatto” è contatto tra l’“in-sé” e l’“esterno” (ad
-esempio, la vista insieme a ciò che è visto), il quale è reso possibile
-solo dalla presenza della coscienza (ad esempio, coscienza visiva). È
-perciò un fattore basilare nell’essenziale complessità di qualsiasi cosa
-sorga, sia percepita e formata, tanto dai cinque sensi quanto dalla
-mente, sia dai sensi e dalla mente insieme.
-
-// link:#OrigineNota8[image:../Images/BackArrow.jpg[<--]]
-
-[[nota9]]9. “Nome-e-forma” è contemporaneamente il percepire e quel che
-è percepito, esperito e riconosciuto (“nominato”). È l’immaginato
-insieme alla materia, che insieme costituiscono la forma
-individualizzata e soggettivamente determinata di un oggetto. Nei sutta,
-però, essa non include la coscienza, grazie alla quale ciò è reso
-possibile. La successiva letteratura include la coscienza all’interno
-del “nome”, creando così le basi per un’opposizione tra mente e materia
-priva di riscontri nel Canone.
-
-// link:#OrigineNota9[image:../Images/BackArrow.jpg[<--]]
-
-[[nota10]]10. Altre traduzioni di _cetanā_ (qui reso con “scelta”) sono
-“volizione” e
-“intenzione”.
-
-// link:#OrigineNota10[image:../Images/BackArrow.jpg[<--]]
-
-[[nota11]]11. È necessario evitare di confondere il “privo di forma”
-(_arūpa_), che è un tipo di esistenza (_bhava_), con “non-formato” (o
-“incondizionato”, _asankhata_), che è ciò che non ha formazioni (o
-condizioni, _sankhāra_). Quest’ultimo è un termine per il Nibbāna. Il
-“privo di forma” è sempre condizionato.
-
-// link:#OrigineNota11[image:../Images/BackArrow.jpg[<--]]
-
-[[nota12]]12. Fino ad ora sono stati offerti solo dettagli analitici
-delle prime tre Nobili Verità. Qui incontreremo mere descrizioni che ci
-aiutano a comprenderle.
-
-// link:#OrigineNota12[image:../Images/BackArrow.jpg[<--]]
-
-[[nota13]]13. Ciò significa che in queste azioni non c’è significato
-morale (Nyp.).
-
-// link:#OrigineNota13[image:../Images/BackArrow.jpg[<--]]
-
-[[nota14]]14. Il tronco di un banano è fatto solo d’un involucro, è
-privo di nucleo.
-
-// link:#OrigineNota14[image:../Images/BackArrow.jpg[<--]]
-
-[[NDT]]NDT. L’espressione rinvia ai figli del Dio Sole (Āditi), dodici
-come i mesi dell’anno nel _Bhāgavata Purāṇa_, che si manifestano appunto
-in modo via via differente.
-
-// link:#OrigineNDT[image:../Images/BackArrow.jpg[<--]]
-
-[[nota15]]15. “Formato” è _saṅkhata_, tradotto anche con “composto” o
-“condizionato”; “non-formato” è _asaṅkhata_, tradotto anche con
-“non-composto” o “incondizionato”. Quest’ultimo è identificato come
-Nibbāna (Nyp.)
-
-// link:#OrigineNota15[image:../Images/BackArrow.jpg[<--]]
-
-[[nota16]]16. _citta_: mente, mentalità, cognizione
-
-// link:#OrigineNota16[image:../Images/BackArrow.jpg[<--]]
-
-[[nota17]]17. “Personificazione”: _sakkāya_ = _sa_ (“esistente” o “
-proprio”) più _kāya_ (corpo). L’identificazione del sé (_attā_) con uno
-o più dei cinque aggregati costituisce perciò una “personificazione” di
-quel sé, e ciò fonda un’errata visione. Si noti che _sakkāyadiṭṭhi è_ di
-solito più tradotto con “opinione dell’io” (Nyp.).
-
-// link:#OrigineNota17[image:../Images/BackArrow.jpg[<--]]
-
-[[nota18]]18. O “attaccamento a riti e rituali” (_sīlabbata-parāmāsa_)
-(Nyp.).
-
-// link:#OrigineNota18[image:../Images/BackArrow.jpg[<--]]
-
-[[nota19]]19. L’esercizio qui descritto è l’osservazione mentale, non lo
-sviluppo corporeo mediante controllo del respiro come nell’_hathayoga_.
-Questo sutta, il _Satipaṭṭhāna Sutta,_ è attualmente molto noto quale
-fondamento della pratica meditativa. L’argomento di cui tratta, la
-costituzione della consapevolezza, è la pietra angolare
-dell’insegnamento del Buddha.
-
-// link:#OrigineNota19[image:../Images/BackArrow.jpg[<--]]
-
-[[nota20]]20. Secondo il Commentario, “sperimentare l’intero corpo (del
-respiro)” significa essere del tutto consapevole dell’intera
-inspirazione e dell’intera espirazione. “Tranquillizzare la formazione
-corporea” significa rendere il respiro sempre più sottile e calmo (BB).
-
-// link:#OrigineNota20[image:../Images/BackArrow.jpg[<--]]
-
-[[nota21]]21. Secondo il Commentario, “esternamente” significa il corpo
-di qualcun altro, ecc. (ma potrebbe riferirsi anche alla pura
-oggettività vista nel proprio corpo); questo primo paragrafo enfatizza
-la concentrazione. Il secondo, sul sorgere e sul cessare (decadimento)
-si riferisce alla visione profonda (retta visione). Il terzo descrive la
-piena consapevolezza in chi ha raggiunto il traguardo
-finale.
-
-// link:#OrigineNota21[image:../Images/BackArrow.jpg[<--]]
-
-[[nota22]]22. “Materiale” (_āmisa_) si riferisce a cose fisiche come il
-cibo, il vestirsi, ecc., e con le sensazioni a ciò connesse.
-
-// link:#OrigineNota22[image:../Images/BackArrow.jpg[<--]]
-
-[[nota23]]23. “Contratta” dal torpore; “esaltata” dallo stato sensoriale
-a quello meditativo; “superata” nella meditazione o nella realizzazione.
-
-// link:#OrigineNota23[image:../Images/BackArrow.jpg[<--]]
-
-[[nota24]]24. “Impedimento” dovrebbe essere inteso nel senso, per così
-dire, di barriera che fa restare nella corrente della brama, dell’odio e
-dell’illusione, piuttosto che come un ostacolo che blocca la strada.
-
-// link:#OrigineNota24[image:../Images/BackArrow.jpg[<--]]
-
-[[nota25]]25. Si veda sopra, la “retta parola” (p. 265) per il testo
-completo.
-
-// link:#OrigineNota25[image:../Images/BackArrow.jpg[<--]]
-
-[[nota26]]26. Si veda sopra, la “retta presenza mentale” (p. 267) per il
-testo.
-
-// link:#OrigineNota26[image:../Images/BackArrow.jpg[<--]]
+[.suttaref]
+_S. 43:1-44_
 
 // FIXME extra word? 'completo'

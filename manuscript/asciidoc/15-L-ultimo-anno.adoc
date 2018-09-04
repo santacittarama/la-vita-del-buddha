@@ -1,12 +1,14 @@
 = L'ultimo Anno
 
-PRIMO NARRATORE. Gli eventi che seguono avvennero in un solo anno, alla
+[.narrator]
+`PRIMO NARRATORE.` Gli eventi che seguono avvennero in un solo anno, alla
 fine del quale il Buddha ottenne il Nibbāna definitivo. Tutti questi
 eventi, ad eccezione della morte dei due discepoli eminenti, sono
 contenuti in un brano o sutta. Solamente ora nel Canone ricomincia un
 resoconto cronologico degli eventi.
 
-PRIMA VOCE. Così ho udito. Una volta il Beato stava soggiornando a
+[.voice]
+`PRIMA VOCE.` Così ho udito. Una volta il Beato stava soggiornando a
 Rājagaha sul Picco dell’Avvoltoio. Il re Ajātasattu era allora ansioso
 di attaccare i Vajji. Diceva: «Sterminerò questi Vajji, che sono forti e
 potenti, li annienterò, li condurrò alla distruzione e alla rovina».
@@ -134,7 +136,8 @@ del corpo, del pericolo, dell’abbandono della brama, del distacco dalla
 brama e della cessazione della brama, altrettanto a lungo si possono
 attendere di essere prosperi e di non andare incontro al declino».
 
-D. 16; A. 7:20
+[.suttaref]
+_D. 16; A. 7:20_
 
 «Sei cose che prevengono il declino: fino a quando i bhikkhu sia in
 pubblico sia in privato mantengono [in essere] atti corporei, verbali e
@@ -192,7 +195,8 @@ volle, disse al venerabile Ānanda: «Vieni, Ānanda, andiamo a Nālandā».
 verso Nālandā con un grande seguito di bhikkhu. Quando fu là visse nel
 Boschetto di Mango di Pāvārika a Nālandā.
 
-D. 16
+[.suttaref]
+_D. 16_
 
 Allora il venerabile Sāriputta andò dal Beato e disse: «Signore, di
 questo sono certo: non c’è mai stato, mai ci sarà e non c’è un altro
@@ -241,7 +245,8 @@ sette fattori dell’Illuminazione. Tutti i Beati del futuro, realizzati e
 completamente illuminati, faranno lo stesso. Il Beato ora, realizzato e
 completamente illuminato, ha fatto lo stesso».
 
-D. 16; S. 47:12
+[.suttaref]
+_D. 16; S. 47:12_
 
 E mentre il beato stava soggiornando nel Boschetto di Mango di Pāvārika
 a Nālandā, egli spesso offrì questo discorso di Dhamma ai bhikkhu:
@@ -328,7 +333,11 @@ costruendo Sunidha e Vassakāra, Signore».
 «Lo stanno facendo come se fossero stati consigliati dalle Divinità del
 paradiso delle Trentatré Divinità», disse il Beato, e raccontò quel che
 aveva visto. Egli aggiunse: «Tra tutte le dimore dei nobili e tra tutti
-i centri di commercio, Pāṭaliputta link:#nota1[^1^] sarà la città più
+i centri di commercio, Pāṭaliputtafootnote:[Il villaggio di Pāṭaligāma
+cambia qui il suo nome in
+Pāṭaliputta per l’edificazione della nuova città (oggi chiamata Patna).
+In seguito diventerà famosa in quanto capitale dell’impero di Asoka, che
+si sviluppò dal regno di Magadha.] sarà la città più
 grande, luogo nel quale le borse dei tesori sono dissigillate. Sarà a
 rischio per tre pericoli: il fuoco, l’acqua e il dissenso».
 
@@ -338,6 +347,8 @@ ebbe finito di mangiare e non teneva più la ciotola in mano, loro
 presero sedili più bassi e si misero a sedere da un lato. Allora il
 Beato impartì la benedizione con queste strofe:
 
+[verse]
+____
 Dove un uomo saggio prende dimora, +
 che lì nutra il virtuoso +
 che vive la buona vita auto-controllato, +
@@ -348,6 +359,7 @@ perché il loro amore per lui è come +
 l’amore di una madre per il proprio figlio. +
 E quando un uomo è amato dalle divinità, +
 lo attendono sempre cose di buon auspicio.
+____
 
 Allora il Beato si alzò dal posto in cui sedeva e andò via. In quella
 circostanza, però, Sunidha e Vassakāra seguirono il Beato, pensando: «La
@@ -366,12 +378,16 @@ Egli vide le persone che volevano attraversare cercando delle barche,
 cercando qualcosa che galleggiasse e legando assieme delle zattere.
 Conoscendo il significato di ciò, egli esclamò queste parole:
 
+[verse]
+____
 Mentre coloro che vogliono attraversare la corrente +
 costruiscono ponti ed evitano gli abissi, +
 mentre la gente lega assieme zattere, +
 il saggio è già dall’altra parte.
+____
 
-D. 16; Ud. 8:6; Vin. Mv. 6:28
+[.suttaref]
+_D. 16; Ud. 8:6; Vin. Mv. 6:28_
 
 Allora il Beato disse al venerabile Ānanda: «Vieni, Ānanda, andiamo a
 Koṭigāma».
@@ -399,7 +415,8 @@ contaminazioni, dalla contaminazione del desiderio sensoriale, dalla
 contaminazione dell’esistenza, dalla contaminazione delle opinioni e
 dalla contaminazione dell’ignoranza».
 
-D. 16; Vin. Mv. 6:29
+[.suttaref]
+_D. 16; Vin. Mv. 6:29_
 
 Quando il Beato ebbe soggiornato a Koṭigāma per tutto il tempo che
 volle, disse al venerabile Ānanda: «Vieni, Ānanda, andiamo a Nādikā».
@@ -414,7 +431,8 @@ Qual è la sua rinascita? La bhikkhuṇī chiamata Nandā, il seguace laico
 chiamato Sudatta, la seguace laica chiamata Sujātā, i seguaci laici
 chiamati Kakudha, Kālinga, Nikaṭa, Kaṭissabha, Tuṭṭha, Santuṭṭha, Bhadda
 e Subhadda, costoro sono morti a Nādikā. Qual è la loro destinazione?
-Qual è la loro rinascita?» link:#nota2[^2^].
+Qual è la loro rinascita?».footnote:[Il Commentario afferma che il
+_Janavasabha Sutta_ (D. 18) fu pronunciato a questo punto.]
 
 «Il bhikkhu Sāḷha, Ānanda, mediante la realizzazione qui e ora, è
 entrato e dimora nella liberazione della mente e nella liberazione per
@@ -458,7 +476,16 @@ l’interiorità e può essere direttamente sperimentato dal saggio”. Egli
 ha fiducia assoluta nel Saṅgha: “Il Saṅgha dei discepoli del Beato è
 sulla buona strada, è entrato nella retta strada, nella vera strada,
 nella giusta strada, ossia, [il Saṅgha] delle quattro paia di uomini,
-degli otto tipi di persone link:#nota3[^3^]; questo Saṅgha dei discepoli
+degli otto tipi di persone;footnote:[Le “quattro paia di uomini,
+gli otto tipi di persone” sono
+spiegate come chi raggiunge il Sentiero e ne ottiene le fruizioni nel
+caso di ognuno dei quattro stadi (sentieri) della realizzazione. Si
+afferma che la “fruizione” segue immediatamente il raggiungimento di
+ognuno di tali stadi (si veda Sn. 2:1, vv. 5 e 6). Questo è uno dei
+significati dell’espressione “senza tempo (non differito)” usata per il
+Dhamma poco sopra, nel senso che il fruttuoso conseguimento del Sentiero
+non richiede attese, ad esempio fin dopo la morte, per la fruizione di
+esso.] questo Saṅgha dei discepoli
 del Beato degno di doni, ospitalità, offerte e saluti reverenti, in
 quanto incomparabile campo di meriti per il mondo”. Egli è perfetto
 nelle virtù amate dagli Esseri Nobili, non lacere, non discontinue, non
@@ -480,7 +507,8 @@ libera completamente dalle contaminazioni, dalla contaminazione del
 desiderio sensoriale, dalla contaminazione dell’esistenza, dalla
 contaminazione delle opinioni e dalla contaminazione dell’ignoranza».
 
-D. 16
+[.suttaref]
+_D. 16_
 
 Quando il Beato ebbe soggiornato a Nādikā per tutto il tempo che volle,
 disse al venerabile Ānanda: «Vieni, Ānanda, andiamo a Vesālī».
@@ -509,7 +537,8 @@ in piedi, quando sta seduto, quando va a dormire, quando si sveglia,
 parla e mantiene il silenzio. Un bhikkhu dovrebbe vivere consapevole e
 pienamente presente: questa è la mia istruzione per voi».
 
-D. 16; cf. D. 22
+[.suttaref]
+_D. 16; cf. D. 22_
 
 La cortigiana Ambapālī sentì dire che il Beato era giunto a Vesālī e che
 stava soggiornando nel suo boschetto di manghi (_amba_). Ella fece
@@ -596,7 +625,8 @@ libera completamente dalle contaminazioni, dalla contaminazione del
 desiderio sensoriale, dalla contaminazione dell’esistenza, dalla
 contaminazione delle opinioni e dalla contaminazione dell’ignoranza».
 
-D. 16; cf. Vin. Mv. 6:30
+[.suttaref]
+_D. 16; cf. Vin. Mv. 6:30_
 
 Quando il Beato ebbe soggiornato nel boschetto di Ambapālī per tutto il
 tempo che volle, disse al venerabile Ānanda: «Vieni, Ānanda, andiamo a
@@ -642,7 +672,9 @@ corpo del Perfetto è a proprio agio solo mediante la non-attenzione a
 tutti i segni e mediante la cessazione di certi tipi di sensazioni, ed
 egli entra e dimora nella liberazione del cuore priva di segni. Così,
 Ānanda, ognuno di voi deve fare di se stesso la propria
-isola link:#nota4[^4^], di se stesso e di nessun altro il proprio
+isola,footnote:[La parola _dīpa_ può significare sia “isola”
+sia “lampada”. Il Commentario la spiega con “isola”.] di se stesso
+e di nessun altro il proprio
 rifugio, ognuno di voi deve fare del Dhamma la propria isola, del Dhamma
 e di nient’altro il proprio rifugio. E come lo fa un bhikkhu? Un bhikkhu
 dimora contemplando il corpo come corpo, ardente, pienamente presente e
@@ -657,14 +689,17 @@ rifugio, che fanno del Dhamma la propria isola, del Dhamma e di
 nient’altro il proprio rifugio: costui sarà il più eminente dei miei
 bhikkhu, ossia di coloro che vogliono addestrarsi».
 
-D. 16; S. 47:9
+[.suttaref]
+_D. 16; S. 47:9_
 
-SECONDO NARRATORE. Benché non sia esplicitamente affermato nei Piṭaka, a
+[.narrator]
+`SECONDO NARRATORE.` Benché non sia esplicitamente affermato nei Piṭaka, a
 questo punto il Buddha pare che sia stato in visita a Sāvatthī, e fu
 mentre si trovava lì che la notizia della morte dei suoi due discepoli
 eminenti lo raggiunse.
 
-PRIMA VOCE. Una volta il Beato stava soggiornando a Sāvatthī, nel
+[.voice]
+`PRIMA VOCE.` Una volta il Beato stava soggiornando a Sāvatthī, nel
 Boschetto di Jeta, nel Parco di Anāthapiṇḍika. Allora il venerabile
 Sāriputta stava però soggiornando a Nālagāmaka, nel territorio di
 Magadha: egli era afflitto, sofferente e gravemente malato. Suo monaco
@@ -711,7 +746,8 @@ propria isola, di se stesso e di nessun altro il proprio rifugio, ognuno
 di voi deve fare del Dhamma la propria isola, del Dhamma e di
 nient’altro il proprio rifugio».
 
-S. 47:13
+[.suttaref]
+_S. 47:13_
 
 Una volta il Beato stava soggiornando con una grande comunità di bhikkhu
 nel territorio dei Vajji, a Ukkācelā, sulla riva del Gange. Era subito
@@ -733,7 +769,8 @@ lamenti! Come potrebbe avvenire che quel che è nato, giunto
 all’esistenza, formato e soggetto alla decadenza non decada? Questo non
 è possibile».
 
-S. 47:14
+[.suttaref]
+_S. 47:14_
 
 Un mattino il Beato si vestì, prese la ciotola e la veste superiore, e
 andò a Vesālī per la questua. Quando ebbe fatto il giro per la questua a
@@ -763,7 +800,11 @@ compassione nei riguardi del mondo, per il bene, il benessere e la
 felicità di divinità e uomini»: fino a questo punto la sua mente era
 sotto l’influsso di Māra. Una seconda e una terza volta il Beato disse
 la stessa cosa, e la mente del venerabile Ānanda rimase sotto l’influsso
-di Māra link:#nota5[^5^]. Allora il Beato disse al venerabile Ānanda:
+di Māra.footnote:[È opportuno notare che il Buddha decise di insegnare la sua
+dottrina dietro invito di una Divinità (cap. 3, p. 45), e che egli
+abbandonò la sua determinazione di vivere in assenza di un invito a
+prolungarla a causa dell’intervento di Māra (la “Morte”).] Allora il
+Beato disse al venerabile Ānanda:
 «Puoi andare, Ānanda, è tempo di fare quel che reputi opportuno».
 
 «E sia, Signore», egli rispose e, alzandosi dal posto in cui sedeva,
@@ -798,10 +839,13 @@ presente, abbandonò la volontà di vivere. Quando lo fece, ci fu un gran
 terremoto, pauroso e orripilante, e i tamburi del cielo risuonarono.
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
+[verse]
+____
 Il saggio rinunciò alla volontà di vivere, +
 sia commensurabile sia incommensurabile, +
 e concentrato interiormente e pure felice +
 lasciò cadere il suo auto-divenire come una cotta di maglia.
+____
 
 Il venerabile Ānanda pensò: «È meraviglioso, è stupefacente! Questo è
 stato un gran terremoto, un terremoto davvero grande. È stato pauroso e
@@ -836,9 +880,13 @@ quando un Perfetto, consapevole e pienamente presente, abbandona la
 volontà di vivere, allora la terra trema … Questa è la settima ragione.
 Ancora, quando un Perfetto ottiene il Nibbāna definitivo con l’elemento
 Nibbāna privo di residui del passato attaccamento, allora la terra trema
-… Questa è l’ottava ragione» link:#nota6[^6^].
+… Questa è l’ottava ragione».footnote:[Nel testo ora segue un resoconto
+degli otto generi di
+assemblee, delle otto basi della trascendenza e delle otto liberazioni,
+qui omesse per ragioni di spazio.]
 
-D. 16; A. 8:70; Ud. 6:1
+[.suttaref]
+_D. 16; A. 8:70; Ud. 6:1_
 
 «Una volta, Ānanda, quando da poco ero illuminato, mentre soggiornavo a
 Uruvelā, sulla riva del fiume Nerañjarā, ai piedi del baniano del
@@ -945,6 +993,8 @@ Raggiungete la perfezione mediante la diligenza. Presto il Beato otterrà
 il Nibbāna definitivo». Così disse il Beato. Avendo il Sublime detto
 questo, il Maestro aggiunse:
 
+[verse]
+____
 Matura è la mia età e poco mi resta da vivere: +
 vi lascio e vado via, il mio rifugio è pronto. +
 Siate diligenti, consapevoli e virtuosi, o bhikkhu, +
@@ -952,6 +1002,7 @@ con pensieri ben concentrati +
 continuate a sorvegliare il vostro cuore. +
 Chi vive diligentemente questo Dhamma e Disciplina +
 abbandonerà il ciclo delle rinascite e porrà fine al dolore.
+____
 
 Quando fu mattino, il Beato si vestì, prese la ciotola e la veste
 superiore e si recò a Vesālī per la questua. Dopo aver fatto la questua
@@ -972,7 +1023,8 @@ state scoperte e penetrate, la brama per l’esistenza è eliminata, la
 brama che conduce all’esistenza è abolita e non c’è rinnovamento
 dell’esistenza».
 
-D. 16; cf. A. 4:1
+[.suttaref]
+_D. 16; cf. A. 4:1_
 
 E mentre il Beato stava soggiornando a Bhaṇḍagāma, egli spesso offrì
 questo discorso di Dhamma ai bhikkhu: «Questa è la virtù, questa è la
@@ -1027,7 +1079,8 @@ questa è la parola del Beato. Essa è stata giustamente imparata da quel
 bhikkhu o da quella comunità o da quegli anziani o da quell’anziano”.
 Dovete ricordare queste quattro principali autorità».
 
-D. 16; cf. A. 4:180
+[.suttaref]
+_D. 16; cf. A. 4:180_
 
 E mentre il Beato stava soggiornando nel Sacrario di Ānanda a
 Bhoganagara, egli spesso offrì questo discorso di Dhamma ai bhikkhu:
@@ -1040,7 +1093,8 @@ contaminazioni, dalla contaminazione del desiderio sensoriale, dalla
 contaminazione dell’esistenza, dalla contaminazione delle opinioni e
 dalla contaminazione dell’ignoranza».
 
-D. 16
+[.suttaref]
+_D. 16_
 
 Quando il Beato ebbe soggiornato a Bhoganagara per tutto il tempo che
 volle, disse al venerabile Ānanda: «Vieni, Ānanda, andiamo a Pāvā».
@@ -1063,7 +1117,37 @@ omaggio, andò via girandogli a destra.
 
 Quando la notte fu terminata egli, che aveva fatto preparare buon cibo
 di vario genere nella sua casa e carne macinata di
-maiale link:#nota7[^7^] in abbondanza, annunciò che era giunto il
+maialefootnote:[“Carne macinata di maiale” (_sūkara-maddava_): su tale
+espressione si discute da moltissimo tempo. Il Commentario a questo
+sutta dice: «Si tratta di carne già in vendita in un mercato (si veda
+Vin. Mv. 6:31), di un maiale _ekajeṭṭhaka_, non troppo giovane né troppo
+anziano. Sembra che si tratti di un piatto morbido e succulento;
+significa che era preparato e cotto con cura. (Alcuni dicono però che
+_sūkara-maddava_ indica la ricetta di riso bollito fino a divenire
+morbido con cinque ingredienti aggiunti, tutti di provenienza vaccina,
+come se il nome di questa bevanda fosse “bibita di mucca”. Altri ancora
+dicono che sia un tipo di elisir, che rientrava nella scienza degli
+elisir, e che Cunda lo preparò pensando “che il Beato non ottenga il
+Nibbāna finale”. Le divinità dei quattro continenti, però, con le loro
+duemila isole, infusero in esso un’essenza nutritiva)». Il passo tra
+parentesi tonde non si trova in tutte le edizioni. Oltre a questo, il
+Commentario all’_Udāna_ afferma: «_Sūkara-maddava_, secondo il Grande
+Commentario Cingalese (non più esistente), è carne di maiale tenera e
+succulenta in vendita al mercato. Alcuni dicono tuttavia che non si
+tratta di carne di maiale ma di germogli di bambù calpestati da maiali.
+Altri ritengono che sia un genere di funghi che crescono in luoghi
+calpestati da maiali. Inoltre, altri ancora affermano che sia un elisir,
+e che l’orafo, avendo sentito dire che quel giorno il Beato stava per
+ottenere il Nibbāna definitivo, pensò: “Forse dopo averlo consumato
+vivrà più a lungo” e lo offrì al Maestro con il desiderio di prolungare
+la sua vita» (Commentario a Ud. 8:5). Mangiare carne era consentito ai
+monaci dal Buddha a tre condizioni: che non si fosse visto, udito o
+sospettato che l’animale era stato ucciso per colui che lo avrebbe
+mangiato (M. 55, Vin. Mv. 6:31, cf. A. 4:44; anche Vin. Cv. 7:4 cit. nel
+cap. 13, p. 298). Probabilmente non riusciremo mai a sapere l’esatto
+significato. È stato scelto “carne macinata di maiale” perché elusivo e
+vicino all’espressione originale: _sūkara_ = maiale; _maddava_ = dolce.]
+in abbondanza, annunciò che era giunto il
 momento: «È ora, Signore, il pasto è pronto». Allora, essendo mattino,
 il Beato si vestì, prese la ciotola e la veste superiore e andò con il
 Saṅgha dei bhikkhu da Cunda, il figlio dell’orafo. Egli si mise a sedere
@@ -1118,7 +1202,8 @@ dell’acqua nella ciotola, tornò dal Beato e gli raccontò quello che era
 avvenuto, aggiungendo: «Signore, che il Beato beva l’acqua, che il Beato
 beva l’acqua». E il Beato bevve l’acqua.
 
-D. 16; Ud. 8:5
+[.suttaref]
+_D. 16; Ud. 8:5_
 
 In quel momento un Malla di nome Pukkusa, un discepolo di Āḷāra Kālāma
 passò per la strada che andava da Kusinārā a Pāva. Egli vide il Beato
@@ -1234,7 +1319,8 @@ del leone, con un piede sovrapposto all’altro, consapevole e pienamente
 presente, dopo aver deciso il momento in cui si sarebbe svegliato. E il
 venerabile Cundaka si mise seduto lì, di fronte al Beato».
 
-D. 16
+[.suttaref]
+_D. 16_
 
 Il Beato disse al venerabile Ānanda: «Ānanda, è possibile che qualcuno
 possa far provare rimorso a Cunda, figlio dell’orafo, in questo modo:
@@ -1258,12 +1344,16 @@ in questo modo».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
+[verse]
+____
 Quando un uomo dona, il suo merito crescerà, +
 nessuna ostilità può crescere in chi è contenuto. +
 Chi è abile evita il male, otterrà il Nibbāna +
 ponendo fine alla brama, all’odio e all’illusione.
+____
 
-D. 16; Ud. 8:5
+[.suttaref]
+_D. 16; Ud. 8:5_
 
 Allora il Beato disse al venerabile Ānanda: «Vieni, Ānanda, andiamo
 sull’altra sponda del fiume Hiraññavatī, nel boschetto di alberi _sāla_
@@ -1387,8 +1477,9 @@ resti del Perfetto». 
 «Signore, come si dovrebbero però trattare i resti del Perfetto?».
 
 «Trattate i resti del Perfetto nello stesso modo in cui sono trattati i
-resti di un Monarca Universale link:#nota8[^8^] che gira la Ruota della
-Giustizia».
+resti di un Monarca Universalefootnote:[Il mito indiano del Monarca Universale che gira la Ruota
+della Giustizia (in pāli: _cakkavattī_; sanscrito: _cakravartin_) è offerto
+in D. 26 e M. 129] che gira la Ruota della Giustizia».
 
 «Signore, come si dovrebbero però trattare i resti di un Monarca
 Universale che gira la Ruota della Giustizia?».
@@ -1464,7 +1555,8 @@ le seguaci laiche vengano e vedano il Beato. Questo è il momento che i
 re, i ministri dei re, i settari e i discepoli dei settari vengano e
 vedano il Beato».
 
-D. 16
+[.suttaref]
+_D. 16_
 
 «Quattro sono le cose meravigliose e magnifiche in un Monarca Universale
 che gira la Ruota della Giustizia. Quali quattro? Se un’assemblea di
@@ -1478,7 +1570,8 @@ vedere Ānanda, l’assemblea è contenta di vederlo. Se egli parla,
 l’assemblea è lieta di ascoltarlo. Quando egli però torna a stare in
 silenzio, l’assemblea non è ancora paga».
 
-D. 16; A. 4:129-30
+[.suttaref]
+_D. 16; A. 4:129-30_
 
 Dopo che egli ebbe parlato in questo modo, Ānanda disse: «Signore, che
 il Beato non ottenga il Nibbāna definitivo in questa piccola città con i
@@ -1487,7 +1580,8 @@ borgata. Ci sono altre grandi città come Campā, Rājagaha, Sāvatthi,
 Sāketa, Kosambī e Benares. Che il Beato ottenga il Nibbāna definitivo
 dove ci sono molti nobili guerrieri prominenti, brāhmaṇa e capifamiglia
 che credono nel Perfetto. Loro venereranno i resti del
-Perfetto» link:#nota9[^9^].
+Perfetto».footnote:[Secondo il Commentario, a questo punto fu pronunciato il
+_Mahā Sudassana Sutta_ (D. 17).]
 
 «Non dire così, Ānanda, non dire “una piccola città con i muri fatti di
 fango, una città isolata, una cittadina di borgata”. Qui una volta c’era
@@ -1504,7 +1598,8 @@ tipi di suoni, ossia, di elefanti, cavalli, carrozze, tamburi,
 tamburelli, liuti, canzoni, cembali, gong, e delle esclamazioni
 “Mangia!” “Bevi!” “Assaggia!”, quali dieci suoni».
 
-D. 16, 17
+[.suttaref]
+_D. 16, 17_
 
 «Ora, Ānanda, va a Kusinārā e annuncia ai Malla di Kusinārā: “Questa
 notte, Vāseṭṭha, nell’ultima veglia, avrà luogo l’ottenimento del
@@ -1593,7 +1688,9 @@ Subhadda. Ascolta e presta bene attenzione a quello che dirò».
 «Subhadda, in qualsiasi Dhamma e Disciplina sia assente il Nobile
 Ottuplice Sentiero, là è assente il (primo) monaco, è assente il secondo
 monaco, è assente il terzo monaco, è assente il quarto
-monaco link:#nota10[^10^]. In qualsiasi Dhamma e Disciplina sia presente
+monaco.footnote:[I quattro “monaci” sono coloro che hanno realizzato la
+condizione di Chi è Entrato nella Corrente, di Chi Torna una Sola Volta,
+di Chi è Senza Ritorno, di Arahant] In qualsiasi Dhamma e Disciplina sia presente
 il Nobile Ottuplice Sentiero, là è presente il (primo) monaco, è
 presente il secondo monaco, è presente il terzo monaco, è presente il
 quarto monaco. Il Nobile Ottuplice Sentiero è presente in questo Dhamma
@@ -1603,12 +1700,15 @@ quarto monaco. Le altre dottrine sono prive di monaci. E se questi
 bhikkhu vivono rettamente, il mondo non sarà privo di Arahant, di esseri
 realizzati».
 
+[verse]
+____
 All’età di ventinove anni, Subhadda, me ne andai +
 alla ricerca di quel che è salutare. +
 E ora son passati più di cinquant’anni +
 da quando me ne andai, Subhadda. +
 Al di fuori di questa Dispensazione non c’è monaco +
 che percorra, seppur in parte, la via del Dhamma.
+____
 
 «Non c’è il secondo monaco, né il terzo monaco, né il quarto monaco. Le
 altre dottrine sono prive di monaci. Se questi bhikkhu, però, vivono
@@ -1640,7 +1740,12 @@ Subhadda l’ammissione alla vita religiosa».
 «E sia, Signore», rispose il venerabile Ānanda.
 
 Allora l’asceta itinerante Subhadda disse al venerabile
-Ānanda link:#nota11[^11^]: «È un guadagno per te, amico Ānanda, è un
+Ānanda:footnote:[Il Commentario afferma che Subhadda fece questa
+osservazione in ragione dell’errata impressione che il Buddha, come
+alcuni maestri di altre sette, in questi ultimi suoi momenti stesse
+conferendo al suo discepolo il diritto di succedergli alla guida del
+Saṅgha. Egli non è la stessa persona del Subhadda menzionato poche
+pagine dopo.] «È un guadagno per te, amico Ānanda, è un
 gran guadagno che tu sia stato consacrato qui, alla presenza del
 Maestro, con la consacrazione del discepolo».
 
@@ -1668,14 +1773,25 @@ bhikkhu da meno tempo deve rivolgersi a un bhikkhu più anziano con
 “signore” o con “venerabile”. Quando me ne sarò andato, il Saṅgha potrà,
 se lo desidera, abolire le regole più minute e minori. Quando me ne sarò
 andato, la sanzione maggiore deve essere imposta al bhikkhu
-Channa» link:#nota12[^12^].
+Channa».footnote:[La storia di come il principe Siddhattha Gotama, il
+Bodhisatta, lasciò la sua casa durante la notte con il suo stalliere,
+Channa, e il suo cavallo, Kanthaka, non si trova nel Canone; vi è però
+un accenno a Kanthaka nel canonico _Vimānavatthu_ (vv. 7:7). Quel
+racconto è offerto nella sua completezza nell’Introduzione di Ācariya
+Buddhaghosa al Commentario ai _Jataka_. Questo bhikkhu Channa
+(identificato con lo stalliere) appare nel Vinaya (Pār. 4; Sangh. 12,
+ecc.) come orgoglioso, ostinato e intollerante alle correzioni. Nei
+sutta si racconta come egli si pentì dopo il _Parinibbāna_ e chiese
+aiuto all’Anziano Ānanda. Il risultato del discorso di quell’Anziano, fu
+che egli divenne un Arahant (S. 22:90).]
 
 «Signore, qual è, però, la sanzione maggiore?».
 
 «Qualsiasi cosa il bhikkhu Channa voglia, qualasiasi cosa egli dica, non
 gli si deve parlare, né deve essere consigliato o istruito dai bhikkhu».
 
-D. 16
+[.suttaref]
+_D. 16_
 
 Allora il Beato si rivolse ai bhikkhu con queste parole: «Bhikkhu, è
 possibile che alcuni bhikkhu abbiano un dubbio o un problema riguardo al
@@ -1706,9 +1822,15 @@ alla perdizione, certo nella rettitudine e destinato all’Illuminazione».
 Allora il Beato si rivolse ai bhikkhu con queste parole: «In verità,
 bhikkhu, questo vi dichiaro: è nella natura di tutte le formazioni di
 dissolversi. Raggiungete la perfezione mediante la
-diligenza» link:#nota13[^13^].
+diligenza».footnote:[Forse la traduzione del prof. T.W. Rhys David
+«addestratevi per la vostra salvezza con diligenza», che T.S. Eliot ha
+fatto entrare nei classici della letteratura citandola nella sua _Waste
+Land_ meriterebbe di essere conservata; sembra però un po’ troppo
+libera. Le ultime parole in lingua pāḷi sono: «Handa ‘dāni bhikkhave
+āmantayāmi vo: Vaya-dhammā sankhārā; appamādena sampādetha».]
 
-D. 16; A. 4:76
+[.suttaref]
+_D. 16; A. 4:76_
 
 Queste furono le ultime parole del Beato.
 
@@ -1746,42 +1868,57 @@ terremoto, pauroso e orripilante, e i tamburi del cielo risuonarono.
 All’ottenimento del Nibbāna definitivo del Beato, Brahmā Sahampati
 esclamò questa strofa:
 
+[verse]
+____
 Non c’è essere al mondo che non debba deporre +
 il proprio aggregato temporaneo, +
 e perfino un tal Maestro senza pari +
 in tutto il mondo, perfetto, con i poteri, +
 illuminato, ha ottenuto la completa estinzione.
+____
 
-D. 16: S. 6:15
+[.suttaref]
+_D. 16: S. 6:15_
 
 All’ottenimento del Nibbāna definitivo del Beato, Sakka, Sovrano degli
 Déi, esclamò questa strofa:
 
+[verse]
+____
 Le formazioni sono impermanenti, +
 la loro natura è di sorgere e scomparire, +
 e qualsiasi cosa sorga deve cessare: +
 la vera beatitudine è nel loro acquietarsi.
+____
 
-D. 16; S. 6:15
+[.suttaref]
+_D. 16; S. 6:15_
 
 All’ottenimento del Nibbāna definitivo del Beato, il venerabile
 Anuruddha esclamò questa strofa:
 
+[verse]
+____
 Perfino uno come lui, con la sua mente in pace, +
 rimase privo del respiro. Senza desideri, +
 il Veggente completò il suo tempo, intento nella pace. +
 Sopportò le sue sensazioni con cuore svincolato: +
 la liberazione del suo cuore fu come l’estinzione di una fiamma.
+____
 
 All’ottenimento del Nibbāna definitivo del Beato, il venerabile Ānanda
 esclamò questa strofa:
 
+[verse]
+____
 Oh, allora, paralizzante terrore, +
 oh, allora, capelli ritti per l’orrore – +
 l’’Illuminato e supremamente onorato +
 ha ottenuto l’estinzione suprema.
+____
 
-D. 16; S. 6:15
+[.suttaref]
+_D. 16; S. 6:15_
 
 E all’ottenimento del Nibbāna definitivo del Beato, alcuni bhikkhu che
 non erano liberi dalla brama alzarono le braccia e piansero, altri
@@ -1922,7 +2059,8 @@ in un recipiente di olio, fatto di ferro, che chiusero in un altro
 recipiente di ferro. Poi eressero una pira, aggiungendo tutti i tipi di
 profumi, e portarono i resti del Beato sulla pira.
 
-D. 16
+[.suttaref]
+_D. 16_
 
 In quel momento il venerabile Mahā-Kassapa stava viaggiando sulla strada
 principale che da Pāvā porta a Kusinārā con un largo seguito di bhikkhu,
@@ -1960,7 +2098,8 @@ tutto quello che ci è caro e che amiamo? Come potrebbe avvenire che quel
 che è nato, giunto all’esistenza, formato e soggetto alla decadenza non
 decada? Questo non è possibile».
 
-D. 16; Vin. Cv. 11:1
+[.suttaref]
+_D. 16; Vin. Cv. 11:1_
 
 Quattro Malla eminenti che si erano lavati il capo e avevano indossato
 indumenti nuovi pensarono: «Accendiamo la pira del Beato». Non
@@ -2050,6 +2189,8 @@ della nostra città. Non rinunceremo alle ossa del Beato».
 Allora il brāhmaṇa Doṇa si rivolse al gruppo riunitosi con queste
 strofe:
 
+[verse]
+____
 Signori, ascoltate da me una parola: +
 il nostro Risvegliato predicò la pazienza. +
 Così male ce ne verrà +
@@ -2059,6 +2200,7 @@ Signori, che noi tutti insieme in armonia +
 si concordi una divisione in otto parti. +
 Che monumenti siano eretti ampi e lontani, +
 così che in molti possano ottenere fiducia nel Veggente.
+____
 
 «Allora, brāhmaṇa, dividi tu stesso e distribuisci equamente in otto
 parti le ossa del Beato».
@@ -2085,129 +2227,6 @@ altri fecero nello stesso modo. Ci furono così otto monumenti per le
 ossa del Beato, uno per il contenitore e uno per le ceneri. Questo è
 quel che avvenne.
 
-D. 16
+[.suttaref]
+_D. 16_
 
-[[nota1]]1. Il villaggio di Pāṭaligāma cambia qui il suo nome in
-Pāṭaliputta per l’edificazione della nuova città (oggi chiamata Patna).
-In seguito diventerà famosa in quanto capitale dell’impero di Asoka, che
-si sviluppò dal regno di Magadha.
-
-// link:#OrigineNota1[image:../Images/BackArrow.jpg[<--]]
-
-[[nota2]]2. Il Commentario afferma che il _Janavasabha Sutta_ (D. 18) fu
-pronunciato a questo punto.
-
-// link:#OrigineNota2[image:../Images/BackArrow.jpg[<--]]
-
-[[nota3]]3. Le “quattro paia di uomini, gli otto tipi di persone” sono
-spiegate come chi raggiunge il Sentiero e ne ottiene le fruizioni nel
-caso di ognuno dei quattro stadi (sentieri) della realizzazione. Si
-afferma che la “fruizione” segue immediatamente il raggiungimento di
-ognuno di tali stadi (si veda Sn. 2:1, vv. 5 e 6). Questo è uno dei
-significati dell’espressione “senza tempo (non differito)” usata per il
-Dhamma poco sopra, nel senso che il fruttuoso conseguimento del Sentiero
-non richiede attese, ad esempio fin dopo la morte, per la fruizione di
-esso.
-
-// link:#OrigineNota3[image:../Images/BackArrow.jpg[<--]]
-
-[[nota4]]4. La parola _dīpa_ può significare sia “isola” sia “lampada”.
-Il Commentario la spiega con “isola”.
-
-// link:#OrigineNota4[image:../Images/BackArrow.jpg[<--]]
-
-[[nota5]]5. È opportuno notare che il Buddha decise di insegnare la sua
-dottrina dietro invito di una Divinità (cap. 3, p. 45), e che egli
-abbandonò la sua determinazione di vivere in assenza di un invito a
-prolungarla a causa dell’intervento di Māra (la
-“Morte”).
-
-// link:#OrigineNota5[image:../Images/BackArrow.jpg[<--]]
-
-[[nota6]]6. Nel testo ora segue un resoconto degli otto generi di
-assemblee, delle otto basi della trascendenza e delle otto liberazioni,
-qui omesse per ragioni di spazio.
-
-// link:#OrigineNota6[image:../Images/BackArrow.jpg[<--]]
-
-[[nota7]]7. “Carne macinata di maiale” (_sūkara-maddava_): su tale
-espressione si discute da moltissimo tempo. Il Commentario a questo
-sutta dice: «Si tratta di carne già in vendita in un mercato (si veda
-Vin. Mv. 6:31), di un maiale _ekajeṭṭhaka_, non troppo giovane né troppo
-anziano. Sembra che si tratti di un piatto morbido e succulento;
-significa che era preparato e cotto con cura. (Alcuni dicono però che
-_sūkara-maddava_ indica la ricetta di riso bollito fino a divenire
-morbido con cinque ingredienti aggiunti, tutti di provenienza vaccina,
-come se il nome di questa bevanda fosse “bibita di mucca”. Altri ancora
-dicono che sia un tipo di elisir, che rientrava nella scienza degli
-elisir, e che Cunda lo preparò pensando “che il Beato non ottenga il
-Nibbāna finale”. Le divinità dei quattro continenti, però, con le loro
-duemila isole, infusero in esso un’essenza nutritiva)». Il passo tra
-parentesi tonde non si trova in tutte le edizioni. Oltre a questo, il
-Commentario all’_Udāna_ afferma: «_Sūkara-maddava_, secondo il Grande
-Commentario Cingalese (non più esistente), è carne di maiale tenera e
-succulenta in vendita al mercato. Alcuni dicono tuttavia che non si
-tratta di carne di maiale ma di germogli di bambù calpestati da maiali.
-Altri ritengono che sia un genere di funghi che crescono in luoghi
-calpestati da maiali. Inoltre, altri ancora affermano che sia un elisir,
-e che l’orafo, avendo sentito dire che quel giorno il Beato stava per
-ottenere il Nibbāna definitivo, pensò: “Forse dopo averlo consumato
-vivrà più a lungo” e lo offrì al Maestro con il desiderio di prolungare
-la sua vita» (Commentario a Ud. 8:5). Mangiare carne era consentito ai
-monaci dal Buddha a tre condizioni: che non si fosse visto, udito o
-sospettato che l’animale era stato ucciso per colui che lo avrebbe
-mangiato (M. 55, Vin. Mv. 6:31, cf. A. 4:44; anche Vin. Cv. 7:4 cit. nel
-cap. 13, p. 298). Probabilmente non riusciremo mai a sapere l’esatto
-significato. È stato scelto “carne macinata di maiale” perché elusivo e
-vicino all’espressione originale: _sūkara_ = maiale; _maddava_ = dolce.
-
-// link:#OrigineNota7[image:../Images/BackArrow.jpg[<--]]
-
-[[nota8]]8. Il mito indiano del Monarca Universale che gira la Ruota
-della Giustizia (in pāli: _cakkavattī_; sanscrito: _cakravartin_) è
-offerto in D. 26 e M. 129
-
-// link:#OrigineNota8[image:../Images/BackArrow.jpg[<--]]
-
-[[nota9]]9. Secondo il Commentario, a questo punto fu pronunciato il
-_Mahā Sudassana Sutta_ (D. 17).
-
-// link:#OrigineNota9[image:../Images/BackArrow.jpg[<--]]
-
-[[nota10]]10. I quattro “monaci” sono coloro che hanno realizzato la
-condizione di Chi è Entrato nella Corrente, di Chi Torna una Sola Volta,
-di Chi è Senza Ritorno, di Arahant
-
-// link:#OrigineNota10[image:../Images/BackArrow.jpg[<--]]
-
-[[nota11]]11. Il Commentario afferma che Subhadda fece questa
-osservazione in ragione dell’errata impressione che il Buddha, come
-alcuni maestri di altre sette, in questi ultimi suoi momenti stesse
-conferendo al suo discepolo il diritto di succedergli alla guida del
-Saṅgha. Egli non è la stessa persona del Subhadda menzionato poche
-pagine dopo.
-
-// link:#OrigineNota11[image:../Images/BackArrow.jpg[<--]]
-
-[[nota12]]12. La storia di come il principe Siddhattha Gotama, il
-Bodhisatta, lasciò la sua casa durante la notte con il suo stalliere,
-Channa, e il suo cavallo, Kanthaka, non si trova nel Canone; vi è però
-un accenno a Kanthaka nel canonico _Vimānavatthu_ (vv. 7:7). Quel
-racconto è offerto nella sua completezza nell’Introduzione di Ācariya
-Buddhaghosa al Commentario ai _Jataka_. Questo bhikkhu Channa
-(identificato con lo stalliere) appare nel Vinaya (Pār. 4; Sangh. 12,
-ecc.) come orgoglioso, ostinato e intollerante alle correzioni. Nei
-sutta si racconta come egli si pentì dopo il _Parinibbāna_ e chiese
-aiuto all’Anziano Ānanda. Il risultato del discorso di quell’Anziano, fu
-che egli divenne un Arahant (S. 22:90).
-
-// link:#OrigineNota12[image:../Images/BackArrow.jpg[<--]]
-
-[[nota13]]13. Forse la traduzione del prof. T.W. Rhys David
-«addestratevi per la vostra salvezza con diligenza», che T.S. Eliot ha
-fatto entrare nei classici della letteratura citandola nella sua _Waste
-Land_ meriterebbe di essere conservata; sembra però un po’ troppo
-libera. Le ultime parole in lingua pāḷi sono: «Handa ‘dāni bhikkhave
-āmantayāmi vo: Vaya-dhammā sankhārā; appamādena sampādetha».
-
-// link:#OrigineNota13[image:../Images/BackArrow.jpg[<--]]

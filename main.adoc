@@ -23,6 +23,8 @@
 :toc-title: Indice
 :toclevels: 0
 
+// FIXME add back the NDT (Nota de Tradutor)
+
 // TODO IV-di-copertina.adoc
 // TODO Mappa-dell-India-centro-orientale.adoc
 
@@ -50,60 +52,42 @@ include::{includes}/titlepage.adoc[]
 //
 //include::{includes}/Abbreviazioni.adoc[]
 
-// DONE
 include::{includes}/Prefazione-dell-editore.adoc[]
 
-// DONE
 include::{includes}/Nota-alla-terza-edizione.adoc[]
 
-// DONE
 include::{includes}/Nota-alla-traduzione-italiana.adoc[]
 
-// DONE
 include::{includes}/La-pronuncia-nella-lingua-pali.adoc[]
 
-// DONE
 include::{includes}/Introduzione.adoc[]
 
 // TODO: add map here
 
-// DONE
 include::{includes}/Voci.adoc[]
 
-// DONE
 include::{includes}/01-La-nascita-e-i-primi-anni.adoc[]
 
-// DONE
 include::{includes}/02-Lo-sforzo-per-l-illuminazione.adoc[]
 
-// DONE
 include::{includes}/03-Dopo-l-Illuminazione.adoc[]
 
-// DONE
 include::{includes}/04-La-diffusione-del-Dhamma.adoc[]
 
-// DONE
 include::{includes}/05-I-due-discepoli-eminenti.adoc[]
 
-// DONE
 include::{includes}/06-Anathapindika.adoc[]
 
-// DONE
 include::{includes}/07-L-ordine-delle-monache.adoc[]
 
-// DONE
 include::{includes}/08-La-disputa-di-Kosambi.adoc[]
 
-// DONE
 include::{includes}/09-La-fine-dei-primi-vent-anni.adoc[]
 
-// DONE
 include::{includes}/10-Il-periodo-di-mezzo.adoc[]
 
-// DONE
 include::{includes}/11-La-persona.adoc[]
 
-// TODO
 include::{includes}/12-La-Dottrina.adoc[]
 
 include::{includes}/13-Devadatta.adoc[]
@@ -116,4 +100,5 @@ include::{includes}/16-Il-primo-concilio.adoc[]
 
 include::{includes}/L-autore.adoc[]
 
+// TODO
 include::{includes}/Bibliografia-di-bhikkhu-Nanamoli.adoc[]
