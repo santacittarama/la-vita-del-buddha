@@ -1,4 +1,5 @@
 = Il Primo Concilio
+:chapter-number: 16
 
 [.narrator]
 `Primo Narratore.` Dopo l’ottenimento del Nibbāna definitivo da parte del

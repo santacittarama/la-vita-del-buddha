@@ -1,4 +1,5 @@
 = La Disputa di Kosambī
+:chapter-number: 8
 
 [.narrator]
 `Secondo Narratore.`  La tradizione afferma che la sesta stagione delle

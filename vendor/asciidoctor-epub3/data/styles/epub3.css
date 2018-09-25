@@ -1383,17 +1383,13 @@ figure.image.quotebreak img {
 .blockquote.sidebar-quote > blockquote:first-child p {
   margin-top: 0pt;
 }
-p.narrator {
+.narrator {
   text-indent: -2em;
   padding-left: 2em;
 }
-p.narrator> code.literal {
-  font-family: "Fontin Sans SC";
-  font-size: 21px;
-  letter-spacing: 0.5px;
-  color: #6b6b6b;
-}
-p.voice > code.literal {
+.narrator code.literal,
+.voice code.literal,
+.cantor code.literal {
   font-family: "Fontin Sans SC";
   font-size: 21px;
   letter-spacing: 0.5px;
@@ -1423,5 +1419,13 @@ h1.chapter-title {
   font-size: 1.9rem;
   margin-top: 2rem;
   margin-bottom: 3rem;
+  text-align: center;
+}
+.center,
+.center p {
+  text-align: center;
+}
+.namo-tassa {
+  margin-top: 5rem;
   text-align: center;
 }

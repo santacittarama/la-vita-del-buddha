@@ -15,3 +15,23 @@ image::{pubs-logo}[role=titlepage-pubs-logo]
 [role=titlepage-publisher-website]
 link:{publisher-link-url}[{publisher-link-name}]
 
+<<<<
+
+{empty}
+
+[role=namo-tassa]
+_Namo tassa bhagavato arahato sammā sambuddhassa_
+
+image::sectionbreak.png[]
+
+[role=center]
+_Sabba-pāpassa akaraṇaṃ, kusalassa upasampadā, +
+sacitta-pariyodāpanaṃ; etaṃ buddhāna sāsanaṃ._
+
+[role=center]
+_Non compiere cattive azioni, fare il bene, +
+purificare il cuore; questo è l’insegnamento dei Buddha._
+
+[role=center]
+_{empty}D. 14_
+

@@ -249,9 +249,9 @@ _M. 123; cf. D. 14_
 della casta dei sacerdoti – predisse la futura Illuminazione è
 raccontato in un canto.
 
-[verse, Sn. 3:11, role=cantor]
+[quote, Sn. 3:11, role=cantor]
 ____
-CANTORE
+`Cantore`
 
 Il Saggio Asita, nella sua meditazione diurna, +
 vide che gli déi, quelli della Compagnia dei Trenta, +

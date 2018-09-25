@@ -1,4 +1,5 @@
 = Anāthapiṇḍika
+:chapter-number: 6
 
 [.narrator]
 `Secondo Narratore.` Il Buddha trascorse la prima stagione delle piogge

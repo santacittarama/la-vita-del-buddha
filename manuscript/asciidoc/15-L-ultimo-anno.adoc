@@ -1,4 +1,5 @@
 = L'ultimo Anno
+:chapter-number: 15
 
 [.narrator]
 `Primo Narratore.` Gli eventi che seguono avvennero in un solo anno, alla

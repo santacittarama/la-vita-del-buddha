@@ -1,4 +1,5 @@
 = I Due Discepoli Eminenti
+:chapter-number: 5
 
 [.voice]
 `Seconda Voce.` Avvenne questo. L’asceta itinerante Sañjaya si trovava a
@@ -315,9 +316,9 @@ era la prima dopo l’Illuminazione – egli comunicò tuttavia la sua
 missione con questi versi, miranti a persuadere il Buddha a mettersi in
 viaggio.
 
-[verse, Thag. 527-33, role=cantor]
+[quote, Thag. 527-33, role=cantor]
 ____
-CANTORE
+`Cantore`
 
 Signore, ci sono alberi che ora ardono come brace, +
 sperando nei frutti, hanno lasciato cadere i loro verdi veli +

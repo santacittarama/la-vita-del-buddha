@@ -1,4 +1,5 @@
 = Devadatta
+:chapter-number: 13
 
 [.narrator]
 `Secondo Narratore.` Devadatta era il primo cugino del Buddha. Il suo
@@ -260,7 +261,7 @@ sovrapposto all’altro, consapevole e pienamente presente.
 
 Allora Māra il Malvagio andò da lui e gli si rivolse in strofe:
 
-[verse, S. 4:13]
+[quote, S. 4:13]
 ____
 Com’è che giaci, sei inebetito? +
 Oppure sei estasiato da qualche divagazione? +
@@ -522,7 +523,7 @@ illuminava tutto il Picco dell’Avvoltoio, andò dal Beato e, dopo avergli
 prestato omaggio, si mise in piedi da un lato. Poi, si rivolse al Beato
 con queste strofe:
 
-[verse, S. 6:12; cf. A. 4:68]
+[quote, S. 6:12; cf. A. 4:68]
 ____
 L’atto di fruttificare distrugge +
 l’aloe, il banano e il bambù. +

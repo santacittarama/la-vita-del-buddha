@@ -1,4 +1,5 @@
 = La Persona
+:chapter-number: 11
 
 [.narrator]
 `Primo Narratore.` Per un periodo non è più possibile tracciare il corso

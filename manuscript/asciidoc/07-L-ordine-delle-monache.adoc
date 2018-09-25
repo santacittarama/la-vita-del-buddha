@@ -1,4 +1,5 @@
 = L'ordine Delle Monache
+:chapter-number: 7
 
 [.narrator]
 `Primo Narratore.` Il racconto appena offerto ha mostrato come il Buddha

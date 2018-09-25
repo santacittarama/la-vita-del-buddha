@@ -1,6 +1,6 @@
 = La Vita del Buddha
 :booktitle: {doctitle}
-:description: Book Subtitle
+:description: Secondo il Canone in Pali
 :author: Bhikkhu Ñāṇamoli
 :creator: {author}
 :version: v1.0
@@ -29,12 +29,6 @@
 
 // TODO IV-di-copertina.adoc
 // TODO Mappa-dell-India-centro-orientale.adoc
-
-include::{includes}/dedication.adoc[]
-
-include::{includes}/foreword.adoc[]
-
-include::{includes}/preface.adoc[]
 
 include::{includes}/titlepage.adoc[]
 

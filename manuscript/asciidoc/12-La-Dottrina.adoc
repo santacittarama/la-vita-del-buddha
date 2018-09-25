@@ -1,4 +1,5 @@
 = La Dottrina
+:chapter-number: 12
 
 // TODO add TOC?
 
@@ -971,7 +972,7 @@ chiamato Nibbāna».
 [.suttaref]
 _S. 38:1_
 
-[verse, Sn. 5:7]
+[quote, Sn. 5:7]
 ____
 «Proprio come una fiamma soffiata via dalla forza del vento, +
 Upasīva», disse il Beato, +
@@ -2349,7 +2350,7 @@ che è andato al di là di ogni attaccamento per il mondo».
 [.suttaref]
 _M. 25_
 
-[verse, S. 1:23]
+[quote, S. 1:23]
 ____
 Quando un saggio, ben fondato nella virtù, +
 sviluppa consapevolezza e comprensione, +

@@ -1,4 +1,5 @@
 = Lo Sforzo Per L'illuminazione
+:chapter-number: 2
 
 [.narrator]
 `Primo Narratore.` Il racconto della Rinuncia offerto nei Piṭaka è, nella
@@ -42,9 +43,9 @@ famiglia per una senza dimora».
 [.suttaref]
 _M. 26, 36, 85, 100_
 
-[verse, Sn. 3:1, role=cantor]
+[quote, Sn. 3:1, role=cantor]
 ____
-CANTORE
+`Cantore`
 
 Ora racconterò la rinuncia alla vita in famiglia, +
 come egli, il possente Veggente, lasciò la sua casa, +
@@ -421,9 +422,9 @@ si era deteriorato fino a questo punto a causa dello scarsissimo cibo».
 [.suttaref]
 _M. 36, 85, 100_
 
-[verse, Sn. 3:2, role=cantor]
+[quote, Sn. 3:2, role=cantor]
 ____
-CANTORE
+`Cantore`
 
 Quando mi sforzavo per vincere me stesso, +
 accanto al vasto Nerañjarā, +
@@ -910,9 +911,9 @@ _M. 26_
 tradizione afferma che le prime parole pronunciate dal Buddha – non più
 Bodhisatta – furono queste.
 
-[verse, Dh. 153-54, role=cantor]
+[quote, Dh. 153-54, role=cantor]
 ____
-CANTORE
+`Cantore`
 
 Cercando il costruttore della casa, ma senza trovarlo, +
 in tondo ho viaggiato per innumerevoli vite.

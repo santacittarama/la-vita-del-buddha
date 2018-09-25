@@ -28,9 +28,9 @@ Primo Concilio recitò la Disciplina (o Vinaya).
 dopo il _Parinibbāna_ del Buddha, che nel XVI capitolo narra gli eventi
 verificatisi prima e dopo il Primo Concilio.
 
-[verse, role=cantor]
+[quote, role=cantor]
 ____
-CANTORE
+`Cantore`
 
 Questa voce recita alcuni versi +
 in forma di brevi poemi o inni +

@@ -1,4 +1,5 @@
 = La Diffusione del Dhamma
+:chapter-number: 4
 
 [.voice]
 `Seconda Voce.` Avvenne questo. C’era un uomo di nobile stirpe, chiamato
@@ -623,7 +624,7 @@ beato:
 [.suttaref]
 _S. 4:24_
 
-[verse, Sn. 3:2]
+[quote, Sn. 3:2]
 ____
 Passo passo per sette anni +
 seguii il Beato. +
