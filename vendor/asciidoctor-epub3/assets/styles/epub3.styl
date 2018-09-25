@@ -279,11 +279,24 @@ h6
   -webkit-column-break-after: avoid
   page-break-after: avoid
 
-h1, h2, h3, h4
+h1
+  font-family: $chapter-font !important
+  font-weight: normal
+  font-style: normal
+  text-transform: none
+
+h2
+  font-family: $chapter-font !important
+  font-weight: 600
+  font-style: normal
+  text-transform: uppercase
+
+h3, h4
   font-family: $section-font !important
   font-weight: normal
   font-style: normal
   text-transform: uppercase
+
 
 h5, h6
   font-family: $header-font !important
@@ -1216,4 +1229,5 @@ nav#toc ol
     font-family: monospace
 
 @require "includes/custom"
+@require "includes/la-vita-del-buddha"
 

@@ -1,7 +1,7 @@
 = L'ordine Delle Monache
 
 [.narrator]
-`PRIMO NARRATORE.` Il racconto appena offerto ha mostrato come il Buddha
+`Primo Narratore.` Il racconto appena offerto ha mostrato come il Buddha
 acconsentì a trascorrere la stagione delle piogge a
 Sāvatthī.footnote:[Il _Mālālankāravatthu_ dice che questa stagione delle piogge
 fu trascorsa a Rājagaha, nel Boschetto di Bambù, ma ciò è errato.] Perciò,
@@ -11,7 +11,7 @@ stagione delle piogge fu trascorsa nel Boschetto di Jeta. Questo è un
 episodio che potrebbe appartenere a quel periodo.
 
 [.voice]
-`PRIMA VOCE.` Così ho udito. Una volta, quando il Beato soggiornava a
+`Prima Voce.` Così ho udito. Una volta, quando il Beato soggiornava a
 Sāvatthī, nel Boschetto di Jeta, nel Parco di Anāthapiṇḍika, il
 venerabile Nanda, il figlio della zia materna del Beato, disse a un
 certo numero di bhikkhu: «Amici, sto conducendo la santa vita
@@ -121,17 +121,17 @@ ____
 _Ud. 3:2_
 
 [.narrator]
-`PRIMO NARRATORE.` La successiva stagione delle piogge, la quinta, fu
+`Primo Narratore.` La successiva stagione delle piogge, la quinta, fu
 trascorsa a Vesālī, la capitale del Videha, un territorio collocato a
 sud-est di Kosala e sulla riva occidentale del Gange. Era una
 confederazione retta da un’oligarchia, non da una monarchia.
 
 [.narrator]
-`SECONDO NARRATORE.` Nei mesi che seguirono, il re Suddhodana cadde malato
+`Secondo Narratore.` Nei mesi che seguirono, il re Suddhodana cadde malato
 e morì come Arahant. Il Buddha visitò nuovamente la sua città natale.
 
 [.voice]
-`SECONDA VOCE.` Avvenne questo. Il Buddha, il Beato, stava vivendo tra i
+`Seconda Voce.` Avvenne questo. Il Buddha, il Beato, stava vivendo tra i
 Sakya nel Parco di Nigrodha a Kapilavatthu. Mahāpajāpatī Gotamī si recò
 da lui. Gli prestò omaggio e si mise in piedi da un lato. Allora lei
 disse: «Signore, sarebbe cosa buona se le donne potessero ottenere di
@@ -262,7 +262,7 @@ devono trasgredire finché dura la loro vita».
 _Vin. Cv. 10:1; A. 8:51_
 
 [.narrator]
-`SECONDO NARRATORE.` Quando lei in seguito chiese istruzioni per le donne
+`Secondo Narratore.` Quando lei in seguito chiese istruzioni per le donne
 Sakya che l’avevano accompagnata, il Buddha ordinò che i bhikkhu
 avrebbero dovuto dare loro la piena ammissione come bhikkhuṇī. Le
 bhikkhuṇī, ottenuta la piena ammissione, reclamarono allora che, a
@@ -276,7 +276,7 @@ comunità appartenessero. Il Buddha rispose che nessun bhikkhu doveva
 prestare omaggio a una bhikkhuṇī.
 
 [.voice]
-`SECONDA VOCE.` Un’altra volta Mahāpajāpatī Gotamī andò dal Beato. Dopo
+`Seconda Voce.` Un’altra volta Mahāpajāpatī Gotamī andò dal Beato. Dopo
 avergli prestato omaggio si mise in piedi da un lato e disse: «Signore,
 sarebbe bene che il Beato m’istruisse brevemente, in modo che dopo aver
 ascoltato il Dhamma dal Beato, io possa dimorare sola, ritirata,

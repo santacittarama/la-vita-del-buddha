@@ -11,6 +11,12 @@
   src: url("../fonts/FontinSansX-Regular.ttf");
 }
 @font-face {
+  font-family: "Fontin Sans SC";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/FontinSans-SmallCaps.ttf");
+}
+@font-face {
   font-family: "Sarabun";
   font-style: italic;
   font-weight: normal;
@@ -51,4 +57,52 @@
   font-style: normal;
   font-weight: normal;
   src: url("../fonts/assorted-icons.ttf");
+}
+@font-face {
+  font-family: "Spectral";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Spectral-Regular.ttf");
+}
+@font-face {
+  font-family: "Spectral";
+  font-style: italic;
+  font-weight: normal;
+  src: url("../fonts/Spectral-Italic.ttf");
+}
+@font-face {
+  font-family: "Spectral";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../fonts/Spectral-Bold.ttf");
+}
+@font-face {
+  font-family: "Spectral";
+  font-style: italic;
+  font-weight: bold;
+  src: url("../fonts/Spectral-BoldItalic.ttf");
+}
+@font-face {
+  font-family: "Spectral";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/Spectral-SemiBold.ttf");
+}
+@font-face {
+  font-family: "Spectral";
+  font-style: italic;
+  font-weight: 600;
+  src: url("../fonts/Spectral-SemiBoldItalic.ttf");
+}
+@font-face {
+  font-family: "Spectral SC";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/SpectralSC-Regular.ttf");
+}
+@font-face {
+  font-family: "Spectral SC";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/SpectralSC-SemiBold.ttf");
 }

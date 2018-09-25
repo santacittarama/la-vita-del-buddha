@@ -310,7 +310,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Fontin Sans", sans-serif;
+  font-family: "Spectral", serif;
   font-weight: 400;
 /* NOTE Kindle doesn't allow the line-height to be less than the font size (refer to heading font sizes) */
   line-height: 1.4;
@@ -326,8 +326,18 @@ h6 {
   -webkit-column-break-after: avoid;
   page-break-after: avoid;
 }
-h1,
-h2,
+h1 {
+  font-family: "Spectral SC", serif !important;
+  font-weight: normal;
+  font-style: normal;
+  text-transform: none;
+}
+h2 {
+  font-family: "Spectral SC", serif !important;
+  font-weight: 600;
+  font-style: normal;
+  text-transform: uppercase;
+}
 h3,
 h4 {
   font-family: "Fontin Sans", sans-serif !important;
@@ -337,7 +347,7 @@ h4 {
 }
 h5,
 h6 {
-  font-family: "Fontin Sans", sans-serif !important;
+  font-family: "Spectral", serif !important;
 }
 /* Aldiko requires a higher precedence rule to set margin and text-indent, hence the body prefix */
 /* We'll just use the stronger rule for all paragraph-related stuff to be sure */
@@ -655,7 +665,7 @@ h5 code {
   margin-bottom: 0.5em;
 }
 h1.chapter-title {
-  font-family: "Source Sans Pro", sans-serif !important;
+  font-family: "Spectral SC", serif !important;
   font-style: italic;
   font-weight: normal;
   font-size: 2.5em;
@@ -1372,4 +1382,46 @@ figure.image.quotebreak img {
 }
 .blockquote.sidebar-quote > blockquote:first-child p {
   margin-top: 0pt;
+}
+p.narrator {
+  text-indent: -2em;
+  padding-left: 2em;
+}
+p.narrator> code.literal {
+  font-family: "Fontin Sans SC";
+  font-size: 21px;
+  letter-spacing: 0.5px;
+  color: #6b6b6b;
+}
+p.voice > code.literal {
+  font-family: "Fontin Sans SC";
+  font-size: 21px;
+  letter-spacing: 0.5px;
+  color: #6b6b6b;
+}
+section > h2 {
+  font-family: "Fontin Sans", sans-serif !important;
+  font-weight: 600;
+  font-style: normal;
+  text-transform: uppercase;
+  word-spacing: 3px;
+  margin-top: 2em;
+}
+.chapter-number {
+  font-family: "Spectral SC", serif !important;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.9rem;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+h1.chapter-title {
+  font-family: "Spectral SC", serif !important;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.9rem;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  text-align: center;
 }

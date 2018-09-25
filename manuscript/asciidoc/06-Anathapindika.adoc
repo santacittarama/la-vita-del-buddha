@@ -1,14 +1,14 @@
 = Anāthapiṇḍika
 
 [.narrator]
-`SECONDO NARRATORE.` Il Buddha trascorse la prima stagione delle piogge
+`Secondo Narratore.` Il Buddha trascorse la prima stagione delle piogge
 dopo la sua Illuminazione a Benares. La seconda e la terza stagione le
 trascorse a Rājagaha nel Boschetto di Bambù. È dopo questa terza
 stagione delle piogge che comparve Anāthapiṇḍika, il Nutritore del
 Povero.
 
 [.voice]
-`SECONDA VOCE.` Avvenne questo. Il Buddha, il Beato, in quel tempo
+`Seconda Voce.` Avvenne questo. Il Buddha, il Beato, in quel tempo
 soggiornava a Rājagaha nel Boschetto di Bambù, e fino a quel momento non
 si era pronunciato a proposito delle dimore dei bhikkhu. Loro vivevano
 qui e là, nelle foreste, ai piedi di un albero, sotto rocce sporgenti,
@@ -215,7 +215,7 @@ gabinetti, stanze per il bagno, laghetti e padiglioni.
 _Vin. Cv. 6:4; S. 10:8_
 
 [.voice]
-`PRIMA VOCE.` Così ho udito.footnote:[Non ci sono argomenti per indicare
+`Prima Voce.` Così ho udito.footnote:[Non ci sono argomenti per indicare
 quando avvenne questo incontro con Māra.] Quando il Beato viveva a
 Rājagaha, nel Boschetto di Bambù, una volta stava seduto all’aperto
 nell’oscurità della notte mentre piovigginava lievemente. Allora Māra il
@@ -255,7 +255,7 @@ conosce». Triste e deluso, subito sparì.
 _S. 4:6_
 
 [.voice]
-`SECONDA VOCE.` Ora, dopo essere rimasto a Rājagaha per tutto il tempo che
+`Seconda Voce.` Ora, dopo essere rimasto a Rājagaha per tutto il tempo che
 volle, il Beato si avviò per tappe verso Vesālī. Quando infine vi
 arrivò, andò a vivere nel Salone con il Tetto Aguzzo nella Grande
 Foresta. Allora la gente si dedicava con entusiasmo ai lavori di
@@ -425,7 +425,7 @@ e se ne andò.
 _Vin. Cv. 6:5-9_
 
 [.narrator]
-`PRIMO NARRATORE.` Il Buddha, che ora si trovava a Sāvatthī, capitale del
+`Primo Narratore.` Il Buddha, che ora si trovava a Sāvatthī, capitale del
 Kosala, proveniva dal regno di Magadha, la cui capitale era Rājagaha. In
 quel tempo Magadha era uno dei più potenti regni dell’India centrale.
 Era a sud del Gange e il suo confine settentrionale era il fiume stesso.
@@ -436,7 +436,7 @@ Gange ai piedi dell’Himalaya. Sembra che il re Pasenadi non avesse fino
 a quel momento incontrato il Buddha.
 
 [.voice]
-`PRIMA VOCE.` Così ho udito. Quando il Beato viveva a Sāvatthī, morì un
+`Prima Voce.` Così ho udito. Quando il Beato viveva a Sāvatthī, morì un
 amatissimo figlio unico di un cittadino di Sāvatthī. Il padre andò dal
 Beato, che gli disse: «Capofamiglia, le tue facoltà sembrano quelle di
 uno fuori di senno, le tue facoltà non sembrano in uno stato normale».
@@ -488,11 +488,11 @@ follia, vagò per strade e crocevia chiedendo: “Avete visto mia madre?
 Avete visto mia madre?”».
 
 [.narrator]
-`SECONDO NARRATORE.` Il Buddha proseguì raccontando un gran numero di
+`Secondo Narratore.` Il Buddha proseguì raccontando un gran numero di
 episodi con lo stesso significato e concluse in questo modo:
 
 [.voice]
-`PRIMA VOCE.` «Una volta, in questa stessa Sāvatthī, c’era una donna
+`Prima Voce.` «Una volta, in questa stessa Sāvatthī, c’era una donna
 sposata che viveva con la famiglia del marito. I suoi parenti, però,
 volevano che divorziasse dal marito per darla in moglie a un altro, che
 a lei non piaceva. Lei lo raccontò al marito. Lui la bastonò a morte e
@@ -520,12 +520,12 @@ realizzato e completamente illuminato, ha detto: “Le persone che ci sono
 care portano afflizione e lamento, dolore, dispiacere e disperazione”».
 
 [.narrator]
-`SECONDO NARRATORE.` La regina insistette con gli esempi della regina
+`Secondo Narratore.` La regina insistette con gli esempi della regina
 Vāsabhā, del figlio del re Viḍūḍabha, di se stessa, e dei regni di Kāsa
 e Kosala, nello stesso modo. Allora il re disse:
 
 [.voice]
-`PRIMA VOCE.` «Mallikā, è meraviglioso, è stupefacente, fino a che punto
+`Prima Voce.` «Mallikā, è meraviglioso, è stupefacente, fino a che punto
 il Beato capisca e veda con comprensione. Vieni, portami l’acqua per
 l’abluzione».
 
@@ -538,11 +538,11 @@ Beato, realizzato e completamente illuminato!».
 _M. 87_
 
 [.narrator]
-`PRIMO NARRATORE.` Il prossimo episodio forse registra come il re
+`Primo Narratore.` Il prossimo episodio forse registra come il re
 incontrò per la prima volta il Buddha.
 
 [.voice]
-`PRIMA VOCE.` Così ho udito. Una volta, quando il Beato viveva a Sāvatthī,
+`Prima Voce.` Così ho udito. Una volta, quando il Beato viveva a Sāvatthī,
 il re Pasenadi di Kosala andò da lui. Scambiò dei saluti con lui e,
 quando questi formali doveri di cortesia ebbero termine, si mise a
 sedere da un lato. Dopo averlo fatto, disse: «Il Maestro Gotama sostiene
@@ -627,7 +627,7 @@ prendere rifugio finché durerà il mio respiro».
 _S. 3:1_
 
 [.voice]
-`SECONDA VOCE.` Avvenne questo. Il Beato viveva a Rājagaha, nel Boschetto
+`Seconda Voce.` Avvenne questo. Il Beato viveva a Rājagaha, nel Boschetto
 di Bambù, nel Sacrario degli Scoiattoli, in un momento nel quale la
 residenza presso un solo posto durante la stagione delle piogge non era
 ancora stata resa obbligatoria dal Beato. I bhikkhu vagavano durante la
@@ -653,23 +653,23 @@ stagione delle piogge».
 _Vin. Mv. 3:1_
 
 [.narrator]
-`PRIMO NARRATORE.` Benché la morte di Anāthapiṇḍika avvenne molto tempo
+`Primo Narratore.` Benché la morte di Anāthapiṇḍika avvenne molto tempo
  dopo – non è certo quando – è tuttavia opportuno raccontarla qui.
 
 [.narrator]
-`SECONDO NARRATORE.` Durante la sua ultima malattia, Anāthapiṇḍika inviò
+`Secondo Narratore.` Durante la sua ultima malattia, Anāthapiṇḍika inviò
 un messaggio all’Anziano Sāriputta, chiedendogli di andarlo a trovare.
 Di conseguenza i due Anziani, Sāriputta e Ānanda, si recarono da lui.
 Egli disse loro che la sua malattia stava peggiorando e così l’Anziano
 Sāriputta lo istruì nel modo seguente.
 
 [.voice]
-`PRIMA VOCE.` «Allora, capofamiglia, dovresti addestrarti così: “Non mi
+`Prima Voce.` «Allora, capofamiglia, dovresti addestrarti così: “Non mi
 attaccherò all’occhio; non ci sarà nessuna coscienza che abbia per base
 l’occhio”. Così dovresti addestrarti».
 
 [.narrator]
-`SECONDO NARRATORE.` Poi proseguì a istruirlo nello stesso modo sui
+`Secondo Narratore.` Poi proseguì a istruirlo nello stesso modo sui
 quattro altri sensi e sulla mente, su questi cinque generi di coscienza
 e di contatto e di sensazione, sugli elementi terra, acqua, fuoco, aria,
 sullo spazio e sulla coscienza, sui cinque aggregati, sui quattro stati
@@ -679,7 +679,7 @@ lingua e il corpo – e percepito e cercato dalla mente e a essa
 accessibile.
 
 [.voice]
-`PRIMA VOCE.` Quando ciò fu detto, Anāthapiṇḍika pianse e le lacrime
+`Prima Voce.` Quando ciò fu detto, Anāthapiṇḍika pianse e le lacrime
 scorsero sul suo viso. Allora il venerabile Ānanda gli chiese: «Ti stai
 attaccando? Stai fallendo?». «Non mi sto attaccando, venerabile Ānanda,
 non sto fallendo. Benché io abbia a lungo servito il Maestro e i bhikkhu
@@ -696,6 +696,6 @@ Dhamma».
 _M. 143_
 
 [.narrator]
-`SECONDO NARRATORE.` Anāthapiṇḍika spirò quello stesso giorno, e si
+`Secondo Narratore.` Anāthapiṇḍika spirò quello stesso giorno, e si
 racconta che egli sia rinato in paradiso come Chi è Entrato nella
 Corrente, perciò con non più di sette rinascite davanti a lui.

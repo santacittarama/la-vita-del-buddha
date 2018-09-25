@@ -58,7 +58,6 @@
   color: #fff;
 }
 /* QUESTION what about nested elements inside code? */
-body code,
 body kbd,
 body pre,
 pre :not(code) {

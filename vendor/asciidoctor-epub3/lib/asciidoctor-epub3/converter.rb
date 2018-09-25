@@ -120,6 +120,11 @@ class ContentConverter
       byline = %(<p class="byline"><img src="#{imagesdir}avatars/#{username}.jpg"/> <b class="author">#{author}</b></p>#{EOL})
     end
 
+    chapter_number_div = ''
+    if node.attr 'chapter-number'
+      chapter_number_div = "<div class=\"chapter-number\">#{node.attr 'chapter-number'}</div>"
+    end
+
     mark_last_paragraph node unless pubtype == 'book'
     content = node.content
 
@@ -156,6 +161,7 @@ class ContentConverter
 <section class="chapter" title="#{doctitle_sanitized.gsub '"', '&quot;'}" epub:type="chapter" id="#{docid}">
 #{icon_css_scoped}<header>
 <div class="chapter-header">
+#{chapter_number_div}
 #{byline}<h1 class="chapter-title">#{title}#{subtitle ? %[<small class="subtitle">#{subtitle}</small>] : ''}</h1>
 </div>
 </header>
