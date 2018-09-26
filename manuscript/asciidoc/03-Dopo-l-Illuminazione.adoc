@@ -27,7 +27,7 @@ disperazione. Così ha origine tutto questo aggregato di sofferenza».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
-[verse]
+[quote]
 ____
 Quando le cose sono del tutto manifeste +
 all’ardente brāhmaṇafootnote:[Vi è un costante gioco di parole, ammesso che
@@ -67,7 +67,7 @@ di tutto questo aggregato di sofferenza».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
-[verse]
+[quote]
 ____
 Quando le cose sono del tutto manifeste +
 all’ardente brāhmaṇa che pratica la meditazione +
@@ -93,7 +93,7 @@ sofferenza».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
-[verse]
+[quote]
 ____
 Quando le cose sono del tutto manifeste +
 all’ardente brāhmaṇa che pratica la meditazione +
@@ -118,7 +118,7 @@ brama, dall’odio e dall’illusione.
 
 Conoscendo il significato di ciò, egli esclamò queste parole:
 
-[verse]
+[quote]
 ____
 Il mondo è angosciato in quanto esposto al contatto, +
 perfino quel che il mondo chiama “io” è nei fatti nocivo, +
@@ -146,7 +146,7 @@ questo dico, si è liberato dall’esistenza. Per mezzo di quel che è
 essenziale all’esistenza, sorge la sofferenza. Quando tutti gli
 attaccamenti sono esauriti, la sofferenza non c’è più».
 
-[verse]
+[quote]
 ____
 Guarda questo grande mondo: +
 gli esseri esposti all’ignoranza lo assaporano, +
@@ -204,7 +204,7 @@ fanno un brāhmaṇa?».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
-[verse]
+[quote]
 ____
 Il brāhmaṇa che ha vinto le cose malvagie, +
 non altezzoso, privo di contaminazioni e dotato di auto-cotrollo, +
@@ -237,7 +237,7 @@ reverenza.
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
-[verse]
+[quote]
 ____
 L’isolamento è felicità per chi è appagato, +
 per chi ha imparato il Dhamma, e ha visto. +
@@ -357,7 +357,7 @@ l’Illuminazione».
 Allora Māra il Malvagio nella sua mente fu consapevole del pensiero
 sorto nella mente del Beato, andò da lui e pronunciò queste strofe:
 
-[verse]
+[quote]
 ____
 «Tu hai abbandonato il sentiero dell’ascetismo +
 mediante il quale gli uomini purificano se stessi, +
@@ -367,7 +367,7 @@ ____
 
 Il Beato riconobbe Māra il Malvagio, e gli rispose con queste strofe:
 
-[verse]
+[quote]
 ____
 «Conosco queste penitenze per ottenere Ciò Che Non Muore, +
 quale che sia il loro genere, sono vane +
@@ -427,7 +427,7 @@ capirebbero, e questo sarebbe per me pesante e fastidioso».
 A quel punto gli vennero in modo spontaneo in mente queste strofe, mai
 udite prima:
 
-[verse]
+[quote]
 ____
 Basta con l’insegnamento del Dhamma +
 che anche per me è stato difficile da raggiungere, +
@@ -459,7 +459,7 @@ Alcuni di loro otterranno la conoscenza finale del Dhamma».
 
 Dopo aver detto questo, Brahmā Sahampati aggiunse:
 
-[verse]
+[quote]
 ____
 A Magadha fino ad ora è apparso +
 dhamma impuro insegnato da uomini impuri: +
@@ -491,7 +491,7 @@ con buone qualità e cattive qualità, ai quali è facile insegnare e
 difficile insegnare, e altri che dimoravano vedendo paura e biasimo
 nell’altro mondo. Quando ebbe visto questo, rispose:
 
-[verse]
+[quote]
 ____
 Spalancati sono i portali di Ciò Che Non Muore. +
 Che abbiano fede coloro che ascoltano.footnote:[«Che abbiano fede coloro
@@ -560,7 +560,7 @@ religiosa? Chi è il tuo maestro? Quale Dhamma professi?».
 
 Quando ciò fu detto, il Beato si rivolse al monaco Upaka in strofe:
 
-[verse]
+[quote]
 ____
 Io sono Chi Tutto Trascende,footnote:[“Chi Tutto Trascende” (_sabbābhibhū_): un derivato della
 radice _bhū_ (essere), nel senso di “al di là dell’esistenza” o “chi ha
@@ -588,7 +588,7 @@ ____
 
 Secondo quel che dici, amico, tu sei un Vittorioso Universale.
 
-[verse]
+[quote]
 ____
 I vittoriosi come me, Upaka, +
 sono coloro le cui contaminazioni sono del tutto esaurite. +
@@ -815,6 +815,7 @@ Allora il Beato si rivolse ai bhikkhu in questo modo:
 [.suttaref]
 _Vin. Mv. 1:6_
 
+[.center]
 (_Il Discorso della Caratteristica del Non-Sé_)
 
 «Bhikkhu, la forma materiale è non-sé. Se la forma materiale fosse un

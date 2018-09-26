@@ -206,7 +206,7 @@ Senānigāma, per insegnare il Dhamma».
 Allora Māra il Malvagio si recò dal Beato e si parlarono con queste
 strofe:
 
-[verse]
+[quote]
 ____
 Tu sei legato da tutte le catene +
 sia umane sia divine, +
@@ -269,7 +269,7 @@ realizzato la Liberazione suprema».
 
 Allora Māra il Malvagio si recò dal Beato e gli parlò con queste strofe:
 
-[verse]
+[quote]
 ____
 Tu sei legato dalle catene di Māra +
 sia umane sia divine. +
@@ -572,7 +572,7 @@ Māra il Malvagio stava seguendo il Beato da sette anni alla ricerca di
 un’opportunità, ma senza riuscire a trovarne nessuna. Allora si recò dal
 Beato e si rivolse a lui con queste strofe:
 
-[verse]
+[quote]
 ____
 Sogni di boschi, immerso nel dolore? +
 Hai perso la ricchezza, o ti stai struggendo per essa? +
@@ -632,7 +632,7 @@ L’Essere Completamente Illuminato, in possesso della +
 Consapevolezza, non mi diede occasione alcuna.
 ____
 
-[verse]
+[quote]
 ____
 C’era un corvo che camminava intorno a +
 una pietra che sembrava un grumo di grasso: +
@@ -659,7 +659,7 @@ bassa, abbattuto e senza aver nulla da dire.
 Allora le tre figlie di Māra, Taṇhā, Aratī e Ragā – Brama, Noia e
 Lussuria – andarono dal padre e gli parlarono in strofe:
 
-[verse]
+[quote]
 ____
 O Padre, perché sei sconsolato? +
 Su chi stai rimuginando? +
@@ -701,7 +701,7 @@ oppure sarebbe diventato folle o matto, oppure si sarebbe avvizzito,
 disseccato e appassito come un filo d’erba tagliato». Andarono dal Beato
 e si misero in piedi da un lato. Taṇhā gli parlò in strofe:
 
-[verse]
+[quote]
 ____
 Sogni di boschi, immerso nel dolore? +
 Hai perso la ricchezza, o ti stai struggendo per essa? +
@@ -719,7 +719,7 @@ ____
 
 Allora Aratī gli parlò in strofe:
 
-[verse]
+[quote]
 ____
 Quale dimorare pratica qui un bhikkhu +
 che dopo aver attraversato le cinque mareefootnote:[I Commentari
@@ -742,7 +742,7 @@ ____
 
 Allora Ragā pronunciò queste strofe alla presenza del Beato:
 
-[verse]
+[quote]
 ____
 Va accompagnato della recisa bramosia, +
 numerosi esseri lo seguiranno, ahimè! +
@@ -757,7 +757,7 @@ ____
 Allora Taṇhā, Aratī e Ragā, le figlie di Māra, andarono da Māra il
 Malvagio. Vedendole arrivare, egli pronunciò queste strofe:
 
-[verse]
+[quote]
 ____
 Stolte! Avete cercato di spaccare una roccia +
 colpendola con steli di giglio, +
@@ -779,6 +779,7 @@ con un migliaio di bhikkhu, con tutti quelli che prima erano stati
 asceti dai capelli intrecciati. Il Beato si fermò a Gayāsīsa, nei pressi
 di Gayā, con i mille bhikkhu. Lì si rivolse ai bhikkhu in questo modo:
 
+[.center]
 (_Il Sermone del Fuoco_)
 
 «Bhikkhu, tutto brucia. E che cos’è che brucia?».
@@ -886,7 +887,7 @@ Grande Monaco?». Però, il Beato nella sua mente fu consapevole del
 pensiero sorto nella loro mente, e si rivolse al venerabile Uruvelā
 Kassapa in strofe:
 
-[verse]
+[quote]
 ____
 Che cosa vide, lo scarno insegnante che dimora +
 a Uruvelā, da fargli lasciare i fuochi? +
@@ -985,7 +986,7 @@ Quando la folla vide Sakka, Sovrano degli Déi, disse: «Il giovane
 brāhmaṇa è attraente, bello e pieno di grazia. Chi è?». Quando ciò fu
 detto, egli si rivolse a essa in strofe:
 
-[verse]
+[quote]
 ____
 Egli è un santo, sempre controllato +
 e purificato, senza pari +

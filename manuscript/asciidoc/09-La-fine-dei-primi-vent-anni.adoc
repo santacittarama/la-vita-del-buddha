@@ -30,7 +30,7 @@ buoi del Maestro Gotama. Tuttavia il Maestro Gotama ha detto: “Anche io,
 brāhmaṇa, aro e semino e, dopo aver arato e seminato, mangio”». Egli
 allora si rivolse al Beato in strofe:
 
-[verse]
+[quote]
 ____
 Tu pretendi di essere un aratore, tuttavia +
 noi non vediamo la tua aratura. +
@@ -60,7 +60,7 @@ cotto nel latte e la portò dal Beato: «Che il Maestro Gotama mangi il
 riso cotto nel latte. Il Maestro Gotama è un aratore perché la sua
 aratura ha come frutto Ciò Che Non Muore».
 
-[verse]
+[quote]
 ____
 Non posso ottenere ricompense per i miei versi, +
 questa è la legge dei profeti. Gli Esseri Illuminati +
@@ -590,7 +590,7 @@ Nibbāna qui e ora».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
-[verse]
+[quote]
 ____
 Pensieri meschini, pensieri triviali +
 arrivano a tentare la mente e poi volano via. +
@@ -707,7 +707,8 @@ narrati nei Piṭaka sono collocati dalla tradizione in questo anno. Si
 tratta della conversione del bandito Aṅgulimāla e di un tentativo di
 screditare il Buddha messo in atto da alcuni suoi oppositori.
 
-Prima Voce. Così ho udito. Una volta, quando il Beato soggiornava a
+[.voice]
+`Prima Voce.` Così ho udito. Una volta, quando il Beato soggiornava a
 Sāvatthī, comparve un bandito nel regno del re Pasenadi di Kosala. Era
 chiamato Aṅgulimāla, ossia “Collana di Dita”, ed era un assassino, un
 sanguinario, dedito alle percosse e alla violenza, crudele con tutti gli
@@ -760,7 +761,7 @@ dice: “Io mi sono fermato, Aṅgulimāla, fermati anche tu”. E se
 rivolgessi delle domande a questo monaco?». Allora si rivolse al Beato
 in strofe:
 
-[verse]
+[quote]
 ____
 Mentre stai camminando, monaco, +
 mi dici di esserti fermato, +
@@ -910,7 +911,7 @@ all’inferno per molti anni, per molti secoli, per molti millenni».
 Quando il venerabile Aṅgulimāla era solo in ritiro assaporando la
 beatitudine della Liberazione, esclamò queste parole:
 
-[verse]
+[quote]
 ____
 Chi ha in precedenza vissuto con avventatezza +
 e poi così più non vive +
@@ -1036,7 +1037,7 @@ riferirono al Beato.
 Al termine di sette giorni cesserà. Così, quando la gente vi insulta in
 questo modo, ammonitela con questa strofa:»
 
-[verse]
+[quote]
 ____
 Il bugiardo va all’inferno, come colui che agisce +
 e poi dichiara: «Non sono stato io», +
@@ -1056,7 +1057,7 @@ predizione del Beato!».
 
 Conoscendo il significato di ciò, il Beato esclamò allora queste parole:
 
-[verse]
+[quote]
 ____
 Uomini incauti provocano con parole come frecce +
 fatte volare contro un elefante in battaglia. +
@@ -1241,7 +1242,7 @@ il suo seguito, si estende fino a questo punto e non oltre’ ”».
 «“Ora, buon signore, com’è che intendi l’estensione di fin dove posso
 arrivare e il mio influsso?”».
 
-[verse]
+[quote]
 ____
 Quant’è ampio il tragitto circolare di luna e sole, +
 il loro splendore e luminosità nelle quattro direzioni, +
@@ -1305,7 +1306,7 @@ te, ma di più”».
 coessenziale alla totalità del tutto, che non si possa affermare che tu
 sia vano e vuoto!”».
 
-[verse]
+[quote]
 ____
 La coscienza che non si mostra +
 e che nemmeno ha a che fare con la finitezza, +
@@ -1329,7 +1330,7 @@ dissi: “Allora, Brahmā, io sparirò dal tuo cospetto”».
 Brahmā e all’Assemblea, che loro sentano il suono della mia voce senza
 vedermi”, e dopo essere scomparso, esclamai questa strofa:
 
-[verse]
+[quote]
 ____
 Ho visto la paura in ogni tipo di esistenza +
 inclusi gli esseri che cercano la non-esistenza; +
@@ -1482,7 +1483,7 @@ nel mondo di Brahmā non hai trovato una risposta alla tua domanda, e sei
 tornato da me. La domanda, però, non dovrebbe essere posta in quel modo,
 dovrebbe essere posta così»:
 
-[verse]
+[quote]
 ____
 Dimmi, allora, dov’è che non trovano appoggio +
 acqua, terra, fuoco e aria? +

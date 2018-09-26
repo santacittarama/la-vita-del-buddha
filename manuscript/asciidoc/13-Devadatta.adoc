@@ -345,7 +345,7 @@ amorevole. L’elefante abbassò la sua proboscide, raggiunse il Beato e si
 mise di fronte a lui. Il Beato accarezzò la fronte dell’elefante con la
 mano destra e gli rivolse queste strofe:
 
-[verse]
+[quote]
 ____
 Elefante, non attaccare un pachiderma, +
 perché è dannoso attaccare un pachiderma. +
@@ -363,7 +363,7 @@ finché il Beato uscì dalla sua vista. Andò nella stalla degli elefanti e
 si mise al suo posto. Così fu che egli venne domato. Allora la gente
 cantò questa strofa:
 
-[verse]
+[quote]
 ____
 Alcuni domano mediante bastoni, +
 altri con pungoli e sferze. +
@@ -492,7 +492,7 @@ separatamente dal Beato e dal Saṅgha dei bhikkhu».
 Al ritorno il venerabile Ānanda lo disse al Beato. Conoscendo il
 significato di ciò, il Beato esclamò queste parole:
 
-[verse]
+[quote]
 ____
 Il bene può farlo con facilità chi è buono, +
 il bene non può farlo con facilità chi è malvagio. +
@@ -630,7 +630,7 @@ fu bene né per il loro aspetto né per la loro salute, e incorsero nella
 morte o in sofferenze mortali a causa di ciò. Allo stesso modo, bhikkhu,
 Devadatta morirà miseramente per avermi imitato».
 
-[verse]
+[quote]
 ____
 Per avermi scimmiottato egli morirà meschinamente +
 proprio come un cucciolo che mangia il fango +
@@ -650,7 +650,7 @@ una missione quando ha queste otto qualità. Ora, Sāriputta ha queste
 otto qualità e, di conseguenza, egli è adatto ad andare in una
 missione».
 
-[verse]
+[quote]
 ____
 Egli non vacilla quando è al cospetto +
 di un’assemblea d’alto rango. +
@@ -719,7 +719,7 @@ cattivi alleati, cattivi confidenti. Pasenadi, re di Kosala, ha buoni
 amici, buoni alleati, buoni confidenti. Il re Pasenadi, però,
 trascorrerà questa notte soffrendo come uno che è stato sconfitto».
 
-[verse]
+[quote]
 ____
 La conquista genera nemici, +
 chi è vinto ha un letto fatto di dolore, +
@@ -736,7 +736,7 @@ la sua fanteria, e lasciarlo andare vivo?». I bhikkhu che facevano la
 questua a Sāvatthī ne sentirono parlare e andarono a riferirlo al Beato.
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
-[verse]
+[quote]
 ____
 Un uomo può depredare quanto vuole. +
 Quando gli altri di rinvio lo deprederanno, +

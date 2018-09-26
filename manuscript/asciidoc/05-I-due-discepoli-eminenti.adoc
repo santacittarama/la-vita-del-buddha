@@ -41,7 +41,7 @@ Dhamma nei dettagli. Ti dirò, però, il suo significato in breve».
 
 Allora Sāriputta disse: «E sia, amico».
 
-[verse]
+[quote]
 ____
 Dì pure molto o poco, come ti sembra giusto, +
 ma dimmi ora il significato. +
@@ -51,7 +51,7 @@ ____
 
 Il venerabile Assaji offrì all’asceta itinerante Sāriputta tale schema:
 
-[verse]
+[quote]
 ____
 Il Perfetto ha detto la causa +
 del sorgere condizionato delle cose, +
@@ -63,7 +63,7 @@ Quando l’asceta itinerante Sāriputta ascoltò quest’esposizione di
 Dhamma, la pura, immacolata visione del Dhamma sorse in lui: tutto quel
 che sorge deve cessare.
 
-[verse]
+[quote]
 ____
 Questa è la verità: anche se questo fosse tutto, +
 tu hai raggiunto la condizione in cui non c’è dolore +
@@ -80,7 +80,7 @@ Non Muore». «Come hai fatto a trovarlo, amico?».
 L’asceta itinerante Sāriputta raccontò quello che era avvenuto. Quando
 l’asceta itinerante Moggallāna ascoltò quell’esposizione di Dhamma:
 
-[verse]
+[quote]
 ____
 Il Perfetto ha detto la causa +
 del sorgere condizionato delle cose, +
@@ -91,7 +91,7 @@ ____
 La pura, immacolata visione del Dhamma sorse in lui: tutto quel che
 sorge deve cessare.
 
-[verse]
+[quote]
 ____
 Questa è la verità: anche se questo fosse tutto, +
 tu hai raggiunto la condizione in cui non c’è dolore +
@@ -131,7 +131,7 @@ li vide, disse ai bhikkhu: «Stanno arrivando questi due amici, Kolita e
 Upatissa. Questi due saranno i miei discepoli eminenti, una coppia di
 buon auspicio».
 
-[verse]
+[quote]
 ____
 Fu allora che il Maestro li annunciò – +
 loro, che erano già liberati +
@@ -162,7 +162,7 @@ anche questi ben noti uomini delle stirpi di Magadha sono andati a
 condurre la santa vita sotto il monaco Gotama!». Quando la gente vedeva
 i bhikkhu, li sbeffeggiava con queste strofe:
 
-[verse]
+[quote]
 ____
 Gotama il monaco è arrivato +
 alla Fortezza di Magadha, +
@@ -176,7 +176,7 @@ giorni. Al termine di sette giorni cesserà. Così, quando la gente vi
 sbeffeggia con quelle strofe, potete rispondere rimproverandola con
 queste strofe:
 
-[verse]
+[quote]
 ____
 Sono portati dal Dhamma, loro che sono anche +
 Grandi Eroi ed Esseri Perfetti. +
@@ -491,7 +491,7 @@ tornò dal Beato con la ciotola rotta e la veste superiore fatta di toppe
 strappata, e gli raccontò quello che era avvenuto. Conoscendo il
 significato di quest’avvenimento, il Beato esclamò queste parole:
 
-[verse]
+[quote]
 ____
 Un saggio e un folle +
 camminavano e vivevano in compagnia. +
@@ -518,7 +518,11 @@ governi rettamente».
 basi per il successo” (o vie per il potere) sono
 descritte come «la base per il successo che ha concentrazione fondata
 sul desiderio-di-agire e risolutezza motivata dallo sforzo-controllato»
-(M. 16). Questa è la prima. Per le altre tre, sostituire,
+
+[.suttaref]
+_M. 16_
+
+Questa è la prima. Per le altre tre, sostituire,
 rispettivamente, “energia”, “(naturale purezza della) mente”, e
 “investigazione” al “desiderio-di-agire”. Esse rappresentano i quattro
 tipi di approccio dello sviluppo, da regolare sulla base delle
@@ -528,7 +532,7 @@ veicolo e base, sono state fondate, consolidate e propriamente
 intraprese. E così, Signore, se il Beato decidesse: “Che l’Himalaya, re
 delle montagne, diventi d’oro” esso diventerebbe una montagna d’oro».
 
-[verse]
+[quote]
 ____
 E se tutta quella montagna fosse di oro giallo, +
 il doppio non basterebbe a soddisfare i desideri di un uomo. +
@@ -721,10 +725,13 @@ a quella di un cervo selvatico. Questo ci trovo di buono nel farlo».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
+[quote]
+____
 Colui che dentro di sé non ha più conflitti in agguato +
 ha superato ogni genere di esistenza, +
 perché egli è senza paura, beato, libero dal dolore. +
 Nessuna divinità può gareggiare con la sua gloria.
+____
 
 [.suttaref]
 _Vin. Cv. 7:1; cfr. Ud. 2:10_
@@ -746,6 +753,7 @@ interesse per i desideri sensoriali».
 [.suttaref]
 _S. 21:8_
 
+[.narrator]
 `Secondo Narratore.` Nel frattempo il novizio Rāhula, che ora aveva dieci
 anni, viveva sotto le cure dell’Anziano Sāriputta ad Ambalaṭṭhikā, nei
 pressi di Rājagaha, dove il Buddha tornò a tempo debito.

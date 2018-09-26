@@ -1292,6 +1292,7 @@ section#titlepage .subtitle {
 }
 section#titlepage > header h1 {
   text-align: center;
+  margin-bottom: 2rem;
 }
 section#copyright figure.image div.content {
   text-align: left;
@@ -1387,6 +1388,9 @@ figure.image.quotebreak img {
   text-indent: -2em;
   padding-left: 2em;
 }
+.cantor > blockquote > p:first-child {
+  text-indent: -2em;
+}
 .narrator code.literal,
 .voice code.literal,
 .cantor code.literal {
@@ -1427,5 +1431,21 @@ h1.chapter-title {
 }
 .namo-tassa {
   margin-top: 5rem;
+  text-align: center;
+}
+.suttaref {
+  text-align: right;
+}
+.titlepage-traduzione {
+  text-align: center;
+  margin-top: 3rem;
+}
+.titlepage-custom-author {
+  font-family: "Spectral SC", serif !important;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
   text-align: center;
 }

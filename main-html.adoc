@@ -19,11 +19,16 @@
 :imagesdir: assets/photos/92dpi-ebook-sRGB
 :includes: manuscript/asciidoc
 :front-cover-image: image:desktop-cover.jpg[Front Cover,800,1200]
-:toc: left
+:toc: macro
 :toc-title: Indice
 :toclevels: 1
 
-include::{includes}/titlepage.adoc[]
+toc::[]
+
+// TODO images have to be accessible with relative paths
+//image::desktop-cover.jpg[]
+
+include::{includes}/titlepage-html.adoc[]
 
 include::{includes}/Abbreviazioni.adoc[]
 

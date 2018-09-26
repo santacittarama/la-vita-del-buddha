@@ -1,0 +1,9 @@
+= Mappa dell'India centro-orientale
+
+image::mappa.jpg[]
+
+(La mappa -- tratta dalla _Cambridge History of India, I: Ancient India_, ed.
+by E.J. R Apson, Cambridge 1922, Map. 5 -- mostra alcuni dei principali nomi
+di luogo menzionati nel Canone in lingua pāli. I nomi moderni sono
+racchiusi tra parentesi tonde.)
+

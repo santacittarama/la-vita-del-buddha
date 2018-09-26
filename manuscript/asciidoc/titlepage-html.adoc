@@ -14,7 +14,8 @@ Bhikkhu Ñāṇamoli
 _Traduzione Italiana di_ +
 _Roberto Paciocco_
 
-image::{pubs-logo}[role=titlepage-pubs-logo]
+// TODO images have to be accessible with relative paths
+//image::{pubs-logo}[role=titlepage-pubs-logo]
 
 [role=titlepage-publisher]
 {publisher-name}

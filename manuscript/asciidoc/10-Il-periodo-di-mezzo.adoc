@@ -219,7 +219,7 @@ stessa quando chiedo gli otto favori al Perfetto».
 favori prevedendo questi benefici. Otterrai questi otto favori». Allora
 il Beato diede la sua benedizione con queste strofe:
 
-[verse]
+[quote]
 ____
 Quando una donna, discepola di un Sublime, +
 contenta della virtù, offre sia cibo sia bevande, +
@@ -268,7 +268,7 @@ dolori. Chi ha una persona cara ha un dolore. Chi non ha persone care
 non ha dolori. Sono privi di dolore, distaccati, non afflitti, questo
 dico».
 
-[verse]
+[quote]
 ____
 Dolore e lutto nel mondo, +
 sofferenza di ogni genere, +
@@ -370,7 +370,7 @@ chiamarono la “Madre di Bījaka”, e il venerabile Sudinna lo chiamarono
 il “Padre di Bījaka”. In seguito sia Bījaka sia la madre lasciarono la
 vita famigliare e abbracciarono la vita religiosa.
 
-Seconda Voce. Il venerabile Sudinna ebbe però dei rimorsi. A causa della
+`Seconda Voce.` Il venerabile Sudinna ebbe però dei rimorsi. A causa della
 sua cattiva coscienza divenne magro e infelice. Quando un bhikkhu gli
 chiese che cosa c’era che non andava, egli confessò. Venne rimproverato
 e la questione venne esposta al Beato. Il Beato disse:
@@ -565,7 +565,7 @@ il frutto della condizione di Arahant».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
-[verse]
+[quote]
 ____
 La pioggia infradicia quel che è tenuto ravvolto, +
 ma non quel che è aperto. +
@@ -793,7 +793,7 @@ così piena di doveri».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
-[verse]
+[quote]
 ____
 Vedendo che il mondo è insoddisfacente, +
 conoscendo la condizione priva degli essenziali per la rinascita, +
@@ -911,10 +911,13 @@ dettagli».
 Così disse il Beato. Dopo che il Sublime aveva detto questo, lui stesso,
 il Maestro, disse ancora:
 
+[quote]
+____
 Colui che ha trasceso tutto saggiamente, che tutto conosce, +
 incontaminato da tutte le cose, rinunciando a tutto, +
 s’è liberato grazie alla cessazione della brama: lo chiamo +
 un uomo che vive da solo e in perfezione.
+____
 
 [.suttaref]
 _S. 21:10_
@@ -1162,7 +1165,7 @@ cinque i tipi di piaceri sensoriali».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
-[verse]
+[quote]
 ____
 È difficile conoscere un uomo dalla sua apparenza, +
 né si può giudicarlo con un colpo d’occhio. +
@@ -1177,6 +1180,7 @@ ____
 [.suttaref]
 _S. 3:11; Ud. 6:2_
 
+[.center]
 (_Il sutta per i Kālāma_)
 
 Una volta il Beato stava viaggiando per tappe nel regno di Kosala con un
@@ -1376,7 +1380,7 @@ gran numero di falene incontravano rovina, calamità e disastro cadendo
 nelle lampade a olio. Conoscendo il significato di ciò, il Beato esclamò
 queste parole:
 
-[verse]
+[quote]
 ____
 Benché alcuni corteggino gli estremi, non trovano +
 alcuna essenza ma rinnovano i loro legami, +
@@ -1396,7 +1400,7 @@ un gruppo di ragazzi che maltrattavano dei pesci. Andò da loro e disse:
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
-[verse]
+[quote]
 ____
 Chi non vuole soffrire +
 non dovrebbe compiere cattive azioni +
@@ -1411,7 +1415,7 @@ _Ud. 5:4_
 
 [quote, Sn. 1:8, role=cantor]
 ____
-CANTOREfootnote:[Questo canto, conosciuto come «Canto della Gentilezza
+`Cantore`{empty}footnote:[Questo canto, conosciuto come «Canto della Gentilezza
 Amorevole» (Mettā Sutta), è quello al giorno d’oggi più noto. Se viene
 trascurato il passo del discorso diretto (indicato tra «…» nella
 traduzione), va persa l’architettura del sutta. Non si tratta di

@@ -1,17 +1,6 @@
 = La Dottrina
 :chapter-number: 12
 
-// TODO add TOC?
-
-// \1. Questioni varie. – 2. Non c’è un Primo Inizio. – 3. Le Quattro
-// Nobili Verità. – 4.1. La Verità della Sofferenza. – 4.2. La Verità
-// dell’Origine della Sofferenza. – 4.3. La Verità della Cessazione della
-// Sofferenza. – 4.4. La Verità del Sentiero. – 4.4a. Retta visione. –
-// 4.4b. Retta intenzione. – 4.4c. Retta parola. – 4.4d. Retta azione. –
-// 4.4e. Retti mezzi di sostentamento. – 4.4f. Retto sforzo. – 4.4g. Retta
-// consapevolezza. – 4.4h. Retta concentrazione. – 5. Il Nobile Ottuplice
-// Sentiero in pratica. – 6. I mezzi. – 7. La Meta.
-
 == Questioni Varie
 
 [.narrator]
@@ -35,7 +24,7 @@ percezioni e la sua mente che io descrivo il mondo, l’origine del mondo,
 la cessazione del mondo, e la via che conduce alla cessazione del
 mondo».
 
-[verse]
+[quote]
 ____
 È assolutamente impossibile +
 raggiungere la fine del mondo camminando. +
@@ -334,7 +323,7 @@ e la coscienza di tutto ciò che non è.]
 [.suttaref]
 _S. 56:11_
 
-\II. «Qual è la Nobile Verità dell’Origine della Sofferenza? È la brama,
+{empty}II. «Qual è la Nobile Verità dell’Origine della Sofferenza? È la brama,
 che rinnova l’esistenza e che è accompagnata dal diletto e dal
 desiderio, dall’assaporare questo e quello: in altre parole, brama per i
 desideri sensoriali, brama per l’esistenza, brama per la non-esistenza.
@@ -360,7 +349,7 @@ Questa è detta Nobile Verità dell’Origine della Sofferenza».
 [.suttaref]
 _A. 3:61_
 
-\III. «Qual è la Nobile Verità della Cessazione della sofferenza? È lo
+{empty}III. «Qual è la Nobile Verità della Cessazione della sofferenza? È lo
 svanire senza residuo e la cessazione di quella stessa brama, il
 rifiuto, l’abbandono, la rinuncia a essa. Ma dove questa brama è
 abbandonata e fatta cessare? Ovunque ci sia qualcosa che sembra amabile
@@ -380,7 +369,7 @@ Nobile Verità della Cessazione della Sofferenza».
 [.suttaref]
 _A. 3:61_
 
-\IV. «Qual è la Nobile Verità del Sentiero che conduce alla Cessazione
+{empty}IV. «Qual è la Nobile Verità del Sentiero che conduce alla Cessazione
 della Sofferenza? È il Nobile Ottuplice Sentiero, ossia: retta visione,
 retta intenzione, retta parola, retta azione, retto modo di vivere,
 retto sforzo, retta consapevolezza, retta concentrazione».
@@ -711,22 +700,25 @@ sorgere di questo».footnote:[Nel senso di condizione necessaria.]
 [.suttaref]
 _M. 38_
 
-// TODO very long paragraph, break it up
-
 «(Nell’esposizione della genesi interdipendente:)footnote:[Sulla genesi
 interdipendente, o originazione interdipendente
 e coproduzione condizionata, si veda _The Path of Purification_, cap.
-XVII.] Che
-cos’è l’invecchiamento? Nei vari generi di esseri è l’invecchiare, la
+XVII.] Che cos’è l’invecchiamento? Nei vari generi di esseri è l’invecchiare, la
 vecchiaia, i denti che si rompono, il grigiore dei capelli e la
 rugosità, il declino della vita e l’indebolimento delle facoltà
-sensoriali. Che cos’è la morte? Nei vari generi di esseri è la
+sensoriali.
+
+Che cos’è la morte? Nei vari generi di esseri è la
 scomparsa, il trapasso, la dissoluzione, lo scomparire, il morire, il
 completamento del tempo, la dissoluzione degli aggregati, il giacere
-della carcassa. Che cos’è la nascita? Nei vari generi di esseri è la
+della carcassa.
+
+Che cos’è la nascita? Nei vari generi di esseri è la
 nascita, il venire alla nascita, il depositarsi in un utero, la
 generazione, la manifestazione degli aggregati, l’acquisizione delle
-basi di contatto. Che cos’è l’esistenza? Tre sono i tipi di esistenza:
+basi di contatto.
+
+Che cos’è l’esistenza? Tre sono i tipi di esistenza:
 l’esistenza nella modalità del desiderio sensoriale, l’esistenza nella
 modalità della forma, l’esistenza nella modalità del senza forma. Che
 cos’è l’attaccamento? Quattro sono le varietà di attaccamento:
@@ -734,13 +726,19 @@ l’attaccamento come abitudine al desiderio sensoriale, l’attaccamento
 come abitudine all’errata visione, l’attaccamento come abitudine (al
 fraintendimento) della virtù e del dovere,footnote:[_Sīlabbatupādāna_,
 l’attaccamento a riti e rituali (Nyp.).] e
-l’attaccamento come abitudine alla teoria del sé. Che cos’è la brama?
+l’attaccamento come abitudine alla teoria del sé.
+
+Che cos’è la brama?
 Sei sono i corpi della brama: la brama per le forme visibili, per i
 suoni, per gli odori, per i sapori, per gli oggetti tangibili e per le
-idee. Che cos’è la sensazione? Sei sono i corpi (delle tre specie) della
+idee.
+
+Che cos’è la sensazione? Sei sono i corpi (delle tre specie) della
 sensazione: sensazione nata dal contatto con l’occhio, dal contatto con
 l’orecchio, dal contatto con il naso, dal contatto con la lingua, dal
-contatto con il corpo e dal contatto con la mente. Che cos’è il
+contatto con il corpo e dal contatto con la mente.
+
+Che cos’è il
 contatto?footnote:[Il “contatto” è contatto tra l’“in-sé” e l’“esterno” (ad
 esempio, la vista insieme a ciò che è visto), il quale è reso possibile
 solo dalla presenza della coscienza (ad esempio, coscienza visiva). È
@@ -749,9 +747,13 @@ sorga, sia percepita e formata, tanto dai cinque sensi quanto dalla
 mente, sia dai sensi e dalla mente insieme.] Sei sono i corpi del contatto: il contatto
 con l’occhio, il contatto con l’orecchio, il contatto con il naso, il
 contatto con la lingua, il contatto con il corpo e il contatto con la
-mente. Che cos’è la sestuplice base? È la base dell’occhio, la base
+mente.
+
+Che cos’è la sestuplice base? È la base dell’occhio, la base
 dell’orecchio, la base del naso, la base della lingua, la base del corpo
-e la base della mente. Che cos’è nome-e-forma?footnote:[“Nome-e-forma”
+e la base della mente.
+
+Che cos’è nome-e-forma?footnote:[“Nome-e-forma”
 è contemporaneamente il percepire e quel che
 è percepito, esperito e riconosciuto (“nominato”). È l’immaginato
 insieme alla materia, che insieme costituiscono la forma
@@ -765,11 +767,17 @@ scelta,footnote:[Altre traduzioni di _cetanā_ (qui reso con “scelta”) sono
 “volizione” e “intenzione”.] il contatto e l’attenzione; quel che è
 chiamato forma comprende i quattro grandi elementi e qualsiasi forma da
 essi derivata mediante l’attaccamento, perciò questo nome e questa forma
-sono ciò che viene chiamato nome-e-forma. Che cos’è la coscienza? Sei
+sono ciò che viene chiamato nome-e-forma.
+
+Che cos’è la coscienza? Sei
 sono i corpi della coscienza: coscienza visiva, coscienza uditiva,
 coscienza olfattiva, coscienza gustativa, coscienza corporea e coscienza
-mentale. Che cosa sono le formazioni? Tre sono le formazioni: formazioni
-corporee, formazioni verbali e formazioni mentali. Che cos’è
+mentale.
+
+Che cosa sono le formazioni? Tre sono le formazioni: formazioni
+corporee, formazioni verbali e formazioni mentali.
+
+Che cos’è
 l’ignoranza? È la nescienza in relazione alla sofferenza, all’origine
 della sofferenza, alla cessazione della sofferenza e al sentiero che
 conduce alla cessazione della sofferenza».
@@ -925,7 +933,7 @@ neanche questo mondo, un altro mondo, la luna o il sole. E questo io lo
 chiamo né venire, né andare, né stare, né morire, né ricomparire. Non ha
 base, non ha evoluzione, non ha supporto. È la fine della sofferenza».
 
-[verse]
+[quote]
 ____
 Il Non-Condizionato è difficile da vedere, +
 non è facile vedere la Verità. +
@@ -999,7 +1007,7 @@ ____
 Sentiero. Ognuna delle sue otto componenti necessita di essere definita
 separatamente.
 
-=== Retta Visione
+== Retta Visione
 
 [.voice]
 `Prima Voce.` «Proprio come l’alba annuncia e prevede il sorgere del sole,
@@ -1061,7 +1069,7 @@ di una cosa dipende.
 [.voice]
 `Seconda Voce.`
 
-[verse]
+[quote]
 ____
 Il Perfetto ha dichiarato la causa +
 del sorgere delle cose condizionate, +
@@ -1175,13 +1183,13 @@ questa è detta retta visione».
 [.suttaref]
 _S. 45:8; D. 22_
 
-\(I) «“Quattro serpenti velenosi” è un nome per i quattro grandi
+{empty}(I) «“Quattro serpenti velenosi” è un nome per i quattro grandi
 elementi (terra, acqua, fuoco e aria)».
 
 [.suttaref]
 _S. 35:197_
 
-[verse]
+[quote]
 ____
 La forma è come un grumo di schiuma, +
 la sensazione è come una bolla d’acqua, +
@@ -1210,9 +1218,9 @@ siffatti e la mente da oggetti mentali siffatti».
 [.suttaref]
 _S. 35:197_
 
-[verse]
+[quote]
 ____
-\(II) Nel mondo vedo questa generazione tormentata +
+{empty}(II) Nel mondo vedo questa generazione tormentata +
 dalla brama per l’esistenza, +
 miserevoli uomini che farfugliano di fronte alla Morte, +
 ancora bramosi, speranzosi per un qualche tipo di esistenza. +
@@ -1223,7 +1231,7 @@ ____
 [.suttaref]
 _Sn. 4:2_
 
-\(III) «Questa è (la più alta) serenità, questa è (la meta) superiore (a
+{empty}(III) «Questa è (la più alta) serenità, questa è (la meta) superiore (a
 tutto), ossia è la pacificazione di tutte le formazioni [mentali],
 l’abbandono di tutti gli essenziali dell’esistenza, l’esaurimento della
 brama, la cessazione, il Nibbāna».
@@ -1231,9 +1239,9 @@ brama, la cessazione, il Nibbāna».
 [.suttaref]
 _A. 10:60_
 
-[verse]
+[quote]
 ____
-\(IV) La più grande delle acquisizioni (mondane) è la ricchezza, +
+{empty}(IV) La più grande delle acquisizioni (mondane) è la ricchezza, +
 il Nibbāna è la più grande beatitudine. +
 Il Nobile Ottuplice Sentiero è il sentiero migliore, +
 per arrivare al sicuro a Ciò che Non Muore.
@@ -2680,4 +2688,3 @@ Rifugio, l’Oltre.
 [.suttaref]
 _S. 43:1-44_
 
-// FIXME extra word? 'completo'

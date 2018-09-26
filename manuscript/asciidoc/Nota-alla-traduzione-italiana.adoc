@@ -6,7 +6,7 @@ le note sono state collocate al fondo della pagina e non alla fine dei
 capitoli. In pochissimi casi si è ritenuto opportuno aggiungere delle
 note supplementari che, però, non alterano la numerazione delle note
 dell’opera originale, perché anch’esse inserite al fondo della pagina ma
-prive di numerazione e contrassegnate dalla sigla NDT
+prive di numerazione e contrassegnate dalla sigla NDT.
 
 La traduzione è stata rivista e corretta da bhikkhu Mahāpañño e poi
 ulteriormente revisionata da Danilo Briarava, Francesca Fenu, Roberto

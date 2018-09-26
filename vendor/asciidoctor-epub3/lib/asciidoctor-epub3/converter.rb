@@ -358,7 +358,7 @@ class ContentConverter
     end
 
     footer_tag = footer_content.empty? ? '' : %(
-<footer>&#x2013; #{footer_content * ' '}</footer>)
+<footer>#{footer_content * ' '}</footer>)
     content = (convert_content node).strip.
       sub(OpenParagraphTagRx, '<p>').
       sub(CloseParagraphTagRx, '</p>')

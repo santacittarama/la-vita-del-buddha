@@ -348,7 +348,7 @@ ebbe finito di mangiare e non teneva più la ciotola in mano, loro
 presero sedili più bassi e si misero a sedere da un lato. Allora il
 Beato impartì la benedizione con queste strofe:
 
-[verse]
+[quote]
 ____
 Dove un uomo saggio prende dimora, +
 che lì nutra il virtuoso +
@@ -379,7 +379,7 @@ Egli vide le persone che volevano attraversare cercando delle barche,
 cercando qualcosa che galleggiasse e legando assieme delle zattere.
 Conoscendo il significato di ciò, egli esclamò queste parole:
 
-[verse]
+[quote]
 ____
 Mentre coloro che vogliono attraversare la corrente +
 costruiscono ponti ed evitano gli abissi, +
@@ -840,7 +840,7 @@ presente, abbandonò la volontà di vivere. Quando lo fece, ci fu un gran
 terremoto, pauroso e orripilante, e i tamburi del cielo risuonarono.
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
-[verse]
+[quote]
 ____
 Il saggio rinunciò alla volontà di vivere, +
 sia commensurabile sia incommensurabile, +
@@ -994,7 +994,7 @@ Raggiungete la perfezione mediante la diligenza. Presto il Beato otterrà
 il Nibbāna definitivo». Così disse il Beato. Avendo il Sublime detto
 questo, il Maestro aggiunse:
 
-[verse]
+[quote]
 ____
 Matura è la mia età e poco mi resta da vivere: +
 vi lascio e vado via, il mio rifugio è pronto. +
@@ -1345,7 +1345,7 @@ in questo modo».
 
 Conoscendo il significato di ciò, il Beato esclamò queste parole:
 
-[verse]
+[quote]
 ____
 Quando un uomo dona, il suo merito crescerà, +
 nessuna ostilità può crescere in chi è contenuto. +
@@ -1701,7 +1701,7 @@ quarto monaco. Le altre dottrine sono prive di monaci. E se questi
 bhikkhu vivono rettamente, il mondo non sarà privo di Arahant, di esseri
 realizzati».
 
-[verse]
+[quote]
 ____
 All’età di ventinove anni, Subhadda, me ne andai +
 alla ricerca di quel che è salutare. +
@@ -1869,7 +1869,7 @@ terremoto, pauroso e orripilante, e i tamburi del cielo risuonarono.
 All’ottenimento del Nibbāna definitivo del Beato, Brahmā Sahampati
 esclamò questa strofa:
 
-[verse]
+[quote]
 ____
 Non c’è essere al mondo che non debba deporre +
 il proprio aggregato temporaneo, +
@@ -1884,7 +1884,7 @@ _D. 16: S. 6:15_
 All’ottenimento del Nibbāna definitivo del Beato, Sakka, Sovrano degli
 Déi, esclamò questa strofa:
 
-[verse]
+[quote]
 ____
 Le formazioni sono impermanenti, +
 la loro natura è di sorgere e scomparire, +
@@ -1898,7 +1898,7 @@ _D. 16; S. 6:15_
 All’ottenimento del Nibbāna definitivo del Beato, il venerabile
 Anuruddha esclamò questa strofa:
 
-[verse]
+[quote]
 ____
 Perfino uno come lui, con la sua mente in pace, +
 rimase privo del respiro. Senza desideri, +
@@ -1910,7 +1910,7 @@ ____
 All’ottenimento del Nibbāna definitivo del Beato, il venerabile Ānanda
 esclamò questa strofa:
 
-[verse]
+[quote]
 ____
 Oh, allora, paralizzante terrore, +
 oh, allora, capelli ritti per l’orrore – +
@@ -2190,7 +2190,7 @@ della nostra città. Non rinunceremo alle ossa del Beato».
 Allora il brāhmaṇa Doṇa si rivolse al gruppo riunitosi con queste
 strofe:
 
-[verse]
+[quote]
 ____
 Signori, ascoltate da me una parola: +
 il nostro Risvegliato predicò la pazienza. +

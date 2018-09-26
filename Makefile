@@ -14,7 +14,7 @@ document:
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex
 
 html:
-	asciidoctor -D output main.adoc
+	asciidoctor -a stylesheet=asciidoctor-custom.css -a stylesdir=./assets/stylesheets -D output main-html.adoc
 
 epub:
 	./helpers/generate_epub.sh $(FILE)

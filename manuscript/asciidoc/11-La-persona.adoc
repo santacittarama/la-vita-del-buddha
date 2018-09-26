@@ -16,7 +16,7 @@ sedere passando in rassegna le molte cose non salutari che aveva
 abbandonato e le molte cose salutari perfezionate sviluppandole dentro
 se stesso. Conoscendo il significato di ciò, egli esclamò queste parole:
 
-[verse]
+[quote]
 ____
 Quel che prima era, poi non fu. +
 Quel che prima non era, poi fu. +
@@ -41,7 +41,7 @@ traduzione alternativa del verso seguente e della sua spiegazione nei
 Commentari (Nyp.).] in se
 stesso. Conoscendo il significato di ciò, esclamò queste parole:
 
-[verse]
+[quote]
 ____
 Chi, senza alcuna base per la proliferazione [mentale], +
 ha messo da parte il vincolo e anche l’ostruzione, +
@@ -768,10 +768,12 @@ avuto abbastanza forza fisica per farlo».
 che vede il Dhamma vede me, e quando vede me vede il Dhamma. Cosa ne
 pensi, Vakkali, la forma materiale è permanente o impermanente?».
 
-Secondo Narratore. Il Buddha proseguì ripetendo il discorso che aveva
+[.narrator]
+`Secondo Narratore.` Il Buddha proseguì ripetendo il discorso che aveva
 offerto ai bhikkhu del gruppo dei cinque dopo l’Illuminazione.
 
-Prima Voce. Il Beato, dopo aver impartito al venerabile Vakkali questa
+[.voice]
+`Prima Voce.` Il Beato, dopo aver impartito al venerabile Vakkali questa
 istruzione, si alzò dal posto in cui sedeva e andò al Picco
 dell’Avvoltoio.
 
@@ -985,31 +987,50 @@ deducibile dalle mie affermazioni e che possa offrire ragioni per
 incolparmi?». Così si recò dal Beato e gli raccontò quanto era avvenuto.
 
 «Cosa ne pensi, Anurādha, la forma materiale è permanente o
-impermanente?». – «Impermanente, Signore».
+impermanente?».
 
-Secondo Narratore. Il Buddha proseguì come aveva fatto nel Secondo
+«Impermanente, Signore».
+
+[.narrator]
+`Secondo Narratore.` Il Buddha proseguì come aveva fatto nel Secondo
 Sermone pronunciato ai bhikkhu del gruppo dei cinque, e dopo chiese:
 
 «Cosa ne pensi, Anurādha? Pensi che la forma materiale sia il
-Perfetto?». – «No, Signore». – «Pensi che la sensazione … la percezione
-… le formazioni [mentali] … la coscienza sia il Perfetto?». – «No,
-Signore».
+Perfetto?».
+
+«No, Signore».
+
+«Pensi che la sensazione … la percezione … le formazioni [mentali] … la
+coscienza sia il Perfetto?».
+
+«No, Signore».
 
 «Cosa ne pensi, Anurādha? Pensi che il Perfetto sia nella forma
-materiale?». – «No, Signore». – «Pensi che il Perfetto sia separato
-dalla forma materiale?». – «No, Signore». – «Pensi che il Perfetto sia
-nella sensazione … sia separato dalla sensazione … sia nella percezione
-… sia separato dalla percezione … sia nelle formazioni [mentali] … sia
-separato dalle formazioni [mentali] … sia nella coscienza … sia separato
-dalla coscienza?». – «No, Signore».
+materiale?».
+
+«No, Signore».
+
+«Pensi che il Perfetto sia separato dalla forma materiale?».
+
+«No, Signore».
+
+«Pensi che il Perfetto sia nella sensazione … sia separato dalla sensazione …
+sia nella percezione … sia separato dalla percezione … sia nelle formazioni
+{empty}[mentali] … sia separato dalle formazioni [mentali] … sia nella coscienza
+… sia separato dalla coscienza?».
+
+«No, Signore».
 
 «Cosa ne pensi, Anurādha? Pensi che il Perfetto sia la forma materiale,
 la sensazione, la percezione, le formazioni [mentali] e la coscienza?».
-– «No, Signore».
+
+«No, Signore».
 
 «Cosa ne pensi, Anurādha? Pensi che il Perfetto sia privo di forma
 materiale, privo di sensazione, privo di percezione, privo di formazioni
-[mentali], privo di coscienza?». – «No, Signore».
+[mentali], privo di coscienza?».
+
+«No, Signore».
 
 «Anurādha, quando un Perfetto è davanti a te qui e ora, incomprensibile
 come vero e fondato, è appropriato dire di lui: “Amici, chi è Perfetto,

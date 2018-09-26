@@ -1,3 +1,4 @@
+[[anathapindika]]
 = Anāthapiṇḍika
 :chapter-number: 6
 
@@ -83,11 +84,14 @@ la luce dietro di sé e davanti a lui ci fu l’oscurità. In lui sorsero
 paura, sgomento e orrore. Voleva tornare indietro, ma lo spirito
 invisibile di Sīvaka si fece sentire:
 
+[quote]
+____
 Cento elefanti, cento cavalli, +
 Cento carri trainati da mule, +
 centomila fanciulle adornate di gemme +
 e orecchini: tutte queste cose non sono nemmeno degne della +
 sedicesima parte di un passo in avanti, adesso.
+____
 
 «Vai avanti capofamiglia, vai avanti. È meglio che tu vada avanti invece
 che indietro».
@@ -105,7 +109,7 @@ Anāthapiṇḍika pensò: «Si è rivolto a me chiamandomi per nome!» e fu
 felice e pieno di speranza. Andò dal Beato e si prostrò ai suoi piedi, e
 disse: «Mi auguro che il Beato abbia dormito bene».
 
-[verse]
+[quote]
 ____
 Un vero brāhmaṇafootnote:[Un’espressione che
 indica un Arahant (BB.).] dorme sempre bene. +
@@ -232,7 +236,7 @@ fabbro.
 Allora il Beato riconobbe Māra il Malvagio e si rivolse a lui con queste
 strofe:
 
-[verse]
+[quote]
 ____
 Un eremita perfetto nel contenimento +
 trascorre la sua vita in posti solitari, +
@@ -362,7 +366,7 @@ reciproca considerazione. Alla dissoluzione del corpo, dopo la morte,
 ricomparvero in una destinazione felice, in un mondo paradisiaco. E così
 questa fu chiamata “la santa vita della pernice”».
 
-[verse]
+[quote]
 ____
 Coloro che riveriscono un anziano +
 sono considerati abili nel Dhamma, +
@@ -393,7 +397,7 @@ del mondo, a quello passato, futuro e presente».
 «Così sia, Signore» egli rispose, e così fece. Allora il Beato si
 rivolse a lui con queste strofe:
 
-[verse]
+[quote]
 ____
 Tiene lontani freddo e caldo, +
 come pure animali selvatici, +
@@ -570,7 +574,7 @@ guerriero, un serpente, un fuoco e un bhikkhu».
 Così disse il Beato. Il Sublime, il Maestro, dopo aver detto queste
 cose, proseguì:
 
-[verse]
+[quote]
 ____
 Che un uomo non disprezzi né condanni +
 un giovane guerriero nato in un famoso lignaggio +

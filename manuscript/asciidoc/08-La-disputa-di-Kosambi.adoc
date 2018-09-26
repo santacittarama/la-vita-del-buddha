@@ -1,3 +1,4 @@
+[[kosambi]]
 = La Disputa di Kosambī
 :chapter-number: 8
 
@@ -159,7 +160,7 @@ queste strofe:
 [.suttaref]
 _M. 128; cf. Vin. Mv. 10:2-3_
 
-[verse]
+[quote]
 ____
 Quando molte voci urlano contemporaneamente, +
 non vi è chi pensa d’essere un folle, +
@@ -177,7 +178,7 @@ _M. 128; Jā. 3:488; Ud. 5:9_
 [.suttaref]
 _Thag. 275; Vin, Mv. 10:3_
 
-[verse]
+[quote]
 ____
 «Mi ha insultato, mi ha picchiato, +
 mi ha sconfitto, mi ha derubato!» +
@@ -203,7 +204,7 @@ ____
 [.suttaref]
 _M. 128; Dh. 3-6; Jā. 3:212, 488; Vin. Mv. 10:3_
 
-[verse]
+[quote]
 ____
 Spaccaossa e assassini, +
 ladri di bestiame, di cavalli, di patrimoni: +
@@ -215,7 +216,7 @@ ____
 [.suttaref]
 _M. 128; Jā. 3:488; Vin. Mv. 10:3_
 
-[verse]
+[quote]
 ____
 Se riuscite a trovare un compagno degno di fede, +
 col quale camminare, virtuoso e risoluto, +
@@ -348,14 +349,19 @@ mio agio e comodamente, lontano da tutti quegli elefanti».
 Il Beato, assaporando la sua solitudine, fu consapevole nella sua mente
 del pensiero sorto nella mente di quell’elefante. Esclamò queste parole:
 
-Qui un pachiderma va d’accordo con un altro pachiderma, l’elefante con
-zanne lunghe +
+[quote]
+____
+Qui un pachiderma va d’accordo con un altro pachiderma, +
+l’elefante con zanne lunghe +
 come colonne si delizia a star solo nella foresta: +
 così i loro cuori sono in armonia.
+____
 
-Vin. Mv. 10:4; cf. Ud. 4:5
+[.suttaref]
+_Vin. Mv. 10:4; cf. Ud. 4:5_
 
-Prima Voce. Subito dopo che il Beato aveva lasciato Kosambī, un bhikkhu
+[.voice]
+`Prima Voce.` Subito dopo che il Beato aveva lasciato Kosambī, un bhikkhu
 andò dal venerabile Ānanda e disse: «Amico Ānanda, il Beato ha messo in
 ordine il posto in cui riposava, ha preso la sua ciotola e la sua veste
 superiore ed è partito per errare da solo e privo di compagnia senza
@@ -373,6 +379,7 @@ del fausto albero _sāla_ a Pārileyyaka e, dopo avergli prestato omaggio,
 si misero a sedere da un lato. Allora il Beato li incoraggiò con un
 discorso di Dhamma.
 
+[.suttaref]
 _S. 22:81_
 
 [.voice]
