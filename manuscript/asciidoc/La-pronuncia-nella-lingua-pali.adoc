@@ -8,8 +8,8 @@ buddhiste,_ a cura di A.S. COMBA, Tapkina editrice 2016.)
 Per quanto riguarda l’accento, si seguono convenzionalmente le regole
 del latino: l’accento cade sulla penultima sillaba se è lunga per natura
 (una vocale lunga sormontata da un trattino, oppure i dittonghi e e o,
-per esempio _Nibbāna, Gòtama, kilèsa_) o per posizione (una vocale che
-precede due consonanti, per esempio _khùddaka_), oppure se la parola è
+per esempio _Nibbāna, kilèsa_) o per posizione (una vocale che
+precede due consonanti, per esempio _avijjā_), oppure se la parola è
 bisillaba; se la penultima sillaba è breve, l’accento si ritira sulla
 terzultima (per esempio _yàmaka_), salvo in parole di quattro o più
 sillabe in cui penultima e terzultima siano brevi: in questo caso
