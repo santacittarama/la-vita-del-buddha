@@ -1,5 +1,5 @@
 [[translators-note]]
-= Nota Alla Traduzione Italiana
+= Nota alla traduzione italiana
 
 Per rendere più agevole la lettura, a differenza dell’edizione inglese
 le note sono state collocate al fondo della pagina e non alla fine dei

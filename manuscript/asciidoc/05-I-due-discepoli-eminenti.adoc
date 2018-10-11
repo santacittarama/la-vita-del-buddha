@@ -2,7 +2,7 @@
 :chapter-number: 5
 
 [.voice]
-*Seconda Voce.* Avvenne questo. L’asceta itinerante Sañjaya si trovava a
+*Seconda voce.* Avvenne questo. L’asceta itinerante Sañjaya si trovava a
 Rājagaha con un gran seguito di asceti itineranti, con duecentocinquanta
 asceti itineranti. E Sāriputta e Moggallāna stavano vivendo la vita
 religiosa sotto l’asceta itinerante Sañjaya. Avevano fatto questo patto:
@@ -193,14 +193,14 @@ cosa durò sette giorni, e al termine di sette giorni cessò.
 _Vin. Mv. 1:23-24_
 
 [.narrator]
-*Secondo Narratore.* L’Anziano Moggallāna ottenne la condizione di
+*Secondo narratore.* L’Anziano Moggallāna ottenne la condizione di
 Arahant sette giorni dopo essersi recato dal Buddha. L’Anziano Sāriputta
 trascorse invece due settimane a passare in rassegna e ad analizzare con
 la visione profonda tutti i livelli della coscienza. Come divenne un
 Arahant è narrato nel modo seguente.
 
 [.voice]
-*Prima Voce.* Così ho udito. Mentre il Beato soggiornava a Rājagaha, nella
+*Prima voce.* Così ho udito. Mentre il Beato soggiornava a Rājagaha, nella
 Caverna Sūkarakhatā, l’asceta itinerante Dīghanakha andò da lui e
 scambiò i saluti. Poi disse: «La mia teoria e il mio punto di vista è
 questo, Maestro Gotama: “Niente mi piace”».
@@ -252,12 +252,12 @@ attaccarsi a qualche altro punto di vista. È in questo modo che tali
 punti di vista vengono abbandonati, lasciati».
 
 [.narrator]
-*Secondo Narratore.* Lo stesso è ripetuto per l’“uomo saggio” il cui
+*Secondo narratore.* Lo stesso è ripetuto per l’“uomo saggio” il cui
 punto di vista è “Niente mi piace”, “Qualcosa mi piace” e “Qualcosa non
 mi piace”.
 
 [.voice]
-*Prima Voce.* Ora, Aggivessana, questo corpo che ha una forma materiale
+*Prima voce.* Ora, Aggivessana, questo corpo che ha una forma materiale
 consiste di quattro grandi entità: terra, acqua, fuoco e aria. È
 procreato da madre e padre, e cresciuto con riso e pane. Esso è soggetto
 all’impermanenza, a essere unto e sfregato, alla dissoluzione e alla
@@ -308,7 +308,7 @@ Gotama, e nel Dhamma e nel Saṅgha».
 _M. 74_
 
 [.narrator]
-*Secondo Narratore.* In questo tempo il re Suddhodana mandò Kāludāyī, il
+*Secondo narratore.* In questo tempo il re Suddhodana mandò Kāludāyī, il
 figlio di uno dei suoi ministri, a Rājagaha al fine di persuadere suo
 figlio, il Buddha, a visitare Kapilavatthu. Prima di comunicare la sua
 missione, Kāludāyī divenne un bhikkhu. Alla fine della stagione fredda –
@@ -364,7 +364,7 @@ perché la parola “Perfetto” si è fatta vera in te.
 ____
 
 [.voice]
-*Seconda Voce.* Allorché il Beato era rimasto a Rājagaha per tutto il
+*Seconda voce.* Allorché il Beato era rimasto a Rājagaha per tutto il
 tempo che volle, si mise in viaggio per Kapilavatthu. Viaggiando per
 tappe, alla fine vi arrivò, e rimase nel Parco di Nigrodha. Ora, quando
 fu mattino, il Beato si vestì, prese la ciotola e la veste superiore, si
@@ -375,13 +375,13 @@ preparatogli.
 _Vin. Mv. 1:54_
 
 [.narrator]
-*Primo Narratore.* Il racconto di questa visita offerto dal Canone è
+*Primo narratore.* Il racconto di questa visita offerto dal Canone è
 breve, perfino lapidario. Perciò, prima di continuare con tale racconto,
 alcuni dettagli tratti dal Commentario renderanno più chiara la
 situazione.
 
 [.narrator]
-*Secondo Narratore.* Quando il Buddha arrivò a Kapilavatthu, gli uomini
+*Secondo narratore.* Quando il Buddha arrivò a Kapilavatthu, gli uomini
 del lignaggio Sakya, ben noti per il loro orgoglio, non erano inclini a
 prestargli omaggio. A quel punto egli compì il miracolo doppio, causando
 il simultaneo comparire di getti di fuoco e di acqua da tutte le sue
@@ -403,10 +403,10 @@ egli accettò. Al settimo giorno il Buddha consumò di nuovo il suo pasto
 nel palazzo del padre.
 
 [.narrator]
-*Primo Narratore.* Ora continua il racconto canonico.
+*Primo narratore.* Ora continua il racconto canonico.
 
 [.voice]
-*Seconda Voce.* La madre del principe Rāhula disse al principe Rāhula:
+*Seconda voce.* La madre del principe Rāhula disse al principe Rāhula:
 «Questo è tuo padre, Rāhula. Vai a chiedergli la tua eredità». Allora il
 principe Rāhula andò dal Beato e si mise in piedi di fronte a lui: «Il
 tuo aspetto è gradevole, monaco».
@@ -465,7 +465,7 @@ dei genitori. Se qualcuno lo fa, commette un’infrazione per atto errato.
 _Vin. Mv. Kh. 1:54_
 
 [.narrator]
-*Primo Narratore.* Secondo la tradizione, la decisione del cugino del
+*Primo narratore.* Secondo la tradizione, la decisione del cugino del
 Buddha, Ānanda, e di altri di lasciare la casa famigliare per la vita
 religiosa avvenne al tempo di questa visita. Il Buddha era già andato
 via da Kapilavatthu, ma si trovava ancora nei territori a nord di
@@ -473,7 +473,7 @@ Kosala. Essa dovette verificarsi in corrispondenza dei due seguenti
 episodi, benché non vi siano precise indicazioni per collocarla.
 
 [.voice]
-*Prima Voce.* Così ho udito. Una volta il Beato stava viaggiando
+*Prima voce.* Così ho udito. Una volta il Beato stava viaggiando
 attraverso la regione di Kosala con il venerabile Nāgasamāla, il suo
 monaco attendente. Il venerabile Nāgasamāla vide che la strada si
 biforcava. Egli disse al Beato: «Signore, questa è la direzione, andiamo
@@ -551,7 +551,7 @@ conosce». Triste e deluso, subito sparì.
 _S. 4:20_
 
 [.voice]
-*Seconda Voce.* Avvenne questo. Mentre il Beato soggiornava a Anupiyā –
+*Seconda voce.* Avvenne questo. Mentre il Beato soggiornava a Anupiyā –
 una città dei Malla è chiamata Anupiyā – molti ben noti principi Sakya
 abbracciarono la vita religiosa sotto il Beato. C’erano due fratelli,
 Mahānāma il Sakya e Anuruddha il Sakya. Anuruddha era stato allevato tra
@@ -737,7 +737,7 @@ ____
 _Vin. Cv. 7:1; cfr. Ud. 2:10_
 
 [.voice]
-*Prima Voce.* Il venerabile Nanda, il fratellastro del Beato, indossò
+*Prima voce.* Il venerabile Nanda, il fratellastro del Beato, indossò
 degli abiti variopinti e ben stirati, si truccò gli occhi e prese una
 ciotola lucente. Poi andò dal Beato e, dopo avergli prestato omaggio, si
 mise a sedere da un lato. Quando lo ebbe fatto, il Beato gli disse:
@@ -754,12 +754,12 @@ interesse per i desideri sensoriali».
 _S. 21:8_
 
 [.narrator]
-*Secondo Narratore.* Nel frattempo il novizio Rāhula, che ora aveva dieci
+*Secondo narratore.* Nel frattempo il novizio Rāhula, che ora aveva dieci
 anni, viveva sotto le cure dell’Anziano Sāriputta ad Ambalaṭṭhikā, nei
 pressi di Rājagaha, dove il Buddha tornò a tempo debito.
 
 [.voice]
-*Prima Voce.* Così ho udito. Una volta il Beato soggiornava a Rājagaha,
+*Prima voce.* Così ho udito. Una volta il Beato soggiornava a Rājagaha,
 nel Boschetto di Bambù, nel Sacrario degli Scoiattoli e il venerabile
 Rāhula viveva ad Ambalaṭṭhikā. Il venerabile Rāhula lo vide arrivare,
 preparò per lui un posto a sedere e dell’acqua per lavarsi i piedi. Il
@@ -825,7 +825,7 @@ tue parole e i tuoi pensieri».
 _M. 61_
 
 [.narrator]
-*Secondo Narratore.* Il Buddha continuò impartendogli istruzioni
+*Secondo narratore.* Il Buddha continuò impartendogli istruzioni
 dettagliate su come esaminare ogni azione prima, durante e dopo che sia
 stata compiuta, giudicandola non salutare qualora essa sia a danno
 proprio o degli altri e di entrambi, oppure giudicandola salutare se non

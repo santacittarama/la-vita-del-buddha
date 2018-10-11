@@ -40,5 +40,5 @@ libri del _Vinaya Piṭaka,_ al discorso mediante il numero o mediante il
 gruppo e il numero per i libri principali del _Sutta Piṭaka_, e al
 numero del verso per il _Dhammapada_ e per le _Theragāthā_.
 
-*NDT*: nota del traduttore italiano
+NDT: nota del traduttore italiano
 

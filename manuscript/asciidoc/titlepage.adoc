@@ -5,7 +5,7 @@
 == {description} 
 
 [.titlepage-traduzione]
-_Traduzione dal Pāli, selezione e adattamento del materiale di_ +
+_Traduzione dalla lingua Pāli, selezione e adattamento del materiale di_ +
 
 [role=titlepage-custom-author]
 Bhikkhu Ñāṇamoli

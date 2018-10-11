@@ -1,12 +1,12 @@
 = Voci
 
 [.narrator]
-*Primo Narratore.* È un commentatore del nostro tempo che offre cognizioni
+*Primo narratore.* È un commentatore del nostro tempo che offre cognizioni
 introduttive, un osservatore imparziale con una generale conoscenza
 degli eventi.
 
 [.narrator]
-*Secondo Narratore.* È un commentatore che propone informazioni storiche e
+*Secondo narratore.* È un commentatore che propone informazioni storiche e
 culturali presenti solo nei Commentari in lingua pāli, soprattutto in
 quelli di Buddhaghosa, che risalgono al V secolo d.C. Ha la funzione di
 offrire il materiale strettamente indispensabile per una
@@ -14,17 +14,17 @@ contestualizzazione storica e, occasionalmente, sintetizza parti del
 Canone stesso.
 
 [.voice]
-*Prima Voce.* È la voce di Ānanda, discepolo e assistente personale del
+*Prima voce.* È la voce di Ānanda, discepolo e assistente personale del
 Buddha, che recitò i Discorsi (o sutta) durante il Primo Concilio,
 tenutosi a Rājagaha tre mesi dopo la morte e il _Parinibbāna_ del
 Buddha.
 
 [.voice]
-*Seconda Voce.* È la voce di Upāli, discepolo del Buddha, che durante il
+*Seconda voce.* È la voce di Upāli, discepolo del Buddha, che durante il
 Primo Concilio recitò la Disciplina (o Vinaya).
 
 [.voice]
-*Terza Voce.* È un partecipante al Secondo Concilio, tenutosi cento anni
+*Terza voce.* È un partecipante al Secondo Concilio, tenutosi cento anni
 dopo il _Parinibbāna_ del Buddha, che nel XVI capitolo narra gli eventi
 verificatisi prima e dopo il Primo Concilio.
 

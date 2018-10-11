@@ -7,7 +7,7 @@
 :revdate: 2018-09-26
 :doctype: book
 :lang: it
-:pubs-logo: edizioni-santacittarama-w150.jpg
+:pubs-logo: edizioni-santacittarama-w400.jpg
 :publisher-name: Edizioni Santacittarama
 :publisher-link-name: www.santacittarama.org
 :publisher-link-url: http://www.santacittarama.org
