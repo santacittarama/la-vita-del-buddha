@@ -1391,11 +1391,11 @@ figure.image.quotebreak img {
 .cantor > blockquote > p:first-child {
   text-indent: -2em;
 }
-.narrator code.literal,
-.voice code.literal,
-.cantor code.literal {
+.narrator strong:first-child,
+.voice strong:first-child,
+.cantor strong:first-child {
   font-family: "Fontin Sans SC";
-  font-size: 21px;
+  font-size: 0.9em;
   letter-spacing: 0.5px;
   color: #6b6b6b;
 }

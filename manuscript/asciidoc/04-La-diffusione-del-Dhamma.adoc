@@ -2,7 +2,7 @@
 :chapter-number: 4
 
 [.voice]
-`Seconda Voce.` Avvenne questo. C’era un uomo di nobile stirpe, chiamato
+*Seconda Voce.* Avvenne questo. C’era un uomo di nobile stirpe, chiamato
 Yasa. Era il figlio di un ricco mercante, allevato tra gli agi.
 Possedeva tre palazzi, uno per la stagione fredda, uno per la stagione
 calda e un altro per quella delle piogge. Nel palazzo per la stagione
@@ -566,7 +566,7 @@ capelli intrecciati fece quel che aveva fatto Kassapa del fiume.
 _Vin. Mv. 1:7-20_
 
 [.voice]
-`Prima Voce.` Così ho udito. Una volta il Beato soggiornava a Uruvelā nei
+*Prima Voce.* Così ho udito. Una volta il Beato soggiornava a Uruvelā nei
 pressi dell’albero _ajapāla nigrodha_ sulla riva del fiume Nerañjarā.
 Māra il Malvagio stava seguendo il Beato da sette anni alla ricerca di
 un’opportunità, ma senza riuscire a trovarne nessuna. Allora si recò dal
@@ -773,7 +773,7 @@ ____
 _S. 4:24-25_
 
 [.voice]
-`Seconda Voce.` Ora, dopo essere rimasto a Uruvelā per tutto il tempo che
+*Seconda Voce.* Ora, dopo essere rimasto a Uruvelā per tutto il tempo che
 volle, il Beato si avviò verso Gayāsīsa con un gran seguito di bhikkhu,
 con un migliaio di bhikkhu, con tutti quelli che prima erano stati
 asceti dai capelli intrecciati. Il Beato si fermò a Gayāsīsa, nei pressi

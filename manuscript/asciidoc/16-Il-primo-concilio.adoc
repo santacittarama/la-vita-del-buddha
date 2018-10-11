@@ -2,13 +2,13 @@
 :chapter-number: 16
 
 [.narrator]
-`Primo Narratore.` Dopo l’ottenimento del Nibbāna definitivo da parte del
+*Primo Narratore.* Dopo l’ottenimento del Nibbāna definitivo da parte del
 Buddha, i bhikkhu si allontanarono da Kusinārā e si dispersero.
 L’Anziano Mahā-Kassapa emerge quale figura più eminente nel Saṅgha dei
 bhikkhu.
 
 [.narrator]
-`Secondo Narratore.` Egli era già stato in precedenza menzionato dal
+*Secondo Narratore.* Egli era già stato in precedenza menzionato dal
 Buddha come il quarto nella lunga lista dei discepoli di particolare
 distinzione. Il primo era l’Anziano Kondañña, il primo convertito; il
 secondo e il terzo erano gli Anziani Sāriputta e Moggallāna, i due
@@ -22,11 +22,11 @@ compimento la sua perfezione, quella perfezione già raggiunta dallo
 stesso Anziano Mahā-Kassapa.
 
 [.narrator]
-`Primo Narratore.` Ecco un episodio appartenente a questo periodo di
+*Primo Narratore.* Ecco un episodio appartenente a questo periodo di
 transizione, che ben illustra il suo carattere.
 
 [.voice]
-`Prima Voce.` Così ho udito. Una volta il venerabile Mahā-Kassapa
+*Prima Voce.* Così ho udito. Una volta il venerabile Mahā-Kassapa
 soggiornava a Rājagaha, nel Boschetto di Bambù, nel Sacrario degli
 Scoiattoli. In quel momento il venerabile Ānanda andava errando nelle
 Colline Meridionali con una larga comunità di bhikkhu. Fu allora che
@@ -136,7 +136,7 @@ panni scartati di canapa”, è di me che in verità ciò potrebbe essere
 detto».
 
 [.narrator]
-`Primo Narratore.` Egli proseguì raccontando come fosse in grado, ogni
+*Primo Narratore.* Egli proseguì raccontando come fosse in grado, ogni
 volta che lo desiderava, di entrare e dimorare nei quattro jhāna e anche
 nei quattro stati privi di forma, come pure nella cessazione della
 percezione e della sensazione, avendo inoltre acquisito i cinque tipi di
@@ -146,7 +146,7 @@ passate e l’occhio divino per mezzo del quale si vede come gli esseri
 scompaiono e ricompaiono in accordo con le loro azioni. Egli concluse:
 
 [.voice]
-`Prima Voce.` «Ogni volta che lo desidero, mediante la realizzazione di me
+*Prima Voce.* «Ogni volta che lo desidero, mediante la realizzazione di me
 stesso con la conoscenza diretta qui e ora, io entro e dimoro nella
 liberazione della mente e nella liberazione per mezzo della
 comprensione, che è priva delle contaminazioni per l’esaurimento delle
@@ -161,11 +161,11 @@ In seguito la bhikkhuṇī Thullānandā abbandonò la santa vita.
 _S. 16:11_
 
 [.narrator]
-`Secondo Narratore.` Sono passate ancora solo poche settimane dal
+*Secondo Narratore.* Sono passate ancora solo poche settimane dal
 Parinibbāna.
 
 [.voice]
-`Terza Voce.` Il venerabile Mahā-Kassapa disse: «Ora, amici, recitiamo
+*Terza Voce.* Il venerabile Mahā-Kassapa disse: «Ora, amici, recitiamo
 l’Insegnamento e la Disciplina, il Dhamma e il Vinaya. Già erronei
 insegnamenti ed erronea disciplina sono stati corteggiati, e retti
 insegnamenti e retta disciplina sono stati derisi. E già sostenitori di
@@ -245,7 +245,7 @@ Upāli, dove fu resa nota la Prima Sconfitta?».
 «Sull’argomento del rapporto sessuale».
 
 [.narrator]
-`Secondo Narratore.` L’Anziano Mahā-Kassapa allora interrogò l’Anziano
+*Secondo Narratore.* L’Anziano Mahā-Kassapa allora interrogò l’Anziano
 Upāli sull’argomento della Prima Sconfitta, sulla sua origine, sulla
 persona, sulla proclamazione, sulle modifiche, sull’infrazione e su quel
 che non rappresentava un’infrazione. Poi egli lo interrogò nello stesso
@@ -257,7 +257,7 @@ quello delle bhikkhuṇī, come pure su tutte le altre regole. L’Anziano
 Upāli rispose a ogni domanda.
 
 [.voice]
-`Terza Voce.` Allora il venerabile Mahā-Kassapa offrì tale argomento di
+*Terza Voce.* Allora il venerabile Mahā-Kassapa offrì tale argomento di
 decisione al cospetto del Saṅgha: «Che il Saṅgha mi ascolti, amici. Se
 al Saṅgha sembra opportuno, interrogherò il venerabile Ānanda sul
 Dhamma».
@@ -273,14 +273,14 @@ Allora il venerabile Mahā-Kassapa disse al venerabile Ānanda: «Amico
 «Tra Rājagaha e Nālandā, Signore, nella Casa del Re ad Ambalaṭṭhikā».
 
 [.narrator]
-`Secondo Narratore.` L’anziano lo interrogò poi sull’origine del
+*Secondo Narratore.* L’anziano lo interrogò poi sull’origine del
 _Brahmajāla Sutta_, il primo nella Raccolta dei Discorsi Lunghi, e sulla
 persona. Poi egli lo interrogò nello stesso modo a proposito del
 _Sāmaññaphala Sutta_. In questo maniera egli lo interrogò su tutti i
 discorsi di tutte le quattro Principali Raccolte del _Sutta Piṭaka._
 
 [.voice]
-`Terza Voce.` Allora il venerabile Ānanda disse ai bhikkhu anziani:
+*Terza Voce.* Allora il venerabile Ānanda disse ai bhikkhu anziani:
 «Signori, il Beato nel tempo in cui ottenne il Nibbāna definitivo mi
 disse: “Quando me ne sarò andato, il Saṅgha potrà, se lo desidera,
 abolire le regole più minute e minori”».
@@ -291,13 +291,13 @@ minute e minori?».
 «No, Signori, non l’ho chiesto».
 
 [.narrator]
-`Secondo Narratore.` Gli anziani espressero diverse opinioni in relazioni
+*Secondo Narratore.* Gli anziani espressero diverse opinioni in relazioni
 a quali regole, a parte le Quattro Sconfitte, dovessero essere
 considerate minute e minori. Allora il venerabile Mahā-Kassapa offrì un
 argomento di decisione al cospetto del Saṅgha.
 
 [.voice]
-`Terza Voce.` «Che il Saṅgha mi ascolti, amici. Ci sono alcune delle
+*Terza Voce.* «Che il Saṅgha mi ascolti, amici. Ci sono alcune delle
 nostre regole d’addestramento che coinvolgono i laici, mediante le quali
 i laici conoscono quello che è permesso ai monaci che sono figli dei
 Sakya e quello che non lo è. Se noi aboliamo queste regole più minute e
@@ -379,13 +379,13 @@ Beato».
 _Vin. Cv. 11:11_
 
 [.narrator]
-`Primo Narratore.` Ecco ora un ultimo episodio, che mostra il giovane
+*Primo Narratore.* Ecco ora un ultimo episodio, che mostra il giovane
 Saṅgha che continua a vivere dopo la scomparsa del fondatore, un
 organismo affermato, che è sopravvissuto in modo ininterrotto e fiorente
 per due millenni e mezzo, fino a oggi.
 
 [.voice]
-`Terza Voce.` Così ho udito. Una volta il venerabile Ānanda viveva a
+*Terza Voce.* Così ho udito. Una volta il venerabile Ānanda viveva a
 Rājagaha, nel Boschetto di Bambù, nel Sacrario degli Scoiattoli, non
 molto tempo dopo che il Beato aveva ottenuto il Nibbāna definitivo.
 
@@ -591,7 +591,7 @@ posseduti da esso, e fanno così seguendo lui”?».
 _M. 108_
 
 [.narrator]
-`Secondo Narratore.` Nel frattempo il re Ajātasattu era intento alla
+*Secondo Narratore.* Nel frattempo il re Ajātasattu era intento alla
 distruzione del suo troppo possente vicino, la confederazione Vajji con
 capitale a Vesālī, a nord-est al di là del Gange. Al fine di aiutarlo a
 raggiungere il suo scopo, Vassakāra finse di cospirare contro di lui, si
@@ -609,7 +609,7 @@ nord-orientale, trattando nello stesso modo le popolazioni che là
 vivevano.
 
 [.narrator]
-`Primo Narratore.` Tutto questo chiude il primo scenario di storia
+*Primo Narratore.* Tutto questo chiude il primo scenario di storia
 dell’India. Per il successivo secolo e mezzo, fino alla nascita
 dell’Impero Maurya con la sua nuova dinastia, vengono solo menzionati i
 nomi dei re di Magadha e il racconto del Secondo Concilio degli Arahant,

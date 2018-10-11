@@ -2,7 +2,7 @@
 :chapter-number: 1
 
 [.narrator]
-`Primo Narratore.` La storia dell’India inizia con la vita del Buddha
+*Primo Narratore.* La storia dell’India inizia con la vita del Buddha
 Gotama. Più esattamente, è a questo punto che la memoria storica
 rimpiazza l’archeologia e la leggenda. Le notizie fornite dalla vita e
 dagli insegnamenti del Buddha – sono i primi testi a essere ritenuti
@@ -22,7 +22,7 @@ eccezionalmente calmo, la società era stabile e i governi ben
 organizzati, in forte contrasto rispetto a quanto avvenne prima e dopo.
 
 [.narrator]
-`Secondo Narratore.` Tre mesi dopo il _Parinibbāna_ del Buddha, i suoi
+*Secondo Narratore.* Tre mesi dopo il _Parinibbāna_ del Buddha, i suoi
 discepoli più longevi sopravvissutigli convocarono un concilio di
 cinquecento monaci anziani per mettersi d’accordo sulla forma in cui
 l’insegnamento del Maestro doveva essere tramandato alla posterità. Tra
@@ -43,7 +43,7 @@ riferendo il luogo in cui il Buddha parlò e la persona alla quale egli
 si rivolse, iniziando con le parole _evaṃ me sutaṃ_ – «Così ho udito».
 
 [.narrator]
-`Primo Narratore.` Questa narrazione della vita del Buddha è tratta da
+*Primo Narratore.* Questa narrazione della vita del Buddha è tratta da
 tali due “Canestri”. Come siano riusciti a giungere fino a noi, lo
 diremo in seguito. Qui, per cominciare, offriamo il racconto dell’ultima
 nascita del Buddha, descritta da lui stesso e in seguito riferita da
@@ -51,7 +51,7 @@ nascita del Buddha, descritta da lui stesso e in seguito riferita da
 del Buddha, nota come lingua pāli.
 
 [.voice]
-`Prima Voce.` Così ho udito. Una volta il
+*Prima Voce.* Così ho udito. Una volta il
 Beatofootnote:[Una traduzione letterale dell’aggettivo _bhagavant_ è
 impossibile. Viene perciò reso con “Beato”. Buddhaghosa nel suo
 _Visuddhimagga_ (VII, pp. 53 ss.) offre numerose spiegazioni in
@@ -245,13 +245,13 @@ bhikkhu furono soddisfatti, e si deliziarono delle parole del venerabile
 _M. 123; cf. D. 14_
 
 [.narrator]
-`Primo Narratore.` Come un veggente brāhmaṇa – un veggente del “divino” o
+*Primo Narratore.* Come un veggente brāhmaṇa – un veggente del “divino” o
 della casta dei sacerdoti – predisse la futura Illuminazione è
 raccontato in un canto.
 
 [quote, Sn. 3:11, role=cantor]
 ____
-`Cantore`
+*Cantore*
 
 Il Saggio Asita, nella sua meditazione diurna, +
 vide che gli dèi, quelli della Compagnia dei Trenta, +
@@ -352,7 +352,7 @@ del Silenzio Supremo.
 ____
 
 [.narrator]
-`Primo Narratore.` Benché la letteratura successiva offra molti dettagli
+*Primo Narratore.* Benché la letteratura successiva offra molti dettagli
 sui primi anni, il _Tipiṭaka_ dice pochissimo in proposito. Fa
 riferimento a due soli episodi. Innanzitutto, il ricordo della
 meditazione sotto l’albero di melarosa mentre il padre del Bodhisatta
@@ -366,7 +366,7 @@ corrispondono a tre dei “messaggeri” – l’anziano, il malato e il defunto
 _D. 14_
 
 [.voice]
-`Prima Voce.` «Ero delicato, molto delicato, massimamente
+*Prima Voce.* «Ero delicato, molto delicato, massimamente
 delicato.footnote:[Queste circostanze sono altrove considerate essere costanti
 per tutti i Bodhisatta nella loro ultima esistenza (D. 14). Nel
 _Tipiṭaka_ la narrazione dei “quattro messaggeri” – l’anziano, il

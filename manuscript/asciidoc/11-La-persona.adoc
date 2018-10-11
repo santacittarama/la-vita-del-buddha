@@ -2,7 +2,7 @@
 :chapter-number: 11
 
 [.narrator]
-`Primo Narratore.` Per un periodo non è più possibile tracciare il corso
+*Primo Narratore.* Per un periodo non è più possibile tracciare il corso
 degli eventi, e ora bisogna fare una pausa per vedere che cosa dice il
 Canone sulle qualità personali del Buddha: per vedere sia che cosa il
 Buddha avesse da dire su se stesso sia che cosa disse di lui la gente
@@ -10,7 +10,7 @@ che allora lo incontrò, nelle più antiche relazioni che sono giunte fino
 a noi.
 
 [.voice]
-`Prima Voce.` Così ho udito. Una volta, quando il Beato soggiornava a
+*Prima Voce.* Così ho udito. Una volta, quando il Beato soggiornava a
 Sāvatthī nel Boschetto di Jeta, nel parco di Anāthapiṇḍika, si mise a
 sedere passando in rassegna le molte cose non salutari che aveva
 abbandonato e le molte cose salutari perfezionate sviluppandole dentro
@@ -64,10 +64,10 @@ sono».
 _S. 56:23_
 
 [.narrator]
-`Secondo Narratore.` Il Buddha nomina i sei Buddha che lo hanno preceduto.
+*Secondo Narratore.* Il Buddha nomina i sei Buddha che lo hanno preceduto.
 
 [.voice]
-`Prima Voce.` «Novantuno ere fa, bhikkhu, il beato Vipassī, realizzato e
+*Prima Voce.* «Novantuno ere fa, bhikkhu, il beato Vipassī, realizzato e
 completamente illuminato, apparve nel mondo. Trentuno ere fa il beato
 Sikhī, realizzato e completamente illuminato, apparve nel mondo. Nella
 stessa trentunesima era il beato Vessabhū, realizzato e completamente
@@ -83,11 +83,11 @@ illuminato, sono apparso nel mondo».
 _D. 14 (condensato)_
 
 [.narrator]
-`Primo Narratore.` Dopo aver descritto gli altri, ecco che cosa dice di se
+*Primo Narratore.* Dopo aver descritto gli altri, ecco che cosa dice di se
 stesso.
 
 [.voice]
-`Prima Voce.` «Io appartengo ai Khattiya, nobile stirpe guerriera. Sono
+*Prima Voce.* «Io appartengo ai Khattiya, nobile stirpe guerriera. Sono
 rinato in una famiglia khattiya. Quanto al mio clan sono un Gotama. La
 mia vita è corta, di breve durata e termina presto; chi vive a lungo ora
 compie un secolo o poco più. Ottenni l’Illuminazione ai piedi di un
@@ -594,13 +594,13 @@ Quando ciò fu detto, gli asceti itineranti rimasero in silenzio.
 _A. 10:94_
 
 [.narrator]
-`Secondo Narratore.` Saccaka, un figlio di Nigaṇṭha, venne a disputare con
+*Secondo Narratore.* Saccaka, un figlio di Nigaṇṭha, venne a disputare con
 il Buddha a Vesālī. Il Buddha descrive come il suo sforzo precedente
 l’Illuminazione gli fece scoprire che la mortificazione non conduce da
 nessuna parte. Egli disse:
 
 [.voice]
-`Prima Voce.` «Ho fatto esperienza dell’insegnamento del Dhamma a
+*Prima Voce.* «Ho fatto esperienza dell’insegnamento del Dhamma a
 un’uditorio di molte centinaia di persone. Forse qualcuno ha
 fantasticato: “Il monaco Gotama sta predicando il Dhamma per me
 personalmente”. Ma la cosa non dovrebbe essere considerata in questo
@@ -649,15 +649,15 @@ e abbiamo molto da fare».
 _M. 36_
 
 [.narrator]
-`Secondo Narratore.` Tuttavia Saccaka non si convinse e conservò i propri
+*Secondo Narratore.* Tuttavia Saccaka non si convinse e conservò i propri
 punti di vista.
 
 [.narrator]
-`Primo Narratore.` C’è un episodio che mostra come il Buddha non fosse
+*Primo Narratore.* C’è un episodio che mostra come il Buddha non fosse
 immune dalle malattie.
 
 [.voice]
-`Prima Voce.` Una volta il Beato soggiornava nel Parco di Nigrodha a
+*Prima Voce.* Una volta il Beato soggiornava nel Parco di Nigrodha a
 Kapilavatthu, nel territorio dei Sakya. Era appena guarito da una
 malattia. Allora Mahānāma il Sakya andò da lui e disse: «Signore, da
 lungo tempo conosco il Dhamma insegnato dal Beato in questo modo: “La
@@ -692,12 +692,12 @@ l’esaurimento delle contaminazioni».
 _A. 3:73_
 
 [.narrator]
-`Primo Narratore.` Il Buddha era di statura normale. Lo si può supporre
+*Primo Narratore.* Il Buddha era di statura normale. Lo si può supporre
 dalla storia del suo cambio di veste con l’Anziano Mahā-Kassapa, che
 sarà offerta in seguito, e dal seguente episodio.
 
 [.voice]
-`Seconda Voce.` Avvenne questo. Il Beato stava soggiornando a Sāvatthī nel
+*Seconda Voce.* Avvenne questo. Il Beato stava soggiornando a Sāvatthī nel
 Boschetto di Jeta, nel parco di Anāthapiṇḍika, e a quel tempo il
 venerabile Nanda, il figlio della zia del Beato, si trovava là. Egli era
 di bell’aspetto, e ispirava fiducia e sicurezza. Era quattro dita più
@@ -719,11 +719,11 @@ di lunghezza e sei spanne di larghezza, della spanna del Sublime».
 _Vin. Sv. Pāc. 92_
 
 [.narrator]
-`Primo Narratore.` La storia dell’Anziano Vakkali è qui opportuna in
+*Primo Narratore.* La storia dell’Anziano Vakkali è qui opportuna in
 quanto illustra l’attitudine del Buddha a essere presente personalmente.
 
 [.voice]
-`Prima Voce.` Così ho udito. Una volta, quando il Beato soggiornava a
+*Prima Voce.* Così ho udito. Una volta, quando il Beato soggiornava a
 Rājagaha, nel Boschetto di Bambù, nel Sacrario degli Scoiattoli, il
 venerabile Vakkali viveva nella casa di un vasaio. Era afflitto,
 sofferente e gravemente malato. Egli disse ai suoi monaci attendenti:
@@ -769,11 +769,11 @@ che vede il Dhamma vede me, e quando vede me vede il Dhamma. Cosa ne
 pensi, Vakkali, la forma materiale è permanente o impermanente?».
 
 [.narrator]
-`Secondo Narratore.` Il Buddha proseguì ripetendo il discorso che aveva
+*Secondo Narratore.* Il Buddha proseguì ripetendo il discorso che aveva
 offerto ai bhikkhu del gruppo dei cinque dopo l’Illuminazione.
 
 [.voice]
-`Prima Voce.` Il Beato, dopo aver impartito al venerabile Vakkali questa
+*Prima Voce.* Il Beato, dopo aver impartito al venerabile Vakkali questa
 istruzione, si alzò dal posto in cui sedeva e andò al Picco
 dell’Avvoltoio.
 
@@ -844,7 +844,7 @@ qualche parte».
 _S. 22:87_
 
 [.narrator]
-`Primo Narratore.` Nei Piṭaka sono riportati vari esempi di bhikkhu che si
+*Primo Narratore.* Nei Piṭaka sono riportati vari esempi di bhikkhu che si
 tolgono la vita. Il Buddha disse che ciò non era riprovevole a una sola
 condizione: che il bhikkhu fosse già un Arahant, privo di brama, odio o
 illusione, o che lo fosse diventato prima di morire, e che il togliersi
@@ -857,14 +857,14 @@ in relazione a conquiste spirituali – benché il tentato suicidio sia
 un’infrazione minore di atto errato.
 
 [.narrator]
-`Secondo Narratore.` Si è in precedenza riferito come il Buddha menzionò i
+*Secondo Narratore.* Si è in precedenza riferito come il Buddha menzionò i
 sei Buddha che lo avevano preceduto. Egli menzionò pure il Buddha che
 gli sarebbe succeduto in futuro, quel che sarebbe avvenuto dopo al suo
 stesso insegnamento e dopo che il suo ricordo sarebbe del tutto svanito
 dal mondo.
 
 [.voice]
-`Prima Voce.` «Quando la vita degli esseri umani aumenterà a ottantamila
+*Prima Voce.* «Quando la vita degli esseri umani aumenterà a ottantamila
 anni, il beato Metteyya, realizzato e completamente illuminato, sorgerà
 nel mondo, perfetto nella conoscenza e nella condotta, sublime,
 conoscitore dei mondi, incomparabile guida degli uomini che devono
@@ -992,7 +992,7 @@ impermanente?».
 «Impermanente, Signore».
 
 [.narrator]
-`Secondo Narratore.` Il Buddha proseguì come aveva fatto nel Secondo
+*Secondo Narratore.* Il Buddha proseguì come aveva fatto nel Secondo
 Sermone pronunciato ai bhikkhu del gruppo dei cinque, e dopo chiese:
 
 «Cosa ne pensi, Anurādha? Pensi che la forma materiale sia il
@@ -1102,7 +1102,7 @@ felicità, tranquillità, consapevolezza, piena presenza mentale e un
 piacevole dimorare».
 
 [.narrator]
-`Secondo Narratore.` Il Buddha continuò a dire che, da una rinascita
+*Secondo Narratore.* Il Buddha continuò a dire che, da una rinascita
 all’altra, a ognuno di questi tre modi di acquisizione del sé può
 seguirne un altro. Stando così le cose, non è possibile sostenere a
 ragione che solo uno di essi è vero e che gli altri sono errati. Si può
@@ -1114,7 +1114,7 @@ che descrive e a nessuno degli altri, benché, tuttavia, ognuno non sia
 slegato dall’altro. Il Buddha concluse:
 
 [.voice]
-`Prima Voce.` «Questi sono usi del mondo, linguaggio del mondo, termini
+*Prima Voce.* «Questi sono usi del mondo, linguaggio del mondo, termini
 per la comunicazione del mondo, descrizioni del mondo, tramite i quali
 un Perfetto comunica senza fraintenderli».
 

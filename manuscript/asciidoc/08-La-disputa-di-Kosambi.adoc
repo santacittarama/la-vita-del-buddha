@@ -3,7 +3,7 @@
 :chapter-number: 8
 
 [.narrator]
-`Secondo Narratore.`  La tradizione afferma che la sesta stagione delle
+*Secondo Narratore.*  La tradizione afferma che la sesta stagione delle
 piogge fu trascorsa sul monte Makula e che durante l’anno successivo
 avvenne nuovamente il miracolo doppio a Sāvatthī, dopo di che il Buddha
 ascese nel paradiso delle Trentatré Divinità. Lì egli trascorse la
@@ -14,7 +14,7 @@ luogo la “discesa degli dèi”. Egli trascorse l’ottava stagione delle
 piogge a Suṃsumāragira e la nona a Kosambī.
 
 [.narrator]
-`Primo Narratore.` Kosambī era la capitale del piccolo regno di Vaṃsa,
+*Primo Narratore.* Kosambī era la capitale del piccolo regno di Vaṃsa,
 incuneato tra il Gange e il Jumna. Il suo re, Udena, è a mala pena
 menzionato nel Canone. La maggior parte degli eventi collocati in questi
 anni dalla tradizione più tarda, inclusa la visita al paradiso delle
@@ -22,7 +22,7 @@ Trentatré Divinità e la discesa degli dèi, non sono menzionati nel
 Canone.
 
 [.narrator]
-`Secondo Narratore.` Per iniziare, questo è il racconto della triviale
+*Secondo Narratore.* Per iniziare, questo è il racconto della triviale
 circostanza che condusse alla prima grande disputa, che minacciò di
 produrre uno scisma nel Saṅgha. Pare che in un monastero vi fossero due
 bhikkhu, uno era esperto nella Disciplina e l’altro insegnava i
@@ -46,11 +46,11 @@ bugiardo». La sua risposta consistette nel convocare un capitolo e
 sospendere l’insegnante di Discorsi.
 
 [.narrator]
-`Primo Narratore.` Questo è il racconto canonico di quel che successe in
+*Primo Narratore.* Questo è il racconto canonico di quel che successe in
 seguito.
 
 [.voice]
-`Seconda Voce.` Avvenne questo. Mentre il Buddha, il Beato, viveva a
+*Seconda Voce.* Avvenne questo. Mentre il Buddha, il Beato, viveva a
 Kosambī nel Parco di Ghosita, un bhikkhu fu coinvolto in un’infrazione.
 Egli considerò l’infrazione come un’infrazione, ma l’altro bhikkhu non
 considerò l’infrazione come un’infrazione. Poi, lui stesso non considerò
@@ -130,7 +130,7 @@ Dopo che il Beato ebbe detto queste cose, si alzò e se ne andò.
 _Vin. Mv. 10:1_
 
 [.voice]
-`Prima Voce.` Però, nel Saṅgha scoppiarono litigi, risse e dispute, e i
+*Prima Voce.* Però, nel Saṅgha scoppiarono litigi, risse e dispute, e i
 bhikkhu si ferirono a vicenda con frecce fatte di parole. Non riuscivano
 a comporre la loro lite. Allora un bhikkhu andò dal Beato e, dopo
 avergli prestato omaggio, si mise in piedi da un lato. Gli raccontò che
@@ -323,7 +323,7 @@ ardenti e auto-controllati».
 _M. 128; Vin. Mv. 10:4_
 
 [.voice]
-`Seconda Voce.` Quando il Beato li ebbe istruiti, esortati, risvegliati e
+*Seconda Voce.* Quando il Beato li ebbe istruiti, esortati, risvegliati e
 incoraggiati con un discorso di Dhamma, si alzò dal posto in cui sedeva.
 Partì viaggiando per tappe per recarsi a Pārileyyaka. Infine vi giunse e
 andò a vivere nella giungla Rakkhita, ai piedi di un fausto albero
@@ -361,7 +361,7 @@ ____
 _Vin. Mv. 10:4; cf. Ud. 4:5_
 
 [.voice]
-`Prima Voce.` Subito dopo che il Beato aveva lasciato Kosambī, un bhikkhu
+*Prima Voce.* Subito dopo che il Beato aveva lasciato Kosambī, un bhikkhu
 andò dal venerabile Ānanda e disse: «Amico Ānanda, il Beato ha messo in
 ordine il posto in cui riposava, ha preso la sua ciotola e la sua veste
 superiore ed è partito per errare da solo e privo di compagnia senza
@@ -383,7 +383,7 @@ discorso di Dhamma.
 _S. 22:81_
 
 [.voice]
-`Seconda Voce.` Quando il Beato era rimasto a Pārileyyaka per tutto il
+*Seconda Voce.* Quando il Beato era rimasto a Pārileyyaka per tutto il
 tempo che volle, partì viaggiando per tappe verso Sāvatthī. Infine vi
 arrivò, e andò a vivere nel Boschetto di Jeta, nel Parco di
 Anāthapiṇḍika.

@@ -2,7 +2,7 @@
 :chapter-number: 10
 
 [.narrator]
-`Primo Narratore.` Dopo il ventesimo anno successivo all’Illuminazione –
+*Primo Narratore.* Dopo il ventesimo anno successivo all’Illuminazione –
 da quando il Buddha aveva cinquantacinque anni – tutte le tradizioni
 rinunciano fino all’ultimo anno al tentativo di offrire un ordine
 cronologico per gli eventi. L’evidenza intrinseca al _Tipiṭaka_ stesso
@@ -27,7 +27,7 @@ di episodi e di discorsi, molti dei quali possono essere fatti risalire
 a qualsiasi tempo.
 
 [.narrator]
-`Secondo Narratore.` Deve essere innanzitutto menzionato un evento, che la
+*Secondo Narratore.* Deve essere innanzitutto menzionato un evento, che la
 tradizione successiva colloca trentuno anni dopo l’Illuminazione. Si
 tratta della donazione del Monastero Orientale a Sāvatthī effettuata da
 Visākhā, devota laica. Ella fu scelta dal Buddha stesso come la più
@@ -36,10 +36,10 @@ conversione all’insegnamento del suocero, Migāra, nella Dispensazione
 [del Maestro] divenne nota con il nome di “Madre di Migāra”.
 
 [.narrator]
-`Primo Narratore.` Questo è un episodio che le è tipico.
+*Primo Narratore.* Questo è un episodio che le è tipico.
 
 [.voice]
-`Seconda Voce.` Avvenne questo. Il Beato, dopo essere rimasto a Benares
+*Seconda Voce.* Avvenne questo. Il Beato, dopo essere rimasto a Benares
 per tutto il tempo che volle, si mise in viaggio per tappe verso
 Sāvatthī. Quando infine vi giunse, andò a stare nel Boschetto di Jeta,
 nel Parco di Anāthapiṇḍika. Allora Visākhā, Madre di Migāra, andò dal
@@ -235,7 +235,7 @@ ____
 _Vin. Mv. 8:15_
 
 [.voice]
-`Prima Voce.` Così ho udito. Una volta il Beato soggiornava a Sāvatthī nel
+*Prima Voce.* Così ho udito. Una volta il Beato soggiornava a Sāvatthī nel
 Palazzo della Madre di Migāra, nel Parco Orientale. Allora morì una cara
 e amata nipotina di Visākhā. In pieno giorno Visākhā andò dal Beato con
 gli abiti e i cappelli bagnati. Dopo avergli prestato omaggio, ella si
@@ -284,10 +284,10 @@ ____
 _Ud. 8:8_
 
 [.narrator]
-`Primo Narratore.` Lasciamo ora Visākhā.
+*Primo Narratore.* Lasciamo ora Visākhā.
 
 [.voice]
-`Seconda Voce.` Avvenne questo. Il Beato stava soggiornando a Rājagaha sul
+*Seconda Voce.* Avvenne questo. Il Beato stava soggiornando a Rājagaha sul
 Picco dell’Avvoltoio, e a quel tempo gli asceti itineranti di altre
 sette avevano l’abitudine di riunirsi nelle mezze lune del
 quattordicesimo e del quindicesimo [giorno] e nel quarto di luna
@@ -327,12 +327,12 @@ una riunione nelle mezze lune del quattordicesimo e del quindicesimo
 _Vin. Mv. 2:1.2_
 
 [.narrator]
-`Primo Narratore.` Nel Vinaya Piṭaka vi è un racconto degli eventi che
+*Primo Narratore.* Nel Vinaya Piṭaka vi è un racconto degli eventi che
 condussero all’istituzione del _Pātimokkha_ (o Codice delle Regole). Il
 racconto è molto lungo e perciò qui lo riassumiamo.
 
 [.narrator]
-`Secondo Narratore.` Sudinna era il figlio di un ricco mercante di
+*Secondo Narratore.* Sudinna era il figlio di un ricco mercante di
 Kalanda, un villaggio nei pressi di Vesālī. Era sposato ma non aveva
 figli. Ascoltò il Buddha predicare a Vesālī e il risultato fu che chiese
 l’ammissione alla vita religiosa, ma gli venne detto che doveva ottenere
@@ -370,7 +370,7 @@ chiamarono la “Madre di Bījaka”, e il venerabile Sudinna lo chiamarono
 il “Padre di Bījaka”. In seguito sia Bījaka sia la madre lasciarono la
 vita famigliare e abbracciarono la vita religiosa.
 
-`Seconda Voce.` Il venerabile Sudinna ebbe però dei rimorsi. A causa della
+*Seconda Voce.* Il venerabile Sudinna ebbe però dei rimorsi. A causa della
 sua cattiva coscienza divenne magro e infelice. Quando un bhikkhu gli
 chiese che cosa c’era che non andava, egli confessò. Venne rimproverato
 e la questione venne esposta al Beato. Il Beato disse:
@@ -577,7 +577,7 @@ ____
 _Vin. Cv. 9:1; Ud. 5:5; A. 8:20_
 
 [.voice]
-`Prima Voce.` Così ho udito. Una volta, quando il Beato soggiornava a
+*Prima Voce.* Così ho udito. Una volta, quando il Beato soggiornava a
 Sāvatthī, il venerabile Mahā-Kassapa andò da lui. Gli chiese: «Signore,
 qual è la causa, qual è la ragione, perché prima c’erano meno regole per
 l’addestramento e più bhikkhu che raggiungevano e dimoravano nella
@@ -642,7 +642,7 @@ coltivò il male.
 _A. 3:83_
 
 [.voice]
-`Seconda Voce.` Avvenne questo. Dopo che il Beato aveva soggiornato a
+*Seconda Voce.* Avvenne questo. Dopo che il Beato aveva soggiornato a
 Rājagaha per tutto il tempo che volle, si avviò per tappe verso Vesālī.
 Ora, mentre era in viaggio tra le due città vide molti bhikkhu carichi
 di vesti, con fardelli di vesti sul loro capo, sulle loro spalle e ai
@@ -687,7 +687,7 @@ trasversali?».
 _Vin. Mv. 8:12_
 
 [.voice]
-`Prima Voce.` Così ho udito. Una volta, quando il Beato soggiornava a
+*Prima Voce.* Così ho udito. Una volta, quando il Beato soggiornava a
 Sāvatthī, il venerabile Mahā-Kaccāna soggiornava nel territorio di
 Avantī, sulla Rupe di Pavatta a Kururaghara, e riceveva supporto da un
 seguace laico chiamato Soṇa Kuṭikaṇṇa. Soṇa Kuṭikaṇṇa andò dal
@@ -923,7 +923,7 @@ ____
 _S. 21:10_
 
 [.voice]
-`Seconda Voce.` Avvenne questo. Il Beato stava soggiornando a Rājagaha sul
+*Seconda Voce.* Avvenne questo. Il Beato stava soggiornando a Rājagaha sul
 Picco dell’Avvoltoio quando Seniya Bimbisāra, re di Magadha, stava
 governando e dominando ottantamila villaggi. In quel tempo c’era pure
 uno della stirpe dei Kolivisa chiamato Soṇa, che viveva a Campā. Era il
@@ -1000,7 +1000,7 @@ spirituali, e assumi questo quale tua indicazione».
 _Vin. Mv. 5:1; cf. A. 6:55_
 
 [.voice]
-`Prima Voce.` Così ho udito. Una volta il Beato soggiornava a Rājagaha,
+*Prima Voce.* Così ho udito. Una volta il Beato soggiornava a Rājagaha,
 nel Boschetto di Bambù, nel Sacrario degli Scoiattoli. In quel tempo a
 Rājagaha c’era un lebbroso chiamato Suppabuddha. Era un povero e
 miserabile sciagurato.
@@ -1074,7 +1074,7 @@ divinità per aspetto e rinomanza.
 _Ud. 5:3_
 
 [.voice]
-`Seconda Voce.` Avvenne questo. C’erano due bhikkhu chiamati Yamelu e
+*Seconda Voce.* Avvenne questo. C’erano due bhikkhu chiamati Yamelu e
 Tekula che vivevano a Sāvatthī ed erano fratelli. Erano di casta
 brāhmaṇa e avevano una bella voce e una chiara dizione. Chiesero al
 Beato: «Signore, ora i bhikkhu hanno vari nomi, sono di varie razze, di
@@ -1122,7 +1122,7 @@ te” vi consento di rispondere “Che tu possa vivere a lungo”».
 _Vin. Cv. 5:33_
 
 [.voice]
-`Prima Voce.` Così ho udito. Una volta il Beato soggiornava a Sāvatthī nel
+*Prima Voce.* Così ho udito. Una volta il Beato soggiornava a Sāvatthī nel
 Palazzo della Madre di Migāra, nel Parco Orientale. In quell’occasione
 si era alzato dal ritiro verso sera e stava seduto fuori dal cancello,
 nel porticato. Allora il re Pasenadi di Kosala lo raggiunse e, dopo
@@ -1374,7 +1374,7 @@ prendersi cura del malato».
 _Vin. Mv. 8:26; A. 5:123-24_
 
 [.voice]
-`Prima Voce.` Il Beato una volta era seduto all’aperto, nell’oscurità
+*Prima Voce.* Il Beato una volta era seduto all’aperto, nell’oscurità
 della notte, e delle lampade a olio erano accese. In quell’occasione un
 gran numero di falene incontravano rovina, calamità e disastro cadendo
 nelle lampade a olio. Conoscendo il significato di ciò, il Beato esclamò
@@ -1415,7 +1415,7 @@ _Ud. 5:4_
 
 [quote, Sn. 1:8, role=cantor]
 ____
-`Cantore`{empty}footnote:[Questo canto, conosciuto come «Canto della Gentilezza
+*Cantore*{empty}footnote:[Questo canto, conosciuto come «Canto della Gentilezza
 Amorevole» (Mettā Sutta), è quello al giorno d’oggi più noto. Se viene
 trascurato il passo del discorso diretto (indicato tra «…» nella
 traduzione), va persa l’architettura del sutta. Non si tratta di

@@ -2,7 +2,7 @@
 :chapter-number: 14
 
 [.voice]
-`Prima Voce.` Così ho udito. Una volta, quando il Beato risiedeva a
+*Prima Voce.* Così ho udito. Una volta, quando il Beato risiedeva a
 Sāvatthī, il re Pasenadi di Kosala andò a trovarlo a mezzogiorno. Il
 Beato gli chiese: «Da dove vieni, a mezzogiorno, gran re?».
 
@@ -329,7 +329,7 @@ comprensione del Perfetto».
 _M. 12_
 
 [.narrator]
-`Primo Narratore.` Negli ultimi anni del Buddha si verificarono un certo
+*Primo Narratore.* Negli ultimi anni del Buddha si verificarono un certo
 numero di vessazioni – eventi, ossia, che sarebbero stati vessatorî
 secondo il comune buon senso. Poco sopra si è detto come Sunakkhatta,
 che in precedenza era stato un bhikkhu (oltre che attendente personale
@@ -342,7 +342,7 @@ Nel frattempo, il re Pasenadi di Kosala, suo devoto sostenitore per più
 di quarant’anni, fu sempre più infastidito da problemi politici.
 
 [.narrator]
-`Secondo Narratore.` Il re Pasenadi aveva la stessa età del Buddha e,
+*Secondo Narratore.* Il re Pasenadi aveva la stessa età del Buddha e,
 perciò, aveva superato gli ottant’anni. Era stato travagliato da guerre
 occasionali e prive di risultati con suo nipote, re Ajātasattu di
 Magadha, e da sommosse politiche all’interno del suo stesso regno. Di
@@ -356,7 +356,7 @@ carica il nipote del generale, Dīgha Kārāyana.
 _Commentario a M. 89 e D. 16_
 
 [.narrator]
-`Primo Narratore.` Il re Pasenadi andò dal Buddha per chiedergli
+*Primo Narratore.* Il re Pasenadi andò dal Buddha per chiedergli
 consiglio. Quando morì la sua devota consorte, la regina Mallikā, si
 recò profondamente sconsolato dal Buddha, che allora si trovava a
 Sāvatthī, per cercare consolazione.
@@ -365,12 +365,12 @@ Sāvatthī, per cercare consolazione.
 _Si veda A. 5:49_
 
 [.narrator]
-`Secondo Narratore.` Il palazzo del re e la sua smagliante capitale non
+*Secondo Narratore.* Il palazzo del re e la sua smagliante capitale non
 gli recavano più alcun piacere. Li lasciò per un po’ per errare di luogo
 in luogo con un grande seguito, ma senza alcuna meta.
 
 [.narrator]
-`Primo Narratore.` Durante questo vagare nostalgico e sconsolato, quando
+*Primo Narratore.* Durante questo vagare nostalgico e sconsolato, quando
 la strada dell’anziano sovrano incrociava quella del Buddha, il re
 andava a trovarlo. La sua morte non è registrata nel Tipiṭaka. Un
 discorso [del Buddha] è però collocato dal Commentario tra gli eventi
@@ -378,7 +378,7 @@ che immediatamente la precedettero. Questo è il racconto del loro ultimo
 incontro.
 
 [.voice]
-`Prima Voce.` Così ho udito. Una volta il Buddha soggiornava nel
+*Prima Voce.* Così ho udito. Una volta il Buddha soggiornava nel
 territorio dei Sakya, in una città dei Sakya chiamata Medaḷumpa. In
 quella circostanza il re Pasenadi di Kosala giunse a Nāgaraka per alcuni
 affari e altre cose ancora. Egli disse allora a Dīgha Kārāyana: «Amico
@@ -560,11 +560,11 @@ si deliziarono alle sue parole.
 _M. 89_
 
 [.narrator]
-`Primo Narratore.` Quel che avvenne dopo che il re era stato a colloquio
+*Primo Narratore.* Quel che avvenne dopo che il re era stato a colloquio
 [con il Beato] è raccontato solo nel Commentario.
 
 [.narrator]
-`Secondo Narratore.` Quando il re entrò nel luogo in cui il Buddha
+*Secondo Narratore.* Quando il re entrò nel luogo in cui il Buddha
 dimorava, lasciando le insegne reali a Dīgha Kārāyana, quest’ultimo,
 risentitosi, divenne sospettoso. Iniziò a fantasticare, pensando che il
 sovrano avesse fatto giustiziare suo zio, il generale, dopo un

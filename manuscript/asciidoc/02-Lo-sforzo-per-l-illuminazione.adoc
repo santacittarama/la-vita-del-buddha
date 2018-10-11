@@ -2,14 +2,14 @@
 :chapter-number: 2
 
 [.narrator]
-`Primo Narratore.` Il racconto della Rinuncia offerto nei Piṭaka è, nella
+*Primo Narratore.* Il racconto della Rinuncia offerto nei Piṭaka è, nella
 sua nuda semplicità, suggestivo. In questa più antica versione, gli
 elaborati dettagli di quelle successive sono assenti, come lo sono
 quelli della nascita e dei primi anni. Ecco il racconto tratto da vari
 discorsi pronunciati per diverse persone.
 
 [.voice]
-`Prima Voce.` «Prima della mia Illuminazione, quando ero ancora solo un
+*Prima Voce.* «Prima della mia Illuminazione, quando ero ancora solo un
 Bodhisatta non illuminato, essendo io stesso ancora soggetto a nascita,
 vecchiaia, malattia, morte, dolore e contaminazioni, cercavo quel che
 era pure soggetto a queste cose. Allora pensai: “Perché, essendo io
@@ -45,7 +45,7 @@ _M. 26, 36, 85, 100_
 
 [quote, Sn. 3:1, role=cantor]
 ____
-`Cantore`
+*Cantore*
 
 Ora racconterò la rinuncia alla vita in famiglia, +
 come egli, il possente Veggente, lasciò la sua casa, +
@@ -132,7 +132,7 @@ Questo è il desiderio del mio cuore».
 ____
 
 [.voice]
-`Prima Voce.` «Ho abbandonato la vita in famiglia per una senza dimora per
+*Prima Voce.* «Ho abbandonato la vita in famiglia per una senza dimora per
 cercare ciò che è buono,footnote:[Kusala: salutare, vantaggioso] per cercare
 il supremo stato della pace sublime. Per questo andai da Āḷāra Kālāma e gli dissi: “Amico
 Kālāma, voglio condurre la santa vita in questo Dhamma e in questa
@@ -201,7 +201,7 @@ voglio condurre la santa vita in questo Dhamma e in questa Disciplina”».
 _M. 26, 36, 85, 100_
 
 [.narrator]
-`Primo Narratore.` La sua esperienza sotto la guida di Uddaka Rāmaputta è
+*Primo Narratore.* La sua esperienza sotto la guida di Uddaka Rāmaputta è
 narrata esattamente con le stesse parole, con la differenza che egli
 imparò da lui l’ancora più alta fruizione della dimensione della
 né-percezione-né-non-percezione, e che Uddaka Rāmaputta gli offrì di
@@ -209,7 +209,7 @@ essere da solo l’unica guida della comunità. La conclusione, però, fu la
 stessa.
 
 [.voice]
-`Prima Voce.` «Pensai: “Questo insegnamento non conduce al disincanto, al
+*Prima Voce.* «Pensai: “Questo insegnamento non conduce al disincanto, al
 dissolvimento della brama, alla cessazione, alla pace, alla conoscenza
 diretta, all’Illuminazione, al Nibbāna, ma solo alla dimensione della
 né-percezione-né-non-percezione”. Questo insegnamento non mi
@@ -424,7 +424,7 @@ _M. 36, 85, 100_
 
 [quote, Sn. 3:2, role=cantor]
 ____
-`Cantore`
+*Cantore*
 
 Quando mi sforzavo per vincere me stesso, +
 accanto al vasto Nerañjarā, +
@@ -550,15 +550,15 @@ auto-indulgente, ha rinunciato allo sforzo ed è tornato alla lussuria”».
 _M. 36, 85, 100_
 
 [.narrator]
-`Primo Narratore.` A questo punto il Bodhisatta fece cinque sogni.
+*Primo Narratore.* A questo punto il Bodhisatta fece cinque sogni.
 
 [.narrator]
-`Secondo Narratore.` Avvenne nella notte precedente l’Illuminazione, e
+*Secondo Narratore.* Avvenne nella notte precedente l’Illuminazione, e
 questi sogni erano una premonizione del fatto che stava per raggiungere
 il suo obiettivo.
 
 [.voice]
-`Prima Voce.` «Appena prima di conseguire l’Illuminazione, il Perfetto,
+*Prima Voce.* «Appena prima di conseguire l’Illuminazione, il Perfetto,
 realizzato e completamente illuminato, fece cinque sogni importanti.
 Quali cinque? Quando era ancora solo un Bodhisatta non illuminato, la
 Grande Terra era il suo letto. L’Himalaya, il re delle montagne, era il
@@ -592,7 +592,7 @@ comprendendone gli scopi».
 _A. 5:196_
 
 [.narrator]
-`Primo Narratore.` L’Illuminazione stessa è descritta in vari discorsi e
+*Primo Narratore.* L’Illuminazione stessa è descritta in vari discorsi e
 da diverse numerose angolazioni, come se un albero dovesse essere
 descritto dall’alto, dal basso e da vari lati, o un viaggio per terra,
 per acqua e per aria.footnote:[I diversi modi nei quali i discorsi descrivono
@@ -607,7 +607,7 @@ quattro imprese (A. 5:68), di quattro fondamenti della consapevolezza
 dell’abbandono dei cattivi pensieri (M. 19), ecc.]
 
 [.narrator]
-`Secondo Narratore.` Vi è una descrizione dell’Illuminazione come
+*Secondo Narratore.* Vi è una descrizione dell’Illuminazione come
 conquista delle tre vere conoscenze raccontata nel modo seguente, sulla
 base dello sviluppo della meditazione. Vi sono poi descrizioni di essa
 in termini d’una scoperta della struttura della condizionalità
@@ -618,7 +618,7 @@ probabilità e delle certezze. Questa è la descrizione in termini di
 meditazione che conduce alla scoperta delle Quattro Nobili Verità.
 
 [.voice]
-`Prima Voce.` «Dopo aver mangiato cibo solido e aver riacquistato le
+*Prima Voce.* «Dopo aver mangiato cibo solido e aver riacquistato le
 forze, allora, del tutto discosto dai desideri sensoriali, discosto da
 cose non salutari entrai e dimorai nel primo jhāna, che è accompagnato
 dal pensiero e dall’esplorazione uniti alla felicità e al piacere nati
@@ -712,14 +712,14 @@ piacevole, non le consentii d’impossessarsi della mia mente».
 _M. 36_
 
 [.narrator]
-`Secondo Narratore.` Questa è la descrizione nei termini della struttura
+*Secondo Narratore.* Questa è la descrizione nei termini della struttura
 della condizionalità, in altre parole della genesi
 interdipendente.footnote:[Per la genesi interdipendente (originazione interdipendente
 o coproduzione condizionata), si veda il capitolo 12.] In seguito dovremo tornare su questo
 argomento.
 
 [.narrator]
-`Prima Voce.` «Prima della mia Illuminazione, quando ero ancora solo un
+*Prima Voce.* «Prima della mia Illuminazione, quando ero ancora solo un
 Bodhisatta non illuminato, pensai: “Questo mondo è caduto in un pantano
 perché è nato, invecchia e muore, scompare e riappare, e tuttavia non
 conosce una via d’uscita da questa sofferenza. Quando sarà individuata
@@ -860,14 +860,14 @@ loro cessazione».
 _S. 12:65; cf. D. 14_
 
 [.narrator]
-`Secondo Narratore.` Ecco infine la descrizione in termini d’un retto
+*Secondo Narratore.* Ecco infine la descrizione in termini d’un retto
 giudizio del mondo degli atti e delle idee condizionate, classificati in
 questo discorso nei cinque aggregati, all’interno dei quali tutta
 l’esperienza dei fenomeni condizionati può, allorché essa viene
 analizzata, rientrare.
 
 [.voice]
-`Prima Voce.` «Prima della mia Illuminazione, quando ero ancora solo un
+*Prima Voce.* «Prima della mia Illuminazione, quando ero ancora solo un
 Bodhisatta non illuminato, pensai: “Nel caso della forma materiale,
 della sensazione (piacevole, dolorosa o neutra), della percezione, delle
 formazioni mentali, della coscienza, qual è la gratificazione, qual è il
@@ -907,13 +907,13 @@ ultima nascita, ora non ci saranno più rinascite in vite future”».
 _M. 26_
 
 [.narrator]
-`Secondo Narratore.` L’Illuminazione è stata ora raggiunta. E la
+*Secondo Narratore.* L’Illuminazione è stata ora raggiunta. E la
 tradizione afferma che le prime parole pronunciate dal Buddha – non più
 Bodhisatta – furono queste.
 
 [quote, Dh. 153-54, role=cantor]
 ____
-`Cantore`
+*Cantore*
 
 Cercando il costruttore della casa, ma senza trovarlo, +
 in tondo ho viaggiato per innumerevoli vite.
@@ -929,7 +929,7 @@ e la fine di ogni genere di brama.
 ____
 
 [.narrator]
-`Secondo Narratore.` Se queste furono le prime parole pronunciate
+*Secondo Narratore.* Se queste furono le prime parole pronunciate
 dall’Illuminato, esse secondo la tradizione non lo furono tuttavia ad
 alta voce. Le prime parole pronunciate ad alta voce furono quelle
 contenute nella prima delle tre strofe che cominciano: «Quando le cose

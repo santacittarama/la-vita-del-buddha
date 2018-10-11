@@ -4,12 +4,12 @@
 == Questioni Varie
 
 [.narrator]
-`Primo Narratore.` Che cos’è il “Dhamma” che è “ben proclamato” dal
+*Primo Narratore.* Che cos’è il “Dhamma” che è “ben proclamato” dal
 “Medico Supremo”? È un tentativo di realizzare una completa descrizione
 del mondo? È un sistema metafisico?
 
 [.voice]
-`Prima Voce.` Una volta il Beato soggiornava a Sāvatthī, nel Boschetto di
+*Prima Voce.* Una volta il Beato soggiornava a Sāvatthī, nel Boschetto di
 Jeta. Una divinità di nome Rohitassa andò da lui a notte tarda, gli
 prestò omaggio e chiese: «Signore, la fine del mondo, nella quale non si
 nasce, né si invecchia, né si muore, né si scompare e neanche si
@@ -70,13 +70,13 @@ conduce alla cessazione della sofferenza».
 _S. 56:31_
 
 [.narrator]
-`Primo Narratore.` Non si tratta, allora, di un tentativo di realizzare
+*Primo Narratore.* Non si tratta, allora, di un tentativo di realizzare
 una completa descrizione del mondo, sia interiore sia esteriore. È un
 sistema metafisico, una costruzione logica coerente? E, se è così, su
 quale fondamento poggia?
 
 [.voice]
-`Prima Voce.` Una volta, quando il Beato era entrato a Rājagaha per la
+*Prima Voce.* Una volta, quando il Beato era entrato a Rājagaha per la
 questua, l’asceta itinerante nudo Kassapa andò da lui e, dopo averlo
 salutato, disse: «Qualora il Maestro Gotama acconsentisse a darci una
 risposta, vorremmo chiedere una cosa al Maestro Gotama». – «Non è il
@@ -241,7 +241,7 @@ Dhamma non è così! Il Dhamma non è così, il Dhamma è così!”».
 _Ud. 6:4_
 
 [.narrator]
-`Primo Narratore.` Sarebbe perciò un errore definire l’insegnamento del
+*Primo Narratore.* Sarebbe perciò un errore definire l’insegnamento del
 Buddha sia un tentativo di realizzare una completa descrizione del mondo
 sia un sistema metafisico costruito mediante la logica. Esso è allora un
 comandamento etico, una religione di fede rivelata o, semplicemente, un
@@ -272,11 +272,11 @@ evento quotidiano e, nello stesso tempo, un mistero irrisolvibile.
 == Non C’è Un Primo Inizio
 
 [.narrator]
-`Secondo Narratore.` La coscienza è concepibile senza un passato? Si può
+*Secondo Narratore.* La coscienza è concepibile senza un passato? Si può
 dire che abbia un inizio?
 
 [.voice]
-`Prima Voce.` «Bhikkhu, il cerchio non ha inizio. Degli esseri che
+*Prima Voce.* «Bhikkhu, il cerchio non ha inizio. Degli esseri che
 viaggiano e arrancano in questo cerchio, rinserrati come sono
 nell’ignoranza e incatenati dalla brama, non si può descrivere alcun
 inizio».
@@ -298,10 +298,10 @@ _D. 16_
 == Le Quattro Nobili Verità
 
 [.narrator]
-`Secondo Narratore.` Ecco una descrizione delle Quattro Nobili Verità.
+*Secondo Narratore.* Ecco una descrizione delle Quattro Nobili Verità.
 
 [.voice]
-`Prima Voce.` I. «Qual è la Nobile Verità della Sofferenza? La nascita è
+*Prima Voce.* I. «Qual è la Nobile Verità della Sofferenza? La nascita è
 sofferenza, la vecchiaia è sofferenza, la malattia è sofferenza, la
 morte è sofferenza. L’afflizione, il lamento, il dolore, il dispiacere e
 la disperazione sono sofferenza. Associarsi con quel che si detesta è
@@ -396,18 +396,18 @@ diverse da quello che sembrano».
 _S. 56:27_
 
 [.narrator]
-`Primo Narratore.` Ognuna delle Quattro Nobili Verità è analizzata e
+*Primo Narratore.* Ognuna delle Quattro Nobili Verità è analizzata e
 definita dettagliatamente.
 
 == La Verità Della Sofferenza
 
 [.narrator]
-`Secondo Narratore.` È stato detto che la Verità della Sofferenza era «in
+*Secondo Narratore.* È stato detto che la Verità della Sofferenza era «in
 breve, i cinque aggregati affetti dall’attaccamento». Ecco una
 definizione di essi.
 
 [.voice]
-`Prima Voce.` I. «Quali sono i cinque aggregati affetti dall’attaccamento?
+*Prima Voce.* I. «Quali sono i cinque aggregati affetti dall’attaccamento?
 Essi sono l’aggregato della forma (materiale) affetto dall’attaccamento,
 l’aggregato della sensazione affetto dall’attaccamento, l’aggregato
 della percezione affetto dall’attaccamento, l’aggregato delle formazioni
@@ -682,11 +682,11 @@ _S. 22:79_
 == La Verità Dell’origine Della Sofferenza
 
 [.narrator]
-`Secondo Narratore.` Ecco alcune definizioni dettagliate della Seconda
+*Secondo Narratore.* Ecco alcune definizioni dettagliate della Seconda
 Nobile Verità.
 
 [.voice]
-`Prima Voce.` «Questi cinque aggregati affetti dall’attaccamento provano
+*Prima Voce.* «Questi cinque aggregati affetti dall’attaccamento provano
 desiderio per la loro radice ... L’attaccamento non è la stessa cosa dei
 cinque aggregati affetti dall’attaccamento, né è qualcosa di separato da
 essi. È il desiderio e la brama in essi contenuto che è l’attaccamento».
@@ -861,11 +861,11 @@ _S. 1:72_
 == La Verità Della Cessazione Della Sofferenza
 
 [.narrator]
-`Secondo Narratore.` Ecco alcune definizioni dettagliate della Terza
+*Secondo Narratore.* Ecco alcune definizioni dettagliate della Terza
 Nobile Verità.
 
 [.voice]
-`Prima Voce.` «Quello non giunge all’esistenza quando non c’è questo,
+*Prima Voce.* «Quello non giunge all’esistenza quando non c’è questo,
 quello cessa con la cessazione di questo».
 
 [.suttaref]
@@ -1003,14 +1003,14 @@ ____
 == La Verità Del Sentiero
 
 [.narrator]
-`Secondo Narratore.` La Quarta Nobile Verità è il Nobile Ottuplice
+*Secondo Narratore.* La Quarta Nobile Verità è il Nobile Ottuplice
 Sentiero. Ognuna delle sue otto componenti necessita di essere definita
 separatamente.
 
 == Retta Visione
 
 [.voice]
-`Prima Voce.` «Proprio come l’alba annuncia e prevede il sorgere del sole,
+*Prima Voce.* «Proprio come l’alba annuncia e prevede il sorgere del sole,
 così la retta visione annuncia e prevede la penetrazione delle Quattro
 Nobili Verità in accordo con quel che esse in realtà sono».
 
@@ -1018,12 +1018,12 @@ Nobili Verità in accordo con quel che esse in realtà sono».
 _S. 56:37_
 
 [.narrator]
-`Secondo Narratore.` La retta visione ha molte sfaccettature. Osserviamole
+*Secondo Narratore.* La retta visione ha molte sfaccettature. Osserviamole
 una per una, iniziando con la “maturazione dell’azione” che, in certe
 forme e con alcune riserve, è pure condivisa con altri insegnamenti.
 
 [.voice]
-`Prima Voce.` «Viene prima la retta visione.footnote:[Fino ad ora sono stati
+*Prima Voce.* «Viene prima la retta visione.footnote:[Fino ad ora sono stati
 offerti solo dettagli analitici
 delle prime tre Nobili Verità. Qui incontreremo mere descrizioni che ci
 aiutano a comprenderle.] Come? Si
@@ -1060,14 +1060,14 @@ ed è un fattore del Sentiero».
 _M. 117_
 
 [.narrator]
-`Secondo Narratore.` Ancora, è la retta visione della genesi
+*Secondo Narratore.* Ancora, è la retta visione della genesi
 interdipendente – la struttura basilare dell’“insegnamento peculiare ai
 Buddha” e la prima delle nuove scoperte fatte dal Buddha. Niente può
 sorgere da sé, senza il supporto di altre cose dalle quali l’esistenza
 di una cosa dipende.
 
 [.voice]
-`Seconda Voce.`
+*Seconda Voce.*
 
 [quote]
 ____
@@ -1084,7 +1084,7 @@ sorge deve cessare».
 _Vin. Mv. 1:23_
 
 [.voice]
-`Prima Voce.` «Quello giunge all’esistenza quando c’è questo, quello sorge
+*Prima Voce.* «Quello giunge all’esistenza quando c’è questo, quello sorge
 con il sorgere di questo. Quello non giunge all’esistenza quando non c’è
 questo, quello cessa con la cessazione di questo».
 
@@ -1169,13 +1169,13 @@ la coscienza è il quarto».
 _S. 12:63; M. 38_
 
 [.narrator]
-`Secondo Narratore.` La stessa essenza della retta visione è, tuttavia, la
+*Secondo Narratore.* La stessa essenza della retta visione è, tuttavia, la
 comprensione delle Quattro Nobili Verità, la quale abbraccia la genesi
 interdipendente e costituisce l’“insegnamento peculiare dei Buddha”.
 Esse costituiscono l’oggetto del Primo Sermone.
 
 [.voice]
-`Prima Voce.` «Che cos’è la retta visione? È la conoscenza della
+*Prima Voce.* «Che cos’è la retta visione? È la conoscenza della
 sofferenza, dell’origine della sofferenza, della cessazione della
 sofferenza e del Sentiero che conduce alla cessazione della sofferenza:
 questa è detta retta visione».
@@ -1251,14 +1251,14 @@ ____
 _M. 75_
 
 [.narrator]
-`Secondo Narratore.` È di nuovo la retta visione delle tre caratteristiche
+*Secondo Narratore.* È di nuovo la retta visione delle tre caratteristiche
 universali dell’impermanenza, della sofferenza (o insicurezza) e del
 non-sé, che esprime globalmente quel che la genesi interdipendente
 esprime strutturalmente. Esse costituiscono l’oggetto del Secondo
 Sermone.
 
 [.voice]
-`Prima Voce.` «Tre sono le caratteristiche formate di ciò che è
+*Prima Voce.* «Tre sono le caratteristiche formate di ciò che è
 formato:footnote:[“Formato” è _saṅkhata_, tradotto anche con “composto”
 o “condizionato”; “non-formato” è _asaṅkhata_, tradotto anche con
 “non-composto” o “incondizionato”. Quest’ultimo è identificato come Nibbāna (Nyp.)]
@@ -1423,7 +1423,7 @@ corpo con la sua coscienza e tutti i segni esteriori».
 _A. 7:46_
 
 [.narrator]
-`Secondo Narratore.` La razionalizzata “teoria del sé” che,
+*Secondo Narratore.* La razionalizzata “teoria del sé” che,
 indipendentemente dalla forma che assume, è chiamata «sia un’opinione
 sia una catena», si fonda su una sottile distorsione di fondo nell’atto
 del percepire, la «presunzione “io sono”», che è «una catena, ma non
@@ -1441,7 +1441,7 @@ schematicamente. Tutto ciò è abbandonato da Chi è Entrato nella
 Corrente, anche se la presunzione “io sono” non lo è.
 
 [.voice]
-`Prima Voce.` «Com’è che perviene a esistere l’opinione della
+*Prima Voce.* «Com’è che perviene a esistere l’opinione della
 personificazione?». – «Un uomo ignorante e ordinario che non ha
 considerazione per gli Esseri Nobili e non è versato con il loro Dhamma
 e Disciplina … vede la forma come sé o il sé come dotato di una forma, o
@@ -1549,7 +1549,7 @@ percettivo né impercettivo”».
 _S. 22:47_
 
 [.narrator]
-`Secondo Narratore.` L’uomo ignorante e ordinario è ignaro della sottile
+*Secondo Narratore.* L’uomo ignorante e ordinario è ignaro della sottile
 attitudine di fondo, della soggiacente tendenza o presunzione “io sono”.
 Essa,nella percezione di un percetto, lo fa automaticamente e
 simultaneamente presumere in termini di “io”, presupponendo una
@@ -1560,7 +1560,7 @@ il raggiungimento della condizione di Arahant, non prima (si veda ad es.
 M. 1 e M. 49).
 
 [.voice]
-`Prima Voce.` «“Io sono” è una derivazione, non una non-derivazione. Una
+*Prima Voce.* «“Io sono” è una derivazione, non una non-derivazione. Una
 derivazione da che cosa? È una derivazione da forma, sensazione,
 percezione, formazioni [mentali] e coscienza».
 
@@ -1599,11 +1599,11 @@ essere abolita».
 _S. 22:89_
 
 [.narrator]
-`Secondo Narratore.` Siamo infine giunti alle dieci catene, che sono
+*Secondo Narratore.* Siamo infine giunti alle dieci catene, che sono
 progressivamente spezzate dai quattro stadi della realizzazione.
 
 [.voice]
-`Prima Voce.` «L’uomo ignorante e ordinario che non ha considerazione per
+*Prima Voce.* «L’uomo ignorante e ordinario che non ha considerazione per
 gli Esseri Nobili … vive con il suo cuore posseduto e reso schiavo
 dall’opinione della personificazione, dal dubbio, dall’errata
 comprensione della virtù e del dovere,footnote:[O “attaccamento a riti
@@ -1670,11 +1670,11 @@ _S. 22:2_
 == Retta Intenzione
 
 [.narrator]
-`Secondo Narratore.` Il riassunto della retta visione è concluso. Il
+*Secondo Narratore.* Il riassunto della retta visione è concluso. Il
 successivo fattore del Nobile Ottuplice Sentiero è la retta intenzione.
 
 [.voice]
-`Prima Voce.` «Che cos’è la retta intenzione? È l’intenzione della
+*Prima Voce.* «Che cos’è la retta intenzione? È l’intenzione della
 rinuncia, l’intenzione della non-malevolenza, l’intenzione della
 non-crudeltà: questa è chiamata retta intenzione».
 
@@ -1708,13 +1708,13 @@ _M. 13_
 == Retta Parola
 
 [.narrator]
-`Secondo Narratore.` Questi due fattori della retta visione e della retta
+*Secondo Narratore.* Questi due fattori della retta visione e della retta
 intenzione insieme costituiscono (quel gruppo dei fattori del Sentiero
 chiamato) “saggezza” (_paññā_). Passiamo ora al terzo fattore, la retta
 parola.
 
 [.voice]
-`Prima Voce.` «Che cos’è la retta parola? Astenersi dalla menzogna, dalla
+*Prima Voce.* «Che cos’è la retta parola? Astenersi dalla menzogna, dalla
 calunnia, dall’insulto e dal pettegolezzo. Questo è la retta parola».
 
 [.suttaref]
@@ -1747,10 +1747,10 @@ _M. 41_
 == Retta Azione
 
 [.narrator]
-`Secondo Narratore.` Il quarto fattore, retta azione.
+*Secondo Narratore.* Il quarto fattore, retta azione.
 
 [.voice]
-`Prima Voce.` «Che cos’è la retta azione? Astenersi dall’uccidere esseri
+*Prima Voce.* «Che cos’è la retta azione? Astenersi dall’uccidere esseri
 viventi, dal rubare, da una cattiva condotta sessuale. Questo è la retta
 azione».
 
@@ -1770,10 +1770,10 @@ _A. 5:172-73_
 == Retti Mezzi Di Sostentamento
 
 [.narrator]
-`Secondo Narratore.` Il quinto fattore, retti mezzi di sostentamento.
+*Secondo Narratore.* Il quinto fattore, retti mezzi di sostentamento.
 
 [.voice]
-`Prima Voce.` «Che cosa sono i retti mezzi di sostentamento? Un nobile
+*Prima Voce.* «Che cosa sono i retti mezzi di sostentamento? Un nobile
 discepolo abbandona gli errati mezzi di sostentamento e si guadagna da
 vivere mediante retti mezzi di sostentamento».
 
@@ -1796,14 +1796,14 @@ _A. 5:177_
 == Retto Sforzo
 
 [.narrator]
-`Secondo Narratore.` Gli ultimi tre fattori, retta parola, retta azione e
+*Secondo Narratore.* Gli ultimi tre fattori, retta parola, retta azione e
 retti mezzi di sostentamento, costituiscono (quel gruppo dei fattori del
 Sentiero chiamato) “virtù” (_sīla_). Sono noti in quanto stadio
 preliminare del Sentiero. Ora si giunge al sesto fattore, il retto
 sforzo.
 
 [.voice]
-`Prima Voce.` «Che cos’è il retto sforzo? Un bhikkhu risveglia il
+*Prima Voce.* «Che cos’è il retto sforzo? Un bhikkhu risveglia il
 desiderio per il non-sorgere degli stati non salutari non sorti, per cui
 egli si sforza, suscita energia, esercita la sua mente, si applica
 intensamente … Egli risveglia il desiderio per l’abbandono degli stati
@@ -1821,11 +1821,11 @@ _S. 45:8; D. 22_
 == Retta Presenza Mentale
 
 [.narrator]
-`Secondo Narratore.` Siamo giunti al settimo fattore, la retta presenza
+*Secondo Narratore.* Siamo giunti al settimo fattore, la retta presenza
 mentale.
 
 [.voice]
-`Prima Voce.` «Che cos’è la retta presenza mentale? Un bhikkhu dimora
+*Prima Voce.* «Che cos’è la retta presenza mentale? Un bhikkhu dimora
 contemplando il corpo come corpo, ardente, con piena consapevolezza e
 presenza mentale, avendo messo da parte la cupidigia e il rimpianto per
 il mondo. Dimora contemplando le sensazioni come sensazioni, ardente …
@@ -2185,11 +2185,11 @@ _S. 47:19_
 == Retta Concentrazione
 
 [.narrator]
-`Secondo Narratore.` Siamo giunti all’ottavo e ultimo fattore, la retta
+*Secondo Narratore.* Siamo giunti all’ottavo e ultimo fattore, la retta
 concentrazione.
 
 [.voice]
-`Prima Voce.` «Che cos’è la retta concentrazione? Un bhikkhu, del tutto
+*Prima Voce.* «Che cos’è la retta concentrazione? Un bhikkhu, del tutto
 isolato dai desideri sensoriali, isolato dagli stati [mentali] non
 salutari, entra e dimora nel primo jhāna, che è accompagnato dal
 pensiero e dall’esplorazione uniti alla felicità e al piacere nati
@@ -2289,7 +2289,7 @@ entra sul Sentiero del giusto: questa è la retta presenza mentale».
 _M. 117 (condensato)_
 
 [.narrator]
-`Secondo Narratore.` Questi ultimi tre fattori, retto sforzo, retta
+*Secondo Narratore.* Questi ultimi tre fattori, retto sforzo, retta
 presenza mentale e retta concentrazione, tutti insieme costituiscono la
 “concentrazione”. Gli otto fattori, insieme alla retta conoscenza e alla
 retta liberazione, sono chiamati le “dieci rettitudini”, che
@@ -2300,7 +2300,7 @@ chiamati i quattro “stati privi di forma”. Essi sono un aggiuntivo alla
 “retta concentrazione”, solo degli affinamenti del quarto jhāna.
 
 [.voice]
-`Prima Voce.` «Con il completo superamento della percezione della forma,
+*Prima Voce.* «Con il completo superamento della percezione della forma,
 con la scomparsa delle percezioni della resistenza, mediante il non
 prestare attenzione alle percezioni della differenza, (consapevole
 dello) “spazio infinito”, un bhikkhu entra e dimora nella base
@@ -2336,7 +2336,7 @@ e che è diventato invisibile al Malvagio».
 _M. 25_
 
 [.narrator]
-`Secondo Narratore.` Nessuno di questi otto conseguimenti (né le quattro
+*Secondo Narratore.* Nessuno di questi otto conseguimenti (né le quattro
 Divine Dimore, cfr. p. 200) sono rivendicate come peculiari
 dell’insegnamento dei Buddha. La loro pratica priva di retta visione
 conduce solo al paradiso, ma non al Nibbāna. L’insegnamento peculiare
@@ -2346,7 +2346,7 @@ alti stadi di realizzazione ed è perciò peculiare dei Buddha e dei loro
 discepoli.
 
 [.voice]
-`Prima Voce.` «Con il completo superamento della base consistente nella
+*Prima Voce.* «Con il completo superamento della base consistente nella
 né-percezione-né-non-percezione, un bhikkhu entra e dimora nella
 cessazione della percezione e della sensazione, e le sue contaminazioni
 si esauriscono allorché egli le vede con comprensione. Allora si dice
@@ -2409,13 +2409,13 @@ per rimpiangerlo in seguito. Questo è il mio insegnamento per voi».
 _M. 8; M. 152_
 
 [.narrator]
-`Secondo Narratore.` Con questo si conclude tale esposizione. Ma come è in
+*Secondo Narratore.* Con questo si conclude tale esposizione. Ma come è in
 realtà percorso il Sentiero?
 
 == Il Nobile Ottuplice Sentiero In Pratica
 
 [.voice]
-`Prima Voce.` Un mattino il venerabile Ānanda si vestì, prese la ciotola e
+*Prima Voce.* Un mattino il venerabile Ānanda si vestì, prese la ciotola e
 la veste superiore e si recò a Sāvatthī per la questua. Egli vide il
 brāhmaṇa Jānussoni che usciva da Sāvatthī alla guida di un carro
 trainato da quattro giumente, tutto era bianco: bianchi i cavalli,
