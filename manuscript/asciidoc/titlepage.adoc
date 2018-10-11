@@ -1,11 +1,11 @@
 [#titlepage]
 = {booktitle}
 
-[#titlepage-description]
-== {description} 
+[role=titlepage-description-para]
+{description} 
 
 [.titlepage-traduzione]
-_Traduzione dalla lingua Pāli, selezione e adattamento del materiale di_ +
+_Traduzione dalla lingua Pāli, selezione e adattamento del materiale di_
 
 [role=titlepage-custom-author]
 Bhikkhu Ñāṇamoli
@@ -15,9 +15,6 @@ _Traduzione Italiana di_ +
 _Roberto Paciocco_
 
 image::{pubs-logo}[role=titlepage-pubs-logo]
-
-[role=titlepage-publisher]
-{publisher-name}
 
 [role=titlepage-publisher-website]
 link:{publisher-link-url}[{publisher-link-name}]

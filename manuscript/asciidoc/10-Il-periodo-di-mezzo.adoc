@@ -1,4 +1,4 @@
-= Il Periodo di Mezzo
+= Il periodo di mezzo
 :chapter-number: 10
 
 [.narrator]
@@ -370,6 +370,7 @@ chiamarono la “Madre di Bījaka”, e il venerabile Sudinna lo chiamarono
 il “Padre di Bījaka”. In seguito sia Bījaka sia la madre lasciarono la
 vita famigliare e abbracciarono la vita religiosa.
 
+[.voice]
 *Seconda voce.* Il venerabile Sudinna ebbe però dei rimorsi. A causa della
 sua cattiva coscienza divenne magro e infelice. Quando un bhikkhu gli
 chiese che cosa c’era che non andava, egli confessò. Venne rimproverato
@@ -1413,7 +1414,7 @@ ____
 [.suttaref]
 _Ud. 5:4_
 
-[quote, Sn. 1:8, role=cantor]
+[quote, role=cantor]
 ____
 *Cantore*{empty}footnote:[Questo canto, conosciuto come «Canto della Gentilezza
 Amorevole» (Mettā Sutta), è quello al giorno d’oggi più noto. Se viene
@@ -1481,3 +1482,7 @@ Lui che però non ha a che fare con le opinioni, +
 e non brama più desideri sensoriali: +
 di nuovo non nascerà più in un utero.
 ____
+
+[.suttaref]
+_Sn. 1:8_
+

@@ -1,4 +1,4 @@
-= La Diffusione del Dhamma
+= La diffusione del Dhamma
 :chapter-number: 4
 
 [.voice]
@@ -624,13 +624,16 @@ Beato:
 [.suttaref]
 _S. 4:24_
 
-[quote, Sn. 3:2]
+[quote]
 ____
 Passo passo per sette anni +
 seguii il Beato. +
 L’Essere Completamente Illuminato, in possesso della +
 Consapevolezza, non mi diede occasione alcuna.
 ____
+
+[.suttaref]
+_Sn. 3:2_
 
 [quote]
 ____
@@ -972,7 +975,7 @@ Venne a Rājagaha, affrancato e libero ... +
 Venne a Rājagaha, realizzato e libero ...
 
 Egli con dieci modi di vita e con dieci poteri, +
-vedendo dieci cose, possessore di dieci fattori,footnote[I «dieci modi
+vedendo dieci cose, possessore di dieci fattori,footnote:[I «dieci modi
 di vita» sono i dieci modi di vita degli
 Esseri Nobili (D. 33). Per i dieci poteri, si veda il cap. 11, p. 206.
 Le «dieci cose» sono i dieci tipi di azioni, salutari e non salutari (si

@@ -1,4 +1,4 @@
-= L'ordine Delle Monache
+= L'Ordine delle monache
 :chapter-number: 7
 
 [.narrator]
@@ -119,6 +119,7 @@ e raggiunto la distruzione dell’illusione, +
 piaceri e dolori non lo scuoteranno più.
 ____
 
+[.suttaref]
 _Ud. 3:2_
 
 [.narrator]

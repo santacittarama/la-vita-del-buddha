@@ -334,13 +334,13 @@ h1 {
 }
 h2 {
   font-family: "Spectral SC", serif !important;
-  font-weight: 600;
+  font-weight: normal;
   font-style: normal;
-  text-transform: uppercase;
+  text-align: center;
 }
 h3,
 h4 {
-  font-family: "Fontin Sans", sans-serif !important;
+  font-family: "Fontin Sans SC", sans-serif !important;
   font-weight: normal;
   font-style: normal;
   text-transform: uppercase;
@@ -1262,14 +1262,14 @@ nav#toc ol {
 }
 section#dedication > header h1,
 section#acknowledgements > header h1 {
-  font-family: "Fontin Sans", sans-serif !important;
+  font-family: "Fontin Sans SC", sans-serif !important;
   font-style: normal;
   font-size: 12pt;
   margin-top: 0pt;
   text-transform: uppercase;
 }
 section#abbreviations > header h1 {
-  font-family: "Fontin Sans", sans-serif !important;
+  font-family: "Fontin Sans SC", sans-serif !important;
   font-style: normal;
   font-size: 12pt;
   margin-top: 0pt;
@@ -1292,14 +1292,14 @@ section#titlepage .subtitle {
 }
 section#titlepage > header h1 {
   text-align: center;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 section#copyright figure.image div.content {
   text-align: left;
 }
 figure.image.titlepage-pubs-logo img {
-  margin-top: 3em;
-  width: 100px;
+  margin-top: 1em;
+  width: 150px;
 }
 #titlepage-description {
   text-align: center;
@@ -1388,6 +1388,9 @@ figure.image.quotebreak img {
   text-indent: -2em;
   padding-left: 2em;
 }
+.narrator-cont {
+  padding-left: 2em;
+}
 .cantor > blockquote > p:first-child {
   text-indent: -2em;
 }
@@ -1395,20 +1398,31 @@ figure.image.quotebreak img {
 .voice strong:first-child,
 .cantor strong:first-child {
   font-family: "Fontin Sans SC";
+  font-style: normal;
+  font-weight: normal;
   font-size: 0.9em;
   letter-spacing: 0.5px;
   color: #6b6b6b;
 }
-section > h2 {
-  font-family: "Fontin Sans", sans-serif !important;
-  font-weight: 600;
+li > span.principal,
+dd > span.principal {
+  text-align: left;
+}
+sup.noteref {
   font-style: normal;
-  text-transform: uppercase;
+}
+blockquote em {
+  font-style: normal;
+}
+section > h2 {
+  font-family: "Fontin Sans SC", sans-serif !important;
+  font-weight: normal;
+  font-style: normal;
   word-spacing: 3px;
   margin-top: 2em;
 }
 .chapter-number {
-  font-family: "Spectral SC", serif !important;
+  font-family: "Spectral", serif !important;
   font-style: normal;
   font-weight: normal;
   font-size: 1.9rem;
@@ -1438,7 +1452,7 @@ h1.chapter-title {
 }
 .titlepage-traduzione {
   text-align: center;
-  margin-top: 3rem;
+  margin-top: 2rem;
 }
 .titlepage-custom-author {
   font-family: "Spectral SC", serif !important;
@@ -1446,6 +1460,14 @@ h1.chapter-title {
   font-weight: normal;
   font-size: 1rem;
   margin-top: 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+.titlepage-description-para {
+  font-family: "Fontin Sans SC", sans-serif !important;
+  font-size: 1.25em;
+  font-style: normal;
+  font-weight: normal;
+  word-spacing: 3px;
   text-align: center;
 }

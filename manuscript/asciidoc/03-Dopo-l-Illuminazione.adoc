@@ -1,4 +1,4 @@
-= Dopo L’illuminazione
+= Dopo l’Illuminazione
 :chapter-number: 3
 
 [.voice]
@@ -584,12 +584,9 @@ Io ora vado nella città di Kāsi +
 per mettere la Ruota del Dhamma +
 in moto: in un mondo bendato +
 io vado a rullare il Tamburo di Ciò Che Non Muore.
-____
 
 Secondo quel che dici, amico, tu sei un Vittorioso Universale.
 
-[quote]
-____
 I vittoriosi come me, Upaka, +
 sono coloro le cui contaminazioni sono del tutto esaurite. +
 Ho riportato la vittoria su ogni stato del male: +
@@ -662,6 +659,7 @@ Il Beato riuscì a convincerli. Loro intesero il Beato, ascoltarono e
 aprirono i loro cuori alla conoscenza. Allora il Beato si rivolse ai
 bhikkhu del gruppo dei cinque in questo modo:
 
+[.center]
 (_La Messa in Moto della Ruota del Dhamma_)
 
 «Bhikkhu, ci sono questi due estremi che non dovrebbero essere coltivati

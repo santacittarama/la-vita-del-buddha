@@ -1,4 +1,4 @@
-= La Nascita e i Primi Anni
+= La nascita e i primi anni
 :chapter-number: 1
 
 [.narrator]
@@ -32,6 +32,7 @@ circostanze che avevano indotto a stilarle. La parte principale del
 “Canestro della Disciplina” – il _Vinaya Piṭaka_ – fu composto durante
 il concilio, sulla base della sua recitazione.
 
+[.narrator-cont]
 Quando ebbe finito, Ānanda fu invitato a recitare i Discorsi. Ānanda,
 che era stato l’assistente personale del Buddha durante gli ultimi suoi
 ventiquattro anni, era dotato di una memoria straordinaria. Quasi tutta
@@ -77,7 +78,7 @@ virtù, questa la loro concentrazione, questa la loro comprensione,
 questo il loro dimorare, questo il modo della loro liberazione».
 
 Dopo che queste parole furono pronunciate, il venerabile Ānanda disse ai
-bhikkhu: «GliEsseri Perfetti sono meravigliosi, amici, e hanno
+bhikkhu: «Gli Esseri Perfetti sono meravigliosi, amici, e hanno
 meravigliose qualità. Gli Esseri Perfetti sono stupefacenti e hanno
 stupefacenti qualità».
 
@@ -249,7 +250,7 @@ _M. 123; cf. D. 14_
 della casta dei sacerdoti – predisse la futura Illuminazione è
 raccontato in un canto.
 
-[quote, Sn. 3:11, role=cantor]
+[quote, role=cantor]
 ____
 *Cantore*
 
@@ -350,6 +351,9 @@ Adempiendo il volere di Asita, +
 egli chiese al Perfetto Saggio +
 del Silenzio Supremo.
 ____
+
+[.suttaref]
+_Sn. 3:11_
 
 [.narrator]
 *Primo narratore.* Benché la letteratura successiva offra molti dettagli

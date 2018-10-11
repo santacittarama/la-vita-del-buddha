@@ -1,4 +1,4 @@
-= La Fine Dei Primi Vent’anni
+= La fine dei primi vent’anni
 :chapter-number: 9
 
 [.narrator]
@@ -1491,9 +1491,12 @@ Come pure il lungo e il corto, +
 il piccolo e il grande, il giusto e il disonesto? +
 Dov’è che nome-e-forma +
 cessano senza residuo?
+____
 
 Questa è la risposta:
 
+[quote]
+____
 La coscienza che non si mostra +
 né ha a che fare con la finitezza, +
 senza ritenere di essere separata dal tutto: +

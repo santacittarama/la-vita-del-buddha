@@ -4,7 +4,7 @@
 :author: Bhikkhu Ñāṇamoli
 :creator: {author}
 :version: v1.0
-:revdate: 2018-09-26
+:revdate: 2018-10-11
 :doctype: book
 :lang: it
 :pubs-logo: edizioni-santacittarama-w400.jpg
@@ -14,7 +14,7 @@
 :source: http://forestsangha.org/
 :keywords: Buddha, Gotama, biography, Bhikkhu Nyanamoli, Dhamma, Buddhism, RELIGION / Buddhism / Theravada
 :copyright: CC-BY-NC-ND 4.0
-:isbn: 000-0-00000-000-0
+:isbn: 978-88-85706-11-8
 :identifier: isbn:{isbn}
 :imagesdir: assets/photos/92dpi-ebook-sRGB
 :includes: manuscript/asciidoc
@@ -78,4 +78,6 @@ include::{includes}/L-autore.adoc[]
 include::{includes}/Bibliografia-di-bhikkhu-Nanamoli.adoc[]
 
 include::{includes}/copyright.adoc[]
+
+include::{includes}/back-cover.adoc[]
 

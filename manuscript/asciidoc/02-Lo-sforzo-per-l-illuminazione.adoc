@@ -1,4 +1,4 @@
-= Lo Sforzo Per L'illuminazione
+= Lo sforzo per l'Illuminazione
 :chapter-number: 2
 
 [.narrator]
@@ -43,7 +43,7 @@ famiglia per una senza dimora».
 [.suttaref]
 _M. 26, 36, 85, 100_
 
-[quote, Sn. 3:1, role=cantor]
+[quote, role=cantor]
 ____
 *Cantore*
 
@@ -130,6 +130,9 @@ Avendo visto il pericolo in essi, sono andato via per sforzarmi, +
 e per cercare un sicuro rifugio nella rinuncia. +
 Questo è il desiderio del mio cuore».
 ____
+
+[.suttaref]
+_Sn. 3:1_
 
 [.voice]
 *Prima voce.* «Ho abbandonato la vita in famiglia per una senza dimora per
@@ -422,7 +425,7 @@ si era deteriorato fino a questo punto a causa dello scarsissimo cibo».
 [.suttaref]
 _M. 36, 85, 100_
 
-[quote, Sn. 3:2, role=cantor]
+[quote, role=cantor]
 ____
 *Cantore*
 
@@ -503,6 +506,9 @@ con tutte le sue divinità non può sconfiggere, +
 ma io li abbatterò con la Comprensione, +
 come una pietra un vaso d’argilla cruda».footnote:[Ciò a cui gli ultimi versi (qui omessi ma inclusi nel cap. 4, p. 70) di questo canto fanno riferimento è collocato dai _Commentari_ un anno più tardi rispetto al resto.]
 ____
+
+[.suttaref]
+_Sn. 3:2_
 
 «Pensai: “Ogni volta che un monaco o un brāhmaṇa ha provato in passato,
 prova adesso o proverà in futuro sensazioni dolorose, laceranti e
@@ -709,6 +715,7 @@ fu bandita e sorse la luce, come avviene in chi è diligente, ardente e
 dotato di auto-controllo. Quando però in me sorse questa sensazione
 piacevole, non le consentii d’impossessarsi della mia mente».
 
+[.suttaref]
 _M. 36_
 
 [.narrator]
@@ -718,7 +725,7 @@ interdipendente.footnote:[Per la genesi interdipendente (originazione interdipen
 o coproduzione condizionata), si veda il capitolo 12.] In seguito dovremo tornare su questo
 argomento.
 
-[.narrator]
+[.voice]
 *Prima voce.* «Prima della mia Illuminazione, quando ero ancora solo un
 Bodhisatta non illuminato, pensai: “Questo mondo è caduto in un pantano
 perché è nato, invecchia e muore, scompare e riappare, e tuttavia non
@@ -911,7 +918,7 @@ _M. 26_
 tradizione afferma che le prime parole pronunciate dal Buddha – non più
 Bodhisatta – furono queste.
 
-[quote, Dh. 153-54, role=cantor]
+[quote, role=cantor]
 ____
 *Cantore*
 
@@ -927,6 +934,9 @@ anche la tua trave di colmo è stata spezzata.
 La mia mente ha raggiunto l’increato Nibbāna +
 e la fine di ogni genere di brama.
 ____
+
+[.suttaref]
+_Dh. 153-54_
 
 [.narrator]
 *Secondo narratore.* Se queste furono le prime parole pronunciate

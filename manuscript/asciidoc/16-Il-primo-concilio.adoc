@@ -1,4 +1,4 @@
-= Il Primo Concilio
+= Il primo concilio
 :chapter-number: 16
 
 [.narrator]
@@ -627,6 +627,7 @@ Asoka (il nipote di Chandragupta), l’_Abhidhamma Piṭaka_ fu completato
 aggiungendo un libro sulle eresie e, di fatto, il _Tipiṭaka_ venne
 chiuso.
 
+[.narrator-cont]
 In questo tempo erano sorte diciotto differenti “scuole”. Il
 _Theravāda_ (la Dottrina degli Anziani) divenne dominante sotto Asoka,
 che abbracciò egli stesso il buddhismo. Suo figlio (o, secondo alcune

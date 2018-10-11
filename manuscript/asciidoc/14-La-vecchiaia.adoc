@@ -1,4 +1,4 @@
-= La Vecchiaia
+= La vecchiaia
 :chapter-number: 14
 
 [.voice]
@@ -244,7 +244,7 @@ ____
 Congelato di notte e bruciato di giorno, +
 da solo in boschi che ispirano timore, +
 nudo, senza un fuoco vicino al quale sedersi, +
-l’eremita ancora persegue la sua ricerca».
+l’eremita ancora persegue la sua ricerca. _»_
 ____
 
 «Dormivo in un carnaio con le ossa di un morto come cuscino. E giovani
@@ -582,6 +582,7 @@ dimorava, vedendo che lì non c’era nessuno, andò ove prima si trovava
 l’accampamento. La donna che l’attendeva gli disse quel che era
 avvenuto.
 
+[.narrator-cont]
 Egli decise di chiedere aiuto a suo nipote, re Ajātasattu. Durante il
 lungo viaggio per Rājagaha egli mangiò del cibo grossolano, di un genere
 del quale non era solito cibarsi e bevette molta acqua. Quando arrivò a

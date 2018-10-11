@@ -1,5 +1,5 @@
 [[kosambi]]
-= La Disputa di Kosambī
+= La disputa di Kosambī
 :chapter-number: 8
 
 [.narrator]
@@ -173,9 +173,7 @@ nessuno sa che cosa l’abbia indotto a comportarsi così.
 ____
 
 [.suttaref]
-_M. 128; Jā. 3:488; Ud. 5:9_
-
-[.suttaref]
+_M. 128; Jā. 3:488; Ud. 5:9_ +
 _Thag. 275; Vin, Mv. 10:3_
 
 [quote]
@@ -234,9 +232,7 @@ siate come un rinoceronte solo nella foresta.
 ____
 
 [.suttaref]
-_M. 128; Jā. 3:488; Vin. Mv. 10:3_
-
-[.suttaref]
+_M. 128; Jā. 3:488; Vin. Mv. 10:3_ +
 _Dh. 328-30; cf. Sn. 45-46_
 
 Dopo aver pronunciato queste strofe, il Beato se ne andò a

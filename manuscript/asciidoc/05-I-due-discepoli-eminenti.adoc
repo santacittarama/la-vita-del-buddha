@@ -1,4 +1,4 @@
-= I Due Discepoli Eminenti
+= I due discepoli eminenti
 :chapter-number: 5
 
 [.voice]
@@ -316,7 +316,7 @@ era la prima dopo l’Illuminazione – egli comunicò tuttavia la sua
 missione con questi versi, miranti a persuadere il Buddha a mettersi in
 viaggio.
 
-[quote, Thag. 527-33, role=cantor]
+[quote, role=cantor]
 ____
 *Cantore*
 
@@ -362,6 +362,9 @@ nobilita le sette precedenti generazioni – +
 Tu, più grande degli dèi, lo sento, puoi fare ben di più, +
 perché la parola “Perfetto” si è fatta vera in te.
 ____
+
+[.suttaref]
+_Thag. 527-33_
 
 [.voice]
 *Seconda voce.* Allorché il Beato era rimasto a Rājagaha per tutto il
@@ -516,18 +519,13 @@ governi rettamente».
 «Malvagio, qual è il fine per cui ti rivolgi a me in questo modo?».
 «Signore le quattro basi del successo [spirituale]footnote:[Le “quattro
 basi per il successo” (o vie per il potere) sono
-descritte come «la base per il successo che ha concentrazione fondata
-sul desiderio-di-agire e risolutezza motivata dallo sforzo-controllato»
-
-[.suttaref]
-_M. 16_
-
-Questa è la prima. Per le altre tre, sostituire,
-rispettivamente, “energia”, “(naturale purezza della) mente”, e
-“investigazione” al “desiderio-di-agire”. Esse rappresentano i quattro
-tipi di approccio dello sviluppo, da regolare sulla base delle
-avversioni individuali.] sono
-state costantemente mantenute in essere e praticate dal Beato, rese
+descritte come «la base per il successo che ha concentrazione fondata sul
+desiderio-di-agire e risolutezza motivata dallo sforzo-controllato» (_M. 16_).
+Questa è la prima. Per le altre tre, sostituire, rispettivamente, “energia”,
+“(naturale purezza della) mente”, e “investigazione” al “desiderio-di-agire”.
+Esse rappresentano i quattro tipi di approccio dello sviluppo, da regolare sulla
+base delle avversioni individuali.] sono state costantemente mantenute
+in essere e praticate dal Beato, rese
 veicolo e base, sono state fondate, consolidate e propriamente
 intraprese. E così, Signore, se il Beato decidesse: “Che l’Himalaya, re
 delle montagne, diventi d’oro” esso diventerebbe una montagna d’oro».

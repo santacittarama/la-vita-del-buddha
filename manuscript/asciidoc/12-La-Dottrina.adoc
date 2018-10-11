@@ -1,7 +1,7 @@
-= La Dottrina
+= La dottrina
 :chapter-number: 12
 
-== Questioni Varie
+== Questioni varie
 
 [.narrator]
 *Primo narratore.* Che cos’è il “Dhamma” che è “ben proclamato” dal
@@ -269,7 +269,7 @@ si deve cominciare, possiamo farlo prendendo la nascita come punto di
 partenza, che, assieme alla morte, rappresenta per l’uomo comune un
 evento quotidiano e, nello stesso tempo, un mistero irrisolvibile.
 
-== Non C’è Un Primo Inizio
+== Non c’è un Primo Inizio
 
 [.narrator]
 *Secondo narratore.* La coscienza è concepibile senza un passato? Si può
@@ -399,7 +399,7 @@ _S. 56:27_
 *Primo narratore.* Ognuna delle Quattro Nobili Verità è analizzata e
 definita dettagliatamente.
 
-== La Verità Della Sofferenza
+== La Verità della Sofferenza
 
 [.narrator]
 *Secondo narratore.* È stato detto che la Verità della Sofferenza era «in
@@ -679,7 +679,7 @@ di essi».
 [.suttaref]
 _S. 22:79_
 
-== La Verità Dell’origine Della Sofferenza
+== La Verità dell’Origine della Sofferenza
 
 [.narrator]
 *Secondo narratore.* Ecco alcune definizioni dettagliate della Seconda
@@ -858,7 +858,7 @@ _A. 4:77_
 [.suttaref]
 _S. 1:72_
 
-== La Verità Della Cessazione Della Sofferenza
+== La Verità della Cessazione della Sofferenza
 
 [.narrator]
 *Secondo narratore.* Ecco alcune definizioni dettagliate della Terza
@@ -980,7 +980,7 @@ chiamato Nibbāna».
 [.suttaref]
 _S. 38:1_
 
-[quote, Sn. 5:7]
+[quote]
 ____
 «Proprio come una fiamma soffiata via dalla forza del vento, +
 Upasīva», disse il Beato, +
@@ -1000,14 +1000,17 @@ perché quando tutte le idee sono state abolite, +
 sono stati aboliti anche tutti i modi di dire».
 ____
 
-== La Verità Del Sentiero
+[.suttaref]
+_Sn. 5:7_
+
+== La Verità del Sentiero
 
 [.narrator]
 *Secondo narratore.* La Quarta Nobile Verità è il Nobile Ottuplice
 Sentiero. Ognuna delle sue otto componenti necessita di essere definita
 separatamente.
 
-== Retta Visione
+== Retta visione
 
 [.voice]
 *Prima voce.* «Proprio come l’alba annuncia e prevede il sorgere del sole,
@@ -1667,7 +1670,7 @@ l’afflizione, il lamento, il dolore, il dispiacere e la disperazione”».
 [.suttaref]
 _S. 22:2_
 
-== Retta Intenzione
+== Retta intenzione
 
 [.narrator]
 *Secondo narratore.* Il riassunto della retta visione è concluso. Il
@@ -1705,7 +1708,7 @@ altri o per l’afflizione propria e per quella degli altri».
 [.suttaref]
 _M. 13_
 
-== Retta Parola
+== Retta parola
 
 [.narrator]
 *Secondo narratore.* Questi due fattori della retta visione e della retta
@@ -1744,7 +1747,7 @@ preciso e connesso al bene».
 [.suttaref]
 _M. 41_
 
-== Retta Azione
+== Retta azione
 
 [.narrator]
 *Secondo narratore.* Il quarto fattore, retta azione.
@@ -1767,7 +1770,7 @@ vino e alle bevande fermentate».
 [.suttaref]
 _A. 5:172-73_
 
-== Retti Mezzi Di Sostentamento
+== Retti mezzi di sostentamento
 
 [.narrator]
 *Secondo narratore.* Il quinto fattore, retti mezzi di sostentamento.
@@ -1793,7 +1796,7 @@ liquori e veleni».
 [.suttaref]
 _A. 5:177_
 
-== Retto Sforzo
+== Retto sforzo
 
 [.narrator]
 *Secondo narratore.* Gli ultimi tre fattori, retta parola, retta azione e
@@ -1818,7 +1821,7 @@ suscita energia, esercita la sua mente, si applica intensamente. Questo
 [.suttaref]
 _S. 45:8; D. 22_
 
-== Retta Presenza Mentale
+== Retta presenza mentale
 
 [.narrator]
 *Secondo narratore.* Siamo giunti al settimo fattore, la retta presenza
@@ -2182,7 +2185,7 @@ altri, custodisce se stesso».
 [.suttaref]
 _S. 47:19_
 
-== Retta Concentrazione
+== Retta concentrazione
 
 [.narrator]
 *Secondo narratore.* Siamo giunti all’ottavo e ultimo fattore, la retta
@@ -2358,7 +2361,7 @@ che è andato al di là di ogni attaccamento per il mondo».
 [.suttaref]
 _M. 25_
 
-[quote, S. 1:23]
+[quote]
 ____
 Quando un saggio, ben fondato nella virtù, +
 sviluppa consapevolezza e comprensione, +
@@ -2366,6 +2369,8 @@ allora come un bhikkhu, ardente e sagace, +
 riesce a dipanare il groviglio.
 ____
 
+[.suttaref]
+_S. 1:23_
 
 «Bhikkhu, se un uomo dovesse viaggiare e arrancare attraverso un’era,
 allora il cumulo, la pila, la massa delle sue ossa, se riunite né
@@ -2412,7 +2417,7 @@ _M. 8; M. 152_
 *Secondo narratore.* Con questo si conclude tale esposizione. Ma come è in
 realtà percorso il Sentiero?
 
-== Il Nobile Ottuplice Sentiero In Pratica
+== Il Nobile Ottuplice Sentiero in pratica
 
 [.voice]
 *Prima voce.* Un mattino il venerabile Ānanda si vestì, prese la ciotola e
@@ -2621,7 +2626,7 @@ Così c’è la cessazione di tutto questo aggregato di sofferenza».
 [.suttaref]
 _M. 38_
 
-== I Mezzi
+== I mezzi
 
 «Supponiamo che un uomo, volendo un serpente, ne veda uno grande e in
 seguito lo afferri in modo sbagliato, per le spire o per la coda, così

@@ -1,4 +1,4 @@
-= L'ultimo Anno
+= L'ultimo anno
 :chapter-number: 15
 
 [.narrator]

@@ -2,26 +2,39 @@
   text-indent: -2em
   padding-left: 2em
 
+.narrator-cont
+  padding-left: 2em
+
 .cantor > blockquote > p:first-child
   text-indent: -2em
 
 .narrator, .voice, .cantor
   strong:first-child
     font-family: "Fontin Sans SC"
+    font-style: normal
+    font-weight: normal
     font-size: 0.9em
     letter-spacing: 0.5px
     color: #6B6B6B
 
+li > span.principal, dd > span.principal
+  text-align: left
+
+sup.noteref
+  font-style: normal
+
+blockquote em
+  font-style: normal
+
 section > h2
   font-family: $section-font !important
-  font-weight: 600
+  font-weight: normal
   font-style: normal
-  text-transform: uppercase
   word-spacing: 3px
   margin-top: 2em
 
 .chapter-number
-  font-family: $chapter-font !important
+  font-family: $header-font !important
   font-style: normal
   font-weight: normal
   font-size: 1.9rem
@@ -50,7 +63,7 @@ h1.chapter-title
 
 .titlepage-traduzione
   text-align: center
-  margin-top: 3rem
+  margin-top: 2rem
 
 .titlepage-custom-author
   font-family: $chapter-font !important
@@ -58,5 +71,13 @@ h1.chapter-title
   font-weight: normal
   font-size: 1rem
   margin-top: 1rem
-  margin-bottom: 3rem
+  margin-bottom: 2rem
+  text-align: center
+
+.titlepage-description-para
+  font-family: $section-font !important
+  font-size: 1.25em
+  font-style: normal
+  font-weight: normal
+  word-spacing: 3px
   text-align: center
