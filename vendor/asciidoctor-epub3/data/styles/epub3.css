@@ -1404,6 +1404,9 @@ figure.image.quotebreak img {
   letter-spacing: 0.5px;
   color: #6b6b6b;
 }
+.cantor blockquote:first-child p:first-child {
+  padding-bottom: 0pt;
+}
 li > span.principal,
 dd > span.principal {
   text-align: left;
