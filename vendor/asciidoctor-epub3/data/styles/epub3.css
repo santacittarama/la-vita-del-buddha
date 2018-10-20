@@ -1407,6 +1407,8 @@ figure.image.quotebreak img {
 .cantor blockquote:first-child p:first-child {
   padding-bottom: 0pt;
 }
+dd,
+li,
 li > span.principal,
 dd > span.principal {
   text-align: left;
