@@ -2,7 +2,7 @@
 = {booktitle}
 
 [role=titlepage-description-para]
-{description} 
+{description}
 
 [.titlepage-traduzione]
 _Traduzione dalla lingua Pāli, selezione e adattamento del materiale di_

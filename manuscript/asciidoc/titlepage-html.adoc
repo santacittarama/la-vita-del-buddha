@@ -2,7 +2,7 @@
 = {booktitle}
 
 [#titlepage-description]
-== {description} 
+== {description}
 
 [.titlepage-traduzione]
 _Traduzione dal Pāli, selezione e adattamento del materiale di_ +

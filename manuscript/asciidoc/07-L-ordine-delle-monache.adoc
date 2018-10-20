@@ -2,7 +2,7 @@
 :chapter-number: 7
 
 [.narrator]
-*Primo narratore.* Il racconto appena offerto ha mostrato come il Buddha
+*Primo narratore.* Il racconto appena offerto ha mostrato come il Buddha
 acconsentì a trascorrere la stagione delle piogge a
 Sāvatthī.footnote:[Il _Mālālankāravatthu_ dice che questa stagione delle piogge
 fu trascorsa a Rājagaha, nel Boschetto di Bambù, ma ciò è errato.] Perciò,
@@ -264,7 +264,7 @@ devono trasgredire finché dura la loro vita».
 _Vin. Cv. 10:1; A. 8:51_
 
 [.narrator]
-*Secondo narratore.* Quando lei in seguito chiese istruzioni per le donne
+*Secondo narratore.* Quando lei in seguito chiese istruzioni per le donne
 Sakya che l’avevano accompagnata, il Buddha ordinò che i bhikkhu
 avrebbero dovuto dare loro la piena ammissione come bhikkhuṇī. Le
 bhikkhuṇī, ottenuta la piena ammissione, reclamarono allora che, a
