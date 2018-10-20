@@ -79,5 +79,3 @@ include::{includes}/Bibliografia-di-bhikkhu-Nanamoli.adoc[]
 
 include::{includes}/copyright.adoc[]
 
-include::{includes}/back-cover.adoc[]
-

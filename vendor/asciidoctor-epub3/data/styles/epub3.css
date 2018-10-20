@@ -1474,3 +1474,6 @@ h1.chapter-title {
   word-spacing: 3px;
   text-align: center;
 }
+nav#toc h2 {
+  text-align: left;
+}

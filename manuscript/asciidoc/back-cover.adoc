@@ -1,5 +1,0 @@
-[[back-cover]]
-= Copertina posteriore
-
-image::back-cover.jpg[]
-
