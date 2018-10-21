@@ -1,3 +1,4 @@
+[[ch04-La-diffusione-del-Dhamma]]
 = La diffusione del Dhamma
 :chapter-number: 4
 
@@ -637,7 +638,7 @@ _Sn. 3:2_
 
 [quote]
 ____
-C’era un corvo che camminava intorno a +
+C’era un [[pag70A]]corvo che camminava intorno a +
 una pietra che sembrava un grumo di grasso: +
 “Ci sarà qualcosa di morbido qui dentro? +
 Ci sarà qualcosa di saporito qui?”. +
@@ -659,7 +660,7 @@ terra a gambe incrociate non lontano dal Beato, grattando il terreno con
 un bastoncino, in silenzio, costernato, con le spalle cadenti e a testa
 bassa, abbattuto e senza aver nulla da dire.
 
-Allora le tre figlie di Māra, Taṇhā, Aratī e Ragā – Brama, Noia e
+[[pag70]]Allora le tre figlie di Māra, Taṇhā, Aratī e Ragā – Brama, Noia e
 Lussuria – andarono dal padre e gli parlarono in strofe:
 
 [quote]
@@ -783,7 +784,7 @@ asceti dai capelli intrecciati. Il Beato si fermò a Gayāsīsa, nei pressi
 di Gayā, con i mille bhikkhu. Lì si rivolse ai bhikkhu in questo modo:
 
 [.center]
-(_Il Sermone del Fuoco_)
+[[pag73]](_Il Sermone del Fuoco_)
 
 «Bhikkhu, tutto brucia. E che cos’è che brucia?».
 
@@ -977,8 +978,8 @@ Venne a Rājagaha, realizzato e libero ...
 Egli con dieci modi di vita e con dieci poteri, +
 vedendo dieci cose, possessore di dieci fattori,footnote:[I «dieci modi
 di vita» sono i dieci modi di vita degli
-Esseri Nobili (D. 33). Per i dieci poteri, si veda il cap. 11, p. 206.
-Le «dieci cose» sono i dieci tipi di azioni, salutari e non salutari (si
+Esseri Nobili (D. 33). Per i dieci poteri, si veda il <<11-La-persona.adoc#pag206,cap. 11 -- _Un Perfetto ha questi dieci poteri..._>>. Le «dieci cose»
+sono i dieci tipi di azioni, salutari e non salutari (si
 veda ad esempio M. 9). I «dieci fattori» sono i dieci stati dell’adepto.
 Si veda anche il Commentario.] +
 e forte di un seguito di mille, +

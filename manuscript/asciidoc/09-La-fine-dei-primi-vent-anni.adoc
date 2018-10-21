@@ -190,7 +190,7 @@ del novizio Rāhula è narrata in seguito.
 dodicesima, il Buddha si trovò a Verañjā.
 
 [.voice]
-*Seconda voce.* Avvenne questo. Il Buddha, il Beato, soggiornava a
+[[pag137]]*Seconda voce.* Avvenne questo. Il Buddha, il Beato, soggiornava a
 Verañjā, ai piedi dell’albero _nimba_ di Naḷeru con una grande comunità
 di bhikkhu, di cinquecento bhikkhu, quando un brāhmaṇa di Verañjā sentì
 parlare del Beato e decise di andare ad incontrarlo. Andò da lui e
@@ -576,8 +576,8 @@ per di più, mantenere in essere queste quattro cose. La ripugnanza (in
 relazione all’aspetto repellente del corpo)footnote:[“Ripugnanza” è un
 termine che indica l’oggetto di
 contemplazione consistente sia nelle “trentuno parti del corpo”
-(trentadue nei Commentari) sia la decomposizione dei cadaveri (cap. 12,
-pp. 270-271). Lo scopo è ridurre l’attaccamento al corpo fisico
+(trentadue nei Commentari) sia la decomposizione dei cadaveri (<<12-La-Dottrina.adoc#pag270,cap. 12 -- _Ancora, un bhikkhu considera questo corpo come se stesse guardando..._>>).
+Lo scopo è ridurre l’attaccamento al corpo fisico
 dimostrando che è non attraente ma transitorio.] dovrebbe
 essere mantenuta in essere al fine di abbandonare la lussuria. La
 gentilezza amorevole al fine di abbandonare la malevolenza. La
@@ -1277,8 +1277,8 @@ tad abhiññāya sabbaṃ nāpahosiṃ, sabbasmiṃ nāpahosiṃ, sabbato nāpah
 sabbam me ti nāpahosiṃ, sabbaṃ nābhivadiṃ_ (“Avendo avuto conoscenza del
 tutto in quanto tutto …” ). Sia in questo sutta sia in D. 11 la riga
 _Viññāṇam anidassanam anantaṃ sabbatopabhaṃ_ (“La coscienza che non si
-mostra …”) è menzionata dal Buddha (in questa pagina e anche alla p.
-167). Questa frase è stata un problema per molti. Il Commentario al
+mostra …”) è menzionata dal Buddha (<<09-La-fine-dei-primi-vent-anni.adoc#pag162,qui>> e anche <<09-La-fine-dei-primi-vent-anni.adoc#pag167,qui>>).
+Questa frase è stata un problema per molti. Il Commentario al
 _Majjhima_ ha un’ampiezza molto maggiore del Commentario al _Dīgha_ e
 propone una derivazione dalla radice _bhū_ (essere) per _pabhaṃ_ (o
 _pahaṃ_). Seguendo questo suggerimento, sebbene non del tutto in linea
@@ -1308,7 +1308,7 @@ sia vano e vuoto!”».
 
 [quote]
 ____
-La coscienza che non si mostra +
+[[pag162]]La coscienza che non si mostra +
 e che nemmeno ha a che fare con la finitezza, +
 pretendendo di non essere separata dal tutto
 ____
@@ -1497,7 +1497,7 @@ Questa è la risposta:
 
 [quote]
 ____
-La coscienza che non si mostra +
+[[pag167]]La coscienza che non si mostra +
 né ha a che fare con la finitezza, +
 senza ritenere di essere separata dal tutto: +
 là è che acqua, terra, +

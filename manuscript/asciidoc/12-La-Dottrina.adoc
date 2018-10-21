@@ -76,7 +76,7 @@ sistema metafisico, una costruzione logica coerente? E, se è così, su
 quale fondamento poggia?
 
 [.voice]
-*Prima voce.* Una volta, quando il Beato era entrato a Rājagaha per la
+*Prima voce.* [[pag230]]Una volta, quando il Beato era entrato a Rājagaha per la
 questua, l’asceta itinerante nudo Kassapa andò da lui e, dopo averlo
 salutato, disse: «Qualora il Maestro Gotama acconsentisse a darci una
 risposta, vorremmo chiedere una cosa al Maestro Gotama». – «Non è il
@@ -1209,7 +1209,7 @@ ____
 [.suttaref]
 _S. 22:95_
 
-«Le sei basi, di per se stesse, possono essere definite come un
+[[pag254]]«Le sei basi, di per se stesse, possono essere definite come un
 villaggio vuoto, perché se un uomo saggio le investiga quali occhio,
 orecchio, naso, lingua, corpo o mente, esse appaiono come cavità, vuote
 e vacue. Le sei basi esterne possono essere definite come briganti che
@@ -1444,7 +1444,7 @@ schematicamente. Tutto ciò è abbandonato da Chi è Entrato nella
 Corrente, anche se la presunzione “io sono” non lo è.
 
 [.voice]
-*Prima voce.* «Com’è che perviene a esistere l’opinione della
+*Prima voce.* [[pag259]]«Com’è che perviene a esistere l’opinione della
 personificazione?». – «Un uomo ignorante e ordinario che non ha
 considerazione per gli Esseri Nobili e non è versato con il loro Dhamma
 e Disciplina … vede la forma come sé o il sé come dotato di una forma, o
@@ -1630,7 +1630,7 @@ Entrati nella Corrente, e non sono più soggetti alla perdizione, sono
 certi della rettitudine e destinati all’Illuminazione. Ci sono bhikkhu
 che, con l’esaurimento delle tre catene e l’attenuazione della brama,
 dell’odio e dell’illusione, Tornano una Sola Volta: tornando una sola
-volta in questo mondo, porranno fine alla sofferenza. Ci sono bhikkhu
+volta in questo mondo, porranno fine alla sofferenza. [[pag263]]Ci sono bhikkhu
 che, con la distruzione delle cinque catene inferiori, sono [Senza
 Ritorno, sono] destinati a ricomparire spontaneamente altrove e lì
 otterranno il Nibbāna definitivo, senza tornare nel frattempo da quel
@@ -1708,7 +1708,7 @@ altri o per l’afflizione propria e per quella degli altri».
 [.suttaref]
 _M. 13_
 
-== Retta parola
+== [[pag265]]Retta parola
 
 [.narrator]
 *Secondo narratore.* Questi due fattori della retta visione e della retta
@@ -1821,7 +1821,7 @@ suscita energia, esercita la sua mente, si applica intensamente. Questo
 [.suttaref]
 _S. 45:8; D. 22_
 
-== Retta presenza mentale
+== [[pag267]]Retta presenza mentale
 
 [.narrator]
 *Secondo narratore.* Siamo giunti al settimo fattore, la retta presenza
@@ -1945,7 +1945,7 @@ l’elemento fuoco e l’elemento aria”».
 
 «È pure così che un bhikkhu dimora contemplando il corpo come corpo».
 
-«Ancora, un bhikkhu considera questo corpo come se stesse guardando un
+[[pag270]]«Ancora, un bhikkhu considera questo corpo come se stesse guardando un
 cadavere gettato in un carnaio, morto da un giorno, morto da due giorni,
 morto da tre giorni, gonfio, livido, e che trasuda materia: “Anche
 questo corpo ha tale natura, sarà così, non è esente da questo”».
@@ -2002,7 +2002,7 @@ sensazioni».
 
 «E come dimora un bhikkhu contemplando la coscienza come coscienza?».
 
-«Un bhikkhu comprende la coscienza affetta dalla brama come affetta
+[[pag272]]«Un bhikkhu comprende la coscienza affetta dalla brama come affetta
 dalla brama, e quella non affetta dalla brama come non affetta dalla
 brama. Egli comprende la coscienza affetta dall’odio come affetta
 dall’odio, e quella non affetta dall’odio come non affetta dall’odio.
@@ -2340,7 +2340,7 @@ _M. 25_
 
 [.narrator]
 *Secondo narratore.* Nessuno di questi otto conseguimenti (né le quattro
-Divine Dimore, cfr. p. 200) sono rivendicate come peculiari
+Divine Dimore, <<10-Il-periodo-di-mezzo.adoc#pag200b,cfr. -- _Le ultime quattro righe sottolineano..._>>) sono rivendicate come peculiari
 dell’insegnamento dei Buddha. La loro pratica priva di retta visione
 conduce solo al paradiso, ma non al Nibbāna. L’insegnamento peculiare
 dei Buddha è le Quattro Nobili Verità. Un nono conseguimento, il
@@ -2420,7 +2420,7 @@ realtà percorso il Sentiero?
 == Il Nobile Ottuplice Sentiero in pratica
 
 [.voice]
-*Prima voce.* Un mattino il venerabile Ānanda si vestì, prese la ciotola e
+*Prima voce.* [[pag281]]Un mattino il venerabile Ānanda si vestì, prese la ciotola e
 la veste superiore e si recò a Sāvatthī per la questua. Egli vide il
 brāhmaṇa Jānussoni che usciva da Sāvatthī alla guida di un carro
 trainato da quattro giumente, tutto era bianco: bianchi i cavalli,
@@ -2507,7 +2507,7 @@ parla, egli è affidabile, attendibile e non inganna il mondo. Egli
 abbandona la calunnia … Egli abbandona l’insulto … Egli abbandona il
 pettegolezzo … parla con un linguaggio giusto che merita di essere
 ricordato, che è motivato, preciso e connesso al
-bene».footnote:[Si veda sopra, la “retta parola” (p. 265) per
+bene».footnote:[Si veda sopra, la “<<12-La-Dottrina.adoc#pag265,retta parola>>” per
 il testo completo.]
 
 «Egli si astiene dal danneggiare semi e piante. Egli mangia solo in una
@@ -2540,8 +2540,8 @@ la mente.) Possedendo questa facoltà del contenimento degli Esseri
 Nobili, egli prova in se stesso un’incontaminata beatitudine».
 
 «È del tutto consapevole quando si muove avanti e indietro … e mantiene
-il silenzio».footnote:[Si veda sopra, la “retta presenza mentale”
-(p. 267) per il testo.]
+il silenzio».footnote:[Si veda sopra, la “<<12-La-Dottrina.adoc#pag267,retta presenza mentale>>”
+per il testo.]
 
 «Possedendo l’insieme delle virtù degli Esseri Nobili, e questa facoltà
 del contenimento degli Esseri Nobili, e questa consapevolezza e piena

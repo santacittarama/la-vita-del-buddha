@@ -504,7 +504,9 @@ non essere scacciato dal mio presidio. +
 Tu hai schierato degli squadroni che il mondo +
 con tutte le sue divinità non può sconfiggere, +
 ma io li abbatterò con la Comprensione, +
-come una pietra un vaso d’argilla cruda».footnote:[Ciò a cui gli ultimi versi (qui omessi ma inclusi nel cap. 4, p. 70) di questo canto fanno riferimento è collocato dai _Commentari_ un anno più tardi rispetto al resto.]
+come una pietra un vaso d’argilla cruda».footnote:[Ciò a cui gli ultimi versi
+(qui omessi ma inclusi nel <<ch04-La-diffusione-del-Dhamma#pag70A,cap. 4 -- _C'era un corvo che camminava..._>>)
+di questo canto fanno riferimento è collocato dai _Commentari_ un anno più tardi rispetto al resto.]
 ____
 
 [.suttaref]
@@ -524,9 +526,8 @@ desideri sensoriali, e discosto da cose non salutari entrai e dimorai
 nel primo jhāna,footnote:[NDT. Assorbimento mentale (jhāna), uno stato di forte
 concentrazione focalizzata su una singola sensazione fisica (che conduce
 a un _rūpajjhāna_), oppure su di una nozione mentale (che conduce a un
-_arūpajjhāna_). I quattro jhāna sono descritti appena più avanti (p.
-27); si veda anche la narrazione dell’ottenimento del Nibbāna finale
-(_Parinibbāna_) del Buddha (cfr. p. 364).] che è accompagnato dal pensiero e
+_arūpajjhāna_). I quattro jhāna sono descritti <<02-Lo-sforzo-per-l-illuminazione.adoc#pag27,appena più avanti -- _Dopo aver mangiato cibo solido..._>>; si veda anche la narrazione dell’ottenimento del Nibbāna finale
+(_Parinibbāna_) del Buddha (<<15-L-ultimo-anno.adoc#pag364,cfr. -- _Queste furono le ultime parole del Beato..._>>).] che è accompagnato dal pensiero e
 dall’esplorazione uniti alla felicità e al piacere nati
 dall’isolamento.footnote:[NDT. Qui come in seguito, allorché questo passo si ripete, i
 due termini “pensiero” ed “esplorazione” – nel testo inglese si legge
@@ -624,7 +625,7 @@ probabilità e delle certezze. Questa è la descrizione in termini di
 meditazione che conduce alla scoperta delle Quattro Nobili Verità.
 
 [.voice]
-*Prima voce.* «Dopo aver mangiato cibo solido e aver riacquistato le
+*Prima voce.* [[pag27]]«Dopo aver mangiato cibo solido e aver riacquistato le
 forze, allora, del tutto discosto dai desideri sensoriali, discosto da
 cose non salutari entrai e dimorai nel primo jhāna, che è accompagnato
 dal pensiero e dall’esplorazione uniti alla felicità e al piacere nati
@@ -647,7 +648,7 @@ quale non c’è né piacere né dolore e la purezza della consapevolezza è
 dovuta all’equanimità contemplativa. Quando però in me sorse questo
 piacere, non gli consentii d’impossessarsi della mia mente».
 
-«Quando la mia mente fu così concentrata, purificata, luminosa,
+[[pag27b]]«Quando la mia mente fu così concentrata, purificata, luminosa,
 immacolata e priva di imperfezioni, allorché divenne malleabile,
 duttile, stabile e imperturbabile, la indirizzai e la rivolsi alla
 conoscenza del ricordo delle vite precedenti, ricordai la molteplicità
@@ -668,7 +669,7 @@ l’oscurità fu bandita e sorse la luce, come avviene in chi è diligente,
 ardente e dotato di auto-controllo. Quando però in me sorse questa
 sensazione piacevole, non le consentii d’impossessarsi della mia mente».
 
-«Quando la mia mente fu così concentrata ... la indirizzai e la rivolsi
+[[pag28]]«Quando la mia mente fu così concentrata ... la indirizzai e la rivolsi
 alla conoscenza della morte e della rinascita degli esseri. Con l’occhio
 divino, che è purificato e supera quello umano, vidi gli esseri morire e
 rinascere, inferiori e superiori, belli e brutti, felici e infelici

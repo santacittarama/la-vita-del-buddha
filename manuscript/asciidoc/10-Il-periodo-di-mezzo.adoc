@@ -1204,7 +1204,7 @@ trascurare qualsiasi istruzione, allora sarebbe impossibile attuarla,
 perché allora la si potrebbe attuare solo non attuandola: si tratta di
 un ben conosciuto dilemma logico. Il resto del discorso dovrebbe però
 consentire di comprendere quel che si vuole dire. Per quanto concerne la
-fiducia (_saddhā_), si veda il cap. 11, p. 222.] o delle leggende, di quel che è
+fiducia (_saddhā_), si veda il <<11-La-persona.adoc#pag222,cap. 11 -- _Ora, bhikkhu, se gli altri dovessero chiedere a un bhikkhu..._>>.] o delle leggende, di quel che è
 esposto nelle vostre scritture o delle congetture, delle inferenze
 logiche o delle ponderate evidenze, della predilezione per un punto di
 vista dopo averlo esaminato voi stessi o con l’abilità di qualcun altro
@@ -1427,7 +1427,7 @@ conclude i discorsi diretti in lingua pāli è spesso escluso nei versi).
 Nobili, coloro che hanno realizzato l’estinzione della brama, dell’odio
 e dell’illusione – affermano che il dimorare in tal modo proprio in
 questa vita equivale alla pura consapevolezza che si sperimenta nei
-paradisi più elevati. Le ultime quattro righe sottolineano che se le
+paradisi più elevati. [[pag200b]]Le ultime quattro righe sottolineano che se le
 quattro Divine Dimore conducono al paradiso, esse tuttavia non
 assicurano il conseguimento di ciò che è privo di forma,
 dell’incondizionato Nibbāna – la cessazione della nascita,
@@ -1436,7 +1436,7 @@ visione profonda nella natura impermanente di tutto quel che sorge e che
 è condizionato, sia esso dotato di forma o privo di forma, inclusi tutti
 i modi di esistenza paradisiaca (cf. ad esempio A. 4:125-26).]
 
-Questo dovrebbe essere fatto da chi è abile nel bene +
+[[pag200]]Questo dovrebbe essere fatto da chi è abile nel bene +
 per raggiungere la condizione di pace.
 
 Che sia valente, retto, onesto, +

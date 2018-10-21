@@ -38,11 +38,11 @@ paradisi sensoriali). Il sacerdozio dei brāhmaṇa proviene da questa
 stessa casta, per la quale si rivendica un legame particolare con
 _Brahmā_, ed è questo che può giustificare la traduzione “divino”. Di
 solito la parola non viene tradotta. Altri termini che riecheggiano
-questi significati sono le Divine Dimore (_brahmāvihara_: cap. 10, p.
-200) della compassione amorevole, ecc., la “santa” o “divina vita”
+questi significati sono le Divine Dimore (_brahmāvihara_: <<10-Il-periodo-di-mezzo.adoc#pag200,cap. 10 -- _Questo dovrebbe essere fatto_>>)
+della compassione amorevole, ecc., la “santa” o “divina vita”
 (_brahmacariya_) o “pura condotta”, che è tale in virtù della “divina”
-caratteristica della castità, il “divino veicolo” (_brahmayāna_: cap.
-XII, p. 281), e così via.] che pratica la meditazione +
+caratteristica della castità, il “divino veicolo”
+(_brahmayāna_: <<12-La-Dottrina.adoc#pag281,cap. 12 -- _Un mattino il venerabile Ānanda..._>>), e così via.] che pratica la meditazione +
 tutti i suoi dubbi svaniscono, perché egli sa +
 che ogni cosa deve avere la sua causa.
 ____
@@ -108,9 +108,10 @@ Al termine dei sette giorni,footnote:[La collocazione di questo e del successivo
 punto è indicata dagli stessi testi. Anche il _Mālālankāravatthu_
 inserisce qui la tentazione delle figlie di Māra. Ācariya Buddhaghosa,
 però, ne parla in relazione al primo anno dopo l’Illuminazione (si veda
-il cap. 4, p. 70). Un altro episodio, qui non incluso, di alcuni
+il <<04-La-diffusione-del-Dhamma.adoc#pag70,cap. 4 -- _Allora le tre figlie di Māra..._>>).
+Un altro episodio, qui non incluso, di alcuni
 brāhmaṇa che rimproverano il Buddha per non aver prestato loro omaggio
-(cf. cap. 9, p. 137), è correlato ad A. 4:22.] dopo essere emerso da
+(<<09-La-fine-dei-primi-vent-anni.adoc#pag137,cf. cap. 9 -- _Avvenne questo. Il Buddha..._>>), è correlato ad A. 4:22.] dopo essere emerso da
 quella concentrazione, il Beato esaminò il mondo con l’occhio di un
 Illuminato. Quando lo fece, vide gli esseri che bruciavano per molti
 generi di fiamme ed erano consumati da molte febbri generate dalla
@@ -160,10 +161,10 @@ non è attratto dalla non-esistenza. +
 Il dissolversi senza residuo, il cessare,
 l’Estinzionefootnote:[“Estinzione” e “Nibbāna” sono ovunque utilizzati in modo
 intercambiabile. “Estinzione” deve essere intesa come estinzione del
-fuoco (S. 35:28, cit. nel cap. 4, p. 73) della bramosia, dell’odio e
+fuoco (S. 35:28, cit. nel <<04-La-diffusione-del-Dhamma.adoc#pag73,cap. 4 -- _Il Sermone del Fuoco_>>) della bramosia, dell’odio e
 dell’illusione, e delle loro conseguenze. Non deve essere intesa per
-significare l’“estinzione di una persona vivente” (si veda il cap. 11,
-p. 226). La moderna etimologia fa derivare la parola _nibbāna_
+significare l’“estinzione di una persona vivente” (si veda il <<11-La-persona.adoc#pag226,cap. 11 -- _Colui che è Così-Andato..._>>).
+La moderna etimologia fa derivare la parola _nibbāna_
 (sanscrito: _nirvāṇa_) dal prefisso negativo _ni_(r) cui si aggiunge la
 radice vā (soffiare), con il senso di “cessazione del soffio vitale”. Il
 significato originario fu probabilmente estinzione di un fuoco per la
@@ -176,7 +177,7 @@ tutto raggiunti da un Arahant durante la vita. Alla sua morte fisica la
 processualità legata ai cinque aggregati si dissolverà senza essere
 rinnovata. Nibbāna è un termine erroneamente identificato come
 “estinzione di un sé esistente” e, allo stesso modo, della perpetuazione
-del sé (si veda il cap. 12, pp. 254-262).] +
+del sé (<<12-La-Dottrina.adoc#pag254,si veda il cap. 12 -- _Le sei basi, di per se stesse..._>>).] +
 con la fine assoluta di ogni brama. +
 Quando un bhikkhu raggiunge il Nibbāna +
 mediante il non-attaccamento, +
@@ -257,7 +258,7 @@ dell’albero di Mucalinda si recò ai piedi dell’albero _rājāyatana_ per
 sette giorni senza interruzione, provando la beatitudine della
 Liberazione.
 
-In quell’occasione due mercanti, Tapussa e Bhalluka, stavano viaggiando
+[[pag41]]In quell’occasione due mercanti, Tapussa e Bhalluka, stavano viaggiando
 sulla strada che viene da Ukkalā. Una divinità, che in una vita passata
 era stata una loro parente, disse loro: «Signori, c’è questo Beato che,
 da poco illuminatosi, vive alle radici dell’albero _rājāyatana_. Andate
@@ -301,7 +302,7 @@ Muore e terminano in Ciò Che Non Muore. Quali cinque? Sono le facoltà
 della fede, dell’energia, della consapevolezza, della concentrazione e
 della comprensione».
 
-Allora Brahmā Sahampati nella sua mente fu consapevole del pensiero
+[[pag45]]Allora Brahmā Sahampati nella sua mente fu consapevole del pensiero
 sorto nella mente del Beato, e con la stessa velocità con cui un uomo
 forte distende il suo braccio piegato o piega il suo braccio disteso,
 scomparve dal mondo di Brahmā e apparve di fronte a lui. Sistemò la
