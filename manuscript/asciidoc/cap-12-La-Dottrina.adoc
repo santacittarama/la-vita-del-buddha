@@ -1,3 +1,4 @@
+[[cap-12-La-Dottrina]]
 = La dottrina
 :chapter-number: 12
 

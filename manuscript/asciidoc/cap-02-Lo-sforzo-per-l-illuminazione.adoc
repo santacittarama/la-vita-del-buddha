@@ -1,3 +1,4 @@
+[[cap-02-Lo-sforzo-per-l-illuminazione]]
 = Lo sforzo per l'Illuminazione
 :chapter-number: 2
 
