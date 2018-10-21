@@ -803,7 +803,7 @@ felicità di divinità e uomini»: fino a questo punto la sua mente era
 sotto l’influsso di Māra. Una seconda e una terza volta il Beato disse
 la stessa cosa, e la mente del venerabile Ānanda rimase sotto l’influsso
 di Māra.footnote:[È opportuno notare che il Buddha decise di insegnare la sua
-dottrina dietro invito di una Divinità (<<03-Dopo-l-Illuminazione.adoc#pag45,cap. 3 -- _Allora Brahmā Sahampati..._>>), e che egli
+dottrina dietro invito di una Divinità (<<cap-03-Dopo-l-Illuminazione.adoc#pag45,cap. 3 -- _Allora Brahmā Sahampati..._>>), e che egli
 abbandonò la sua determinazione di vivere in assenza di un invito a
 prolungarla a causa dell’intervento di Māra (la “Morte”).] Allora il
 Beato disse al venerabile Ānanda:
@@ -1146,7 +1146,7 @@ la sua vita» (Commentario a Ud. 8:5). Mangiare carne era consentito ai
 monaci dal Buddha a tre condizioni: che non si fosse visto, udito o
 sospettato che l’animale era stato ucciso per colui che lo avrebbe
 mangiato (M. 55, Vin. Mv. 6:31, cf. A. 4:44; anche Vin. Cv. 7:4 cit. nel
-<<13-Devadatta.adoc#pag298,cap. 13 -- _Ho permesso [di mangiare] pesce o carne..._>>). Probabilmente non riusciremo mai a sapere l’esatto
+<<cap-13-Devadatta.adoc#pag298,cap. 13 -- _Ho permesso [di mangiare] pesce o carne..._>>). Probabilmente non riusciremo mai a sapere l’esatto
 significato. È stato scelto “carne macinata di maiale” perché elusivo e
 vicino all’espressione originale: _sūkara_ = maiale; _maddava_ = dolce.]
 in abbondanza, annunciò che era giunto il

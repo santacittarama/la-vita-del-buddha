@@ -280,7 +280,7 @@ impossibile rinvenire un ciclo di rinascite che io non abbia già
 attraversato in questo lungo viaggio, ad eccezione delle Pure
 Dimore,footnote:[Le “Pure Dimore” sono parte dell’alto mondo di Brahmā
 (_brahmaloka_), abitate solo da chi ha raggiunto la condizione di Chi è
-Senza Ritorno (si veda il <<12-La-Dottrina.adoc#pag263,cap. 12 -- _Ci sono bhikkhu che..._>>), che sono là rinati alla
+Senza Ritorno (si veda il <<cap-12-La-Dottrina.adoc#pag263,cap. 12 -- _Ci sono bhikkhu che..._>>), che sono là rinati alla
 morte e là vivono senza tornare in nessun altro mondo finché non
 raggiungono il Nibbāna definitivo.] perché se io fossi nato nelle
 Pure Dimore non sarei mai dovuto tornare in questo mondo».

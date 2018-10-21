@@ -2341,7 +2341,7 @@ _M. 25_
 
 [.narrator]
 *Secondo narratore.* Nessuno di questi otto conseguimenti (né le quattro
-Divine Dimore, <<10-Il-periodo-di-mezzo.adoc#pag200b,cfr. -- _Le ultime quattro righe sottolineano..._>>) sono rivendicate come peculiari
+Divine Dimore, <<cap-10-Il-periodo-di-mezzo.adoc#pag200b,cfr. -- _Le ultime quattro righe sottolineano..._>>) sono rivendicate come peculiari
 dell’insegnamento dei Buddha. La loro pratica priva di retta visione
 conduce solo al paradiso, ma non al Nibbāna. L’insegnamento peculiare
 dei Buddha è le Quattro Nobili Verità. Un nono conseguimento, il
@@ -2508,7 +2508,7 @@ parla, egli è affidabile, attendibile e non inganna il mondo. Egli
 abbandona la calunnia … Egli abbandona l’insulto … Egli abbandona il
 pettegolezzo … parla con un linguaggio giusto che merita di essere
 ricordato, che è motivato, preciso e connesso al
-bene».footnote:[Si veda sopra, la “<<12-La-Dottrina.adoc#pag265,retta parola>>” per
+bene».footnote:[Si veda sopra, la “<<cap-12-La-Dottrina.adoc#pag265,retta parola>>” per
 il testo completo.]
 
 «Egli si astiene dal danneggiare semi e piante. Egli mangia solo in una
@@ -2541,7 +2541,7 @@ la mente.) Possedendo questa facoltà del contenimento degli Esseri
 Nobili, egli prova in se stesso un’incontaminata beatitudine».
 
 «È del tutto consapevole quando si muove avanti e indietro … e mantiene
-il silenzio».footnote:[Si veda sopra, la “<<12-La-Dottrina.adoc#pag267,retta presenza mentale>>”
+il silenzio».footnote:[Si veda sopra, la “<<cap-12-La-Dottrina.adoc#pag267,retta presenza mentale>>”
 per il testo.]
 
 «Possedendo l’insieme delle virtù degli Esseri Nobili, e questa facoltà

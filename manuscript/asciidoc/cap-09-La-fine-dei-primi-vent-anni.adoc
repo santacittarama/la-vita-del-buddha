@@ -577,7 +577,7 @@ per di più, mantenere in essere queste quattro cose. La ripugnanza (in
 relazione all’aspetto repellente del corpo)footnote:[“Ripugnanza” è un
 termine che indica l’oggetto di
 contemplazione consistente sia nelle “trentuno parti del corpo”
-(trentadue nei Commentari) sia la decomposizione dei cadaveri (<<12-La-Dottrina.adoc#pag270,cap. 12 -- _Ancora, un bhikkhu considera questo corpo come se stesse guardando..._>>).
+(trentadue nei Commentari) sia la decomposizione dei cadaveri (<<cap-12-La-Dottrina.adoc#pag270,cap. 12 -- _Ancora, un bhikkhu considera questo corpo come se stesse guardando..._>>).
 Lo scopo è ridurre l’attaccamento al corpo fisico
 dimostrando che è non attraente ma transitorio.] dovrebbe
 essere mantenuta in essere al fine di abbandonare la lussuria. La
@@ -1278,7 +1278,7 @@ tad abhiññāya sabbaṃ nāpahosiṃ, sabbasmiṃ nāpahosiṃ, sabbato nāpah
 sabbam me ti nāpahosiṃ, sabbaṃ nābhivadiṃ_ (“Avendo avuto conoscenza del
 tutto in quanto tutto …” ). Sia in questo sutta sia in D. 11 la riga
 _Viññāṇam anidassanam anantaṃ sabbatopabhaṃ_ (“La coscienza che non si
-mostra …”) è menzionata dal Buddha (<<09-La-fine-dei-primi-vent-anni.adoc#pag162,qui>> e anche <<09-La-fine-dei-primi-vent-anni.adoc#pag167,qui>>).
+mostra …”) è menzionata dal Buddha (<<cap-09-La-fine-dei-primi-vent-anni.adoc#pag162,qui>> e anche <<cap-09-La-fine-dei-primi-vent-anni.adoc#pag167,qui>>).
 Questa frase è stata un problema per molti. Il Commentario al
 _Majjhima_ ha un’ampiezza molto maggiore del Commentario al _Dīgha_ e
 propone una derivazione dalla radice _bhū_ (essere) per _pabhaṃ_ (o

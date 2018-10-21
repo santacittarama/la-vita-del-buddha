@@ -146,7 +146,7 @@ orgoglio). Utilizzato nel senso di concepire che “questo è quello” o
 semplicemente che “esso è”, esso ha un significato ontologico
 fondamentale (cf. M. 1 e M. 49) nell’attribuzione dell’“esistenza” a ciò
 che è percepito. Per il suo significato di “concepisco io sono”
-(_asmi-māna_), si veda il <<12-La-Dottrina.adoc#pag259,cap. 12 -- _Com’è che perviene a esistere l’opinione..._>>. Concependo che “io sono
+(_asmi-māna_), si veda il <<cap-12-La-Dottrina.adoc#pag259,cap. 12 -- _Com’è che perviene a esistere l’opinione..._>>. Concependo che “io sono
 meglio di un altro”, ecc., si concepisce con orgoglio (_atimāna_). È
 importante preservare questo filo di significati nei sutta.]  per ciò che è
 visto, non concepisce la presunzione per ciò che non è visto, non
@@ -964,7 +964,7 @@ in quale dei quattro seguenti modi viene descritto? Dopo la morte un
 Perfetto esiste. Oppure, dopo la morte un Perfetto non esiste. Oppure,
 dopo la morte un Perfetto sia esiste sia non esiste. Oppure, dopo la
 morte un Perfetto né esiste né non esiste».footnote:[Si tratta di quattro
-delle “dieci cose non dichiarate” (<<12-La-Dottrina.adoc#pag230,cf. cap. 12 -- _Una volta, quando il Beato era entrato a Rājagaha..._>>), le quali tutte implicano un’affermazione,
+delle “dieci cose non dichiarate” (<<cap-12-La-Dottrina.adoc#pag230,cf. cap. 12 -- _Una volta, quando il Beato era entrato a Rājagaha..._>>), le quali tutte implicano un’affermazione,
 indipendentemente dal fatto che la risposta sia sì o no. I Greci erano
 soliti chiedere: «Usi un bastone per picchiare tua moglie?», e sia che
 la risposta fosse “sì” sia “no”, la conclusione era: «Allora tu picchi
@@ -1068,7 +1068,7 @@ _M. 72_
 [[pag226]]«Colui che è Così-Andato (Tathāgata, un Perfetto)footnote:[La parola _tathāgata_
 (qui tradotta non letteralmente con
 “il Perfetto”) fu inizialmente usata dal Buddha per se stesso subito
-dopo l’Illuminazione (<<03-Dopo-l-Illuminazione.adoc#pag41,cap. 3 -- _In quell’occasione due mercanti, Tapussa e Bhalluka, stavano viaggiando..._>>). In seguito la utilizzò per gli
+dopo l’Illuminazione (<<cap-03-Dopo-l-Illuminazione.adoc#pag41,cap. 3 -- _In quell’occasione due mercanti, Tapussa e Bhalluka, stavano viaggiando..._>>). In seguito la utilizzò per gli
 Arahant. Il Commentario la fa derivare in vari modi (ne tratta in sette
 pagine): «perché Egli è _tathāgato_, così-venuto, per mezzo
 dell’aspirazione all’Illuminazione, come fecero i precedenti Buddha;

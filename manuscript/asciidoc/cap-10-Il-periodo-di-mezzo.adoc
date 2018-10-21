@@ -1205,7 +1205,7 @@ trascurare qualsiasi istruzione, allora sarebbe impossibile attuarla,
 perché allora la si potrebbe attuare solo non attuandola: si tratta di
 un ben conosciuto dilemma logico. Il resto del discorso dovrebbe però
 consentire di comprendere quel che si vuole dire. Per quanto concerne la
-fiducia (_saddhā_), si veda il <<11-La-persona.adoc#pag222,cap. 11 -- _Ora, bhikkhu, se gli altri dovessero chiedere a un bhikkhu..._>>.] o delle leggende, di quel che è
+fiducia (_saddhā_), si veda il <<cap-11-La-persona.adoc#pag222,cap. 11 -- _Ora, bhikkhu, se gli altri dovessero chiedere a un bhikkhu..._>>.] o delle leggende, di quel che è
 esposto nelle vostre scritture o delle congetture, delle inferenze
 logiche o delle ponderate evidenze, della predilezione per un punto di
 vista dopo averlo esaminato voi stessi o con l’abilità di qualcun altro
