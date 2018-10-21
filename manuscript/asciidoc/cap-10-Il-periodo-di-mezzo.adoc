@@ -1417,7 +1417,7 @@ _Ud. 5:4_
 
 [quote, role=cantor]
 ____
-*Cantore*{empty}footnote:[Questo canto, conosciuto come «Canto della Gentilezza
+[[pag200b]]*Cantore*{empty}footnote:[Questo canto, conosciuto come «Canto della Gentilezza
 Amorevole» (Mettā Sutta), è quello al giorno d’oggi più noto. Se viene
 trascurato il passo del discorso diretto (indicato tra «…» nella
 traduzione), va persa l’architettura del sutta. Non si tratta di
@@ -1428,7 +1428,7 @@ conclude i discorsi diretti in lingua pāli è spesso escluso nei versi).
 Nobili, coloro che hanno realizzato l’estinzione della brama, dell’odio
 e dell’illusione – affermano che il dimorare in tal modo proprio in
 questa vita equivale alla pura consapevolezza che si sperimenta nei
-paradisi più elevati. [[pag200b]]Le ultime quattro righe sottolineano che se le
+paradisi più elevati. Le ultime quattro righe sottolineano che se le
 quattro Divine Dimore conducono al paradiso, esse tuttavia non
 assicurano il conseguimento di ciò che è privo di forma,
 dell’incondizionato Nibbāna – la cessazione della nascita,

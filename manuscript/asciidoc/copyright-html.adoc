@@ -1,0 +1,47 @@
+[#copyright, colophon]
+= Copyright
+
+La Vita del Buddha +
+di Bhikkhu Ñāṇamoli
+
+Traduzione di Roberto Paciocco
+
+Digital Edition {version}
+
+ePub ISBN {isbn}
+
+Versione elettronica pubblicata il {revdate}
+
+(C) Associazione Santacittarama, 2018
+
+Pubblicato da Edizioni Santacittarama, +
+Monastero di Santacittarama, +
+Località Brulla snc +
+02030 Poggio Nativo (RI), +
+Italy
+
+link:https://santacittarama.altervista.org/[www.santacittarama.org]
+
+Titolo originale:
+
+The Life of the Buddha +
+by Bhikkhu Ñāṇamoli
+
+(C) Buddhist Publication Society, 1972, 1992
+
+image::cc-by-nc-nd.png[creative commons, role=cc-icon]
+
+Quest'opera è distribuita con Licenza Creative Commons +
+Attribuzione - Non commerciale - Non opere derivate 4.0 Internazionale.
+
+http://creativecommons.org/licenses/by-nc-nd/4.0/deed.it
+
+Questa pubblicazione non è in alcun modo connessa a scopi commerciali:
+il volume cartaceo può essere reperito presso il monastero, in
+distribuzione gratuita. Non di meno al volume si applicano tutti i
+divieti legati all’utilizzo e alla riproduzione del testo, i cui diritti
+d’autore sono detenuti dalla Buddhist Publication Society, la quale ha
+autorizzato la presente edizione italiana. Il libro è disponibile
+gratuitamente anche in versione digitale, scaricabile direttamente dal
+sito del monastero.
+

@@ -4,7 +4,7 @@
 :author: Bhikkhu Ñāṇamoli
 :creator: {author}
 :version: v1.0
-:revdate: 2018-09-26
+:revdate: 2018-10-21
 :doctype: book
 :lang: it
 :pubs-logo: edizioni-santacittarama-w150.jpg
@@ -82,5 +82,5 @@ include::{includes}/L-autore.adoc[]
 
 include::{includes}/Bibliografia-di-bhikkhu-Nanamoli.adoc[]
 
-include::{includes}/copyright.adoc[]
+include::{includes}/copyright-html.adoc[]
 
