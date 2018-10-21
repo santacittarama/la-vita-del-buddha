@@ -41,37 +41,37 @@ include::{includes}/Mappa.adoc[]
 
 include::{includes}/Voci.adoc[]
 
-include::{includes}/01-La-nascita-e-i-primi-anni.adoc[]
+include::{includes}/cap-01-La-nascita-e-i-primi-anni.adoc[]
 
-include::{includes}/02-Lo-sforzo-per-l-illuminazione.adoc[]
+include::{includes}/cap-02-Lo-sforzo-per-l-illuminazione.adoc[]
 
-include::{includes}/03-Dopo-l-Illuminazione.adoc[]
+include::{includes}/cap-03-Dopo-l-Illuminazione.adoc[]
 
-include::{includes}/04-La-diffusione-del-Dhamma.adoc[]
+include::{includes}/cap-04-La-diffusione-del-Dhamma.adoc[]
 
-include::{includes}/05-I-due-discepoli-eminenti.adoc[]
+include::{includes}/cap-05-I-due-discepoli-eminenti.adoc[]
 
-include::{includes}/06-Anathapindika.adoc[]
+include::{includes}/cap-06-Anathapindika.adoc[]
 
-include::{includes}/07-L-ordine-delle-monache.adoc[]
+include::{includes}/cap-07-L-ordine-delle-monache.adoc[]
 
-include::{includes}/08-La-disputa-di-Kosambi.adoc[]
+include::{includes}/cap-08-La-disputa-di-Kosambi.adoc[]
 
-include::{includes}/09-La-fine-dei-primi-vent-anni.adoc[]
+include::{includes}/cap-09-La-fine-dei-primi-vent-anni.adoc[]
 
-include::{includes}/10-Il-periodo-di-mezzo.adoc[]
+include::{includes}/cap-10-Il-periodo-di-mezzo.adoc[]
 
-include::{includes}/11-La-persona.adoc[]
+include::{includes}/cap-11-La-persona.adoc[]
 
-include::{includes}/12-La-Dottrina.adoc[]
+include::{includes}/cap-12-La-Dottrina.adoc[]
 
-include::{includes}/13-Devadatta.adoc[]
+include::{includes}/cap-13-Devadatta.adoc[]
 
-include::{includes}/14-La-vecchiaia.adoc[]
+include::{includes}/cap-14-La-vecchiaia.adoc[]
 
-include::{includes}/15-L-ultimo-anno.adoc[]
+include::{includes}/cap-15-L-ultimo-anno.adoc[]
 
-include::{includes}/16-Il-primo-concilio.adoc[]
+include::{includes}/cap-16-Il-primo-concilio.adoc[]
 
 include::{includes}/L-autore.adoc[]
 
