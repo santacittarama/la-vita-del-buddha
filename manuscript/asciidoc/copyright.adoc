@@ -45,6 +45,3 @@ autorizzato la presente edizione italiana. Il libro è disponibile
 gratuitamente anche in versione digitale, scaricabile direttamente dal
 sito del monastero.
 
-<<<<
-
-image::back-cover.jpg[]
