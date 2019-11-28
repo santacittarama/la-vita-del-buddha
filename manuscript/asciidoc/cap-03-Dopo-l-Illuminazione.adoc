@@ -106,13 +106,13 @@ ____
 _Ud. 1:1-3; cf. Vin. Mv. 1:1_
 
 Al termine dei sette giorni,footnote:[La collocazione di questo e del successivo episodio in tale
-punto è indicata dagli stessi testi. Anche il _Mālālankāravatthu_
+punto è indicata dagli stessi testi. Anche il _Mālālaṅkāravatthu_
 inserisce qui la tentazione delle figlie di Māra. Ācariya Buddhaghosa,
 però, ne parla in relazione al primo anno dopo l’Illuminazione (si veda
 il <<cap-04-La-diffusione-del-Dhamma.adoc#pag70,cap. 4 -- _Allora le tre figlie di Māra..._>>).
 Un altro episodio, qui non incluso, di alcuni
 brāhmaṇa che rimproverano il Buddha per non aver prestato loro omaggio
-(<<cap-09-La-fine-dei-primi-vent-anni.adoc#pag137,cf. cap. 9 -- _Avvenne questo. Il Buddha..._>>), è correlato ad A. 4:22.] dopo essere emerso da
+(<<cap-09-La-fine-del-primo-ventennio.adoc#pag137,cf. cap. 9 -- _Avvenne questo. Il Buddha..._>>), è correlato ad A. 4:22.] dopo essere emerso da
 quella concentrazione, il Beato esaminò il mondo con l’occhio di un
 Illuminato. Quando lo fece, vide gli esseri che bruciavano per molti
 generi di fiamme ed erano consumati da molte febbri generate dalla
@@ -209,7 +209,7 @@ Conoscendo il significato di ciò, il Beato esclamò queste parole:
 [quote]
 ____
 Il brāhmaṇa che ha vinto le cose malvagie, +
-non altezzoso, privo di contaminazioni e dotato di auto-cotrollo, +
+non altezzoso, privo di contaminazioni e dotato di autocotrollo, +
 con perfetta conoscenza e che vive la vita brāhmaṇica, +
 può a ragione utilizzare la parola “brāhmaṇa”, +
 se non è fiero di nulla che sta nel mondo.
@@ -464,7 +464,7 @@ Dopo aver detto questo, Brahmā Sahampati aggiunse:
 [quote]
 ____
 A Magadha fino ad ora è apparso +
-dhamma impuro insegnato da uomini impuri: +
+_dhamma_ impuro insegnato da uomini impuri: +
 apri i Cancelli di Ciò Che Non Muore: consenti loro di ascoltare +
 il Dhamma Immacolato. +
 Ascendi, o Saggio, la torre del Dhamma, +
@@ -524,7 +524,7 @@ destra, subito scomparve.
 _Vin. Mv. 1:5; cf. M. 26 e 85; S. 6:1_
 
 Il Beato pensò: «A chi per primo insegnerò il Dhamma? Chi comprenderà
-subito questo Dhamma?» Poi pensò: «Āḷāra Kālāma è saggio, sapiente e
+subito questo Dhamma?». Poi pensò: «Āḷāra Kālāma è saggio, sapiente e
 acuto. Da lungo tempo ha poca polvere negli occhi. E se per primo
 insegnassi il Dhamma a lui? Lo comprenderà subito».
 
@@ -545,7 +545,7 @@ Uddaka Rāmaputta ha perduto è molto. Se avesse ascoltato questo Dhamma,
 lo avrebbe subito compreso».
 
 Il Beato pensò: «A chi per primo insegnerò il Dhamma? Chi comprenderà
-subito questo Dhamma?» Poi pensò: «I bhikkhu del gruppo dei cinque che
+subito questo Dhamma?». Poi pensò: «I bhikkhu del gruppo dei cinque che
 mi assistevano nel mio sforzo erano molto servizievoli. E se per primi
 insegnassi il Dhamma a loro?». Pensò inoltre: «Dove vivono adesso i
 bhikkhu del gruppo dei cinque?». E con l’occhio divino, che è purificato
@@ -601,7 +601,7 @@ Scrollando il capo, prese un sentiero secondario e se ne andò.
 Viaggiando per tappe, il Beato giunse infine a Benares, nel Parco delle
 Gazzelle a Isipatana, dove si trovavano i bhikkhu del gruppo dei cinque.
 Da lontano videro che arrivava. Si misero allora d’accordo: «Amici, sta
-arrivando il monaco Gotama, che è diventato auto-indulgente, ha
+arrivando il monaco Gotama, che è diventato autoindulgente, ha
 rinunciato allo sforzo ed è tornato alla lussuria. Non dobbiamo
 prestargli omaggio né alzarci in piedi per lui, e neanche ricevere la
 sua ciotola e la veste superiore. Gli possiamo lasciare un posto a
@@ -627,11 +627,11 @@ Allora i bhikkhu del gruppo dei cinque dissero: «Amico Gotama, quando
 praticavi con disagi, privazioni e mortificazioni non hai ottenuto
 alcuna caratteristica superiore alla condizione umana, degna della
 conoscenza e della visione degli Esseri Nobili. Ora che sei
-auto-indulgente, hai rinunciato allo sforzo e sei tornato alla lussuria,
+autoindulgente, hai rinunciato allo sforzo e sei tornato alla lussuria,
 come puoi aver ottenuto tali caratteristiche?».
 
 Allora il Beato disse al gruppo dei cinque: «Il Perfetto non è
-auto-indulgente, non ha rinunciato allo sforzo, non è tornato alla
+autoindulgente, non ha rinunciato allo sforzo, non è tornato alla
 lussuria. Il Perfetto è realizzato e completamente illuminato.
 Ascoltate, bhikkhu, Ciò Che Non Muore è stato raggiunto. Vi istruirò. Vi
 insegnerò il Dhamma. Praticando dopo essere stati istruiti,
@@ -667,7 +667,7 @@ bhikkhu del gruppo dei cinque in questo modo:
 «Bhikkhu, ci sono questi due estremi che non dovrebbero essere coltivati
 da chi lascia la propria casa. Quali due? La dedizione alla ricerca dei
 desideri sensoriali, che è cosa bassa, grossolana, volgare, ignobile e
-dannosa, e la dedizione all’auto-mortificazione, che è dolorosa,
+dannosa, e la dedizione all’automortificazione, che è dolorosa,
 ignobile e dannosa. La Via di Mezzo scoperta dal Perfetto evita entrambi
 questi estremi, dà la visione, dà la conoscenza e conduce alla pace,
 alla conoscenza diretta, all’Illuminazione, al Nibbāna. E qual è questa
@@ -893,4 +893,4 @@ contaminazioni mediante il non-attaccamento. E allora ci furono sei
 Arahant, sei esseri realizzati, nel mondo.
 
 [.suttaref]
-_Vin. Mv. 1:6; cfr. S. 22:59_
+_Vin. Mv. 1:6; cf. S. 22:59_

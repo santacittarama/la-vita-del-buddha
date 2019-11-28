@@ -1,5 +1,5 @@
-[[cap-09-La-fine-dei-primi-vent-anni]]
-= La fine dei primi vent’anni
+[[cap-09-La-fine-del-primo-ventennio]]
+= La fine del primo ventennio
 :chapter-number: 9
 
 [.narrator]
@@ -38,7 +38,7 @@ noi non vediamo la tua aratura. +
 Rispondi perciò, signore, così che +
 si possa vedere la tua aratura.
 
-Il seme è la fede, la mia pioggia è l’auto-controllo, +
+Il seme è la fede, la mia pioggia è l’autocontrollo, +
 il mio aratro e il mio giogo sono la comprensione, +
 il mio palo è la coscienza, la mente è la mia cinghia, +
 e la consapevolezza è la mia ganascia e il mio pungolo. +
@@ -184,7 +184,7 @@ essere praticata la consapevolezza del respiro.
 
 [.narrator]
 *Primo narratore.* Il raggiungimento della condizione di Arahant da parte
-del novizio Rāhula è narrata in seguito.
+del novizio Rāhula è narrato in seguito.
 
 [.narrator]
 *Secondo narratore.* Nella successiva stagione delle piogge, la
@@ -233,13 +233,13 @@ intenda questo?».
 nulla».footnote:[Alcuni dei giochi di parole presenti in questo passo
 mettono a dura prova le qualità di un traduttore. «Insegna che non ci sono cose
 da fare» (_akiriyavādī_) indica colui il quale afferma che le azioni
-sono a-morali e non fanno maturare effetti, né buoni né cattivi.
+sono amorali e non fanno maturare effetti, né buoni né cattivi.
 «Insegna il nichilismo» (_ucchedavādī_) indica colui il quale crede che
 alcuni tipi di anima o di sé abbiano una permanenza temporanea, che a un
 certo punto viene però interrotta. Essa presuppone l’esistenza di
 un’anima temporanea. «Uno da portare via» (_venayika_) è l’espressione
-più difficile. La parola _vineti_ (letteralmente “da portare via”)
-significa sia da portare via sia, metaforicamente, da disciplinare.
+più difficile. La parola _vineti_ (letteralmente “portare via”)
+significa sia portare via sia, metaforicamente, disciplinare.
 “Portare via” è pure utilizzato dal Buddha nel senso di condurre i
 discepoli lontano dalla sofferenza e, dai suoi oppositori, per
 insultarlo come uno che porta la gente fino alla distruzione, procurata
@@ -513,7 +513,7 @@ invitante boschetto di alberi di mango sarà utile per lo sforzo di un
 uomo di rango che cerca un tale sforzo. Se il Beato lo consente, verrò
 in questo boschetto di alberi di mango per lo sforzo».
 
-Egli allorà si recò dal Beato e gliene parlò. Il Beato disse: «Aspetta,
+Egli allora si recò dal Beato e gliene parlò. Il Beato disse: «Aspetta,
 Meghiya, siamo ancora soli. Aspetta che arrivino altri bhikkhu».
 
 Una seconda volta il venerabile Meghiya disse: «Il Beato non ha molto
@@ -604,7 +604,7 @@ perché le tentazioni non agitano più la sua mente.
 ____
 
 [.suttaref]
-_Ud. 4:1; A. 9:3._
+_Ud. 4:1; A. 9:3_
 
 [.narrator]
 *Secondo narratore.* Il figlio del Buddha aveva ora vent’anni. Gli fu di
@@ -652,17 +652,17 @@ questo è il mio sé?”».
 «No, Signore».
 
 (1b) «Cosa ne pensi, Rāhula, le forme visibili sono permanenti o
-impermanenti?» …
+impermanenti?». …
 
 (1c) «Cosa ne pensi, Rāhula, la coscienza visiva è permanente o
-impermanente?» …
+impermanente?». …
 
 (1d) «Cosa ne pensi, Rāhula, il contatto visivo è permanente o
-impermanente?» …
+impermanente?». …
 
 (1e) «Cosa ne pensi, Rāhula, è permanente o impermanente una sensazione,
 una percezione, una formazione [mentale], una coscienza che sorge avendo
-come condizione il contatto visivo?» …
+come condizione il contatto visivo?». …
 
 [.narrator]
 *Secondo narratore.* Le cinque stesse proposizioni da (a) a (e) furono
@@ -837,7 +837,7 @@ nobile, o no?».
 «Sì, gran re».
 
 «Qual era la famiglia del padre del nobile? Qual era la famiglia della
-sua madre?».
+madre?».
 
 «Mio padre, gran re, era un Gagga. Mia madre era una Mantāṇī».
 
@@ -890,7 +890,7 @@ verità, che tu e il bimbo possiate avere la pace”». E la donna e il
 bimbo ottennero la pace.
 
 Allora, dimorando in solitudine, ritirato, diligente, ardente e
-auto-controllato, il venerabile Aṅgulimāla, realizzandolo da se stesso
+autocontrollato, il venerabile Aṅgulimāla, realizzandolo da se stesso
 mediante conoscenza diretta, qui e ora entrò e dimorò in quella suprema
 meta della santa vita per la quale gli uomini di famiglia giustamente
 lasciano la loro casa per una vita priva di fissa dimora. Comprese
@@ -973,7 +973,7 @@ né nutre amore per i desideri sensoriali, +
 ma pratica la meditazione diligentemente +
 per raggiungere la più alta beatitudine.
 
-Sia allora benevenuta questa mia scelta +
+Sia allora benvenuta questa mia scelta +
 la si lasci così com’è, non fu cosa mal fatta, +
 la triplice conoscenza è stata ottenuta +
 e quel che il Veggente ha ordinato è stato fatto.
@@ -989,7 +989,7 @@ Buddha.
 [.voice]
 *Prima voce.* Così ho udito. Una volta, quando il Beato soggiornava a
 Sāvatthī, era onorato, rispettato, riverito, venerato e lodato. Otteneva
-vesti, cibo in elemosia, alloggio e medicinali, e così pure il Saṅgha
+vesti, cibo in elemosina, alloggio e medicinali, e così pure il Saṅgha
 dei bhikkhu. Per gli asceti itineranti di altre sette, però, le cose
 andavano diversamente. Non potevano sopportare il rispetto dimostrato al
 Beato e al Saṅgha dei bhikkhu, e perciò si recarono dalla monaca errante
@@ -1075,7 +1075,7 @@ verificarono, ma con essi possiamo chiudere i primi venti anni.
 
 [.voice]
 *Prima voce.* Così ho udito. Una volta il Beato soggiornava a Cātumā in un
-boschetto di mirabolamo. In quell’occasione cinquecento bhikkhu guidati
+boschetto di mirabolano. In quell’occasione cinquecento bhikkhu guidati
 dal venerabile Sāriputta e dal venerabile Mahā-Moggallāna erano giunti a
 Cātumā per vedere il Beato. Mentre i bhikkhu in visita scambiavano
 saluti con i bhikkhu che lì risiedevano e stavano preparando i giacigli,
@@ -1203,7 +1203,7 @@ cerca di deviarlo con una bacchetta, oppure come un uomo che perde la
 presa della terra con le mani e con i piedi e scivola in un abisso
 profondo. Sii certo, buon signore, fai solo quel che dice Brahmā. Non
 trasgredire mai la parola di Brahmā. Non vedi la Divina Assemblea che è
-qui seduta, bhikkhu?’ ” E Māra il Malvagio chiamò a testimonianza la
+qui seduta, bhikkhu?’ ”. E Māra il Malvagio chiamò a testimonianza la
 Divina Assemblea».
 
 «Quando ciò fu detto, io mi rivolsi a Māra il Malvagio: “Io ti conosco,
@@ -1229,7 +1229,7 @@ di fuga, e se cercherai di farlo alla fine otterrai stanchezza e
 delusione. Se crederai nellafootnote:[“Se crederai nella”: letteralmente
 _sace ... ajjhosissasi_ significa “se accetterai” oppure, come dice il Commentario: “Se, per
 mezzo della fiducia (ossia dell’accettazione), della deglutizione,
-dell’assimilazione, presupporai mediante bramosia, presunzione e
+dell’assimilazione, presupporrai mediante bramosia, presunzione e
 opinioni”.] terra … nell’acqua … nel
 fuoco … nell’aria … negli esseri … negli dèi … in Pajāpati … Se crederai
 in Brahmā, tu sarai uno di quelli che stanno al mio fianco, risiederai
@@ -1256,7 +1256,7 @@ e la provenienza delle creature e la loro destinazione.
 ____
 
 «“Così intendo l’estensione di fin dove puoi arrivare e il tuo influsso.
-Ci sono tuttavia altri tre corpi principali di dèi Brahmā che tu né
+Ci sono tuttavia altri tre corpi principali di dèi Brahmā che tu non
 conosci e neanche vedi, ma io lo conosco e vedo. C’è il corpo chiamato
 Ābhassara (della Fluente Radianza), dalla quale sei scomparso per
 ricomparire qui. Il tuo lungo dimorare qui, però, lo ha fatto cancellare
@@ -1267,7 +1267,7 @@ per gli altri ancor più alti corpi di Subhakiṇṇa (della Rifulgente
 Gloria) e di Vehapphala (del Grande Frutto)”».
 
 «“Ora, Brahmā, avendo avuto conoscenza diretta della terra in quanto
-terra, e avendo avuto conoscenza diretta di quel che non è co-essenziale
+terra, e avendo avuto conoscenza diretta di quel che non è coessenziale
 rispetto all’essenza della terra, io non pretendo di essere
 terra,footnote:[L’enfasi è sulla nozione dell’essere (“essere o non
 essere”). L’attribuzione di espressioni e letture è tratta dall’edizione
@@ -1278,7 +1278,7 @@ tad abhiññāya sabbaṃ nāpahosiṃ, sabbasmiṃ nāpahosiṃ, sabbato nāpah
 sabbam me ti nāpahosiṃ, sabbaṃ nābhivadiṃ_ (“Avendo avuto conoscenza del
 tutto in quanto tutto …” ). Sia in questo sutta sia in D. 11 la riga
 _Viññāṇam anidassanam anantaṃ sabbatopabhaṃ_ (“La coscienza che non si
-mostra …”) è menzionata dal Buddha (<<cap-09-La-fine-dei-primi-vent-anni.adoc#pag162,qui>> e anche <<cap-09-La-fine-dei-primi-vent-anni.adoc#pag167,qui>>).
+mostra …”) è menzionata dal Buddha (<<cap-09-La-fine-del-primo-ventennio.adoc#pag162,qui>> e anche <<cap-09-La-fine-del-primo-ventennio.adoc#pag167,qui>>).
 Questa frase è stata un problema per molti. Il Commentario al
 _Majjhima_ ha un’ampiezza molto maggiore del Commentario al _Dīgha_ e
 propone una derivazione dalla radice _bhū_ (essere) per _pabhaṃ_ (o
@@ -1297,7 +1297,7 @@ in quanto acqua … del fuoco … dell’aria … degli esseri … degli dèi �
 Pajāpati … di Brahmā … di Ābhassara … di Subhakiṇṇa … di Vehapphala …
 dell’Essere Trascendente (Abhudhū) … Avendo avuto conoscenza diretta del
 tutto in quanto tutto, e avendo avuto conoscenza diretta di quel che non
-è co-essenziale con la totalità del tutto, io non pretendo di essere
+è coessenziale con la totalità del tutto, io non pretendo di essere
 tutto, io non pretendo di essere nel tutto, io non pretendo di essere
 separato dal tutto, io non pretendo che il tutto sia mio, non affermo
 nulla a riguardo del tutto. Io che sto qui, inoltre, io non so meno di
@@ -1314,7 +1314,7 @@ e che nemmeno ha a che fare con la finitezza, +
 pretendendo di non essere separata dal tutto
 ____
 
-non è co-essenziale all’essenza della terra, all’essenza dell’acqua …
+non è coessenziale all’essenza della terra, all’essenza dell’acqua …
 all’essenza del tutto.
 
 «“Allora, buon signore, io sparirò dal tuo cospetto”».

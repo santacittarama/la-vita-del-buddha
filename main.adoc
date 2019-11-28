@@ -57,7 +57,7 @@ include::{includes}/cap-07-L-ordine-delle-monache.adoc[]
 
 include::{includes}/cap-08-La-disputa-di-Kosambi.adoc[]
 
-include::{includes}/cap-09-La-fine-dei-primi-vent-anni.adoc[]
+include::{includes}/cap-09-La-fine-del-primo-ventennio.adoc[]
 
 include::{includes}/cap-10-Il-periodo-di-mezzo.adoc[]
 
