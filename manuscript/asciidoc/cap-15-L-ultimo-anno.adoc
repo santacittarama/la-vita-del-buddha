@@ -22,7 +22,7 @@ piedi del Beato, e gli chiede se è libero dall’afflizione e dalla
 malattia e se è in salute, se ha forza e felicità”. E dite: “Signore,
 Ajātasattu Vedehiputta, re di Magadha, è ansioso di attaccare i Vajji.
 Egli dice: ‘Sterminerò questi Vajji, che sono forti e potenti, li
-annienterò, li condurrò alla distruzione e alla rovina’”. Prestate ben
+annienterò, li condurrò alla distruzione e alla rovina’ ”. Prestate ben
 attenzione alla sua risposta e riportatemela, perché il Beato non mente
 mai».
 
@@ -353,7 +353,7 @@ Beato impartì la benedizione con queste strofe:
 ____
 Dove un uomo saggio prende dimora, +
 che lì nutra il virtuoso +
-che vive la buona vita auto-controllato, +
+che vive la buona vita autocontrollato, +
 e faccia offerte alle divinità del luogo. +
 Per quest’onore e rispetto nei loro riguardi, +
 lo ripagheranno nello stesso modo +
@@ -599,7 +599,7 @@ accetti il pasto di domani da noi».
 «Ho già accettato il pasto di domani, Licchavi, dalla cortigiana
 Ambapālī».
 
-Allora i Licchavi, schioccarono le dita: «Oh! La ragazza dei manghi ci
+Allora i Licchavi schioccarono le dita: «Oh! La ragazza dei manghi ci
 ha battuti, la ragazza dei manghi è stata più astuta di noi!».
 
 Erano tuttavia felici e soddisfatti per le parole del Beato, e si
@@ -762,7 +762,7 @@ Moggallāna hanno ottenuto il Nibbāna definitivo. Non c’è luogo verso il
 quale si possa guardare e dire: “Sāriputta e Moggallāna vivono là”. I
 Beati del passato, realizzati e completamente illuminati, ognuno di loro
 aveva una coppia di discepoli uguali a Sāriputta e Moggallāna, e così
-avverà per quelli del futuro. È meraviglioso, è stupefacente come i
+avverrà per quelli del futuro. È meraviglioso, è stupefacente come i
 discepoli attuino l’insegnamento del Maestro e adempiano ai suoi
 consigli, e come siano cari al Saṅgha e amati, rispettati e riveriti dal
 Saṅgha! È meraviglioso, è stupefacente che il Perfetto, quando una tale
@@ -846,7 +846,7 @@ ____
 Il saggio rinunciò alla volontà di vivere, +
 sia commensurabile sia incommensurabile, +
 e concentrato interiormente e pure felice +
-lasciò cadere il suo auto-divenire come una cotta di maglia.
+lasciò cadere il suo autodivenire come una cotta di maglia.
 ____
 
 Il venerabile Ānanda pensò: «È meraviglioso, è stupefacente! Questo è
@@ -1472,7 +1472,7 @@ in una destinazione felice, perfino in un paradiso celeste».
 
 «Ānanda, non preoccupatevi di venerare i resti del Perfetto. Per favore,
 dedicatevi al vostro scopo, dimorate diligenti, ardenti e
-auto-controllati per il vostro bene. Ci sono saggi guerrieri, brāhmaṇa e
+autocontrollati per il vostro bene. Ci sono saggi guerrieri, brāhmaṇa e
 capifamiglia che credono nel Perfetto: loro provvederanno a venerare i
 resti del Perfetto».
 
@@ -1578,7 +1578,7 @@ _D. 16; A. 4:129-30_
 Dopo che egli ebbe parlato in questo modo, Ānanda disse: «Signore, che
 il Beato non ottenga il Nibbāna definitivo in questa piccola città con i
 muri fatti di fango, in questa città isolata, in questa cittadina di
-borgata. Ci sono altre grandi città come Campā, Rājagaha, Sāvatthi,
+borgata. Ci sono altre grandi città come Campā, Rājagaha, Sāvatthī,
 Sāketa, Kosambī e Benares. Che il Beato ottenga il Nibbāna definitivo
 dove ci sono molti nobili guerrieri prominenti, brāhmaṇa e capifamiglia
 che credono nel Perfetto. Loro venereranno i resti del
@@ -1724,7 +1724,7 @@ nel buio per chi ha occhi per vedere forme visibili. Prendo rifugio nel
 Beato, nel Dhamma e nel Saṅgha dei bhikkhu. Vorrei abbracciare la vita
 religiosa e ricevere l’ammissione dal Beato».
 
-«Chi fa già parte di un setta religiosa, Subhadda, e vuole abbracciare
+«Chi fa già parte di una setta religiosa, Subhadda, e vuole abbracciare
 la vita religiosa e l’ammissione in questo Dhamma e Disciplina è di
 solito messo in prova per quattro mesi. Alla fine dei quattro mesi, se i
 bhikkhu sono soddisfatti, gli impartiscono l’ammissione alla vita
@@ -1754,11 +1754,11 @@ Maestro, con la consacrazione del discepolo».
 E l’asceta itinerante Subhadda ricevette l’ammissione alla vita
 religiosa sotto il Beato e ottenne l’ammissione. Non molto tempo dopo la
 sua ammissione, dimorando in solitudine, appartato, diligente, ardente e
-dotato di auto-controllo, il venerabile Subhadda realizzò la conoscenza
+dotato di autocontrollo, il venerabile Subhadda realizzò la conoscenza
 diretta, e qui e ora entrò e dimorò in quella suprema meta della santa
 vita per la quale gli uomini di famiglia giustamente lasciano la loro
-casa per una vita priva di fissa dimora. Egli ne ebbe la conoscenza
-diretta: «La nascita è distrutta, la santa vita è stata vissuta, quel
+casa per una vita priva di fissa dimora.
+Egli ne ebbe la conoscenza diretta: «La nascita è distrutta, la santa vita è stata vissuta, quel
 che doveva essere fatto è stato fatto, non ci sarà altra rinascita». E
 il venerabile Subhadda divenne uno degli Arahant. Egli fu l’ultimo dei
 discepoli del Beato a testimoniare.
@@ -1880,7 +1880,7 @@ illuminato, ha ottenuto la completa estinzione.
 ____
 
 [.suttaref]
-_D. 16: S. 6:15_
+_D. 16; S. 6:15_
 
 All’ottenimento del Nibbāna definitivo del Beato, Sakka, Sovrano degli
 dèi, esclamò questa strofa:
@@ -2040,7 +2040,7 @@ un Monarca Universale che gira la Ruota della Giustizia».
 «I resti di un Monarca Universale che gira la Ruota della Giustizia
 vengono avvolti in una stoffa nuova, Vāseṭṭha, poi vengono avvolti in
 panno di cotone ben battuto, e poi vengono avvolti in una stoffa nuova.
-E, procendo in questo modo, vengono avvolti in cinquecento strati doppi.
+E, procedendo in questo modo, vengono avvolti in cinquecento strati doppi.
 Poi vengono collocati in un recipiente di olio, fatto di ferro, che
 viene chiuso in un altro recipiente di ferro. Poi si accende una pira
 con tutti i tipi di profumi e i resti vengono bruciati. Poi gli si erige
@@ -2161,7 +2161,7 @@ nostri consanguinei. Anche noi siamo degni di condividere le ossa del
 Beato. Anche noi costruiremo un monumento e organizzeremo una
 cerimonia».
 
-E i Bulia di Allakappaka sentirono dire queste stesse cose e anche loro
+E i Bulaya di Allakappaka sentirono dire queste stesse cose e anche loro
 inviarono un messo con la richiesta: «Il Beato era un guerriero, anche
 noi siamo guerrieri. Anche noi siamo degni di condividere le ossa del
 Beato. Anche noi costruiremo un monumento e organizzeremo una

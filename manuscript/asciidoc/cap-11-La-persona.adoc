@@ -35,7 +35,7 @@ _Ud. 6:3_
 Il Beato si mise di nuovo a sedere passando in rassegna l’abbandono
 della varietà della proliferazione [mentale]footnote:[_Papañca_. Per una
 differente interpretazione di questo
-difficile termine (NDT: reso da Bhikkhu Ñanamoli con “diversification”,
+difficile termine (NDT: reso da Bhikkhu Ñāṇamoli con “diversification”,
 “diversifying”), si veda _Concept and Reality in Early Buddhist Thought_
 by BHIKKHU ÑĀṆANANDA (Kandy, BPS, 1971), dove, alla p. 21, è offerta una
 traduzione alternativa del verso seguente e della sua spiegazione nei
@@ -94,7 +94,7 @@ mia vita è corta, di breve durata e termina presto; chi vive a lungo ora
 compie un secolo o poco più. Ottenni l’Illuminazione ai piedi di un
 baniano _assatha_, il mio albero dell’Illuminazione. I miei discepoli
 eminenti sono Sāriputta e Moggallāna. Ho un’assemblea composta di
-milleduecentocinquanta dicepoli, tutti Arahant. Il mio monaco
+mille duecento cinquanta dicepoli, tutti Arahant. Il mio monaco
 attendente, il mio principale attendente, è il bhikkhu Ānanda. Un re, di
 nome Suddhodana, fu mio padre. Una regina, di nome Māyā, fu la madre che
 mi generò. La città capitale del regno era Kapilavatthu».
@@ -156,7 +156,7 @@ essere udito … Avendo percepito con i sensi quel che può essere
 percepito … Avendo conosciuto quel che può essere conosciuto … egli non
 concepisce la presunzione di alcun conoscitore. Un Essere Perfetto
 talmente equanime verso le cose viste, sentite, percepite con i sensi o
-conosciute, rimane così equanime, e non c’è alcun altra equanimità che
+conosciute, rimane così equanime, e non c’è alcun'altra equanimità che
 sia al di là o superiore a quella equanimità, così dico».
 
 [.suttaref]
@@ -164,7 +164,7 @@ _A. 4:24_
 
 Il re Pasenadi di Kosala chiese al Beato: «Signore, questo ho udito: “Il
 monaco Gotama dice: ‘Non c’è monaco o brāhmaṇa che possa pretendere di
-avere la completa conoscenza e visione di chi è onniscente e tutto vede:
+avere la completa conoscenza e visione di chi è onnisciente e tutto vede:
 questo non è possibile’”. Signore, coloro che lo affermano, forse dicono
 quel che è stato detto dal Beato e non travisano il Beato con ciò che di
 fatto non è, ed esprimono idee in accordo con il Dhamma, senza che nulla
@@ -279,7 +279,7 @@ mondana? Pensai: “Di quale mia azione questo è il frutto, la maturazione
 del fatto che sono così possente e poderoso?”. Allora mi venne da
 pensare: “È il frutto, la maturazione di tre tipi di mie azioni il fatto
 che sono così possente e poderoso, ossia del donare,
-dell’[auto-]controllo e del contenimento”».
+dell’[auto]controllo e del contenimento”».
 
 [.suttaref]
 _Iti. 22_
@@ -296,7 +296,7 @@ fissa davanti a lui. Allora il brāhmaṇa Doṇa, che stava seguendo le
 impronte, lo vide seduto ai piedi dell’albero. Il Beato ispirava fiducia
 e sicurezza, le sue facoltà erano rasserenate, la sua mente era quieta e
 aveva raggiunto il supremo controllo e la suprema serenità: un
-pachiderma auto-controllato e custodito dal contenimento delle facoltà
+pachiderma autocontrollato e custodito dal contenimento delle facoltà
 sensoriali. Il brāhmaṇa andò da lui e gli chiese: «Signore, sarai un
 dio?».
 
@@ -381,7 +381,7 @@ celato nella veste, avrebbe dovuto essere racchiuso nel prepuzio e a
 riguardo della grandezza della lingua.
 
 Allora al Beato venne in mente che egli era in dubbio in relazione a
-tali due segni. Operò allora un’atto di potere soprannaturale, così che
+tali due segni. Operò allora un atto di potere soprannaturale, così che
 il discepolo brāhmaṇa Uttara vide che nel Beato quel che era celato
 nella veste era racchiuso nel prepuzio. Allora il Beato estrasse la
 lingua e toccò ripetutamente entrambi i fori degli orecchi, toccò
@@ -443,13 +443,13 @@ verso l’alto. Egli non cammina guardandosi attorno. Egli guarda davanti
 a sé per l’ampiezza di un giogo d’aratro ma, al di là di questo, ha la
 visione di una conoscenza priva d’impedimento».
 
-«Quando entra in una dimora, egli non alza né abbassa il suo corpo, e
+«Quando entra in una dimora, non alza né abbassa il suo corpo, e
 neanche lo curva in avanti o indietro. Egli si volta quando non è troppo
 lontano né è troppo vicino al luogo in cui siede. Egli non si sporge con
 le mani verso il luogo in cui siede. Egli non proietta in giù il suo
 corpo verso il luogo in cui siede».
 
-«Quando è seduto all’interno, egli non agita le mani. Egli non agita i
+«Quando è seduto all’interno, non agita le mani. Egli non agita i
 piedi. Egli non siede a ginocchia incrociate. Egli non siede a caviglie
 incrociate. Egli non siede con la mano che regge il mento. Quando è
 seduto all’interno, egli non ha timore, egli non rabbrividisce né trema,
@@ -602,7 +602,7 @@ nessuna parte. Egli disse:
 
 [.voice]
 *Prima voce.* «Ho fatto esperienza dell’insegnamento del Dhamma a
-un’uditorio di molte centinaia di persone. Forse qualcuno ha
+un uditorio di molte centinaia di persone. Forse qualcuno ha
 fantasticato: “Il monaco Gotama sta predicando il Dhamma per me
 personalmente”. Ma la cosa non dovrebbe essere considerata in questo
 modo. Un Perfetto espone il Dhamma agli altri per offrire loro la
@@ -685,7 +685,7 @@ Sentiero che conduce alla cessazione della sofferenza”. Ora, nel caso
 dell’adepto, il nobile discepolo che già possiede questa virtù,
 concentrazione e comprensione, mediante realizzazione di se stesso qui e
 ora, entra e dimora nella liberazione della mente e nella liberazione
-della mente mediante comprensionefootnote:[O Liberazione mediante
+della mente mediante comprensionefootnote:[Oppure Liberazione mediante
 saggezza (_paññā-vimutti_) (Nyp.).] immacolata per
 l’esaurimento delle contaminazioni».
 

@@ -174,8 +174,8 @@ con lui saluti. Poi gli chiese: «Com’è che stanno le cose, Maestro
 Gotama, il sé esiste?». Quando ciò fu detto, il Beato rimase in
 silenzio. «Com’è che stanno le cose, Maestro Gotama, il sé non esiste?».
 E per la seconda volta il Beato rimase in silenzio. Allora l’asceta
-itinerante Vacchagotta si alzò dal luogo in cui sedeva e andò via. Non
-molto tempo dopo che se n’era andato il venerabile Ānanda chiese al
+itinerante Vacchagotta si alzò dal luogo in cui sedeva e se ne andò. Non
+molto tempo dopo che era andato via, il venerabile Ānanda chiese al
 Beato: «Signore, com’è che al Beato sono state poste delle domande e lui
 non ha risposto?».
 
@@ -555,7 +555,7 @@ formato al quale esse danno forma. La coscienza, in quanto stato della
 coscienza, è il formato al quale esse danno forma».footnote:[«Qualsiasi
 cosa abbia la caratteristica di dare forma
 dovrebbe essere compresa, tutt’insieme, come aggregato delle formazioni
-… ha la caratteristica di agglomerare … (ed) ha la funzione di
+… ha la caratteristica di agglomerare … (e) ha la funzione di
 accumulare»; cf. _The Path of Purification (Visuddhimagga)_, tr. da
 Ñāṇamoli, XIV, 131 (Nyp.).]
 
@@ -759,7 +759,7 @@ Che cos’è nome-e-forma?footnote:[“Nome-e-forma”
 è percepito, esperito e riconosciuto (“nominato”). È l’immaginato
 insieme alla materia, che insieme costituiscono la forma
 individualizzata e soggettivamente determinata di un oggetto. Nei sutta,
-però, essa non include la coscienza, grazie alla quale ciò è reso
+però, esso non include la coscienza, grazie alla quale ciò è reso
 possibile. La successiva letteratura include la coscienza all’interno
 del “nome”, creando così le basi per un’opposizione tra mente e materia
 priva di riscontri nel Canone.] Quel che
@@ -919,8 +919,8 @@ _A. 3:33_
 la cessazione è più serena degli stati privi di
 forma».footnote:[È necessario evitare di confondere il “privo di forma”
 (_arūpa_), che è un tipo di esistenza (_bhava_), con “non-formato” (o
-“incondizionato”, _asankhata_), che è ciò che non ha formazioni (o
-condizioni, _sankhāra_). Quest’ultimo è un termine per il Nibbāna. Il
+“incondizionato”, _asaṅkhata_), che è ciò che non ha formazioni (o
+condizioni, _saṅkhāra_). Quest’ultimo è un termine per il Nibbāna. Il
 “privo di forma” è sempre condizionato.]
 
 [.suttaref]
@@ -1436,8 +1436,8 @@ ma se lo sono, non è possibile descriverle in modo specifico senza far
 riferimento ai cinque aggregati. Per questa ragione esse possono essere
 ricondotte, quando descritte, a uno dei tipi di quel che è chiamata
 “opinione della personificazione”,footnote:[“Personificazione”:
-_sakkāya_ = _sa_ (“esistente” o “
-proprio”) più _kāya_ (corpo). L’identificazione del sé (_attā_) con uno
+_sakkāya_ = _sa_ (“esistente” o 
+“proprio”) più _kāya_ (corpo). L’identificazione del sé (_attā_) con uno
 o più dei cinque aggregati costituisce perciò una “personificazione” di
 quel sé, e ciò fonda un’errata visione. Si noti che _sakkāyadiṭṭhi è_ di
 solito più tradotto con “opinione dell’io” (Nyp.).] che è esposta
@@ -1610,7 +1610,7 @@ progressivamente spezzate dai quattro stadi della realizzazione.
 *Prima voce.* «L’uomo ignorante e ordinario che non ha considerazione per
 gli Esseri Nobili … vive con il suo cuore posseduto e reso schiavo
 dall’opinione della personificazione, dal dubbio, dall’errata
-comprensione della virtù e del dovere,footnote:[O “attaccamento a riti
+comprensione della virtù e del dovere,footnote:[Oppure “attaccamento a riti
 e rituali” (_sīlabbata-parāmāsa_) (Nyp.).] dal desiderio
 sensoriale e dalla malevolenza, ed egli non vede come sfuggire ad essi
 quando sorgono. Questi, quando sono abituali e permangono non sradicati
@@ -2343,10 +2343,10 @@ _M. 25_
 
 [.narrator]
 *Secondo narratore.* Nessuno di questi otto conseguimenti (né le quattro
-Divine Dimore, <<cap-10-Il-periodo-di-mezzo.adoc#pag200b,cfr. -- _Le ultime quattro righe sottolineano..._>>) sono rivendicate come peculiari
+Divine Dimore, <<cap-10-Il-periodo-di-mezzo.adoc#pag200b,cf. -- _Le ultime quattro righe sottolineano..._>>) sono rivendicate come peculiari
 dell’insegnamento dei Buddha. La loro pratica priva di retta visione
 conduce solo al paradiso, ma non al Nibbāna. L’insegnamento peculiare
-dei Buddha è le Quattro Nobili Verità. Un nono conseguimento, il
+dei Buddha consiste nelle Quattro Nobili Verità. Un nono conseguimento, il
 “conseguimento della cessazione” è descritto come raggiunto nei due più
 alti stadi di realizzazione ed è perciò peculiare dei Buddha e dei loro
 discepoli.
@@ -2447,7 +2447,7 @@ _S. 45:4_
 «(Un bambino viene concepito e con la nascita e la crescita) le sue
 facoltà sensoriali maturano, viene dotato e investito dei cinque
 componenti dei desideri sensoriali e li utilizza. Le forme conoscibili
-mediante l’occhio sono ambìte e desiderate, sono gradevoli e piacevoli,
+mediante l’occhio sono ambite e desiderate, sono gradevoli e piacevoli,
 connesse con il desiderio sensoriale e inducono la brama. Lo stesso è
 per i suoni conoscibili mediante l’orecchio, gli odori conoscibili
 mediante il naso, i sapori conoscibili mediante la lingua e gli oggetti

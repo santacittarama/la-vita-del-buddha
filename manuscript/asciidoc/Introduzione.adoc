@@ -31,9 +31,9 @@ resistenza a tale idea. A questo proposito, lo studioso della lingua
 pāli T.W. Rhys Davids appena più di un secolo dopo Gibbon poté scrivere:
 «Se si pensa che Gotama Buddha lasciò dietro di sé non un certo numero
 di semplici detti dai quali i suoi seguaci in seguito costruirono un
-sistema o dei sistemi, ma che fu lui stesso, quando iniziò la sua
-missione, a elaborare accuratamente la sua dottrina, in parte in seguito
-i dettagli, ma ancor prima i punti fondamentali. E che nel corso della
+sistema o dei sistemi, ma che fu lui stesso a elaborare accuratamente la sua
+dottrina ancor prima di iniziare la sua missione per quanto concerne i punti
+fondamentali, e dopo la precisò solo in parte, relativamente ai dettagli. E che nel corso della
 sua lunga carriera di insegnante, ebbe molto tempo per ripetere
 continuamente i principi e i dettagli del sistema ai suoi discepoli e di
 mettere alla prova la loro conoscenza di esso. E che, infine, i suoi
@@ -94,7 +94,7 @@ difficile dirlo, è rappresentata dai _Commentari_ di Ācariya Buddhaghosa
 al ventesimo anno successivo all’Illuminazione, aggiungendo dettagli,
 come pure la storia di Devadatta. Essi aggiungono pure un certo numero
 di avvenimenti non canonici, che non sono stati qui inclusi. Infine c’è
-un lavoro birmano, il _Mālālankāravatthu_ (XV sec.?). È stato tradotto
+un lavoro birmano, il _Mālālaṅkāravatthu_ (XV sec.?). È stato tradotto
 in inglese dal vescovo Bigandet con il titolo _The Story of the Burmese
 Buddha_ – che data qualche episodio canonico in più, ma non ha affatto,
 probabilmente, autorevolezza storica ed è stato seguito solo in mancanza
