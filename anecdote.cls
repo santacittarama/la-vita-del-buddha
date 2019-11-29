@@ -141,8 +141,8 @@
 \definecolor{footnoterule}{gray}{0.5}
 \definecolor{header}{gray}{0.2}
 \definecolor{footer}{gray}{0.2}
-\definecolor{chapternum}{gray}{0.8}
-\definecolor{chaptertitle}{gray}{0.2}
+\definecolor{chapternum}{gray}{0.1}
+\definecolor{chaptertitle}{gray}{0.1}
 \definecolor{chaptertitlefootnote}{gray}{0.4}
 \definecolor{chapterauthor}{gray}{0.3}
 \definecolor{chapternote}{gray}{0.3}
@@ -164,7 +164,8 @@
 % http://tex.stackexchange.com/questions/20580/how-to-enable-ligatures-for-emdash-endash-in-luatex
 
 \setmainfont[
-  SmallCapsFont = Crimson-Roman.otf,
+  SmallCapsFont = FontinSans-SmallCaps.ttf,
+  %SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps, Scale = 0.8, LetterSpace = 0.2 },
   SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps, Scale = 0.8, LetterSpace = 0.2 },
   ItalicFont = GentiumPlus-I.ttf,
   BoldFont = GenBkBasB.ttf,
@@ -187,6 +188,16 @@
   BoldItalicFont = GenBkBasBI.ttf,
 ]{GentiumPlus-R.ttf}
 
+\newfontfamily\spectralFont[
+  ItalicFont = Spectral-Italic.ttf,
+  BoldFont = Spectral-Bold.ttf,
+  BoldItalicFont = Spectral-BoldItalic.ttf,
+]{Spectral-Regular.ttf}
+
+\newfontfamily\spectralScFont{SpectralSC-Regular.ttf}
+
+\newfontfamily\fontinSansScFont{FontinSans-SmallCaps.ttf}
+
 % header and footer
 
 \newcommand\headerFont\crimsonRomanFont
@@ -197,9 +208,9 @@
 
 \newcommand\partTitleFont\crimsonRomanFont
 
-\newcommand\chapterNameFont\crimsonRomanFont
-\newcommand\chapterTitleFont\crimsonRomanFont
-\newcommand\chapterNumberFont\crimsonRomanFont
+\newcommand\chapterNameFont\spectralScFont
+\newcommand\chapterTitleFont\spectralScFont
+\newcommand\chapterNumberFont\spectralFont
 \newcommand\chapterAuthorFont\crimsonRomanFont
 \newcommand\chapterNoteFont\crimsonRomanFont
 
@@ -217,8 +228,8 @@
 % Some default font sizes, use \renewcommand to adjust
 
 \newcommand{\chapterNameSize}{\@setfontsize          \chapterNameSize          {22}{24}}
-\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {22}{24}}
-\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {13}{16.5}}
+\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {17}{20}}
+\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {17}{20}}
 \newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}
 \newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}
 \newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}
@@ -231,7 +242,7 @@
 
 % foreign language wrappers
 
-\newfontfamily\thaiFont{Kinnari.ttf}
+\newfontfamily\thaiFont{THSarabunNew.ttf}
 
 \newcommand*\thai[1]{{\thaiFont #1}}
 
@@ -241,6 +252,7 @@
 
 % Tracking for uppercase section heading
 \SetTracking[spacing={400,100,}]{encoding=*, family={Crimson-Roman.otf}}{20}
+\SetTracking[spacing={400,100,}]{encoding=*, family={SpectralSC-Regular.ttf}}{20}
 
 % === hyperref ===
 
@@ -352,6 +364,17 @@ philo-sophical munindo amaravati thai-land}
 % accented characters at the end of words.
 
 % === Custom commands and environments ===
+
+\newlength{\quoteMargin}
+\setlength{\quoteMargin}{18pt}
+
+\newcommand\narrator[1]{\hangindent=\quoteMargin\textsc{#1}}
+
+\newcommand\voice[1]{\textsc{#1}}
+
+\newcommand\cantor[1]{\textsc{#1}}
+
+\newcommand\suttaRef[1]{{\raggedleft \emph{#1}\par}}
 
 \newcommand\dividerRule{%
 {\centering\bigskip
@@ -472,9 +495,6 @@ philo-sophical munindo amaravati thai-land}
 \newlength{\xheight}
 
 % === quotes ===
-
-\newlength{\quoteMargin}
-\setlength{\quoteMargin}{18pt}
 
 % FIXME
 %\setlength{\footnotemargin}{\quoteMargin}
@@ -793,11 +813,11 @@ philo-sophical munindo amaravati thai-land}
   \bookmarksetup{startatroot}%
 }
 
-\renewenvironment{quote}%
-{\small
-\list{}{\rightmargin\leftmargin}%
-\item[]}%
-{\endlist}
+%\renewenvironment{quote}%
+%{\small
+%\list{}{\rightmargin\leftmargin}%
+%\item[]}%
+%{\endlist}
 
 \newcommand\quoteref[1]{%
 \par
@@ -1089,24 +1109,26 @@ philo-sophical munindo amaravati thai-land}
 
 \makechapterstyle{lowtitle}{
   \chapterstyle{default}
-  \setlength{\beforechapskip}{30mm}
-  \setlength{\chapterTitleLeftSkip}{17pt}
+  \setlength{\beforechapskip}{5mm}
   \renewcommand\printchaptername{}
   \renewcommand\chapternamenum{}
   \renewcommand\chapnumfont{\chapterNumberFont\chapterNumberSize}
   \renewcommand\printchapternum{%
-    \chapnumfont\color{chapternum}%
-    \hspace*{\chapterTitleLeftSkip}\thechapter%
+    {\centering%
+      \chapnumfont\color{chapternum}%
+      \thechapter%
+      \par%
+    }%
   }
-  \setlength{\midchapskip}{2\onelineskip}
+  \setlength{\midchapskip}{10mm}
   \renewcommand\afterchapternum{\par\nobreak\vskip \midchapskip}
   \renewcommand\printchapternonum{}
   \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize}
   \renewcommand*\printchaptertitle[1]{%
-    \raggedright\hspace*{\chapterTitleLeftSkip}%
-    \parbox{\linewidth - \chapterTitleLeftSkip}{%
-      \raggedright\chaptitlefont\color{chaptertitle}%
-      \textls*{\MakeUppercase{##1}}%
+    \centering%
+    \parbox{\linewidth}{%
+      \centering\chaptitlefont\color{chaptertitle}%
+      \textls*{##1}%
       \ifchapterfootnote%
         \hspace*{2pt}\theChapterFootnoteMark%
       \fi%
