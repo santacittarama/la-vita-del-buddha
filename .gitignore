@@ -24,6 +24,7 @@ tags
 *.aux
 *.log
 *.toc
+*.ent
 *.lof
 *.fls
 *.fdb_latexmk
