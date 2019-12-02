@@ -146,7 +146,7 @@
 \definecolor{chaptertitlefootnote}{gray}{0.4}
 \definecolor{chapterauthor}{gray}{0.3}
 \definecolor{chapternote}{gray}{0.3}
-\definecolor{section}{gray}{0.5}
+\definecolor{section}{gray}{0.1}
 \definecolor{tocleftside}{gray}{0.5}
 \definecolor{tocleftsidepart}{gray}{0.2}
 \definecolor{partname}{gray}{0.5}
@@ -196,6 +196,8 @@
 
 \newfontfamily\spectralScFont{SpectralSC-Regular.ttf}
 
+\newfontfamily\fontinSansFont{FontinSansX-Regular.otf}
+
 \newfontfamily\fontinSansScFont{FontinSans-SmallCaps.ttf}
 
 % header and footer
@@ -214,7 +216,7 @@
 \newcommand\chapterAuthorFont\crimsonRomanFont
 \newcommand\chapterNoteFont\crimsonRomanFont
 
-\newcommand\sectionFont\crimsonRomanFont
+\newcommand\sectionFont\fontinSansFont
 
 % quote
 
@@ -228,7 +230,7 @@
 % Some default font sizes, use \renewcommand to adjust
 
 \newcommand{\chapterNameSize}{\@setfontsize          \chapterNameSize          {22}{24}}
-\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {17}{20}}
+\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {18}{20}}
 \newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {17}{20}}
 \newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}
 \newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}
@@ -253,6 +255,7 @@
 % Tracking for uppercase section heading
 \SetTracking[spacing={400,100,}]{encoding=*, family={Crimson-Roman.otf}}{20}
 \SetTracking[spacing={400,100,}]{encoding=*, family={SpectralSC-Regular.ttf}}{20}
+\SetTracking[spacing={400,100,}]{encoding=*, family={FontinSansX-Regular.otf}}{20}
 
 % === hyperref ===
 
@@ -842,10 +845,14 @@ philo-sophical munindo amaravati thai-land}
 
 \renewcommand*{\notesname}{Notes}
 \renewcommand*{\notedivision}{\chapter{\notesname}}
-%\renewcommand*{\notedivision}{\section*{\notesname}}
-%\renewcommand*{\pagenotesubhead}[3]{}
+\renewcommand*{\pagenotesubhead}[3]{%
+  \section*{#1 #2. #3}}
+\renewcommand*{\printpageinnotes}[1]{%
+  (pag.~\pageref{#1})\space}
+\renewcommand\printpageinnoteshyperref[1]{%
+  (pag.~\hyperref[#1]{\pageref*{#1}})\space}
 \renewcommand*{\notenumintext}[1]{\textsuperscript{\thinspace [#1]}}
-\renewcommand{\prenoteinnotes}{\par\noindent\hangindent=17pt}
+\renewcommand{\prenoteinnotes}{\par\noindent\hangindent=12pt}
 \renewcommand{\postnoteinnotes}{\par\vspace*{0.5\baselineskip}}
 
 % === Page styles ===
@@ -1567,9 +1574,9 @@ philo-sophical munindo amaravati thai-land}
 %\setsechook{\setsecnumformat{\thesection.\space}}
 
 \newcommand\sectionFmt[1]{%
-  \sectionFont\fontsize{11.5}{14}\selectfont%
+  \sectionFont\fontsize{10}{13}\selectfont%
   \color{section}%
-  \centering
+  \memRTLraggedright%
   \textls{\MakeUppercase{#1}}%
 }
 
