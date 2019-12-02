@@ -235,8 +235,8 @@
 \newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}
 \newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}
 \newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}
-\newcommand{\footerSize}{\@setfontsize               \footerSize               {10.5}{10.5}}
-\newcommand{\headerSize}{\@setfontsize               \headerSize               {10}{10}}
+\newcommand{\footerSize}{\@setfontsize               \footerSize               {9}{9}}
+\newcommand{\headerSize}{\@setfontsize               \headerSize               {9}{9}}
 
 \newcommand{\smaller}{\@setfontsize\smaller{9}{11}}
 
@@ -810,7 +810,7 @@ philo-sophical munindo amaravati thai-land}
 % === Renewing package macros ===
 
 \addtodef{\mainmatter}{}{%
-  \addtocontents{toc}{\addvspace{15pt}}%
+  \addtocontents{toc}{\addvspace{12pt}}%
   \setcounter{chapter}{0}%
 }
 
@@ -821,6 +821,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \addtodef{\backmatter}{}{%
+  \addtocontents{toc}{\addvspace{12pt}}%
   \bookmarksetup{startatroot}%
 }
 
@@ -1006,8 +1007,11 @@ philo-sophical munindo amaravati thai-land}
 {}
 
 \titlecontents{chapter}[\tocLeftWidth]
-{\addvspace{15pt}\fontsize{13}{13}\gentiumFont\selectfont}%
-{\contentsmargin{0pt}}
+{\addvspace{4pt}\fontsize{11}{13}\gentiumFont\selectfont}%
+{%
+  \contentsmargin{0pt}%
+  \thecontentslabel.\space
+}
 {\contentsmargin{0pt}%
 \itshape}
 {\hfill\normalsize\tocFont\thecontentspage}
@@ -1186,12 +1190,13 @@ philo-sophical munindo amaravati thai-land}
 
 \makechapterstyle{hightitle}{
   \chapterstyle{lowtitle}
-  \setlength{\beforechapskip}{0pt}
+  \setlength{\beforechapskip}{-\onelineskip}
+  \setlength{\afterchapskip}{1.5\onelineskip}
   \setlength{\chapterTitleLeftSkip}{0pt}
   \renewcommand*\printchaptertitle[1]{%
     {%
       \centering\chaptitlefont\color{chaptertitle}%
-      \textls*{\MakeUppercase{##1}}%
+      \textls*{##1}%
       \par
     }%
   }

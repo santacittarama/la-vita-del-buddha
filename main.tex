@@ -45,7 +45,7 @@
 
 %% === Hyphenation exceptions and corrections ===
 
-\hyphenation{London}
+\hyphenation{London Buddha Dhamma Saṅgha Sangha Nibbāna Nibbana Arahant}
 
 \begin{document}
 
@@ -64,9 +64,25 @@
 \cleartorecto
 \tableofcontents*
 
-\input{./manuscript/tex/foreword.tex}
+\setlength{\parindent}{18pt}
+\setlength{\parskip}{0pt}
 
-\input{./manuscript/tex/preface.tex}
+\openany
+
+\input{./manuscript/tex/Abbreviazioni.tex}
+\input{./manuscript/tex/Prefazione-dell-editore.tex}
+\input{./manuscript/tex/Nota-alla-terza-edizione.tex}
+\input{./manuscript/tex/Nota-alla-traduzione-italiana.tex}
+\input{./manuscript/tex/La-pronuncia-nella-lingua-pali.tex}
+\input{./manuscript/tex/Introduzione.tex}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{8pt}
+
+\input{./manuscript/tex/Mappa.tex}
+\input{./manuscript/tex/Voci.tex}
+
+\openright
 
 % Page 1 is the first page of the first chapter.
 \mainmatter
@@ -92,10 +108,11 @@
 
 \printpagenotes
 
-\input{./manuscript/tex/glossary.tex}
+\input{./manuscript/tex/L-autore.tex}
+\input{./manuscript/tex/Bibliografia-di-bhikkhu-Nanamoli.tex}
 
 \input{./manuscript/tex/copyright-details.tex}
 
-\emptyUntilModEight
+\emptyUntilModTwo
 
 \end{document}
