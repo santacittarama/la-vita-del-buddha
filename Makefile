@@ -11,6 +11,8 @@ four-times:
 	./helpers/four-times.sh
 
 document:
+	touch $(FILE).idx
+	makeindex $(FILE).idx
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex
 
 html:

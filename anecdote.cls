@@ -825,17 +825,7 @@ philo-sophical munindo amaravati thai-land}
   \bookmarksetup{startatroot}%
 }
 
-%\renewenvironment{quote}%
-%{\small
-%\list{}{\rightmargin\leftmargin}%
-%\item[]}%
-%{\endlist}
-
-\newcommand\quoteref[1]{%
-\par
-{\footnotesize #1}
-\par
-}
+\setlength{\indexcolsep}{10pt}
 
 % adapted from base/latex.ltx
 \def\footnoterule{%

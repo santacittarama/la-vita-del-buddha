@@ -25,6 +25,8 @@
 \editionInfo{\textit{Seconda edizione italiana riveduta e corretta}, 2020}
 \ISBN{978-88-85706-15-6}% TODO confirm new ISBN
 
+\makeindex
+
 % === Metadata ===
 
 \hypersetup{
@@ -106,12 +108,25 @@
 
 \backmatter
 
+\openany
+
+\cleartorecto
 \printpagenotes
 
-\openany
+\chapter{Elenco delle fonti}
+
+\printSource
 
 \input{./manuscript/tex/L-autore.tex}
 \input{./manuscript/tex/Bibliografia-di-bhikkhu-Nanamoli.tex}
+
+{%
+  \renewcommand\indexname{Indice dei nomi e delle cose notevoli}
+  \fontsize{9.5}{15}\selectfont
+  \raggedright
+
+  \printindex
+}
 
 \input{./manuscript/tex/copyright-details.tex}
 
