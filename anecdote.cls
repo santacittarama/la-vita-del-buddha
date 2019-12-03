@@ -250,6 +250,10 @@
 
 % === microtype ===
 
+\ifoverleaf
+\RequirePackage{luatexbase}
+\fi
+
 \RequirePackage[final,babel=true]{microtype}
 
 % Tracking for uppercase section heading
