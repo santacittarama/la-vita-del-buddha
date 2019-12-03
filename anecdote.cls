@@ -139,14 +139,14 @@
 % Define text colors as Gray color values.
 \definecolor{textbody}{gray}{0.05}% 95% is good for contrast, on yellowish paper it is not harsh.
 \definecolor{footnoterule}{gray}{0.5}
-\definecolor{header}{gray}{0.2}
-\definecolor{footer}{gray}{0.2}
-\definecolor{chapternum}{gray}{0.8}
-\definecolor{chaptertitle}{gray}{0.2}
+\definecolor{header}{gray}{0.1}
+\definecolor{footer}{gray}{0.1}
+\definecolor{chapternum}{gray}{0.1}
+\definecolor{chaptertitle}{gray}{0.1}
 \definecolor{chaptertitlefootnote}{gray}{0.4}
 \definecolor{chapterauthor}{gray}{0.3}
 \definecolor{chapternote}{gray}{0.3}
-\definecolor{section}{gray}{0.5}
+\definecolor{section}{gray}{0.1}
 \definecolor{tocleftside}{gray}{0.5}
 \definecolor{tocleftsidepart}{gray}{0.2}
 \definecolor{partname}{gray}{0.5}
@@ -164,7 +164,8 @@
 % http://tex.stackexchange.com/questions/20580/how-to-enable-ligatures-for-emdash-endash-in-luatex
 
 \setmainfont[
-  SmallCapsFont = Crimson-Roman.otf,
+  SmallCapsFont = FontinSans-SmallCaps.ttf,
+  %SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps, Scale = 0.8, LetterSpace = 0.2 },
   SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps, Scale = 0.8, LetterSpace = 0.2 },
   ItalicFont = GentiumPlus-I.ttf,
   BoldFont = GenBkBasB.ttf,
@@ -187,23 +188,35 @@
   BoldItalicFont = GenBkBasBI.ttf,
 ]{GentiumPlus-R.ttf}
 
+\newfontfamily\spectralFont[
+  ItalicFont = Spectral-Italic.ttf,
+  BoldFont = Spectral-Bold.ttf,
+  BoldItalicFont = Spectral-BoldItalic.ttf,
+]{Spectral-Regular.ttf}
+
+\newfontfamily\spectralScFont{SpectralSC-Regular.ttf}
+
+\newfontfamily\fontinSansFont{FontinSansX-Regular.otf}
+
+\newfontfamily\fontinSansScFont{FontinSans-SmallCaps.ttf}
+
 % header and footer
 
-\newcommand\headerFont\crimsonRomanFont
-\newcommand\footerFont\gentiumFont
-\newcommand\pageNumFont\gentiumFont
+\newcommand\headerFont\spectralScFont
+\newcommand\footerFont\spectralFont
+\newcommand\pageNumFont\spectralFont
 
 % chapter and section
 
 \newcommand\partTitleFont\crimsonRomanFont
 
-\newcommand\chapterNameFont\crimsonRomanFont
-\newcommand\chapterTitleFont\crimsonRomanFont
-\newcommand\chapterNumberFont\crimsonRomanFont
+\newcommand\chapterNameFont\spectralScFont
+\newcommand\chapterTitleFont\spectralScFont
+\newcommand\chapterNumberFont\spectralFont
 \newcommand\chapterAuthorFont\crimsonRomanFont
 \newcommand\chapterNoteFont\crimsonRomanFont
 
-\newcommand\sectionFont\crimsonRomanFont
+\newcommand\sectionFont\fontinSansFont
 
 % quote
 
@@ -217,13 +230,13 @@
 % Some default font sizes, use \renewcommand to adjust
 
 \newcommand{\chapterNameSize}{\@setfontsize          \chapterNameSize          {22}{24}}
-\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {22}{24}}
-\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {13}{16.5}}
+\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {18}{20}}
+\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {17}{20}}
 \newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}
 \newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}
 \newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}
-\newcommand{\footerSize}{\@setfontsize               \footerSize               {10.5}{10.5}}
-\newcommand{\headerSize}{\@setfontsize               \headerSize               {10}{10}}
+\newcommand{\footerSize}{\@setfontsize               \footerSize               {9}{9}}
+\newcommand{\headerSize}{\@setfontsize               \headerSize               {9}{9}}
 
 \newcommand{\smaller}{\@setfontsize\smaller{9}{11}}
 
@@ -231,7 +244,7 @@
 
 % foreign language wrappers
 
-\newfontfamily\thaiFont{Kinnari.ttf}
+\newfontfamily\thaiFont{THSarabunNew.ttf}
 
 \newcommand*\thai[1]{{\thaiFont #1}}
 
@@ -241,6 +254,8 @@
 
 % Tracking for uppercase section heading
 \SetTracking[spacing={400,100,}]{encoding=*, family={Crimson-Roman.otf}}{20}
+\SetTracking[spacing={400,100,}]{encoding=*, family={SpectralSC-Regular.ttf}}{20}
+\SetTracking[spacing={400,100,}]{encoding=*, family={FontinSansX-Regular.otf}}{20}
 
 % === hyperref ===
 
@@ -353,6 +368,17 @@ philo-sophical munindo amaravati thai-land}
 
 % === Custom commands and environments ===
 
+\newlength{\quoteMargin}
+\setlength{\quoteMargin}{18pt}
+
+\newcommand\narrator[1]{\hangindent=\quoteMargin {\color[gray]{0.5}\textsc{#1}}}
+
+\newcommand\voice[1]{{\color[gray]{0.5}\textsc{#1}}}
+
+\newcommand\cantor[1]{{\color[gray]{0.5}\textsc{#1}}}
+
+\newcommand\suttaRef[1]{{\raggedleft \emph{#1}\par}}
+
 \newcommand\dividerRule{%
 {\centering\bigskip
 {\color[gray]{0.6}\rule{0.6\linewidth}{0.2pt}}
@@ -374,6 +400,14 @@ philo-sophical munindo amaravati thai-land}
 
 \newcounter{pageRem}
 \newcounter{origPage}
+
+% Add empty pages for a total page count divisible by 2 without remainder.
+\newcommand{\emptyUntilModTwo}{%
+  \ifodd\thepage
+    \clearpage%
+    \thispagestyle{empty}\mbox{}%
+  \fi
+}
 
 % Add empty pages for a total page count divisible by 8 without remainder.
 \newcommand{\emptyUntilModEight}{%
@@ -472,9 +506,6 @@ philo-sophical munindo amaravati thai-land}
 \newlength{\xheight}
 
 % === quotes ===
-
-\newlength{\quoteMargin}
-\setlength{\quoteMargin}{18pt}
 
 % FIXME
 %\setlength{\footnotemargin}{\quoteMargin}
@@ -790,20 +821,11 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \addtodef{\backmatter}{}{%
+  \addtocontents{toc}{\addvspace{15pt}}%
   \bookmarksetup{startatroot}%
 }
 
-\renewenvironment{quote}%
-{\small
-\list{}{\rightmargin\leftmargin}%
-\item[]}%
-{\endlist}
-
-\newcommand\quoteref[1]{%
-\par
-{\footnotesize #1}
-\par
-}
+\setlength{\indexcolsep}{10pt}
 
 % adapted from base/latex.ltx
 \def\footnoterule{%
@@ -814,10 +836,14 @@ philo-sophical munindo amaravati thai-land}
 
 \renewcommand*{\notesname}{Notes}
 \renewcommand*{\notedivision}{\chapter{\notesname}}
-%\renewcommand*{\notedivision}{\section*{\notesname}}
-\renewcommand*{\pagenotesubhead}[3]{}
+\renewcommand*{\pagenotesubhead}[3]{%
+  \section*{#1 #2. #3}}
+\renewcommand*{\printpageinnotes}[1]{%
+  (pag.~\pageref{#1})\space}
+\renewcommand\printpageinnoteshyperref[1]{%
+  (pag.~\hyperref[#1]{\pageref*{#1}})\space}
 \renewcommand*{\notenumintext}[1]{\textsuperscript{\thinspace [#1]}}
-\renewcommand{\prenoteinnotes}{\par\noindent\hangindent=17pt}
+\renewcommand{\prenoteinnotes}{\par\noindent\hangindent=12pt}
 \renewcommand{\postnoteinnotes}{\par\vspace*{0.5\baselineskip}}
 
 % === Page styles ===
@@ -837,6 +863,23 @@ philo-sophical munindo amaravati thai-land}
 \makeoddhead{topbottomcentered}{}{\headerFont\headerSize\color{header}\textit{\leftmark}}{}
 \makeoddfoot{topbottomcentered}{}{\footerFont\footerSize\color{footer}\thepage}{}
 \makepsmarks{topbottomcentered}{%
+  \nouppercaseheads
+  \createmark{chapter}{left}{nonumber}{}{}
+  \createmark{section}{right}{nonumber}{}{}
+  \createplainmark{toc}{both}{\contentsname}
+  \createplainmark{lof}{both}{\listfigurename}
+  \createplainmark{lot}{both}{\listtablename}
+  \createplainmark{bib}{both}{\bibname}
+  \createplainmark{index}{both}{\indexname}
+  \createplainmark{glossary}{both}{\glossaryname}
+}
+
+\makepagestyle{topcorner}
+\makeevenhead{topcorner}{\footerFont\footerSize\color{footer}\thepage}{\headerFont\headerSize\color{header}\textls*{\thetitle}}{}
+\makeevenfoot{topcorner}{}{}{}
+\makeoddhead{topcorner}{}{\headerFont\headerSize\color{header}\textls*{\leftmark}}{\footerFont\footerSize\color{footer}\thepage}
+\makeoddfoot{topcorner}{}{}{}
+\makepsmarks{topcorner}{%
   \nouppercaseheads
   \createmark{chapter}{left}{nonumber}{}{}
   \createmark{section}{right}{nonumber}{}{}
@@ -878,7 +921,7 @@ philo-sophical munindo amaravati thai-land}
 
 % alias the pagestyles into semantic names, "where it is used"
 
-\aliaspagestyle{normalpage}{topbottomcentered}
+\aliaspagestyle{normalpage}{topcorner}
 \aliaspagestyle{chapter}{bottomcenter}
 \aliaspagestyle{book}{empty}
 \aliaspagestyle{part}{empty}
@@ -954,8 +997,11 @@ philo-sophical munindo amaravati thai-land}
 {}
 
 \titlecontents{chapter}[\tocLeftWidth]
-{\addvspace{15pt}\fontsize{13}{13}\gentiumFont\selectfont}%
-{\contentsmargin{0pt}}
+{\addvspace{8pt}\fontsize{11}{13}\gentiumFont\selectfont}%
+{%
+  \contentsmargin{0pt}%
+  \thecontentslabel.\space
+}
 {\contentsmargin{0pt}%
 \itshape}
 {\hfill\normalsize\tocFont\thecontentspage}
@@ -1089,24 +1135,26 @@ philo-sophical munindo amaravati thai-land}
 
 \makechapterstyle{lowtitle}{
   \chapterstyle{default}
-  \setlength{\beforechapskip}{30mm}
-  \setlength{\chapterTitleLeftSkip}{17pt}
+  \setlength{\beforechapskip}{5mm}
   \renewcommand\printchaptername{}
   \renewcommand\chapternamenum{}
   \renewcommand\chapnumfont{\chapterNumberFont\chapterNumberSize}
   \renewcommand\printchapternum{%
-    \chapnumfont\color{chapternum}%
-    \hspace*{\chapterTitleLeftSkip}\thechapter%
+    {\centering%
+      \chapnumfont\color{chapternum}%
+      \thechapter%
+      \par%
+    }%
   }
-  \setlength{\midchapskip}{2\onelineskip}
+  \setlength{\midchapskip}{10mm}
   \renewcommand\afterchapternum{\par\nobreak\vskip \midchapskip}
   \renewcommand\printchapternonum{}
   \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize}
   \renewcommand*\printchaptertitle[1]{%
-    \raggedright\hspace*{\chapterTitleLeftSkip}%
-    \parbox{\linewidth - \chapterTitleLeftSkip}{%
-      \raggedright\chaptitlefont\color{chaptertitle}%
-      \textls*{\MakeUppercase{##1}}%
+    \centering%
+    \parbox{\linewidth}{%
+      \centering\chaptitlefont\color{chaptertitle}%
+      \textls*{##1}%
       \ifchapterfootnote%
         \hspace*{2pt}\theChapterFootnoteMark%
       \fi%
@@ -1132,12 +1180,13 @@ philo-sophical munindo amaravati thai-land}
 
 \makechapterstyle{hightitle}{
   \chapterstyle{lowtitle}
-  \setlength{\beforechapskip}{0pt}
+  \setlength{\beforechapskip}{-\onelineskip}
+  \setlength{\afterchapskip}{2\onelineskip}
   \setlength{\chapterTitleLeftSkip}{0pt}
   \renewcommand*\printchaptertitle[1]{%
     {%
       \centering\chaptitlefont\color{chaptertitle}%
-      \textls*{\MakeUppercase{##1}}%
+      \textls*{##1}%
       \par
     }%
   }
@@ -1520,9 +1569,9 @@ philo-sophical munindo amaravati thai-land}
 %\setsechook{\setsecnumformat{\thesection.\space}}
 
 \newcommand\sectionFmt[1]{%
-  \sectionFont\fontsize{11.5}{14}\selectfont%
+  \sectionFont\fontsize{10}{13}\selectfont%
   \color{section}%
-  \centering
+  \memRTLraggedright%
   \textls{\MakeUppercase{#1}}%
 }
 
@@ -1608,10 +1657,12 @@ philo-sophical munindo amaravati thai-land}
 %\settypeblocksize{34\baselineskip + \topskip}{*}{0.599}% 1/1.667, 3:5, major 6th
 %\setlrmargins{*}{20mm}{*}% 22.71669mm and 19.99976mm
 
-\settypeblocksize{190mm}{110mm}{*}
+\settypeblocksize{187mm}{110mm}{*}
 \setlrmargins{*}{20mm}{*}
 
-\setulmargins{42pt}{*}{*}% Based on Tall Pentagon, 1.701
+\setulmargins{18mm}{*}{1.701}
+\setlength{\headsep}{15pt}
+
 \setlength{\footskip}{30pt}
 
 % Fixes these warnings:
@@ -1624,45 +1675,6 @@ philo-sophical munindo amaravati thai-land}
 % It is useful to see layout values in mm too.
 \settypeoutlayoutunit{mm}
 \typeoutlayout
-
-% ******************************************************
-% Stock height and width: 650.43pt by 433.62pt
-% Top and edge trims: 0pt and 0pt
-% Page height and width: 650.43pt by 433.62pt
-% Text height and width: 551pt by 312pt
-% Spine and edge margins: 63.73419pt and 56.9055pt
-% Upper and lower margins: 42pt and 57.43pt
-% Headheight and headsep: 15.6pt and 19.8738pt
-% Footskip: 30pt
-% Columnsep and columnseprule: 10pt and 0pt
-% Marginparsep and marginparwidth: 7pt and 42.9055pt
-% Sidecapsep and sidecapwidth: 7pt and 111pt
-% Sidebarhsep and sidebarwidth: 7pt and 111pt
-% Sidebarvsep and sidebartopsep: 13.6pt and 0pt
-% Sidebarheight: 539.9202pt
-% Sidefoothsep and sidefootwidth: 7pt and 111pt
-% Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
-% ******************************************************
-% 
-% 
-% ******************************************************
-% Stock height and width: 228.59732mm by 152.39821mm
-% Top and edge trims: 0mm and 0mm
-% Page height and width: 228.59732mm by 152.39821mm
-% Text height and width: 193.65208mm by 109.65417mm
-% Spine and edge margins: 22.39973mm and 19.99976mm
-% Upper and lower margins: 14.76114mm and 20.1841mm
-% Headheight and headsep: 5.4827mm and 6.98476mm
-% Footskip: 10.54367mm
-% Columnsep and columnseprule: 3.51456mm and 0mm
-% Marginparsep and marginparwidth: 2.46019mm and 15.07938mm
-% Sidecapsep and sidecapwidth: 2.46019mm and 39.01158mm
-% Sidebarhsep and sidebarwidth: 2.46019mm and 39.01158mm
-% Sidebarvsep and sidebartopsep: 4.77979mm and 0mm
-% Sidebarheight: 189.75801mm
-% Sidefoothsep and sidefootwidth: 2.46019mm and 39.01158mm
-% Sidefootvsep and sidefootheight: 4.77979mm and 189.75801mm
-% ******************************************************
 
 % Math sizes for superscript sizes
 \DeclareMathSizes{12.5}{12.5}{7}{7}
@@ -1681,5 +1693,5 @@ philo-sophical munindo amaravati thai-land}
 
 % Asterisks for the first three footnotes, then numbers produced by the
 % 'symbol*' option.
-\DefineFNsymbols{anecdote}{*{**}{***}}
+\DefineFNsymbols{anecdote}{*{**}{***}{****}}
 \setfnsymbol{anecdote}

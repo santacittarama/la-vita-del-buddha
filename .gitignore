@@ -1,6 +1,7 @@
 # Project output
 output/
 main.pdf
+main-sources.tex
 
 # Emacs temp files
 *~
@@ -24,9 +25,14 @@ tags
 *.aux
 *.log
 *.toc
+*.ent
+*.upa
 *.lof
 *.fls
 *.fdb_latexmk
+*.idx
+*.ind
+*.ilg
 auto/
 
 # General macOS

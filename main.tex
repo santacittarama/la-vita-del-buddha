@@ -1,7 +1,7 @@
 \documentclass[
   final,
   babelLanguage=italian,
-  %desktopVersion,
+  desktopVersion,
   %showtrims,
   %overleaf,
 ]{anecdote}
@@ -18,47 +18,43 @@
 %% ===================
 
 \title{La Vita del Buddha}
-\subtitle{}
-\author{Bhikkhu Nyanamoli}
-\publisher{Associazione Santacittarama}
-\date{2018-08-03}
-\editionInfo{\textit{First edition}, printed in TODO Country, 2017}% TODO update edition info
-\ISBN{000-000-0000-00-0}% TODO update ISBN
+\subtitle{Secondo il Canone in Pāli}
+\author{Bhikkhu Ñāṇamoli}
+\publisher{Edizioni Santacittarama}
+\date{2019-11-28}
+\editionInfo{\textit{Seconda edizione italiana riveduta e corretta}, 2020}
+\ISBN{978-88-85706-15-6}% TODO confirm new ISBN
+
+\makeindex
 
 % === Metadata ===
 
 \hypersetup{
   pdftitle={\thetitle},
   pdfauthor={\theauthor},
-  pdfcopyright={Copyright (C) 2017, \thePublisher},
-  pdfsubject={},% TODO subject
-  pdfkeywords={},% TODO keywords
+  pdfcopyright={Copyright (C) 2020, \thePublisher},
+  pdfsubject={},
+  pdfkeywords={},
   pdflicenseurl={https://creativecommons.org/licenses/by-nc-nd/4.0/},
   pdfcontacturl={},
   pdflang={it},
 }
 
-\pdfinfo{%
-  /Title (\thetitle)%
-  /Author (\theauthor)
-  /Subject (subject)% TODO subject
-  /Keywords (keywords)% TODO keywords
-  /GTS_PDFXVersion (PDF/X-1:2001)%
-  /GTS_PDFXConformance (PDF/X-1a:2001)%
-}
-
 %% === Load further packages ===
+
+\makepagenote
+\notepageref
 
 %% === Hyphenation exceptions and corrections ===
 
-\hyphenation{London}
+\hyphenation{London Buddha Dhamma Saṅgha Sangha Nibbāna Nibbana Arahant}
 
 \begin{document}
 
 \frontmatter
 
 \ifdesktopversion
-\desktopCover{\includegraphics[height=\paperheight]{./desktop-cover.png}}
+\desktopCover{\includegraphics[height=\paperheight]{./desktop-cover.jpg}}
 \fi
 
 \input{./manuscript/tex/titlepage.tex}
@@ -70,22 +66,70 @@
 \cleartorecto
 \tableofcontents*
 
-\input{./manuscript/tex/foreword.tex}
+\setlength{\parindent}{18pt}
+\setlength{\parskip}{0pt}
 
-\input{./manuscript/tex/preface.tex}
+\openany
+
+\input{./manuscript/tex/Abbreviazioni.tex}
+\input{./manuscript/tex/Prefazione-dell-editore.tex}
+\input{./manuscript/tex/Nota-alla-terza-edizione.tex}
+\input{./manuscript/tex/Nota-alla-traduzione-italiana.tex}
+\input{./manuscript/tex/La-pronuncia-nella-lingua-pali.tex}
+\input{./manuscript/tex/Introduzione.tex}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{8pt}
+
+\input{./manuscript/tex/Mappa.tex}
+\input{./manuscript/tex/Voci.tex}
+
+\openright
 
 % Page 1 is the first page of the first chapter.
 \mainmatter
 
-\input{./manuscript/tex/01-chapter-one.tex}
-\input{./manuscript/tex/02-chapter-two.tex}
+\input{./manuscript/tex/cap-01-La-nascita-e-i-primi-anni.tex}
+\input{./manuscript/tex/cap-02-Lo-sforzo-per-l-illuminazione.tex}
+\input{./manuscript/tex/cap-03-Dopo-l-Illuminazione.tex}
+\input{./manuscript/tex/cap-04-La-diffusione-del-Dhamma.tex}
+\input{./manuscript/tex/cap-05-I-due-discepoli-eminenti.tex}
+\input{./manuscript/tex/cap-06-Anathapindika.tex}
+\input{./manuscript/tex/cap-07-L-ordine-delle-monache.tex}
+\input{./manuscript/tex/cap-08-La-disputa-di-Kosambi.tex}
+\input{./manuscript/tex/cap-09-La-fine-del-primo-ventennio.tex}
+\input{./manuscript/tex/cap-10-Il-periodo-di-mezzo.tex}
+\input{./manuscript/tex/cap-11-La-persona.tex}
+\input{./manuscript/tex/cap-12-La-Dottrina.tex}
+\input{./manuscript/tex/cap-13-Devadatta.tex}
+\input{./manuscript/tex/cap-14-La-vecchiaia.tex}
+\input{./manuscript/tex/cap-15-L-ultimo-anno.tex}
+\input{./manuscript/tex/cap-16-Il-primo-concilio.tex}
 
 \backmatter
 
-\input{./manuscript/tex/glossary.tex}
+\openany
+
+\cleartorecto
+\printpagenotes
+
+\chapter{Elenco delle fonti}
+
+\printSource
+
+\input{./manuscript/tex/L-autore.tex}
+\input{./manuscript/tex/Bibliografia-di-bhikkhu-Nanamoli.tex}
+
+{%
+  \renewcommand\indexname{Indice dei nomi e delle cose notevoli}
+  \fontsize{9.5}{15}\selectfont
+  \raggedright
+
+  \printindex
+}
 
 \input{./manuscript/tex/copyright-details.tex}
 
-\emptyUntilModEight
+\emptyUntilModTwo
 
 \end{document}

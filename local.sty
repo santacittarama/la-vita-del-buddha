@@ -1,2 +1,107 @@
 \ProvidesPackage{local}
 
+\usepackage{pdfcomment}
+
+\newcommand{\todo}[1]{\pdfcomment[icon=Note]{#1}}
+
+\newcommand{\margintodo}[1]{\pdfmargincomment[icon=Note]{#1}}
+
+% === shortened reference ===
+
+% https://tex.stackexchange.com/questions/23722/shortened-page-ranges-from-pageref
+
+\usepackage{varioref}
+
+\newcommand*{\vrefabbr}[2]{%
+\begingroup
+    \vrefpagenum\@tempa{#1}%
+    \vrefpagenum\@tempb{#2}%
+    \if ?\@tempa\else
+    \if ?\@tempb\else
+    \ifx\@tempa\@tempb
+        \@tempa%
+    \else
+        \ifnum\@tempa>\@tempb\relax
+            \let\@tempc\@tempb
+            \let\@tempb\@tempa
+            \let\@tempa\@tempc
+        \fi
+        \ifnum\numexpr(\@tempa-5)/10= \numexpr(\@tempb-5)/10\relax
+            \@tempa --\the\numexpr\@tempb-(\@tempb-5)/10*10\relax
+        \else
+            \ifnum\numexpr(\@tempa-50)/100= \numexpr(\@tempb-50)/100\relax
+                \@tempa --\the\numexpr\@tempb-(\@tempb-50)/100*100\relax
+            \else
+                \ifnum\numexpr(\@tempa-500)/1000= \numexpr(\@tempb-500)/1000\relax
+                    \@tempa --\the\numexpr\@tempb-(\@tempb-500)/1000*1000\relax
+                \else
+                    \@tempa --\@tempb%
+                \fi
+            \fi
+        \fi
+    \fi
+    \fi
+    \fi
+\endgroup
+}
+
+% === Collecting sutta sources to a separate file ===
+
+% https://tex.stackexchange.com/questions/23253/how-to-append-data-to-a-temporary-file
+
+\newwrite\ans
+\immediate\openout\ans=\jobname-sources.tex
+
+% #1 {M}
+% #2 {III}
+% #3 {118-124}
+% #4 {le meravigliose qualità del Buddha}
+% #5 {pageref}
+\newcommand*\writeSource[5]{%
+  \immediate\write\ans{\unexpanded{#1. & #2. & #3 & #4 & #5 \\}^^J}%
+}
+
+\newcommand\printSource{%
+  \begin{longtable}[c]{lllll}
+  Testo & PTS vol. & pag. & argomento & pag. \\
+  \immediate\closeout\ans\input{\jobname-sources.tex}
+  \end{longtable}%
+}
+
+\newcommand*\rangeStart[1]{\label{#1:start}}
+\newcommand*\rangeEnd[1]{\label{#1:end}}
+
+% This expects the beginning of the range to be defined with \rangeStart{label}
+% beforehand.
+%
+% #1 {M-123}
+% #2 {M. 123; cf. D. 14}
+% #3 {M}
+% #4 {III}
+% #5 {118-124}
+% #6 {le meravigliose qualità del Buddha}
+%
+\newcommand*\sourceIndexRange[6]{%
+  \rangeEnd{#1}%
+  \suttaRef{#2}%
+  \writeSource%
+    {#3}%
+    {#4}%
+    {#5}%
+    {#6}%
+    {\pageref{#1:start}--\pageref{#1:end}}%
+}
+
+% {\vrefabbr{#1:start}{#1:end}}%
+
+% Same as -Range, but not expecting a \rangeStart{label} beforehand.
+\newcommand*\sourceIndex[6]{%
+  \label{#1}%
+  \suttaRef{#2}%
+  \writeSource%
+  {#3}%
+  {#4}%
+  {#5}%
+  {#6}%
+  {\pageref{#1}}%
+}
