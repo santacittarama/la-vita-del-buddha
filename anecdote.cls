@@ -810,7 +810,7 @@ philo-sophical munindo amaravati thai-land}
 % === Renewing package macros ===
 
 \addtodef{\mainmatter}{}{%
-  \addtocontents{toc}{\addvspace{12pt}}%
+  \addtocontents{toc}{\addvspace{15pt}}%
   \setcounter{chapter}{0}%
 }
 
@@ -821,7 +821,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \addtodef{\backmatter}{}{%
-  \addtocontents{toc}{\addvspace{12pt}}%
+  \addtocontents{toc}{\addvspace{15pt}}%
   \bookmarksetup{startatroot}%
 }
 
@@ -1007,7 +1007,7 @@ philo-sophical munindo amaravati thai-land}
 {}
 
 \titlecontents{chapter}[\tocLeftWidth]
-{\addvspace{4pt}\fontsize{11}{13}\gentiumFont\selectfont}%
+{\addvspace{8pt}\fontsize{11}{13}\gentiumFont\selectfont}%
 {%
   \contentsmargin{0pt}%
   \thecontentslabel.\space
@@ -1191,7 +1191,7 @@ philo-sophical munindo amaravati thai-land}
 \makechapterstyle{hightitle}{
   \chapterstyle{lowtitle}
   \setlength{\beforechapskip}{-\onelineskip}
-  \setlength{\afterchapskip}{1.5\onelineskip}
+  \setlength{\afterchapskip}{2\onelineskip}
   \setlength{\chapterTitleLeftSkip}{0pt}
   \renewcommand*\printchaptertitle[1]{%
     {%
