@@ -34,6 +34,7 @@ tags
 *.ind
 *.ilg
 auto/
+*.synctex.gz
 
 # General macOS
 .DS_Store
